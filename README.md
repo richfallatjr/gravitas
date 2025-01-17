@@ -43,9 +43,9 @@ This smooth distribution prevents single PMNs from dominating and enables nodes 
 
 ---
 
-## Balanced Gravitational Averaging (BGA)
+## Biomimetic Gravitational Averaging (BGA)
 
-**Balanced Gravitational Averaging (BGA)** refines GA by introducing mass-distance weighting, ensuring that larger masses have a proportionally larger influence while accounting for proximity. This prevents distant, massive nodes from exerting excessive force compared to nearer, smaller nodes.
+**Biomimetic Gravitational Averaging (BGA)** refines GA by introducing mass-distance weighting, ensuring that larger masses have a proportionally larger influence while accounting for proximity. This prevents distant, massive nodes from exerting excessive force compared to nearer, smaller nodes.
 
 **Formula:**
 
