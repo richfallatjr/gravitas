@@ -1,0 +1,30 @@
+sol_gravitas/
+├── main.py                # Entry point for the application
+├── config.py              # Global configurations and constants
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+├── assets/                # UI assets (icons, images, fonts)
+│   └── icons/
+├── data/                  # Data logs, saved simulations, configs
+├── tests/                 # Unit tests for all modules
+├── docs/                  # Documentation (API, system design)
+├── core/                  # Core logic for simulation
+│   ├── __init__.py
+│   ├── simulation_controller.py   # Manages simulation state
+│   ├── force_calculator.py        # Gravitational force logic
+│   ├── motion_integrator.py       # Updates positions of nodes
+│   ├── collision_handler.py       # Handles collisions
+│   └── node.py                    # Node classes (DynamicNode, PrimaryMassNode)
+├── ui/                    # UI logic with PyQt/PySide
+│   ├── __init__.py
+│   ├── main_window.py          # UI window setup
+│   ├── simulation_view.py      # Drawing/animation canvas
+│   └── control_panel.py        # UI controls (buttons, sliders)
+├── utils/                 # Helper utilities
+│   ├── __init__.py
+│   ├── vector_math.py         # Vector calculations
+│   └── file_handler.py        # Load/save simulation data
+└── visualizations/        # Visualization logic
+    ├── __init__.py
+    ├── node_renderer.py       # Renders nodes and filaments
+    └── effects.py             # Visual effects (glow, motion blur)
