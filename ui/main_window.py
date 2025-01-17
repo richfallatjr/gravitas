@@ -76,25 +76,21 @@ class SimulationView(QWidget):
                     r_vector = closest_pmn.position - node.position
                     distance = np.linalg.norm(r_vector)
 
-                    # ✅ Skip if distance is zero or NaN
-                    if distance == 0 or np.isnan(distance):
-                        continue
+                    # ✅ Clamp positions to prevent overflow
+                    node_x = np.clip(int(node.position[0]), -2000, 2000)
+                    node_y = np.clip(int(node.position[1]), -2000, 2000)
+                    pmn_x = np.clip(int(closest_pmn.position[0]), -2000, 2000)
+                    pmn_y = np.clip(int(closest_pmn.position[1]), -2000, 2000)
 
                     # 🔥 Heatmap gradient based on distance
                     color = self.get_heatmap_gradient_color(distance)
 
-                    # ⚡ Glow effect for filaments (pulsing)
-                    pulse_opacity = int(150 + 100 * math.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
+                    pulse_opacity = int(150 + 100 * np.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
 
-                    # ✅ Check for NaN values in position before drawing
-                    if not np.isnan(node.position).any() and not np.isnan(closest_pmn.position).any():
-                        glow_pen = QPen(QColor(color.red(), color.green(), color.blue(), pulse_opacity))
-                        glow_pen.setWidth(3)
-                        painter.setPen(glow_pen)
-                        painter.drawLine(
-                            int(node.position[0]), int(node.position[1]),
-                            int(closest_pmn.position[0]), int(closest_pmn.position[1])
-                        )
+                    glow_pen = QPen(QColor(color.red(), color.green(), color.blue(), pulse_opacity))
+                    glow_pen.setWidth(3)
+                    painter.setPen(glow_pen)
+                    painter.drawLine(node_x, node_y, pmn_x, pmn_y)
 
     def get_heatmap_gradient_color(self, distance):
         max_distance = 400

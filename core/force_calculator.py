@@ -3,43 +3,55 @@ import numpy as np
 
 class ForceCalculator:
     def apply_forces(self, nodes):
-        G = 9  # ✅ Moderate gravity to avoid being too sticky
-        softening = 2  # ✅ Prevents extreme forces up close
-        max_force = 50  # ✅ Allow stronger force bursts without overwhelming
+        G = 1.2  # 🔥 Boosted gravity to enhance attraction
+        softening = 5  # 🛡️ Prevents division by zero
+        max_force = 15  # 🚀 Higher force cap to allow stronger pulls
+        max_velocity = 20  # 🚀 Higher velocity cap for slingshots
 
         for node in nodes:
             if isinstance(node, DynamicNode):
                 total_force = np.zeros(2)
+                total_mass_weight = 0
 
                 for other in nodes:
                     if isinstance(other, PrimaryMassNode):
                         r_vector = other.position - node.position
                         distance = np.linalg.norm(r_vector) + softening
 
-                        # ✅ Gravity weakens closer in, stronger farther out (dynamic scaling)
-                        distance_factor = np.clip(distance / 200, 0.5, 2.0)
-                        force_magnitude = G * other.mass * node.mass / (distance**2) * distance_factor
-                        force_magnitude = min(force_magnitude, max_force)
+                        # ✅ Stronger gravitational pull with softer falloff
+                        force = (G * node.mass * other.mass) * r_vector / (distance ** 1.9)
 
-                        force_direction = r_vector / distance
-                        force = force_direction * force_magnitude
+                        # ✅ Force averaging
                         total_force += force
+                        total_mass_weight += other.mass / distance
 
-                        # ✅ Stronger tangential motion for slingshot effect
-                        tangent = np.array([-r_vector[1], r_vector[0]])
-                        norm = np.linalg.norm(tangent)
-                        if norm != 0:
-                            tangent /= norm
-                            node.velocity += tangent * 0.002  # ⬆️ Stronger tangential injection
+                # ✅ Apply averaged force
+                if total_mass_weight > 0:
+                    averaged_force = total_force / total_mass_weight
 
-                # ✅ Apply adjusted force and allow stronger accelerations
-                acceleration = total_force / node.mass
-                node.velocity += acceleration * 1  # ⬆️ More aggressive force application
+                    # 🔒 Clamp force for safety
+                    force_magnitude = np.linalg.norm(averaged_force)
+                    if force_magnitude > max_force:
+                        averaged_force = (averaged_force / force_magnitude) * max_force
 
-                # ✅ Lower damping to retain speed
-                node.velocity *= 0.995  # ⬆️ Less damping = more speed retention
+                    # ✅ Apply the stronger force
+                    node.velocity += (averaged_force / node.mass) * 0.5
 
-                # 🌠 Occasional random kicks for chaos
-                if np.random.rand() < 0.02:
-                    random_push = (np.random.rand(2) - 0.5) * 0.5
-                    node.velocity += random_push
+                # ✅ Stronger tangential motion for slingshots
+                tangent_vector = np.array([-node.velocity[1], node.velocity[0]])
+                tangent_norm = np.linalg.norm(tangent_vector)
+                if tangent_norm != 0:
+                    tangent_vector /= tangent_norm
+                    node.velocity += tangent_vector * np.random.uniform(0.005, 0.01)  # 🚀 Stronger orbital push
+
+                # ✅ Random micro-perturbations to disrupt balance
+                random_nudge = (np.random.rand(2) - 0.5) * 0.2
+                node.velocity += random_nudge
+
+                # 🔒 Clamp velocity to allow escape but prevent chaos
+                speed = np.linalg.norm(node.velocity)
+                if speed > max_velocity:
+                    node.velocity = (node.velocity / speed) * max_velocity
+
+                # 🔧 Reduce damping for more energetic movement
+                node.velocity *= 0.998
