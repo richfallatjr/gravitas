@@ -19,6 +19,7 @@ class SimulationController:
         self.motion_integrator = MotionIntegrator()
         self.collision_handler = CollisionHandler()
         self.nodes = []
+        self.enable_dn_collisions = False  # ✅ Default: Collisions are ON
         self.setup_simulation()
 
     def setup_simulation(self):
@@ -34,6 +35,12 @@ class SimulationController:
     def update(self):
         # ✅ Apply forces and update positions
         self.force_calculator.apply_forces(self.nodes)
+        # ✅ Check for PMN collisions
+        self.force_calculator.resolve_pmn_collisions(self.nodes)
+        # ✅ Apply DN collisions only if enabled
+        if self.enable_dn_collisions:
+            self.force_calculator.resolve_dn_collisions(self.nodes)
+            
         self.motion_integrator.update_positions(self.nodes)
 
         # ✅ Check for merging behavior

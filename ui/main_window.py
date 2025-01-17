@@ -1,6 +1,6 @@
 # ui/main_window.py
 
-from PyQt5.QtWidgets import QWidget, QMainWindow, QVBoxLayout, QPushButton, QSlider, QLabel, QHBoxLayout
+from PyQt5.QtWidgets import QWidget, QMainWindow, QVBoxLayout, QPushButton, QSlider, QLabel, QHBoxLayout, QCheckBox
 from PyQt5.QtGui import QPainter, QColor, QPen, QRadialGradient, QPixmap
 from PyQt5.QtCore import QTimer, Qt, QTime
 from core.node import DynamicNode, PrimaryMassNode
@@ -177,6 +177,12 @@ class MainWindow(QMainWindow):
         # ✅ Control Panel Layout (Fixed height)
         control_panel = QWidget()
         control_layout = QHBoxLayout()
+        
+        # ➕ Add Collision Toggle Checkbox
+        self.collision_checkbox = QCheckBox("Enable DN Collisions")
+        self.collision_checkbox.setChecked(False)  # Default: Collisions OFF
+        self.collision_checkbox.stateChanged.connect(self.toggle_dn_collisions)
+        control_layout.addWidget(self.collision_checkbox)
 
         # ➕ Add Dynamic Node Button
         add_dn_button = QPushButton("Add Dynamic Node")
@@ -215,3 +221,6 @@ class MainWindow(QMainWindow):
     def start_simulation(self):
         self.timer.start(50)
         self.simulation_view.update()
+        
+    def toggle_dn_collisions(self, state):
+        self.controller.enable_dn_collisions = state == Qt.Checked
