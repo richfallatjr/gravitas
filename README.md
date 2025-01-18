@@ -1,12 +1,12 @@
 # SoL Gravitas
 
-**Dynamic Gravitational Simulation with Gravitational Averaging (GA) and Balanced Gravitational Averaging (BGA)**
+**Dynamic Gravitational Simulation with Gravitational Averaging (GA) and Biomimetic Gravitational Averaging (BGA)**
 
 ---
 
 ## Overview
 
-SoL Gravitas is a cutting-edge simulation tool that visualizes complex gravitational systems using advanced computational models. By leveraging principles like **Gravitational Averaging (GA)** and **Balanced Gravitational Averaging (BGA)**, the simulation produces dynamic, realistic behaviors that mimic cosmic phenomena such as planetary formation, swarm behavior, and distributed systems.
+SoL Gravitas is a cutting-edge simulation tool that visualizes complex gravitational systems using advanced computational models. By leveraging principles like **Gravitational Averaging (GA)** and **Biomimetic Gravitational Averaging (BGA)**, the simulation produces dynamic, realistic behaviors that mimic cosmic phenomena such as planetary formation, swarm behavior, and distributed systems.
 
 The visualization offers a glimpse into how gravitational mechanics, when properly averaged and balanced, can drive emergent behaviors that scale from micro-interactions to large-scale cosmic equilibrium.
 
@@ -16,7 +16,7 @@ The visualization offers a glimpse into how gravitational mechanics, when proper
 
 - **Dynamic Node Interaction:** Visualizes how smaller Dynamic Nodes (DNs) interact with larger Primary Mass Nodes (PMNs) based on gravitational forces.
 - **Gravitational Averaging (GA):** Smooths gravitational influence across multiple PMNs, creating natural, emergent behavior that mimics orbital mechanics.
-- **Balanced Gravitational Averaging (BGA):** Introduces mass and distance weighting to create more realistic, adaptive gravitational interactions.
+- **Biomimetic Gravitational Averaging (BGA):** Introduces mass and distance weighting to create more realistic, adaptive gravitational interactions.
 - **Filament Visualization:** Displays dynamic filaments representing gravitational connections and data pathways between nodes.
 - **Interactive Controls:** Add or remove nodes, adjust mass, velocity, and toggle collision mechanics in real-time.
 - **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions.
