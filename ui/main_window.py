@@ -99,10 +99,10 @@ class SimulationView(QWidget):
             # Mid intensity: White
             r, g, b = 255, 255, 255
         elif normalized > 0.33:
-            r, g, b = accent_color.red(), accent_color.green(), accent_color.blue()
+            r, g, b = 30,200,240
         else:
             # Low intensity: Blue to White
-            r, g, b = int(255 * normalized * 3), int(255 * normalized * 3), 255
+            r, g, b = accent_color.red(), accent_color.green(), accent_color.blue()
 
         return QColor(r, g, b)
 
