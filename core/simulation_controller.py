@@ -78,53 +78,44 @@ class SimulationController:
 
     def simulate_processing(self):
         for pmn in [node for node in self.nodes if isinstance(node, PrimaryMassNode)]:
-            # Calculate the current processing load (total DN mass being processed)
-            current_mass_in_use = sum(dn.mass for dn, _ in pmn.current_dns)
-            pmn.processing_capacity = max(0.0, min(current_mass_in_use / pmn.mass, 1.0))
+            pmn.update_processing_capacity()
 
-            print(
-                f"[Processing] PMN {pmn} - Mass in use: {current_mass_in_use:.2f}, "
-                f"Total capacity: {pmn.mass:.2f}, Capacity: {pmn.processing_capacity:.2f}"
-            )
+            print(f"[Processing] PMN {pmn} - Capacity: {pmn.processing_capacity:.2f}")
 
-            # Process DNs and handle completions
             completed_dns = []
             for i, (dn, time_left) in enumerate(pmn.current_dns):
-                time_left -= 1
+                time_left -= 1  # Simulate processing time decrement
                 pmn.current_dns[i] = (dn, time_left)
                 if time_left <= 0:
                     completed_dns.append(dn)
 
             # Remove completed DNs and update PMN mass
             for dn in completed_dns:
-                pmn.current_dns = [(d, t) for d, t in pmn.current_dns if d != dn]
-                pmn.mass += dn.mass  # Optionally increase PMN's mass
+                if (dn, 0) in pmn.current_dns:  # Check for exact match in case of duplicates
+                    pmn.current_dns = [(d, t) for d, t in pmn.current_dns if d != dn]
+                pmn.mass += dn.mass
                 print(f"[Complete] PMN {pmn} completed processing DN {dn}. New mass: {pmn.mass:.2f}")
                 if dn in self.nodes:
-                    self.nodes.remove(dn)
+                    self.nodes.remove(dn)  # Ensure the DN is removed from the simulation
 
             # Add new DNs if capacity allows
-            while current_mass_in_use < pmn.mass:
+            while pmn.can_process_more():
                 closest_dn = self.find_closest_dn(pmn)
-                if closest_dn:
-                    if current_mass_in_use + closest_dn.mass <= pmn.mass:
-                        processing_time = int(closest_dn.attributes.get("render_time", 10) * 10)
-                        pmn.current_dns.append((closest_dn, processing_time))
-                        current_mass_in_use += closest_dn.mass
-                        print(f"[Start] PMN {pmn} started processing DN {closest_dn}")
-                    else:
-                        break  # No more capacity for this DN
+                if closest_dn and closest_dn not in [d for d, _ in pmn.current_dns]:  # Avoid duplicates
+                    processing_time = int(closest_dn.attributes.get("render_time", 10) * 10)
+                    pmn.current_dns.append((closest_dn, processing_time))
+                    print(f"[Start] PMN {pmn} started processing DN {closest_dn}")
                 else:
                     break
 
         # Check for proximity and merge behavior
         self.check_proximity_and_merge()
 
-        # Print debug info every 10 ticks
         if self.tick_counter % 10 == 0:
             self.print_debug_info()
 
         self.tick_counter += 1
+
 
 
 
@@ -147,9 +138,9 @@ class SimulationController:
         if len(pmn.current_dns) < pmn.threads:
             processing_time = int(dn.attributes.get("render_time", 10) * 10)
             pmn.current_dns.append((dn, processing_time))
-            print(f"[Processing] PMN {pmn} started processing DN {dn}. Queue size: {len(pmn.current_dns)}")
-        else:
-            print(f"[Overloaded] PMN {pmn} cannot process DN {dn}. Capacity: {len(pmn.current_dns)}/{pmn.threads}")
+        #    print(f"[Processing] PMN {pmn} started processing DN {dn}. Queue size: {len(pmn.current_dns)}")
+        #else:
+        #    print(f"[Overloaded] PMN {pmn} cannot process DN {dn}. Capacity: {len(pmn.current_dns)}/{pmn.threads}")
 
     def find_closest_dn(self, pmn):
         dns = [node for node in self.nodes if isinstance(node, DynamicNode)]

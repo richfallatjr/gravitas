@@ -5,8 +5,8 @@ import json
 pmn_dataset = [
     {
         "id": "PMN1",
-        "threads": 16*4,
-        "memory": 8192*4,
+        "threads": 16*2,
+        "memory": 8192*2,
         "chipset_speed": "3.2GHz",
         "preferences": {
             "render_time": 0.6,
@@ -16,8 +16,8 @@ pmn_dataset = [
     },
     {
         "id": "PMN2",
-        "threads": 32*4,
-        "memory": 16384*4,
+        "threads": 32*2,
+        "memory": 16384*2,
         "chipset_speed": "3.8GHz",
         "preferences": {
             "render_time": 0.4,
@@ -27,8 +27,19 @@ pmn_dataset = [
     },
     {
         "id": "PMN3",
-        "threads": 8*4,
-        "memory": 4096*4,
+        "threads": 8*2,
+        "memory": 4096*2,
+        "chipset_speed": "2.5GHz",
+        "preferences": {
+            "render_time": 0.5,
+            "threads": 0.2,
+            "memory": 0.3
+        }
+    },
+    {
+        "id": "PMN4",
+        "threads": 8*2,
+        "memory": 4096*2,
         "chipset_speed": "2.5GHz",
         "preferences": {
             "render_time": 0.5,

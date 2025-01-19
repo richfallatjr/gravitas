@@ -7,7 +7,7 @@ categories = {
     "categories": [
         {
             "category_id": "category_1",
-            "frames": 30,
+            "frames": 100,
             "attributes": {
                 "threads": 8,
                 "memory": 2048,
@@ -16,7 +16,7 @@ categories = {
         },
         {
             "category_id": "category_2",
-            "frames": 30,
+            "frames": 100,
             "attributes": {
                 "threads": 12,
                 "memory": 4096,
@@ -25,7 +25,7 @@ categories = {
         },
         {
             "category_id": "category_3",
-            "frames": 30,
+            "frames": 100,
             "attributes": {
                 "threads": 16,
                 "memory": 8192,

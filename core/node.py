@@ -86,7 +86,7 @@ class PrimaryMassNode(Node):
 
     def update_processing_capacity(self):
         """
-        Update the PMN's processing capacity as a ratio of threads in use to total threads.
+        Update the processing capacity based on the current load (active DNs).
         """
-        current_threads_used = sum(dn.attributes.get("threads", 1) for dn, _ in self.current_dns)
-        self.processing_capacity = current_threads_used / self.threads if self.threads > 0 else 0
+        total_mass = sum(dn.mass for dn, _ in self.current_dns)
+        self.processing_capacity = min(total_mass / self.mass, 1.0)  # Ensure capacity is clamped to 1.0

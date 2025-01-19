@@ -62,7 +62,7 @@ class SimulationView(QWidget):
                     pmn_x = int(closest_pmn.position[0])
                     pmn_y = int(closest_pmn.position[1])
 
-                    color = self.get_heatmap_gradient_color(distance)
+                    color = self.get_filament_gradient_color(distance)
 
                     pulse_opacity = int(150 + 100 * np.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
 
@@ -74,13 +74,32 @@ class SimulationView(QWidget):
     def get_heatmap_gradient_color(self, distance):
         max_distance = 400
         normalized = max(0, min(1, 1 - distance / max_distance))
+        
+        # Define the custom purplish hue (sampled from the background and brightened)
+        bright_purple = QColor(180, 100, 255)  # Adjusted to blend beautifully
 
         if normalized > 0.66:
-            # High intensity: White to Red
-            r, g, b = 255, int(255 * (1 - normalized) * 3), int(255 * (1 - normalized) * 3)
+            r, g, b = 77,71,88
         elif normalized > 0.33:
+            r, g, b = bright_purple.red(), bright_purple.green(), bright_purple.blue()
+        else:
+            r, g, b = 255, 255, 255
+
+        return QColor(r, g, b)
+    
+    def get_filament_gradient_color(self, distance):
+        max_distance = 400
+        normalized = max(0, min(1, 1 - distance / max_distance))
+        
+        # Define the custom purplish hue (sampled from the background and brightened)
+        accent_color = QColor(118, 219, 226)  # Adjusted to blend beautifully
+
+        if normalized > 0.66:
+            #r, g, b = 255, int(255 * (1 - normalized) * 3), int(255 * (1 - normalized) * 3)
             # Mid intensity: White
             r, g, b = 255, 255, 255
+        elif normalized > 0.33:
+            r, g, b = accent_color.red(), accent_color.green(), accent_color.blue()
         else:
             # Low intensity: Blue to White
             r, g, b = int(255 * normalized * 3), int(255 * normalized * 3), 255
@@ -103,23 +122,12 @@ class SimulationView(QWidget):
 
         # Clamp the processing capacity between 0.0 and 1.0
         capacity = max(0.0, min(1.0, pmn.processing_capacity))
-
-        # Define the color based on the capacity
-        if capacity == 0.0:
-            red, green, blue = 0, 150, 255  # Idle (blue)
-        elif capacity < 0.5:
-            red, green, blue = int(255 * capacity / 0.5), 150, 255 - int(255 * capacity / 0.5)
-        elif capacity < 1.0:
-            red, green, blue = 255, int(255 * (1 - capacity) / 0.5), 0
-        else:
-            red, green, blue = 255, 255, 255  # Maxed out (white)
-
-        color = QColor(red, green, blue)
+        color = self.get_heatmap_gradient_color(capacity * 400)  # Use 400 as a max pseudo-distance
 
         # Draw the glow effect
         glow_gradient = QRadialGradient(pmn.position[0], pmn.position[1], size * 2)
-        glow_gradient.setColorAt(0.0, QColor(red, green, blue, 200))
-        glow_gradient.setColorAt(1.0, QColor(red, green, blue, 0))
+        glow_gradient.setColorAt(0.0, QColor(color.red(), color.green(), color.blue(), 200))
+        glow_gradient.setColorAt(1.0, QColor(color.red(), color.green(), color.blue(), 0))
 
         painter.setBrush(glow_gradient)
         painter.setPen(Qt.NoPen)
@@ -130,7 +138,7 @@ class SimulationView(QWidget):
         )
 
         # Draw the PMN itself
-        painter.setBrush(QColor(red, green, blue))
+        painter.setBrush(QColor(color.red(), color.green(), color.blue()))
         painter.drawEllipse(
             int(pmn.position[0] - base_size / 2),
             int(pmn.position[1] - base_size / 2),

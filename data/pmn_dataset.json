@@ -1,8 +1,8 @@
 [
     {
         "id": "PMN1",
-        "threads": 64,
-        "memory": 32768,
+        "threads": 32,
+        "memory": 16384,
         "chipset_speed": "3.2GHz",
         "preferences": {
             "render_time": 0.6,
@@ -12,8 +12,8 @@
     },
     {
         "id": "PMN2",
-        "threads": 128,
-        "memory": 65536,
+        "threads": 64,
+        "memory": 32768,
         "chipset_speed": "3.8GHz",
         "preferences": {
             "render_time": 0.4,
@@ -23,8 +23,19 @@
     },
     {
         "id": "PMN3",
-        "threads": 32,
-        "memory": 16384,
+        "threads": 16,
+        "memory": 8192,
+        "chipset_speed": "2.5GHz",
+        "preferences": {
+            "render_time": 0.5,
+            "threads": 0.2,
+            "memory": 0.3
+        }
+    },
+    {
+        "id": "PMN4",
+        "threads": 16,
+        "memory": 8192,
         "chipset_speed": "2.5GHz",
         "preferences": {
             "render_time": 0.5,
