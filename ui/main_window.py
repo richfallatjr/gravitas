@@ -32,8 +32,8 @@ class SimulationView(QWidget):
             if isinstance(node, DynamicNode):
                 size = max(5, node.mass * 4) / 4
                 glow_gradient = QRadialGradient(node.position[0], node.position[1], size * 4)
-                glow_gradient.setColorAt(0.0, QColor(0, 150, 255, int((150 + pulse_factor * 50) * 0.33)))
-                glow_gradient.setColorAt(1.0, QColor(0, 150, 255, 0))
+                glow_gradient.setColorAt(0.0, QColor(100,220,220, int((150 + pulse_factor * 50) * 0.33)))
+                glow_gradient.setColorAt(1.0, QColor(100,220,220, 0))
 
                 painter.setBrush(glow_gradient)
                 painter.setPen(Qt.NoPen)
@@ -43,7 +43,7 @@ class SimulationView(QWidget):
                     size * 4, size * 4
                 )
 
-                painter.setBrush(QColor(0, 150, 255))
+                painter.setBrush(QColor(100,220,220))
                 painter.drawEllipse(int(node.position[0] - size / 2), int(node.position[1] - size / 2), size, size)
 
             elif isinstance(node, PrimaryMassNode):
@@ -76,7 +76,7 @@ class SimulationView(QWidget):
         normalized = max(0, min(1, 1 - distance / max_distance))
         
         # Define the custom purplish hue (sampled from the background and brightened)
-        bright_purple = QColor(180, 100, 255)  # Adjusted to blend beautifully
+        bright_purple = QColor(130, 60, 100)  # Adjusted to blend beautifully
 
         if normalized > 0.66:
             r, g, b = 77,71,88
@@ -92,7 +92,7 @@ class SimulationView(QWidget):
         normalized = max(0, min(1, 1 - distance / max_distance))
         
         # Define the custom purplish hue (sampled from the background and brightened)
-        accent_color = QColor(118, 219, 226)  # Adjusted to blend beautifully
+        accent_color = QColor(130,60,100)  # Adjusted to blend beautifully
 
         if normalized > 0.66:
             #r, g, b = 255, int(255 * (1 - normalized) * 3), int(255 * (1 - normalized) * 3)
@@ -177,25 +177,25 @@ class MainWindow(QMainWindow):
         control_panel = QWidget()
         control_layout = QHBoxLayout()
 
-        self.collision_checkbox = QCheckBox("Enable DN Collisions")
-        self.collision_checkbox.setChecked(False)
-        self.collision_checkbox.stateChanged.connect(self.toggle_dn_collisions)
-        control_layout.addWidget(self.collision_checkbox)
+        #self.collision_checkbox = QCheckBox("Enable DN Collisions")
+        #self.collision_checkbox.setChecked(False)
+        #self.collision_checkbox.stateChanged.connect(self.toggle_dn_collisions)
+        #control_layout.addWidget(self.collision_checkbox)
 
-        add_dn_button = QPushButton("Add Dynamic Node")
-        add_dn_button.clicked.connect(self.add_dynamic_node)
-        control_layout.addWidget(add_dn_button)
+        #add_dn_button = QPushButton("Add Dynamic Node")
+        #add_dn_button.clicked.connect(self.add_dynamic_node)
+        #control_layout.addWidget(add_dn_button)
 
-        add_pmn_button = QPushButton("Add Primary Mass Node")
-        add_pmn_button.clicked.connect(self.add_primary_mass_node)
-        control_layout.addWidget(add_pmn_button)
+        #add_pmn_button = QPushButton("Add Primary Mass Node")
+        #add_pmn_button.clicked.connect(self.add_primary_mass_node)
+        #control_layout.addWidget(add_pmn_button)
 
-        self.mass_slider = QSlider(Qt.Horizontal)
-        self.mass_slider.setMinimum(1)
-        self.mass_slider.setMaximum(100)
-        self.mass_slider.setValue(10)
-        control_layout.addWidget(QLabel("Mass:"))
-        control_layout.addWidget(self.mass_slider)
+        #self.mass_slider = QSlider(Qt.Horizontal)
+        #self.mass_slider.setMinimum(1)
+        #self.mass_slider.setMaximum(100)
+        #self.mass_slider.setValue(10)
+        #control_layout.addWidget(QLabel("Mass:"))
+        #control_layout.addWidget(self.mass_slider)
 
         start_button = QPushButton("Start Simulation")
         start_button.clicked.connect(self.start_simulation)
@@ -207,7 +207,7 @@ class MainWindow(QMainWindow):
         container.setLayout(main_layout)
         self.setCentralWidget(container)
 
-        self.mass_slider.valueChanged.connect(self.update_node_masses)
+        #self.mass_slider.valueChanged.connect(self.update_node_masses)
 
     def start_simulation(self):
         self.timer.start(50)

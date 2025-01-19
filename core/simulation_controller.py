@@ -78,44 +78,41 @@ class SimulationController:
 
     def simulate_processing(self):
         for pmn in [node for node in self.nodes if isinstance(node, PrimaryMassNode)]:
-            pmn.update_processing_capacity()
+            pmn.update_processing_capacity()  # Update capacity with clamping
 
             print(f"[Processing] PMN {pmn} - Capacity: {pmn.processing_capacity:.2f}")
 
             completed_dns = []
             for i, (dn, time_left) in enumerate(pmn.current_dns):
-                time_left -= 1  # Simulate processing time decrement
+                time_left -= 1
                 pmn.current_dns[i] = (dn, time_left)
                 if time_left <= 0:
                     completed_dns.append(dn)
 
-            # Remove completed DNs and update PMN mass
             for dn in completed_dns:
-                if (dn, 0) in pmn.current_dns:  # Check for exact match in case of duplicates
-                    pmn.current_dns = [(d, t) for d, t in pmn.current_dns if d != dn]
+                pmn.current_dns = [(d, t) for d, t in pmn.current_dns if d != dn]
                 pmn.mass += dn.mass
                 print(f"[Complete] PMN {pmn} completed processing DN {dn}. New mass: {pmn.mass:.2f}")
                 if dn in self.nodes:
-                    self.nodes.remove(dn)  # Ensure the DN is removed from the simulation
+                    self.nodes.remove(dn)
 
-            # Add new DNs if capacity allows
-            while pmn.can_process_more():
+            # Add new DNs to fully utilize capacity
+            while pmn.processing_capacity < 1.0:
                 closest_dn = self.find_closest_dn(pmn)
-                if closest_dn and closest_dn not in [d for d, _ in pmn.current_dns]:  # Avoid duplicates
+                if closest_dn and closest_dn not in [d for d, _ in pmn.current_dns]:
                     processing_time = int(closest_dn.attributes.get("render_time", 10) * 10)
                     pmn.current_dns.append((closest_dn, processing_time))
-                    print(f"[Start] PMN {pmn} started processing DN {closest_dn}")
+                    pmn.update_processing_capacity()  # Recalculate capacity after adding DN
+                    print(f"[Start] PMN {pmn} started processing DN {closest_dn}. Queue size: {len(pmn.current_dns)}")
                 else:
                     break
 
-        # Check for proximity and merge behavior
         self.check_proximity_and_merge()
 
         if self.tick_counter % 10 == 0:
             self.print_debug_info()
 
         self.tick_counter += 1
-
 
 
 
