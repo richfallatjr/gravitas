@@ -7,7 +7,6 @@ import numpy as np
 import sys
 import json
 
-# Constants for merging behavior (can be dynamically loaded)
 DEFAULT_PROXIMITY_THRESHOLD = 20  # Distance in pixels for merging
 DEFAULT_MERGE_TIME_THRESHOLD = 50  # Frames required to trigger merging
 
@@ -17,14 +16,12 @@ class SimulationController:
         self.force_calculator = ForceCalculator()
         self.motion_integrator = MotionIntegrator()
         self.nodes = []
-        self.enable_dn_collisions = False  # ✅ Default: Collisions are OFF
+        self.enable_dn_collisions = False  # Default: Collisions are OFF
         self.config = self.load_config(config_file)
         self.setup_simulation(dn_file, pmn_file)
+        self.tick_counter = 0  # Add a tick counter for throttling
 
     def load_config(self, config_file):
-        """
-        Load the global configuration file for system-wide parameters.
-        """
         try:
             with open(config_file, "r") as file:
                 return json.load(file)
@@ -36,21 +33,14 @@ class SimulationController:
             }
 
     def setup_simulation(self, dn_file, pmn_file):
-        """
-        Initialize the simulation with nodes loaded from JSON datasets.
-        """
         self.load_pmns(pmn_file)
         self.load_dns(dn_file)
 
     def load_pmns(self, pmn_file):
-        """
-        Load PrimaryMassNodes from the PMN dataset file.
-        """
         try:
             with open(pmn_file, "r") as file:
                 pmns = json.load(file)
             for pmn_data in pmns:
-                # Ensure unique positions for PMNs
                 position = self.get_unique_position(existing_positions=[
                     pmn.position for pmn in self.nodes if isinstance(pmn, PrimaryMassNode)
                 ])
@@ -59,19 +49,12 @@ class SimulationController:
             print(f"[Warning] PMN dataset file not found: {pmn_file}")
 
     def get_unique_position(self, existing_positions, min_distance=50):
-        """
-        Generate a unique position for a node, ensuring minimum separation from existing positions.
-        """
         while True:
             position = np.random.uniform([100, 100], [700, 500])
             if all(np.linalg.norm(position - np.array(p)) > min_distance for p in existing_positions):
                 return position
 
-
     def load_dns(self, dn_file):
-        """
-        Load DynamicNodes from the DN dataset file.
-        """
         try:
             with open(dn_file, "r") as file:
                 dns = json.load(file)
@@ -82,77 +65,105 @@ class SimulationController:
             print(f"[Warning] DN dataset file not found: {dn_file}")
 
     def update(self):
-        """
-        Update the simulation: apply forces, update positions, resolve collisions, and handle merging.
-        """
-        # Apply forces and update positions
         self.force_calculator.apply_forces(self.nodes)
-        self.force_calculator.resolve_pmn_collisions(self.nodes)
+        self.motion_integrator.update_positions(self.nodes)
 
         if self.enable_dn_collisions:
             self.force_calculator.resolve_dn_collisions(self.nodes)
 
-        self.motion_integrator.update_positions(self.nodes)
+        self.simulate_processing()
 
-        # Check for merging behavior
-        self.check_proximity_and_merge()
-
-        # Refresh the UI
         if self.window and hasattr(self.window, 'simulation_view'):
             self.window.simulation_view.update()
 
-    def check_proximity_and_merge(self):
-        """
-        Check proximity between DNs and PMNs, and merge DNs into PMNs if thresholds are met.
-        """
-        proximity_threshold = self.config.get("proximity_threshold", DEFAULT_PROXIMITY_THRESHOLD)
-        merge_time_threshold = self.config.get("merge_time_threshold", DEFAULT_MERGE_TIME_THRESHOLD)
+    def simulate_processing(self):
+        for pmn in [node for node in self.nodes if isinstance(node, PrimaryMassNode)]:
+            # Calculate the current processing load (total DN mass being processed)
+            current_mass_in_use = sum(dn.mass for dn, _ in pmn.current_dns)
+            pmn.processing_capacity = max(0.0, min(current_mass_in_use / pmn.mass, 1.0))
 
+            print(
+                f"[Processing] PMN {pmn} - Mass in use: {current_mass_in_use:.2f}, "
+                f"Total capacity: {pmn.mass:.2f}, Capacity: {pmn.processing_capacity:.2f}"
+            )
+
+            # Process DNs and handle completions
+            completed_dns = []
+            for i, (dn, time_left) in enumerate(pmn.current_dns):
+                time_left -= 1
+                pmn.current_dns[i] = (dn, time_left)
+                if time_left <= 0:
+                    completed_dns.append(dn)
+
+            # Remove completed DNs and update PMN mass
+            for dn in completed_dns:
+                pmn.current_dns = [(d, t) for d, t in pmn.current_dns if d != dn]
+                pmn.mass += dn.mass  # Optionally increase PMN's mass
+                print(f"[Complete] PMN {pmn} completed processing DN {dn}. New mass: {pmn.mass:.2f}")
+                if dn in self.nodes:
+                    self.nodes.remove(dn)
+
+            # Add new DNs if capacity allows
+            while current_mass_in_use < pmn.mass:
+                closest_dn = self.find_closest_dn(pmn)
+                if closest_dn:
+                    if current_mass_in_use + closest_dn.mass <= pmn.mass:
+                        processing_time = int(closest_dn.attributes.get("render_time", 10) * 10)
+                        pmn.current_dns.append((closest_dn, processing_time))
+                        current_mass_in_use += closest_dn.mass
+                        print(f"[Start] PMN {pmn} started processing DN {closest_dn}")
+                    else:
+                        break  # No more capacity for this DN
+                else:
+                    break
+
+        # Check for proximity and merge behavior
+        self.check_proximity_and_merge()
+
+        # Print debug info every 10 ticks
+        if self.tick_counter % 10 == 0:
+            self.print_debug_info()
+
+        self.tick_counter += 1
+
+
+
+    def print_debug_info(self):
+        print("=== Debug Info ===")
+        for pmn in [node for node in self.nodes if isinstance(node, PrimaryMassNode)]:
+            print(f"PMN {pmn} - Active DNs: {len(pmn.current_dns)}, Capacity: {pmn.processing_capacity:.2f}")
+
+    def check_proximity_and_merge(self):
+        proximity_threshold = self.config.get("proximity_threshold", 20)
         for node in self.nodes[:]:
             if isinstance(node, DynamicNode):
                 closest_pmn = self.find_closest_pmn(node)
                 if closest_pmn:
                     distance = np.linalg.norm(closest_pmn.position - node.position)
                     if distance < proximity_threshold:
-                        node.proximity_timer += 1
-                        if node.proximity_timer >= merge_time_threshold:
-                            self.merge_dn_into_pmn(node, closest_pmn)
-                    else:
-                        node.proximity_timer = 0
+                        self.merge_dn_into_pmn(node, closest_pmn)
 
     def merge_dn_into_pmn(self, dn, pmn):
-        """
-        Merge a DynamicNode into a PrimaryMassNode.
-        """
-        pmn.mass += dn.mass  # Add DN mass to PMN
-        self.trigger_particle_burst(pmn.position)  # Visual effect
-        self.nodes.remove(dn)
-        print(f"[Merge] DN absorbed by PMN. New PMN mass: {pmn.mass}")
+        if len(pmn.current_dns) < pmn.threads:
+            processing_time = int(dn.attributes.get("render_time", 10) * 10)
+            pmn.current_dns.append((dn, processing_time))
+            print(f"[Processing] PMN {pmn} started processing DN {dn}. Queue size: {len(pmn.current_dns)}")
+        else:
+            print(f"[Overloaded] PMN {pmn} cannot process DN {dn}. Capacity: {len(pmn.current_dns)}/{pmn.threads}")
 
-    def trigger_particle_burst(self, position):
-        """
-        Create a particle burst effect at the given position.
-        """
-        particle_count = 10
-        for _ in range(particle_count):
-            angle = np.random.uniform(0, 2 * np.pi)
-            speed = np.random.uniform(0.5, 2.0)
-            velocity = np.array([np.cos(angle), np.sin(angle)]) * speed
-            burst_particle = DynamicNode(mass=0.1, position=position, velocity=velocity)
-            burst_particle.lifetime = 15  # Particles disappear after a short time
-            self.nodes.append(burst_particle)
+    def find_closest_dn(self, pmn):
+        dns = [node for node in self.nodes if isinstance(node, DynamicNode)]
+        if not dns:
+            return None
+        return min(dns, key=lambda dn: np.linalg.norm(dn.position - pmn.position))
 
     def find_closest_pmn(self, dynamic_node):
-        """
-        Find the closest PMN to a given DN.
-        """
-        pmns = [n for n in self.nodes if isinstance(n, PrimaryMassNode)]
-        return min(pmns, key=lambda pmn: np.linalg.norm(pmn.position - dynamic_node.position), default=None)
+        pmns = [node for node in self.nodes if isinstance(node, PrimaryMassNode)]
+        if not pmns:
+            return None
+        return min(pmns, key=lambda pmn: np.linalg.norm(pmn.position - dynamic_node.position))
 
     def run(self):
-        """
-        Run the simulation.
-        """
         app = QApplication(sys.argv)
         self.window = MainWindow(self)
         self.window.show()

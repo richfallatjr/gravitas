@@ -39,12 +39,16 @@ class ForceCalculator:
 
     def calculate_gravitational_charge(self, dn, pmn):
         """
-        Calculate the gravitational charge for a DN based on a PMN's preferences.
+        Calculate the gravitational charge for a DynamicNode (DN) relative to a PrimaryMassNode (PMN).
+        The gravitational charge is based on the DN's attributes and the PMN's preferences.
         """
-        charge = 0
-        # Directly access the PMN's preferences
-        for attribute, weight in pmn.preferences.items():
-            charge += weight * dn.attributes.get(attribute, 0)
+        charge = 0.0
+        preferences = pmn.attributes.get("preferences", {})  # Safely get preferences from attributes
+
+        for attribute, weight in preferences.items():
+            dn_value = dn.attributes.get(attribute, 0)  # Default to 0 if the DN does not have the attribute
+            charge += weight * dn_value
+
         return charge
 
 

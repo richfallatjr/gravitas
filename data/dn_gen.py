@@ -7,7 +7,7 @@ categories = {
     "categories": [
         {
             "category_id": "category_1",
-            "frames": 10,
+            "frames": 30,
             "attributes": {
                 "threads": 8,
                 "memory": 2048,
@@ -16,7 +16,7 @@ categories = {
         },
         {
             "category_id": "category_2",
-            "frames": 10,
+            "frames": 30,
             "attributes": {
                 "threads": 12,
                 "memory": 4096,
@@ -25,7 +25,7 @@ categories = {
         },
         {
             "category_id": "category_3",
-            "frames": 10,
+            "frames": 30,
             "attributes": {
                 "threads": 16,
                 "memory": 8192,
@@ -46,7 +46,7 @@ for category in categories["categories"]:
         dn_dataset.append(dn)
 
 # Saving the dataset to a JSON file
-output_file_path = "/mnt/data/dn_dataset.json"
+output_file_path = "./data/dn_dataset.json"
 with open(output_file_path, "w") as file:
     json.dump(dn_dataset, file, indent=4)
 

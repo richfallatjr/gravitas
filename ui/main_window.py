@@ -1,5 +1,3 @@
-# ui/main_window.py
-
 from PyQt5.QtWidgets import (
     QWidget, QMainWindow, QVBoxLayout, QPushButton, QSlider, QLabel, QHBoxLayout, QCheckBox
 )
@@ -31,12 +29,8 @@ class SimulationView(QWidget):
         pulse_factor = (math.sin(QTime.currentTime().msecsSinceStartOfDay() / 500.0) + 1) / 2
 
         for node in self.controller.nodes:
-            if np.isnan(node.position).any():
-                continue
-
             if isinstance(node, DynamicNode):
-                size = max(5, node.mass * 4)
-
+                size = max(5, node.mass * 4) / 4
                 glow_gradient = QRadialGradient(node.position[0], node.position[1], size * 4)
                 glow_gradient.setColorAt(0.0, QColor(0, 150, 255, int((150 + pulse_factor * 50) * 0.33)))
                 glow_gradient.setColorAt(1.0, QColor(0, 150, 255, 0))
@@ -53,21 +47,7 @@ class SimulationView(QWidget):
                 painter.drawEllipse(int(node.position[0] - size / 2), int(node.position[1] - size / 2), size, size)
 
             elif isinstance(node, PrimaryMassNode):
-                size = 40
-                glow_gradient = QRadialGradient(node.position[0], node.position[1], size * 6)
-                glow_gradient.setColorAt(0.0, QColor(255, 255, 150, int((180 + pulse_factor * 75) * 0.33)))
-                glow_gradient.setColorAt(1.0, QColor(255, 255, 150, 0))
-
-                painter.setBrush(glow_gradient)
-                painter.setPen(Qt.NoPen)
-                painter.drawEllipse(
-                    int(node.position[0] - size * 3),
-                    int(node.position[1] - size * 3),
-                    size * 6, size * 6
-                )
-
-                painter.setBrush(QColor(255, 255, 150))
-                painter.drawEllipse(int(node.position[0] - size / 2), int(node.position[1] - size / 2), size, size)
+                self.draw_pmn(painter, node)
 
     def draw_filaments(self, painter):
         for node in self.controller.nodes:
@@ -77,10 +57,10 @@ class SimulationView(QWidget):
                     r_vector = closest_pmn.position - node.position
                     distance = np.linalg.norm(r_vector)
 
-                    node_x = np.clip(int(node.position[0]), -2000, 2000)
-                    node_y = np.clip(int(node.position[1]), -2000, 2000)
-                    pmn_x = np.clip(int(closest_pmn.position[0]), -2000, 2000)
-                    pmn_y = np.clip(int(closest_pmn.position[1]), -2000, 2000)
+                    node_x = int(node.position[0])
+                    node_y = int(node.position[1])
+                    pmn_x = int(closest_pmn.position[0])
+                    pmn_y = int(closest_pmn.position[1])
 
                     color = self.get_heatmap_gradient_color(distance)
 
@@ -96,19 +76,67 @@ class SimulationView(QWidget):
         normalized = max(0, min(1, 1 - distance / max_distance))
 
         if normalized > 0.66:
+            # High intensity: White to Red
             r, g, b = 255, int(255 * (1 - normalized) * 3), int(255 * (1 - normalized) * 3)
         elif normalized > 0.33:
-            r, g, b = 255, 0, int(255 * (normalized - 0.33) * 3)
+            # Mid intensity: White
+            r, g, b = 255, 255, 255
         else:
-            r, g, b = int(255 * normalized * 3), 0, 255
+            # Low intensity: Blue to White
+            r, g, b = int(255 * normalized * 3), int(255 * normalized * 3), 255
 
         return QColor(r, g, b)
+
+
 
     def find_closest_pmn(self, dynamic_node):
         pmns = [n for n in self.controller.nodes if isinstance(n, PrimaryMassNode)]
         if not pmns:
             return None
         return min(pmns, key=lambda pmn: np.linalg.norm(pmn.position - dynamic_node.position))
+
+    def draw_pmn(self, painter, pmn):
+        # Set a base size for the PMN
+        base_size = 40
+        max_size_increase = 20  # Limit the maximum size increase
+        size = base_size + int(min(pmn.processing_capacity, 1.0) * max_size_increase)
+
+        # Clamp the processing capacity between 0.0 and 1.0
+        capacity = max(0.0, min(1.0, pmn.processing_capacity))
+
+        # Define the color based on the capacity
+        if capacity == 0.0:
+            red, green, blue = 0, 150, 255  # Idle (blue)
+        elif capacity < 0.5:
+            red, green, blue = int(255 * capacity / 0.5), 150, 255 - int(255 * capacity / 0.5)
+        elif capacity < 1.0:
+            red, green, blue = 255, int(255 * (1 - capacity) / 0.5), 0
+        else:
+            red, green, blue = 255, 255, 255  # Maxed out (white)
+
+        color = QColor(red, green, blue)
+
+        # Draw the glow effect
+        glow_gradient = QRadialGradient(pmn.position[0], pmn.position[1], size * 2)
+        glow_gradient.setColorAt(0.0, QColor(red, green, blue, 200))
+        glow_gradient.setColorAt(1.0, QColor(red, green, blue, 0))
+
+        painter.setBrush(glow_gradient)
+        painter.setPen(Qt.NoPen)
+        painter.drawEllipse(
+            int(pmn.position[0] - size),
+            int(pmn.position[1] - size),
+            size * 2, size * 2
+        )
+
+        # Draw the PMN itself
+        painter.setBrush(QColor(red, green, blue))
+        painter.drawEllipse(
+            int(pmn.position[0] - base_size / 2),
+            int(pmn.position[1] - base_size / 2),
+            base_size, base_size
+        )
+
 
 
 class MainWindow(QMainWindow):
@@ -123,37 +151,6 @@ class MainWindow(QMainWindow):
 
         self.apply_dark_theme()
         self.initUI()
-
-    def update_node_masses(self):
-        dn_mass = self.mass_slider.value() / 10
-        pmn_mass = self.mass_slider.value() * 2
-
-        for node in self.controller.nodes:
-            if isinstance(node, DynamicNode):
-                node.mass = dn_mass
-
-                speed_factor = 1 / node.mass
-                node.velocity *= speed_factor
-
-            elif isinstance(node, PrimaryMassNode):
-                node.mass = pmn_mass
-
-    def add_dynamic_node(self):
-        mass = np.random.uniform(0.5, 5.0)
-        position = np.random.rand(2) * [self.simulation_view.width(), self.simulation_view.height()]
-        velocity_vector = (np.random.rand(2) - 0.5) * 2
-
-        new_node = DynamicNode(mass=mass, position=position, velocity=velocity_vector)
-        self.controller.nodes.append(new_node)
-        self.simulation_view.update()
-
-    def add_primary_mass_node(self):
-        mass = self.mass_slider.value() * 5
-        position = np.random.rand(2) * [self.simulation_view.width(), self.simulation_view.height()]
-
-        new_node = PrimaryMassNode(mass=mass, position=position, velocity=np.zeros(2))
-        self.controller.nodes.append(new_node)
-        self.simulation_view.update()
 
     def apply_dark_theme(self):
         self.setStyleSheet("""
@@ -210,3 +207,51 @@ class MainWindow(QMainWindow):
 
     def toggle_dn_collisions(self, state):
         self.controller.enable_dn_collisions = state == Qt.Checked
+
+    def update_node_masses(self):
+        dn_mass = self.mass_slider.value() / 10
+        pmn_mass = self.mass_slider.value() * 2
+
+        for node in self.controller.nodes:
+            if isinstance(node, DynamicNode):
+                node.mass = dn_mass
+            elif isinstance(node, PrimaryMassNode):
+                node.mass = pmn_mass
+                
+    def add_dynamic_node(self):
+        mass = np.random.uniform(0.5, 5.0)  # Randomized mass
+        position = np.random.uniform(
+            [100, 100], 
+            [self.simulation_view.width(), self.simulation_view.height()]
+        )
+        velocity_vector = (np.random.rand(2) - 0.5) * 2  # Random velocity
+
+        new_node = DynamicNode(mass=mass, position=position, velocity=velocity_vector)
+        self.controller.nodes.append(new_node)  # Add to simulation controller
+        self.simulation_view.update()  # Refresh the UI
+        
+    def add_primary_mass_node(self):
+        mass = self.mass_slider.value() * 5
+        position = np.random.uniform(
+            [100, 100],
+            [self.simulation_view.width(), self.simulation_view.height()]
+        )
+
+        new_node = PrimaryMassNode(mass=mass, position=position, velocity=np.zeros(2))
+        self.controller.nodes.append(new_node)
+        self.simulation_view.update()
+        
+    def update_node_masses(self):
+        dn_mass = self.mass_slider.value() / 10
+        pmn_mass = self.mass_slider.value() * 2
+
+        for node in self.controller.nodes:
+            if isinstance(node, DynamicNode):
+                node.mass = dn_mass
+                speed_factor = 1 / node.mass
+                node.velocity *= speed_factor
+            elif isinstance(node, PrimaryMassNode):
+                node.mass = pmn_mass
+
+
+

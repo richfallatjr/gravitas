@@ -19,7 +19,11 @@ class DynamicNode(Node):
         :param velocity: Initial velocity as a 2D array. Random if None.
         """
         if attributes is None:
-            attributes = {"threads": np.random.randint(2, 16), "memory": np.random.randint(1024, 8192), "render_time": np.random.uniform(1, 10)}
+            attributes = {
+                "threads": np.random.randint(2, 16),
+                "memory": np.random.randint(1024, 8192),
+                "render_time": np.random.uniform(1, 10)
+            }
         self.attributes = attributes
 
         if position is None:
@@ -44,43 +48,45 @@ class DynamicNode(Node):
         return self.attributes.get("render_time", 1)  # Default mass proxy
 
 
-
 class PrimaryMassNode(Node):
-    def __init__(self, x=None, y=None, mass=None, position=None, velocity=None, **kwargs):
-        """
-        Initialize a PrimaryMassNode with attributes such as threads, memory, etc.
+    id_counter = 0  # Static counter for unique IDs
 
-        :param x: X-coordinate of the node.
-        :param y: Y-coordinate of the node.
-        :param mass: Mass of the node (calculated if not provided).
-        :param position: 2D position array (overrides x, y if provided).
-        :param velocity: Initial velocity (default is stationary).
-        :param kwargs: Additional attributes like threads, memory, chipset_speed.
-        """
-        self.threads = kwargs.get("threads", 16)  # Default threads
-        self.memory = kwargs.get("memory", 8192)  # Default memory
-        self.chipset_speed = kwargs.get("chipset_speed", "2.0GHz")
-        self.preferences = kwargs.get("preferences", {})
-
-        # Set position
+    def __init__(self, x=None, y=None, mass=None, position=None, velocity=None, **attributes):
         if position is not None:
             x, y = position
         elif x is None or y is None:
             x, y = np.random.uniform(100, 700), np.random.uniform(100, 500)
 
-        # Calculate mass based on threads if not explicitly provided
+        # Heavier but balanced PMNs
         if mass is None:
-            mass = self.calculate_mass()
+            mass = np.random.uniform(20.0, 40.0)
 
-        # Default velocity is stationary
         if velocity is None:
             velocity = np.zeros(2)
 
         super().__init__(x, y, mass, velocity)
 
-    def calculate_mass(self):
-        """
-        Calculate the mass of the PMN based on threads.
-        """
-        return self.threads  # Use threads as a proxy for mass
+        self.id = PrimaryMassNode.id_counter  # Assign a unique ID
+        PrimaryMassNode.id_counter += 1
 
+        self.attributes = attributes or {}
+        self.threads = self.attributes.get("threads", 1)  # Extract threads
+        self.memory = self.attributes.get("memory", 1024)  # Extract memory
+        self.preferences = self.attributes.get("preferences", {})  # Extract preferences
+        self.current_dns = []  # Tracks currently processing DNs
+        self.idle_timer = 0  # Tracks idle time
+        self.processing_capacity = 0  # Tracks processing load
+
+    def can_process_more(self):
+        """
+        Determine if the PMN can process more DNs based on available threads.
+        """
+        current_threads_used = sum(dn.attributes.get("threads", 1) for dn, _ in self.current_dns)
+        return current_threads_used < self.threads  # Only allow if threads are available
+
+    def update_processing_capacity(self):
+        """
+        Update the PMN's processing capacity as a ratio of threads in use to total threads.
+        """
+        current_threads_used = sum(dn.attributes.get("threads", 1) for dn, _ in self.current_dns)
+        self.processing_capacity = current_threads_used / self.threads if self.threads > 0 else 0
