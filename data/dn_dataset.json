@@ -1,0 +1,242 @@
+[
+    {
+        "id": "category_1_frame_1",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_2",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_3",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_4",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_5",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_6",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_7",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_8",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_9",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_1_frame_10",
+        "attributes": {
+            "threads": 8,
+            "memory": 2048,
+            "render_time": 5
+        }
+    },
+    {
+        "id": "category_2_frame_1",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_2",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_3",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_4",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_5",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_6",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_7",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_8",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_9",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_2_frame_10",
+        "attributes": {
+            "threads": 12,
+            "memory": 4096,
+            "render_time": 10
+        }
+    },
+    {
+        "id": "category_3_frame_1",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_2",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_3",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_4",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_5",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_6",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_7",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_8",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_9",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    },
+    {
+        "id": "category_3_frame_10",
+        "attributes": {
+            "threads": 16,
+            "memory": 8192,
+            "render_time": 15
+        }
+    }
+]

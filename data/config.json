@@ -1,0 +1,11 @@
+{
+    "default_weights": {
+        "threads": 0.33,
+        "memory": 0.33,
+        "render_time": 0.34
+    },
+    "invert_attributes": [
+        "render_time"
+    ],
+    "absorption_threshold": 5
+}
