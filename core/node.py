@@ -9,43 +9,72 @@ class Node:
 
 
 class DynamicNode(Node):
-    def __init__(self, mass=None, attributes=None, position=None, velocity=None):
+    def __init__(self, config=None, attributes=None, position=None, velocity=None):
         """
         DynamicNode represents a task or item with configurable attributes.
 
-        :param mass: Explicit mass (optional, overrides attributes-based calculation).
+        :param config: Configuration for normalization and weights.
         :param attributes: Dictionary containing DN attributes (e.g., threads, memory, render_time).
         :param position: Initial position as a 2D array. Random if None.
         :param velocity: Initial velocity as a 2D array. Random if None.
         """
-        if attributes is None:
-            attributes = {
-                "threads": np.random.randint(2, 16),
-                "memory": np.random.randint(1024, 8192),
-                "render_time": np.random.uniform(1, 10)
-            }
-        self.attributes = attributes
+        self.config = config or {}
+        self.attributes = attributes or {}
 
+        # Default random attributes if not provided
+        if not self.attributes:
+            self.attributes = {
+                "render_time": np.random.uniform(1, 10),
+                "memory": np.random.uniform(1024, 8192),
+                "threads": np.random.randint(1, 16)
+            }
+
+        # Calculate mass using the config
+        self.mass = self.calculate_mass()
+
+        # Randomize position and velocity if not provided
         if position is None:
             position = np.random.uniform([100, 100], [700, 500])
 
         if velocity is None:
             velocity = np.random.uniform(-0.5, 0.5, size=2)
 
-        # Use the provided mass or calculate it from attributes
-        self.mass = mass if mass is not None else self.calculate_mass()
-
+        # Call the parent class initializer
         super().__init__(position[0], position[1], self.mass, velocity)
 
-        self.priority = 1 / self.mass
-        self.trail = []
-        self.proximity_timer = 0
+        # Initialize the trail attribute
+        self.trail = []  # List to store the history of positions
 
     def calculate_mass(self):
         """
-        Calculate the mass of the DN based on its attributes.
+        Calculate the mass of the DN based on attributes and config weights.
+        Includes a base mass and amplified scaling to avoid extremely small values.
         """
-        return self.attributes.get("render_time", 1)  # Default mass proxy
+        total_weight = sum(v["weight"] for v in self.config.get("attributes", {}).values())
+        base_mass = 1  # Ensure every DN has at least this mass
+        mass = 0.0
+
+        for attr, settings in self.config.get("attributes", {}).items():
+            value = self.attributes.get(attr, 0)  # Attribute value
+
+            # Normalize only if min and max are set
+            if "min" in settings and "max" in settings:
+                normalized = (value - settings["min"]) / (settings["max"] - settings["min"])
+                normalized = max(0, min(1, normalized))  # Clamp between 0 and 1
+            else:
+                normalized = value  # Use raw value if no normalization range
+
+            mass += normalized * settings["weight"]
+
+        # Amplify mass scaling and add base mass
+        scaled_mass = base_mass + (mass / max(1.0, total_weight) * 10.0)
+
+        # Clamp mass to avoid extremes
+        return max(5, min(scaled_mass, 100))  # Clamp between 5 and 100
+
+
+
+
 
 
 class PrimaryMassNode(Node):

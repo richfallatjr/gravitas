@@ -17,7 +17,7 @@ class SimulationController:
         self.motion_integrator = MotionIntegrator()
         self.nodes = []
         self.enable_dn_collisions = False  # Default: Collisions are OFF
-        self.config = self.load_config(config_file)
+        self.config = self.load_config(config_file)  # Load the config
         self.setup_simulation(dn_file, pmn_file)
         self.tick_counter = 0  # Add a tick counter for throttling
 
@@ -27,10 +27,7 @@ class SimulationController:
                 return json.load(file)
         except FileNotFoundError:
             print(f"[Warning] Config file not found: {config_file}. Using defaults.")
-            return {
-                "proximity_threshold": DEFAULT_PROXIMITY_THRESHOLD,
-                "merge_time_threshold": DEFAULT_MERGE_TIME_THRESHOLD,
-            }
+            return {}
 
     def setup_simulation(self, dn_file, pmn_file):
         self.load_pmns(pmn_file)
@@ -55,12 +52,15 @@ class SimulationController:
                 return position
 
     def load_dns(self, dn_file):
+        """
+        Load DynamicNodes from the DN dataset file.
+        """
         try:
             with open(dn_file, "r") as file:
                 dns = json.load(file)
             for dn_data in dns:
                 attributes = dn_data.get("attributes", {})
-                self.nodes.append(DynamicNode(attributes=attributes))
+                self.nodes.append(DynamicNode(config=self.config, attributes=attributes))
         except FileNotFoundError:
             print(f"[Warning] DN dataset file not found: {dn_file}")
 
