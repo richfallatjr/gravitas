@@ -1,2402 +1,802 @@
 [
     {
-        "id": "category_1_frame_1",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 98,
+            "age_difference": 6,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_2",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 64,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_3",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 14,
+            "age_difference": 1,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_4",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 29,
+            "age_difference": 1,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_5",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 51,
+            "age_difference": 15,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_6",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 81,
+            "age_difference": 10,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_7",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 49,
+            "age_difference": 13,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_8",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 13,
+            "age_difference": 12,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_9",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 58,
+            "age_difference": 3,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_10",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 66,
+            "age_difference": 18,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_11",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 63,
+            "age_difference": 19,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_12",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 26,
+            "age_difference": 6,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_13",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 45,
+            "age_difference": 12,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_14",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 92,
+            "age_difference": 11,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_15",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 48,
+            "age_difference": 14,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_16",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 36,
+            "age_difference": 8,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_17",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 99,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_18",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 89,
+            "age_difference": 10,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_19",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 61,
+            "age_difference": 12,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_20",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 45,
+            "age_difference": 6,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_21",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 21,
+            "age_difference": 18,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_22",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 96,
+            "age_difference": 17,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_23",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 84,
+            "age_difference": 8,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_24",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 67,
+            "age_difference": 0,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_25",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 96,
+            "age_difference": 0,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_26",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 8,
+            "age_difference": 7,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_27",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 83,
+            "age_difference": 11,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_28",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 1,
+            "age_difference": 19,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_29",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 19,
+            "age_difference": 9,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_30",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 46,
+            "age_difference": 12,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_31",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 33,
+            "age_difference": 15,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_32",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 50,
+            "age_difference": 20,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_33",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 4,
+            "age_difference": 19,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_34",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 29,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_35",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 58,
+            "age_difference": 14,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_36",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 3,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_37",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 37,
+            "age_difference": 10,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_38",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 85,
+            "age_difference": 14,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_39",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 33,
+            "age_difference": 16,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_40",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 90,
+            "age_difference": 11,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_41",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 44,
+            "age_difference": 9,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_42",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 37,
+            "age_difference": 16,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_43",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 35,
+            "age_difference": 20,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_44",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 89,
+            "age_difference": 19,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_45",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 86,
+            "age_difference": 5,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_46",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 12,
+            "age_difference": 13,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_47",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 56,
+            "age_difference": 16,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_48",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 5,
+            "age_difference": 8,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_49",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 34,
+            "age_difference": 20,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_50",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 79,
+            "age_difference": 19,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_51",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 97,
+            "age_difference": 3,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_52",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 62,
+            "age_difference": 20,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_53",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 69,
+            "age_difference": 7,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_54",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 93,
+            "age_difference": 16,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_55",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 66,
+            "age_difference": 2,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_56",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 14,
+            "age_difference": 13,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_57",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 81,
+            "age_difference": 12,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_58",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 28,
+            "age_difference": 18,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_59",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 80,
+            "age_difference": 1,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_60",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 87,
+            "age_difference": 1,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_61",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 38,
+            "age_difference": 1,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_62",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 90,
+            "age_difference": 16,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_63",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 24,
+            "age_difference": 8,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_64",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 54,
+            "age_difference": 19,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_65",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 20,
+            "age_difference": 6,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_66",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 4,
+            "age_difference": 0,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_67",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 4,
+            "age_difference": 2,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_68",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 73,
+            "age_difference": 1,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_69",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 80,
+            "age_difference": 18,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_70",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 30,
+            "age_difference": 12,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_71",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 41,
+            "age_difference": 19,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_72",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 44,
+            "age_difference": 3,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_73",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 49,
+            "age_difference": 20,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_74",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 49,
+            "age_difference": 3,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_75",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 38,
+            "age_difference": 10,
+            "relationship_priority": 1,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_76",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 80,
+            "age_difference": 19,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_77",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 12,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_78",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 51,
+            "age_difference": 16,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_79",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 44,
+            "age_difference": 9,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_80",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 45,
+            "age_difference": 0,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_81",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 31,
+            "age_difference": 8,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_82",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 28,
+            "age_difference": 16,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_83",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 76,
+            "age_difference": 16,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_84",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 4,
+            "age_difference": 14,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_85",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 10,
+            "age_difference": 10,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_86",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 13,
+            "age_difference": 13,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_87",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 32,
+            "age_difference": 3,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_88",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 90,
+            "age_difference": 13,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_89",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 19,
+            "age_difference": 1,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_90",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 42,
+            "age_difference": 1,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_91",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 33,
+            "age_difference": 14,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_92",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 86,
+            "age_difference": 7,
+            "relationship_priority": 1,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_93",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 8,
+            "age_difference": 18,
+            "relationship_priority": 2,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_94",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 63,
+            "age_difference": 13,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_95",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 39,
+            "age_difference": 11,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_96",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 25,
+            "age_difference": 0,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_97",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 27,
+            "age_difference": 1,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_98",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 55,
+            "age_difference": 6,
+            "relationship_priority": 3,
+            "open_to_kids": 0
         }
     },
     {
-        "id": "category_1_frame_99",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
+            "proximity": 8,
+            "age_difference": 1,
+            "relationship_priority": 3,
+            "open_to_kids": 1
         }
     },
     {
-        "id": "category_1_frame_100",
         "attributes": {
-            "threads": 8,
-            "memory": 2048,
-            "render_time": 5
-        }
-    },
-    {
-        "id": "category_2_frame_1",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_2",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_3",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_4",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_5",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_6",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_7",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_8",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_9",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_10",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_11",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_12",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_13",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_14",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_15",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_16",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_17",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_18",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_19",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_20",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_21",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_22",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_23",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_24",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_25",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_26",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_27",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_28",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_29",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_30",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_31",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_32",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_33",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_34",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_35",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_36",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_37",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_38",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_39",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_40",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_41",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_42",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_43",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_44",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_45",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_46",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_47",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_48",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_49",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_50",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_51",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_52",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_53",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_54",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_55",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_56",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_57",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_58",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_59",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_60",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_61",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_62",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_63",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_64",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_65",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_66",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_67",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_68",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_69",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_70",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_71",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_72",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_73",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_74",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_75",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_76",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_77",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_78",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_79",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_80",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_81",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_82",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_83",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_84",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_85",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_86",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_87",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_88",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_89",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_90",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_91",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_92",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_93",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_94",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_95",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_96",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_97",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_98",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_99",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_2_frame_100",
-        "attributes": {
-            "threads": 12,
-            "memory": 4096,
-            "render_time": 10
-        }
-    },
-    {
-        "id": "category_3_frame_1",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_2",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_3",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_4",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_5",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_6",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_7",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_8",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_9",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_10",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_11",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_12",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_13",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_14",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_15",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_16",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_17",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_18",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_19",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_20",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_21",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_22",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_23",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_24",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_25",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_26",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_27",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_28",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_29",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_30",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_31",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_32",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_33",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_34",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_35",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_36",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_37",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_38",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_39",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_40",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_41",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_42",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_43",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_44",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_45",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_46",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_47",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_48",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_49",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_50",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_51",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_52",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_53",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_54",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_55",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_56",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_57",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_58",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_59",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_60",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_61",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_62",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_63",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_64",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_65",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_66",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_67",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_68",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_69",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_70",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_71",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_72",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_73",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_74",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_75",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_76",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_77",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_78",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_79",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_80",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_81",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_82",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_83",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_84",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_85",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_86",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_87",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_88",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_89",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_90",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_91",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_92",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_93",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_94",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_95",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_96",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_97",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_98",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_99",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
-        }
-    },
-    {
-        "id": "category_3_frame_100",
-        "attributes": {
-            "threads": 16,
-            "memory": 8192,
-            "render_time": 15
+            "proximity": 68,
+            "age_difference": 8,
+            "relationship_priority": 2,
+            "open_to_kids": 0
         }
     }
 ]

@@ -31,7 +31,7 @@ def generate_dating_config(output_file="./data/config.json"):
             "age_difference"
         ],
         "absorption_threshold": 10,
-        "mode": "single_process"
+        "mode": "multi_process"
     }
 
     with open(output_file, "w") as file:

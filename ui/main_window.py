@@ -28,48 +28,65 @@ class SimulationView(QWidget):
     def draw_nodes(self, painter):
         pulse_factor = (math.sin(QTime.currentTime().msecsSinceStartOfDay() / 500.0) + 1) / 2
 
+        # Ensure PMNs are always drawn
         for node in self.controller.nodes:
-            if isinstance(node, DynamicNode):
-                size = max(5, node.mass * 4) / 4
-                glow_gradient = QRadialGradient(node.position[0], node.position[1], size * 4)
-                glow_gradient.setColorAt(0.0, QColor(100,220,220, int((150 + pulse_factor * 50) * 0.33)))
-                glow_gradient.setColorAt(1.0, QColor(100,220,220, 0))
-
-                painter.setBrush(glow_gradient)
-                painter.setPen(Qt.NoPen)
-                painter.drawEllipse(
-                    int(node.position[0] - size * 2),
-                    int(node.position[1] - size * 2),
-                    size * 4, size * 4
-                )
-
-                painter.setBrush(QColor(100,220,220))
-                painter.drawEllipse(int(node.position[0] - size / 2), int(node.position[1] - size / 2), size, size)
-
-            elif isinstance(node, PrimaryMassNode):
+            if isinstance(node, PrimaryMassNode):
                 self.draw_pmn(painter, node)
 
+        # Filter DNs for display
+        dn_display_limit = getattr(self.controller, "dn_display_limit", 100)
+        total_dns = [node for node in self.controller.nodes if isinstance(node, DynamicNode)]
+        num_dns_to_display = int(len(total_dns) * dn_display_limit / 100)
+        displayed_dns = sorted(total_dns, key=lambda dn: dn.mass, reverse=True)[:num_dns_to_display]
+
+        # Draw only the filtered DNs
+        for node in displayed_dns:
+            size = max(5, node.mass * 4) / 4
+            glow_gradient = QRadialGradient(node.position[0], node.position[1], size * 4)
+            glow_gradient.setColorAt(0.0, QColor(100, 220, 220, int((150 + pulse_factor * 50) * 0.33)))
+            glow_gradient.setColorAt(1.0, QColor(100, 220, 220, 0))
+
+            painter.setBrush(glow_gradient)
+            painter.setPen(Qt.NoPen)
+            painter.drawEllipse(
+                int(node.position[0] - size * 2),
+                int(node.position[1] - size * 2),
+                size * 4, size * 4
+            )
+
+            painter.setBrush(QColor(100, 220, 220))
+            painter.drawEllipse(int(node.position[0] - size / 2), int(node.position[1] - size / 2), size, size)
+
+
     def draw_filaments(self, painter):
-        for node in self.controller.nodes:
-            if isinstance(node, DynamicNode):
-                closest_pmn = self.find_closest_pmn(node)
-                if closest_pmn:
-                    r_vector = closest_pmn.position - node.position
-                    distance = np.linalg.norm(r_vector)
+        # Fetch the display limit for DNs
+        dn_display_limit = getattr(self.controller, "dn_display_limit", 100)
+        total_dns = [node for node in self.controller.nodes if isinstance(node, DynamicNode)]
+        num_dns_to_display = int(len(total_dns) * dn_display_limit / 100)
 
-                    node_x = int(node.position[0])
-                    node_y = int(node.position[1])
-                    pmn_x = int(closest_pmn.position[0])
-                    pmn_y = int(closest_pmn.position[1])
+        # Filter displayed DNs
+        displayed_dns = sorted(total_dns, key=lambda dn: dn.mass, reverse=True)[:num_dns_to_display]
 
-                    color = self.get_filament_gradient_color(distance)
+        # Draw filaments only for displayed DNs
+        for node in displayed_dns:
+            closest_pmn = self.find_closest_pmn(node)
+            if closest_pmn:
+                r_vector = closest_pmn.position - node.position
+                distance = np.linalg.norm(r_vector)
 
-                    pulse_opacity = int(150 + 100 * np.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
+                color = self.get_heatmap_gradient_color(distance)
+                pulse_opacity = int(150 + 100 * np.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
 
-                    glow_pen = QPen(QColor(color.red(), color.green(), color.blue(), pulse_opacity))
-                    glow_pen.setWidth(3)
-                    painter.setPen(glow_pen)
-                    painter.drawLine(node_x, node_y, pmn_x, pmn_y)
+                glow_pen = QPen(QColor(color.red(), color.green(), color.blue(), pulse_opacity))
+                glow_pen.setWidth(3)
+                painter.setPen(glow_pen)
+                painter.drawLine(
+                    int(node.position[0]),
+                    int(node.position[1]),
+                    int(closest_pmn.position[0]),
+                    int(closest_pmn.position[1])
+                )
+
 
     def get_heatmap_gradient_color(self, distance):
         max_distance = 400
@@ -196,6 +213,17 @@ class MainWindow(QMainWindow):
         #self.mass_slider.setValue(10)
         #control_layout.addWidget(QLabel("Mass:"))
         #control_layout.addWidget(self.mass_slider)
+        
+        # In ui/main_window.py (initUI method):
+        self.dn_display_slider = QSlider(Qt.Horizontal)
+        self.dn_display_slider.setMinimum(1)
+        self.dn_display_slider.setMaximum(100)  # Maximum percentage of DNs to display
+        self.dn_display_slider.setValue(100)  # Default to showing all DNs
+        self.dn_display_slider.valueChanged.connect(self.update_dn_display_limit)
+
+        control_layout.addWidget(QLabel("Display DNs:"))
+        control_layout.addWidget(self.dn_display_slider)
+
 
         start_button = QPushButton("Start Simulation")
         start_button.clicked.connect(self.start_simulation)
@@ -208,6 +236,11 @@ class MainWindow(QMainWindow):
         self.setCentralWidget(container)
 
         #self.mass_slider.valueChanged.connect(self.update_node_masses)
+        
+    # In ui/main_window.py:
+    def update_dn_display_limit(self):
+        # Update the controller with the new display limit
+        self.controller.dn_display_limit = self.dn_display_slider.value()
 
     def start_simulation(self):
         self.timer.start(50)

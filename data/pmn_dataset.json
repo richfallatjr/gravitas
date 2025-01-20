@@ -1,46 +1,122 @@
 [
     {
-        "id": "PMN1",
-        "threads": 32,
-        "memory": 16384,
-        "chipset_speed": "3.2GHz",
-        "preferences": {
-            "render_time": 0.6,
-            "threads": 0.3,
-            "memory": 0.1
-        }
+        "threads": 14,
+        "proximity": 33.71114036210702,
+        "relationship_priority": 1,
+        "open_to_kids": 0
     },
     {
-        "id": "PMN2",
-        "threads": 64,
-        "memory": 32768,
-        "chipset_speed": "3.8GHz",
-        "preferences": {
-            "render_time": 0.4,
-            "threads": 0.4,
-            "memory": 0.2
-        }
+        "threads": 5,
+        "proximity": 65.85190463368171,
+        "relationship_priority": 2,
+        "open_to_kids": 0
     },
     {
-        "id": "PMN3",
-        "threads": 16,
-        "memory": 8192,
-        "chipset_speed": "2.5GHz",
-        "preferences": {
-            "render_time": 0.5,
-            "threads": 0.2,
-            "memory": 0.3
-        }
+        "threads": 11,
+        "proximity": 50.78099327544175,
+        "relationship_priority": 2,
+        "open_to_kids": 0
     },
     {
-        "id": "PMN4",
-        "threads": 16,
-        "memory": 8192,
-        "chipset_speed": "2.5GHz",
-        "preferences": {
-            "render_time": 0.5,
-            "threads": 0.2,
-            "memory": 0.3
-        }
+        "threads": 8,
+        "proximity": 92.94444125905022,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 5,
+        "proximity": 13.841562155253694,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 4,
+        "proximity": 18.93873748145034,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 13,
+        "proximity": 55.70868873326054,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 7,
+        "proximity": 40.611099186259246,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 11,
+        "proximity": 98.92078095933522,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 14,
+        "proximity": 31.91678074159463,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 8,
+        "proximity": 63.749707155233914,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 10,
+        "proximity": 49.3359647248807,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 13,
+        "proximity": 56.201759905363055,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 4,
+        "proximity": 17.2584512124473,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 7,
+        "proximity": 38.33800021098996,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 14,
+        "proximity": 25.697711756560626,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 12,
+        "proximity": 42.73099628626043,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 13,
+        "proximity": 54.080965087676816,
+        "relationship_priority": 1,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 14,
+        "proximity": 62.07768509271848,
+        "relationship_priority": 2,
+        "open_to_kids": 0
+    },
+    {
+        "threads": 5,
+        "proximity": 79.7222044804361,
+        "relationship_priority": 1,
+        "open_to_kids": 0
     }
 ]
