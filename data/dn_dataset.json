@@ -1,802 +1,802 @@
 [
     {
         "attributes": {
-            "proximity": 98,
-            "age_difference": 6,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.25880567628839446,
+            "age_difference": 0.2155070343058295,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 64,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.3796290205098162,
+            "age_difference": 0.7185701363181254,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 14,
-            "age_difference": 1,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.7877473645538565,
+            "age_difference": 0.9098686003309308,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 29,
-            "age_difference": 1,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.09368319354845656,
+            "age_difference": 0.43745926999787266,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 51,
-            "age_difference": 15,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.9505162560315096,
+            "age_difference": 0.40535389879968164,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 81,
-            "age_difference": 10,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.10873266064106502,
+            "age_difference": 0.5999040878255345,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 49,
-            "age_difference": 13,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.1156474643976223,
+            "age_difference": 0.40497870743027403,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 13,
-            "age_difference": 12,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.010466974840481313,
+            "age_difference": 0.6483563625355485,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 58,
-            "age_difference": 3,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.3801525017855296,
+            "age_difference": 0.9795481749988678,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 66,
-            "age_difference": 18,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.790917123511302,
+            "age_difference": 0.7823380281174707,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 63,
-            "age_difference": 19,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.6568356837305701,
+            "age_difference": 0.849408042184319,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 26,
-            "age_difference": 6,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.35228172113291667,
+            "age_difference": 0.4285801663056015,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 45,
-            "age_difference": 12,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.22080559921217943,
+            "age_difference": 0.7860092290366557,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 92,
-            "age_difference": 11,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.9442586774632545,
+            "age_difference": 0.7474988594683989,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 48,
-            "age_difference": 14,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.7289157466581723,
+            "age_difference": 0.20161943531495963,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 36,
-            "age_difference": 8,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.8717366588368645,
+            "age_difference": 0.5608128603557321,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 99,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.5516893657196461,
+            "age_difference": 0.21816782907377053,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 89,
-            "age_difference": 10,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.06095584041869262,
+            "age_difference": 0.5159918715669362,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 61,
-            "age_difference": 12,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.6827129644794258,
+            "age_difference": 0.7926919643563267,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 45,
-            "age_difference": 6,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.903549236853112,
+            "age_difference": 0.8088997475470288,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 21,
-            "age_difference": 18,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.6562957400228617,
+            "age_difference": 0.10045048752445451,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 96,
-            "age_difference": 17,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.7427530862826135,
+            "age_difference": 0.9819559858468514,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 84,
-            "age_difference": 8,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.7021371377816726,
+            "age_difference": 0.537300350388651,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 67,
-            "age_difference": 0,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.3905154365377368,
+            "age_difference": 0.6632027015979051,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 96,
-            "age_difference": 0,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.44531634453175084,
+            "age_difference": 0.46384415756040687,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 8,
-            "age_difference": 7,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.6204995804651656,
+            "age_difference": 0.5702727261206262,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 83,
-            "age_difference": 11,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.33577628498712675,
+            "age_difference": 0.7801443308563125,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 1,
-            "age_difference": 19,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.2663576168256133,
+            "age_difference": 0.6685293878549633,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 19,
-            "age_difference": 9,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.11926211757895,
+            "age_difference": 0.7336964930009684,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 46,
-            "age_difference": 12,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.8720074317891381,
+            "age_difference": 0.16691845151318963,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 33,
-            "age_difference": 15,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.4743198024516769,
+            "age_difference": 0.4035034382310151,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 50,
-            "age_difference": 20,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.7719919782473617,
+            "age_difference": 0.39489320297406927,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 4,
-            "age_difference": 19,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.17256100993873935,
+            "age_difference": 0.2146316676837748,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 29,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.14925190985078918,
+            "age_difference": 0.834604575203544,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 58,
-            "age_difference": 14,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.3773810551182739,
+            "age_difference": 0.11568940879386891,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 3,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.7310948547600241,
+            "age_difference": 0.9909458896122395,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 37,
-            "age_difference": 10,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.9339480043806869,
+            "age_difference": 0.9495406056258855,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 85,
-            "age_difference": 14,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.7076810613570735,
+            "age_difference": 0.081922469339331,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 33,
-            "age_difference": 16,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.3448856672666485,
+            "age_difference": 0.9588349214162305,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 90,
-            "age_difference": 11,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.7574215194966377,
+            "age_difference": 0.2971931516946118,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 44,
-            "age_difference": 9,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.37106790082234054,
+            "age_difference": 0.9759323808464277,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 37,
-            "age_difference": 16,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.3513447270762009,
+            "age_difference": 0.33191306924003916,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 35,
-            "age_difference": 20,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.42350466964231065,
+            "age_difference": 0.570692666076487,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 89,
-            "age_difference": 19,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.8683174955060192,
+            "age_difference": 0.18181954298069558,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 86,
-            "age_difference": 5,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.6282781561466532,
+            "age_difference": 0.16004696775322091,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 12,
-            "age_difference": 13,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.49989691629259736,
+            "age_difference": 0.17068115173283627,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 56,
-            "age_difference": 16,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.17297206120765962,
+            "age_difference": 0.23846392636185088,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 5,
-            "age_difference": 8,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.9290418070860371,
+            "age_difference": 0.2346576818454084,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 34,
-            "age_difference": 20,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.2864058057779134,
+            "age_difference": 0.8795544747517386,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 79,
-            "age_difference": 19,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.2985344060289563,
+            "age_difference": 0.35943524506537816,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 97,
-            "age_difference": 3,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.5727391006439535,
+            "age_difference": 0.39715869358281464,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 62,
-            "age_difference": 20,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.5731943742183743,
+            "age_difference": 0.5278100628278394,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 69,
-            "age_difference": 7,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.23792701039162445,
+            "age_difference": 0.2466003007691792,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 93,
-            "age_difference": 16,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.8975315246783904,
+            "age_difference": 0.07398575069251434,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 66,
-            "age_difference": 2,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.48528965408564895,
+            "age_difference": 0.14859155709747074,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 14,
-            "age_difference": 13,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.851451578611705,
+            "age_difference": 0.2738417106373525,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 81,
-            "age_difference": 12,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.15628786190488175,
+            "age_difference": 0.3777607859907779,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 28,
-            "age_difference": 18,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.9899938621013906,
+            "age_difference": 0.28148943578795327,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 80,
-            "age_difference": 1,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.1856989382408314,
+            "age_difference": 0.4680479578829423,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 87,
-            "age_difference": 1,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.714245826929509,
+            "age_difference": 0.5802954088337972,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 38,
-            "age_difference": 1,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.8094876716901853,
+            "age_difference": 0.8178825251980711,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 90,
-            "age_difference": 16,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.9539597310968831,
+            "age_difference": 0.8852850991096112,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 24,
-            "age_difference": 8,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.840181351559723,
+            "age_difference": 0.32220302634700215,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 54,
-            "age_difference": 19,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.13084247285398365,
+            "age_difference": 0.1686927296925982,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 20,
-            "age_difference": 6,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.7581591891078895,
+            "age_difference": 0.09642922599251624,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 4,
-            "age_difference": 0,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.2418342572586072,
+            "age_difference": 0.665269325199775,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 4,
-            "age_difference": 2,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.36028669054040896,
+            "age_difference": 0.4250737262275779,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 73,
-            "age_difference": 1,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.30151249659738344,
+            "age_difference": 0.30540958606270163,
+            "relationship_priority": 0.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 80,
-            "age_difference": 18,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.14083230307327477,
+            "age_difference": 0.48268128226456,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 30,
-            "age_difference": 12,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.5004856134841845,
+            "age_difference": 0.631780553230876,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 41,
-            "age_difference": 19,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.8252205023638316,
+            "age_difference": 0.39532654149293567,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 44,
-            "age_difference": 3,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.7517751614304151,
+            "age_difference": 0.46994915527418224,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 49,
-            "age_difference": 20,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.5109206333291437,
+            "age_difference": 0.9006999708740896,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 49,
-            "age_difference": 3,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.01345013435442699,
+            "age_difference": 0.48895497215756434,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 38,
-            "age_difference": 10,
-            "relationship_priority": 1,
-            "open_to_kids": 0
+            "proximity": 0.28749733529411947,
+            "age_difference": 0.1810927349721222,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 80,
-            "age_difference": 19,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.9750979855246813,
+            "age_difference": 0.18739454006463463,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 12,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.9066997866272957,
+            "age_difference": 0.8864345461259887,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 51,
-            "age_difference": 16,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.2158858614404242,
+            "age_difference": 0.857060233063782,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 44,
-            "age_difference": 9,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.9434398733969365,
+            "age_difference": 0.772793980270311,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 45,
-            "age_difference": 0,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.7072713443242932,
+            "age_difference": 0.02044077705767,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 31,
-            "age_difference": 8,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.21802546434581105,
+            "age_difference": 0.6978958842060958,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 28,
-            "age_difference": 16,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.6765443209970764,
+            "age_difference": 0.32103882750014867,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 76,
-            "age_difference": 16,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.15239614373571397,
+            "age_difference": 0.05972097346125593,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 4,
-            "age_difference": 14,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.3497520581424878,
+            "age_difference": 0.3711815158088364,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 10,
-            "age_difference": 10,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.776273666943704,
+            "age_difference": 0.2364956829214222,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 13,
-            "age_difference": 13,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.4445300357919562,
+            "age_difference": 0.08906045793518369,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 32,
-            "age_difference": 3,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.6906328242621229,
+            "age_difference": 0.2982579088557966,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 90,
-            "age_difference": 13,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.5834615709301965,
+            "age_difference": 0.8214269840102839,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 19,
-            "age_difference": 1,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.38737395079944137,
+            "age_difference": 0.29868499349674593,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 42,
-            "age_difference": 1,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.24779288207024877,
+            "age_difference": 0.9091835970709307,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 33,
-            "age_difference": 14,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.9445929668806888,
+            "age_difference": 0.3231017336702,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 86,
-            "age_difference": 7,
-            "relationship_priority": 1,
-            "open_to_kids": 1
+            "proximity": 0.814297093384528,
+            "age_difference": 0.5374233386033803,
+            "relationship_priority": 0.5,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 8,
-            "age_difference": 18,
-            "relationship_priority": 2,
-            "open_to_kids": 1
+            "proximity": 0.5636118375549678,
+            "age_difference": 0.2459368056538521,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 63,
-            "age_difference": 13,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.9079381585451266,
+            "age_difference": 0.9389948630646676,
+            "relationship_priority": 0.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 39,
-            "age_difference": 11,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.4110674812884013,
+            "age_difference": 0.496955240884699,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 25,
-            "age_difference": 0,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.18980518191786222,
+            "age_difference": 0.3568276184450462,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 27,
-            "age_difference": 1,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.39551296255939017,
+            "age_difference": 0.5842683794632793,
+            "relationship_priority": 0.5,
+            "open_to_kids": 0.0
         }
     },
     {
         "attributes": {
-            "proximity": 55,
-            "age_difference": 6,
-            "relationship_priority": 3,
-            "open_to_kids": 0
+            "proximity": 0.3077220427647568,
+            "age_difference": 0.7801733364890588,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 8,
-            "age_difference": 1,
-            "relationship_priority": 3,
-            "open_to_kids": 1
+            "proximity": 0.1313848446746524,
+            "age_difference": 0.06402485388776658,
+            "relationship_priority": 1.0,
+            "open_to_kids": 1.0
         }
     },
     {
         "attributes": {
-            "proximity": 68,
-            "age_difference": 8,
-            "relationship_priority": 2,
-            "open_to_kids": 0
+            "proximity": 0.43270087534596524,
+            "age_difference": 0.4105164442506316,
+            "relationship_priority": 1.0,
+            "open_to_kids": 0.0
         }
     }
 ]

@@ -13,7 +13,7 @@ DEFAULT_MERGE_TIME_THRESHOLD = 50  # Frames required to trigger merging
 
 class SimulationController:
     def __init__(self, config_file="data/config.json", dn_file="data/dn_dataset.json", pmn_file="data/pmn_dataset.json"):
-        self.force_calculator = ForceCalculator()
+        self.force_calculator = ForceCalculator(config=config_file)
         self.motion_integrator = MotionIntegrator()
         self.nodes = []
         self.enable_dn_collisions = False  # Default: Collisions are OFF
@@ -37,11 +37,12 @@ class SimulationController:
         try:
             with open(pmn_file, "r") as file:
                 pmns = json.load(file)
+
             for pmn_data in pmns:
-                position = self.get_unique_position(existing_positions=[
-                    pmn.position for pmn in self.nodes if isinstance(pmn, PrimaryMassNode)
-                ])
-                self.nodes.append(PrimaryMassNode(position=position, **pmn_data))
+                position = pmn_data.pop("position", None)  # Remove 'position' from pmn_data if it exists
+                if position is None:  # Generate a random position if none is provided
+                    position = np.random.uniform([100, 100], [700, 500])
+                self.nodes.append(PrimaryMassNode(config=self.config, position=position, **pmn_data))
         except FileNotFoundError:
             print(f"[Warning] PMN dataset file not found: {pmn_file}")
 

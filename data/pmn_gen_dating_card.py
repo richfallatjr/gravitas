@@ -8,20 +8,20 @@ pmn_config = {
         "max": 16
     },
     "proximity": {
-        "min": 0,
-        "max": 100
+        "min": 1,
+        "max": 3
     },
     "relationship_priority": {
         "min": 1,
         "max": 3
     },
     "open_to_kids": {
-        "min": 0,
-        "max": 1
+        "min": 1,
+        "max": 2
     }
 }
 
-def generate_random_pmn_data(num_pmns=10):
+def generate_random_pmn_data(num_pmns=3):
     """
     Generate random PMN data for the dating card application.
     Each PMN will have attributes consistent with the dataset schema.
@@ -46,7 +46,7 @@ def save_pmn_data(file_path, pmn_data):
 
 if __name__ == "__main__":
     # Generate PMN data
-    num_pmns = 20  # Set the number of PMNs you want to generate
+    num_pmns = 3  # Set the number of PMNs you want to generate
     pmn_data = generate_random_pmn_data(num_pmns)
 
     # Save to file

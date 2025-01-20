@@ -5,13 +5,13 @@ def generate_dating_config(output_file="./data/config.json"):
         "attributes": {
             "proximity": {
                 "weight": 0.8,
-                "min": 0,
-                "max": 100
+                "min": 1,
+                "max": 10
             },
             "age_difference": {
                 "weight": 0.7,
-                "min": 0,
-                "max": 20
+                "min": 1,
+                "max": 3
             },
             "relationship_priority": {
                 "weight": 0.9,
@@ -19,16 +19,17 @@ def generate_dating_config(output_file="./data/config.json"):
             },
             "open_to_kids": {
                 "weight": 0.5,
-                "boolean_match": True
+                "boolean_match": 2
             }
         },
         "processing": {
             "single_process_delay": 5,
-            "multi_process_threads": 4,
+            "multi_process_threads": 128,
             "visual_timer": 15
         },
         "invert_attributes": [
-            "age_difference"
+            "age_difference",
+            "proximity"
         ],
         "absorption_threshold": 10,
         "mode": "multi_process"

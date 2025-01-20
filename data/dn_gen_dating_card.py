@@ -3,10 +3,10 @@ import random
 
 # Configuration for data generation
 CONFIG = {
-    "proximity": {"min": 0, "max": 100},
-    "age_difference": {"min": 0, "max": 20},
+    "proximity": {"min": 1, "max": 10},
+    "age_difference": {"min": 1, "max": 3},
     "relationship_priority": {"min": 1, "max": 3},  # Simplified as numeric values
-    "open_to_kids": [0, 1]
+    "open_to_kids": [1, 2]
 }
 
 def generate_random_dating_card():

@@ -1,122 +1,67 @@
 [
     {
-        "threads": 14,
-        "proximity": 33.71114036210702,
-        "relationship_priority": 1,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 5,
-        "proximity": 65.85190463368171,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 11,
-        "proximity": 50.78099327544175,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 8,
-        "proximity": 92.94444125905022,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 5,
-        "proximity": 13.841562155253694,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 4,
-        "proximity": 18.93873748145034,
-        "relationship_priority": 1,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 13,
-        "proximity": 55.70868873326054,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
+        "preferences": {
+            "proximity": 0.7524611043900007,
+            "age_difference": 0.5235435758273044,
+            "relationship_priority": 0.5391269411180547,
+            "open_to_kids": 0.9545136907461351
+        },
         "threads": 7,
-        "proximity": 40.611099186259246,
-        "relationship_priority": 1,
-        "open_to_kids": 0
+        "position": [
+            367.9144333129944,
+            196.6222901266006
+        ]
     },
     {
-        "threads": 11,
-        "proximity": 98.92078095933522,
-        "relationship_priority": 1,
-        "open_to_kids": 0
+        "preferences": {
+            "proximity": 0.6617432243847221,
+            "age_difference": 0.5648277992588513,
+            "relationship_priority": 0.9728379599524308,
+            "open_to_kids": 0.6587765114033968
+        },
+        "threads": 9,
+        "position": [
+            631.1750534189663,
+            181.22863664610435
+        ]
     },
     {
-        "threads": 14,
-        "proximity": 31.91678074159463,
-        "relationship_priority": 1,
-        "open_to_kids": 0
+        "preferences": {
+            "proximity": 0.5620531173765524,
+            "age_difference": 0.7569627294076011,
+            "relationship_priority": 0.6541800057213671,
+            "open_to_kids": 0.6458583378069543
+        },
+        "threads": 6,
+        "position": [
+            543.0081550136427,
+            196.86138540433086
+        ]
     },
     {
+        "preferences": {
+            "proximity": 0.8632041246143698,
+            "age_difference": 0.5181278482262761,
+            "relationship_priority": 0.8708435538062895,
+            "open_to_kids": 0.6928945002625995
+        },
         "threads": 8,
-        "proximity": 63.749707155233914,
-        "relationship_priority": 2,
-        "open_to_kids": 0
+        "position": [
+            635.8742038079155,
+            282.6026530931523
+        ]
     },
     {
-        "threads": 10,
-        "proximity": 49.3359647248807,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 13,
-        "proximity": 56.201759905363055,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 4,
-        "proximity": 17.2584512124473,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 7,
-        "proximity": 38.33800021098996,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 14,
-        "proximity": 25.697711756560626,
-        "relationship_priority": 1,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 12,
-        "proximity": 42.73099628626043,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 13,
-        "proximity": 54.080965087676816,
-        "relationship_priority": 1,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 14,
-        "proximity": 62.07768509271848,
-        "relationship_priority": 2,
-        "open_to_kids": 0
-    },
-    {
-        "threads": 5,
-        "proximity": 79.7222044804361,
-        "relationship_priority": 1,
-        "open_to_kids": 0
+        "preferences": {
+            "proximity": 0.6986113049869681,
+            "age_difference": 0.5726582974858201,
+            "relationship_priority": 0.7628091750236146,
+            "open_to_kids": 0.7492949151706644
+        },
+        "threads": 8,
+        "position": [
+            372.44867019791894,
+            371.5902454223383
+        ]
     }
 ]

@@ -1,7 +1,14 @@
 import numpy as np
 from core.node import DynamicNode, PrimaryMassNode
+import json
 
 class ForceCalculator:
+    def __init__(self, config):
+        #self.config = config
+        
+        with open(config, "r") as file:
+            self.config = json.load(file)
+        
     def apply_forces(self, nodes):
         """
         Calculate gravitational forces between DNs and PMNs and update velocities.
@@ -32,7 +39,7 @@ class ForceCalculator:
                 if force_magnitude > max_force:
                     total_force = (total_force / force_magnitude) * max_force
 
-                node.velocity += (total_force / node.mass) * 0.5
+                node.velocity += (total_force / node.mass) * 50
 
                 # Apply tangential motion and random perturbations
                 self.apply_perturbations(node, max_velocity)
@@ -43,10 +50,26 @@ class ForceCalculator:
         The gravitational charge is based on the DN's attributes and the PMN's preferences.
         """
         charge = 0.0
-        preferences = pmn.attributes.get("preferences", {})  # Safely get preferences from attributes
+        preferences = pmn.attributes.get("preferences", {})  # Safely get preferences from PMN attributes
+        config_attributes = self.config.get("attributes", {})
+        invert_attributes = self.config.get("invert_attributes", [])
 
         for attribute, weight in preferences.items():
-            dn_value = dn.attributes.get(attribute, 0)  # Default to 0 if the DN does not have the attribute
+            # Retrieve DN attribute value and default to 0 if not found
+            dn_value = dn.attributes.get(attribute, 0)
+            attr_config = config_attributes.get(attribute, {})
+
+            # Normalize attribute value if min and max are available in the config
+            min_value = attr_config.get("min", 0)
+            max_value = attr_config.get("max", 1)  # Avoid divide-by-zero with a sensible default
+            if max_value != min_value:
+                dn_value = (dn_value - min_value) / (max_value - min_value)
+
+            # Apply inversion if the attribute is listed in invert_attributes
+            if attribute in invert_attributes:
+                dn_value = 1.0 - dn_value
+
+            # Accumulate the charge
             charge += weight * dn_value
 
         return charge
