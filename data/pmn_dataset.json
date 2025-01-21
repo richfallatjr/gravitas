@@ -1,67 +1,57 @@
 [
     {
+        "id": "PMN_1",
+        "threads": 40,
+        "memory": 41022.611977473556,
+        "chipset_speed": "3.9GHz",
         "preferences": {
-            "proximity": 0.7524611043900007,
-            "age_difference": 0.5235435758273044,
-            "relationship_priority": 0.5391269411180547,
-            "open_to_kids": 0.9545136907461351
-        },
-        "threads": 7,
-        "position": [
-            367.9144333129944,
-            196.6222901266006
-        ]
+            "render_time": 0.6320397690767895,
+            "threads": 0.45203880176163347,
+            "memory": 0.49552564994223747
+        }
     },
     {
+        "id": "PMN_2",
+        "threads": 27,
+        "memory": 64422.497934196756,
+        "chipset_speed": "3.7GHz",
         "preferences": {
-            "proximity": 0.6617432243847221,
-            "age_difference": 0.5648277992588513,
-            "relationship_priority": 0.9728379599524308,
-            "open_to_kids": 0.6587765114033968
-        },
-        "threads": 9,
-        "position": [
-            631.1750534189663,
-            181.22863664610435
-        ]
+            "render_time": 0.700323588935208,
+            "threads": 0.4308098372249644,
+            "memory": 0.3834311117050806
+        }
     },
     {
+        "id": "PMN_3",
+        "threads": 20,
+        "memory": 35346.35955084984,
+        "chipset_speed": "3.4GHz",
         "preferences": {
-            "proximity": 0.5620531173765524,
-            "age_difference": 0.7569627294076011,
-            "relationship_priority": 0.6541800057213671,
-            "open_to_kids": 0.6458583378069543
-        },
-        "threads": 6,
-        "position": [
-            543.0081550136427,
-            196.86138540433086
-        ]
+            "render_time": 0.5729685379190681,
+            "threads": 0.5278881483158558,
+            "memory": 0.10573095153318364
+        }
     },
     {
+        "id": "PMN_4",
+        "threads": 18,
+        "memory": 12072.150364812249,
+        "chipset_speed": "2.6GHz",
         "preferences": {
-            "proximity": 0.8632041246143698,
-            "age_difference": 0.5181278482262761,
-            "relationship_priority": 0.8708435538062895,
-            "open_to_kids": 0.6928945002625995
-        },
-        "threads": 8,
-        "position": [
-            635.8742038079155,
-            282.6026530931523
-        ]
+            "render_time": 0.9931065134363135,
+            "threads": 0.6578250657687629,
+            "memory": 0.19342528811444956
+        }
     },
     {
+        "id": "PMN_5",
+        "threads": 11,
+        "memory": 37878.12750592582,
+        "chipset_speed": "3.3GHz",
         "preferences": {
-            "proximity": 0.6986113049869681,
-            "age_difference": 0.5726582974858201,
-            "relationship_priority": 0.7628091750236146,
-            "open_to_kids": 0.7492949151706644
-        },
-        "threads": 8,
-        "position": [
-            372.44867019791894,
-            371.5902454223383
-        ]
+            "render_time": 0.8689032088197499,
+            "threads": 0.42884167000911794,
+            "memory": 0.15838383156380897
+        }
     }
 ]

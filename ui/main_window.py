@@ -12,7 +12,7 @@ class SimulationView(QWidget):
     def __init__(self, controller):
         super().__init__()
         self.controller = controller
-        self.background = QPixmap("assets/icons/nebula_background_resized.png")
+        self.background = QPixmap("assets/icons/neural_net_background_resized.png")
 
     def paintEvent(self, event):
         painter = QPainter(self)
@@ -74,7 +74,7 @@ class SimulationView(QWidget):
                 r_vector = closest_pmn.position - node.position
                 distance = np.linalg.norm(r_vector)
 
-                color = self.get_heatmap_gradient_color(distance)
+                color = self.get_filament_gradient_color(distance)
                 pulse_opacity = int(150 + 100 * np.sin(QTime.currentTime().msecsSinceStartOfDay() / 300.0))
 
                 glow_pen = QPen(QColor(color.red(), color.green(), color.blue(), pulse_opacity))

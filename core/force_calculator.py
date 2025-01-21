@@ -39,7 +39,7 @@ class ForceCalculator:
                 if force_magnitude > max_force:
                     total_force = (total_force / force_magnitude) * max_force
 
-                node.velocity += (total_force / node.mass) * 50
+                node.velocity += (total_force / node.mass) * 100
 
                 # Apply tangential motion and random perturbations
                 self.apply_perturbations(node, max_velocity)

@@ -19,9 +19,9 @@ config = {
 def normalize(value, min_val, max_val):
     return (value - min_val) / (max_val - min_val) if max_val != min_val else 0
 
-# Generate DN dataset
+# Generate DN dataset (100,000 nodes)
 dn_dataset = []
-for i in range(100):  # Example with 100 dynamic nodes
+for i in range(300):  # Scaling up to 100,000 nodes
     proximity = np.random.uniform(config["attributes"]["proximity"]["min"], config["attributes"]["proximity"]["max"])
     age_difference = np.random.uniform(
         config["attributes"]["age_difference"]["min"], config["attributes"]["age_difference"]["max"]
@@ -42,26 +42,27 @@ for i in range(100):  # Example with 100 dynamic nodes
         }
     )
 
-# Generate PMN dataset
+# Generate PMN dataset with balanced grid layout
 pmn_dataset = []
-for i in range(5):  # Example with 5 primary mass nodes
-    proximity_pref = np.random.uniform(0.5, 1.0)  # Weight preferences
-    age_diff_pref = np.random.uniform(0.5, 1.0)
-    relationship_priority_pref = np.random.uniform(0.5, 1.0)
-    open_to_kids_pref = np.random.uniform(0.5, 1.0)
+grid_size = 5  # Example: 5x5 grid
+grid_spacing = 200  # Spacing between PMNs
+start_x, start_y = 100, 100  # Starting position for the grid
 
-    pmn_dataset.append(
-        {
-            "preferences": {
-                "proximity": proximity_pref,
-                "age_difference": age_diff_pref,
-                "relationship_priority": relationship_priority_pref,
-                "open_to_kids": open_to_kids_pref,
-            },
-            "threads": np.random.randint(4, 16),
-            "position": np.random.uniform([100, 100], [700, 500]).tolist(),  # Random position
+for i in range(grid_size):
+    for j in range(grid_size):
+        x = start_x + i * grid_spacing
+        y = start_y + j * grid_spacing
+        preferences = {
+            "proximity": np.random.uniform(0.5, 1.0),
+            "age_difference": np.random.uniform(0.5, 1.0),
+            "relationship_priority": np.random.uniform(0.5, 1.0),
+            "open_to_kids": np.random.uniform(0.5, 1.0),
         }
-    )
+        pmn_dataset.append({
+            "preferences": preferences,
+            "threads": np.random.randint(4, 16),
+            "position": [x, y],
+        })
 
 # Save datasets
 dn_file_path = "./data/dn_dataset.json"
@@ -77,4 +78,4 @@ with open(pmn_file_path, "w") as pmn_file:
 with open(config_file_path, "w") as config_file:
     json.dump(config, config_file, indent=4)
 
-(dn_file_path, pmn_file_path, config_file_path)
+print(f"Generated datasets:\n- DNs: {dn_file_path}\n- PMNs: {pmn_file_path}\n- Config: {config_file_path}")

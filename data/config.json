@@ -1,35 +1,29 @@
 {
     "attributes": {
-        "proximity": {
-            "weight": 0.8,
-            "min": 0,
-            "max": 10
-        },
-        "age_difference": {
+        "render_time": {
             "weight": 0.7,
-            "min": 0,
-            "max": 20
-        },
-        "relationship_priority": {
-            "weight": 0.9,
             "min": 1,
-            "max": 3
+            "max": 15
         },
-        "open_to_kids": {
+        "memory": {
             "weight": 0.5,
-            "min": 0,
-            "max": 1
+            "min": 1024,
+            "max": 8192
+        },
+        "threads": {
+            "weight": 0.3,
+            "min": 1,
+            "max": 16
         }
     },
+    "invert_attributes": [
+        "render_time"
+    ],
+    "absorption_threshold": 5,
     "processing": {
         "single_process_delay": 5,
         "multi_process_threads": 128,
         "visual_timer": 15
     },
-    "invert_attributes": [
-        "age_difference",
-        "proximity"
-    ],
-    "absorption_threshold": 10,
     "mode": "multi_process"
 }
