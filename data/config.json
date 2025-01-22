@@ -1,29 +1,34 @@
 {
     "attributes": {
-        "render_time": {
+        "proximity": {
+            "weight": 0.8,
+            "min": 0,
+            "max": 100
+        },
+        "property_value": {
             "weight": 0.7,
-            "min": 1,
-            "max": 15
+            "min": 100000,
+            "max": 1000000
         },
-        "memory": {
+        "occupancy_rate": {
+            "weight": 0.6,
+            "min": 0,
+            "max": 1
+        },
+        "shared_credit_willingness": {
             "weight": 0.5,
-            "min": 1024,
-            "max": 8192
-        },
-        "threads": {
-            "weight": 0.3,
-            "min": 1,
-            "max": 16
+            "min": 0,
+            "max": 1
         }
     },
-    "invert_attributes": [
-        "render_time"
-    ],
-    "absorption_threshold": 5,
     "processing": {
         "single_process_delay": 5,
         "multi_process_threads": 128,
         "visual_timer": 15
     },
+    "invert_attributes": [
+        "proximity"
+    ],
+    "absorption_threshold": 10,
     "mode": "multi_process"
 }

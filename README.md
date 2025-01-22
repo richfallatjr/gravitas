@@ -60,6 +60,29 @@ This ensures that nodes find natural equilibrium zones between competing gravita
 
 ---
 
+## Gravitas Recommendation Engine Protocol (GREP)
+
+Gravitas (GREP) is a temporal system, meaning it processes recommendations and matches based on dynamic, real-time interactions rather than static datasets. This temporal nature offers both advantages and challenges, which merit discussion to provide a holistic view of its capabilities.
+
+**Positives of Temporal Processing**
+
+**Adaptability**: Gravitas can adjust on-the-fly to changing datasets or user preferences. In a recommendation system like GREP, this means adapting recommendations to match evolving user inputs and system conditions without requiring complete recalculations.
+
+**Fair Load Distribution**: By leveraging controlled probabilistic randomness, Gravitas avoids static hierarchies where top-ranked entities consistently dominate. This allows for fairer distribution and prevents the "rich get richer" dynamics prevalent in many ranking systems.
+
+**Responsive Interaction**: Temporal systems align naturally with use cases where immediacy is critical, such as dating apps or real-time processing queues. They deliver recommendations that feel timely and personalized.
+
+**Challenges of Temporal Processing**
+
+**Computational Overhead**: Continuous updates and dynamic interactions require significant computational resources, especially as the dataset scales. While GREP reduces this by limiting drawn elements and leveraging gravitational averaging, there remains a practical limit to what can be visualized and processed simultaneously.
+
+**Transient States**: Temporal systems inherently prioritize the "now," which can lead to fleeting recommendations that may not always reflect longer-term patterns or preferences. Balancing immediate responsiveness with broader insights is an ongoing consideration.
+
+**Scalability**: Temporal systems face limitations when managing vast datasets in real-time, especially when visualizing or simulating dynamic interactions. Techniques like reducing drawn nodes or integrating with traditional AI methods can mitigate these constraints.
+
+Gravitas, with its temporal foundation, represents a shift from static recommendation paradigms to dynamic, adaptive systems. While it introduces unique complexities, its ability to model chaotic yet organized systems like gravitational mechanics offers a compelling alternative to traditional AI-driven approaches.
+
+
 ## Installation
 
 1. **Clone the Repository:**

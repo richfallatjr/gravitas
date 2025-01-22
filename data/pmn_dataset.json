@@ -1,57 +1,41 @@
 [
     {
-        "id": "PMN_1",
-        "threads": 40,
-        "memory": 41022.611977473556,
-        "chipset_speed": "3.9GHz",
         "preferences": {
-            "render_time": 0.6320397690767895,
-            "threads": 0.45203880176163347,
-            "memory": 0.49552564994223747
-        }
+            "proximity": 0.7672368617773613,
+            "property_value": 0.8747555516972788,
+            "occupancy_rate": 0.835552705287997,
+            "shared_credit_willingness": 0.6493097892473159
+        },
+        "threads": 13,
+        "position": [
+            200.0,
+            300.0
+        ]
     },
     {
-        "id": "PMN_2",
-        "threads": 27,
-        "memory": 64422.497934196756,
-        "chipset_speed": "3.7GHz",
         "preferences": {
-            "render_time": 0.700323588935208,
-            "threads": 0.4308098372249644,
-            "memory": 0.3834311117050806
-        }
+            "proximity": 0.5642417856541936,
+            "property_value": 0.7511979107602363,
+            "occupancy_rate": 0.6735161971714898,
+            "shared_credit_willingness": 0.5990792417024826
+        },
+        "threads": 7,
+        "position": [
+            400.0,
+            300.0
+        ]
     },
     {
-        "id": "PMN_3",
-        "threads": 20,
-        "memory": 35346.35955084984,
-        "chipset_speed": "3.4GHz",
         "preferences": {
-            "render_time": 0.5729685379190681,
-            "threads": 0.5278881483158558,
-            "memory": 0.10573095153318364
-        }
-    },
-    {
-        "id": "PMN_4",
-        "threads": 18,
-        "memory": 12072.150364812249,
-        "chipset_speed": "2.6GHz",
-        "preferences": {
-            "render_time": 0.9931065134363135,
-            "threads": 0.6578250657687629,
-            "memory": 0.19342528811444956
-        }
-    },
-    {
-        "id": "PMN_5",
-        "threads": 11,
-        "memory": 37878.12750592582,
-        "chipset_speed": "3.3GHz",
-        "preferences": {
-            "render_time": 0.8689032088197499,
-            "threads": 0.42884167000911794,
-            "memory": 0.15838383156380897
-        }
+            "proximity": 0.8369101150385827,
+            "property_value": 0.5292914144113836,
+            "occupancy_rate": 0.851381923021941,
+            "shared_credit_willingness": 0.8124959265181795
+        },
+        "threads": 6,
+        "position": [
+            600.0,
+            300.0
+        ]
     }
 ]
