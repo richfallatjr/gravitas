@@ -1,3602 +1,3602 @@
 [
     {
         "attributes": {
-            "proximity": 93.08430756449827,
-            "property_value": 717931.4915871876,
-            "occupancy_rate": 0.06744621622789682,
-            "shared_credit_willingness": 0.5616753044289986
-        },
-        "position": [
-            382.91172743893117,
-            349.1329112383372
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 86.76270417089333,
-            "property_value": 468765.13473738515,
-            "occupancy_rate": 0.07953006226050707,
-            "shared_credit_willingness": 0.32583460344226456
-        },
-        "position": [
-            159.45037898592943,
-            437.140609130074
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 60.965280435798455,
-            "property_value": 328558.76961598045,
-            "occupancy_rate": 0.20348193165475303,
-            "shared_credit_willingness": 0.30489213376962043
-        },
-        "position": [
-            469.80219865192817,
-            362.7310722823913
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 90.77822114685023,
-            "property_value": 368431.5165501546,
-            "occupancy_rate": 0.17116629960854457,
-            "shared_credit_willingness": 0.369776727401943
-        },
-        "position": [
-            248.09566939072403,
-            242.3347476622004
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 3.423053803194509,
-            "property_value": 598557.7551199448,
-            "occupancy_rate": 0.8124770819591005,
-            "shared_credit_willingness": 0.8672820056812168
-        },
-        "position": [
-            258.2670138891991,
-            275.18948897942914
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 23.761767724058082,
-            "property_value": 382663.788337288,
-            "occupancy_rate": 0.13267219774704442,
-            "shared_credit_willingness": 0.9224014420220681
-        },
-        "position": [
-            408.01794612777775,
-            497.87136587624025
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 66.99820696235066,
-            "property_value": 788919.3734472686,
-            "occupancy_rate": 0.7216104670201171,
-            "shared_credit_willingness": 0.6845971224398741
-        },
-        "position": [
-            632.0471972609989,
-            113.14915638478755
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 78.26517612817078,
-            "property_value": 634451.4710956448,
-            "occupancy_rate": 0.8755254098566808,
-            "shared_credit_willingness": 0.48056638763865067
-        },
-        "position": [
-            271.6831499053907,
-            291.55779530496403
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 72.99468697672226,
-            "property_value": 889620.768575001,
-            "occupancy_rate": 0.07708810503099683,
-            "shared_credit_willingness": 0.49089728926890397
-        },
-        "position": [
-            531.3369681151278,
-            161.4255745180491
-        ]
+            "price": 0.27311827255641563,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.081258159573117,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.04553518428322045,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.8315450634003457,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.10867209433755143,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.09081488050169007,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.08292938961622331,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.9622304473560411,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.29516609255338333,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 12.907546211248345,
-            "property_value": 988636.2218293978,
-            "occupancy_rate": 0.9473928618008625,
-            "shared_credit_willingness": 0.8923880860678101
-        },
-        "position": [
-            187.4537039662287,
-            278.8448390592108
-        ]
+            "price": 0.887973750773239,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 76.07978499519483,
-            "property_value": 864488.5009363266,
-            "occupancy_rate": 0.26612441621798577,
-            "shared_credit_willingness": 0.8861273125372534
-        },
-        "position": [
-            643.5463490772985,
-            435.67806765250106
-        ]
+            "price": 0.08832554911178314,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 29.69772833718164,
-            "property_value": 501895.4340167592,
-            "occupancy_rate": 0.9718464450396104,
-            "shared_credit_willingness": 0.8928402570654587
-        },
-        "position": [
-            623.4779900330856,
-            422.02547392534876
-        ]
+            "price": 0.9024872100889658,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 99.3207140054105,
-            "property_value": 331612.65950376785,
-            "occupancy_rate": 0.038912505171181944,
-            "shared_credit_willingness": 0.742839460222564
-        },
-        "position": [
-            519.0749807515956,
-            296.45030002355315
-        ]
+            "price": 0.00035386766843048534,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 51.02747705559616,
-            "property_value": 562516.8366491471,
-            "occupancy_rate": 0.9081951121524,
-            "shared_credit_willingness": 0.4143420288745808
-        },
-        "position": [
-            519.5449548352462,
-            448.492315137743
-        ]
+            "price": 0.8525494035891735,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 18.46463109151101,
-            "property_value": 442450.88839542476,
-            "occupancy_rate": 0.6270128645663008,
-            "shared_credit_willingness": 0.1497156720387952
-        },
-        "position": [
-            582.8429013894232,
-            198.472381342977
-        ]
+            "price": 0.49436708446611644,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 33.961677127551305,
-            "property_value": 211974.59566343774,
-            "occupancy_rate": 0.44584896995908396,
-            "shared_credit_willingness": 0.03264386592761548
-        },
-        "position": [
-            361.5288397925976,
-            424.24080449386753
-        ]
+            "price": 0.6341008114821455,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 66.91828883824071,
-            "property_value": 712579.3796031628,
-            "occupancy_rate": 0.10779086645757263,
-            "shared_credit_willingness": 0.2683167096874215
-        },
-        "position": [
-            106.05758665992443,
-            227.49446330417896
-        ]
+            "price": 0.39244097394760935,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 85.97479910312853,
-            "property_value": 216728.71360631188,
-            "occupancy_rate": 0.14794257400345934,
-            "shared_credit_willingness": 0.9691795734172425
-        },
-        "position": [
-            679.3762878910006,
-            469.53107133444496
-        ]
+            "price": 0.967531430833575,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 77.91383620802907,
-            "property_value": 651912.6069080337,
-            "occupancy_rate": 0.8045865609758452,
-            "shared_credit_willingness": 0.9363378546013206
-        },
-        "position": [
-            200.63111755169484,
-            148.49007758624978
-        ]
+            "price": 0.7683691243742341,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 99.46116524464477,
-            "property_value": 953418.6186379857,
-            "occupancy_rate": 0.6426302957539649,
-            "shared_credit_willingness": 0.6550155944664736
-        },
-        "position": [
-            385.1795460127688,
-            452.55980294584225
-        ]
+            "price": 0.7696659245645798,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 93.00705110137356,
-            "property_value": 517295.22917576856,
-            "occupancy_rate": 0.7153948948287214,
-            "shared_credit_willingness": 0.2313711356858068
-        },
-        "position": [
-            565.7917018077255,
-            318.3644102916788
-        ]
+            "price": 0.1607387891942934,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 92.29012256749192,
-            "property_value": 336162.6718137512,
-            "occupancy_rate": 0.6057017056453347,
-            "shared_credit_willingness": 0.008324145536377059
-        },
-        "position": [
-            431.22839708958026,
-            409.3743921985271
-        ]
+            "price": 0.0072328021245096075,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 44.886077967552254,
-            "property_value": 620715.4219978276,
-            "occupancy_rate": 0.26476189854390464,
-            "shared_credit_willingness": 0.3558228073385793
-        },
-        "position": [
-            206.2242252414361,
-            144.8608677701318
-        ]
+            "price": 0.5610844255255824,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.94300193800314,
-            "property_value": 665822.8954312002,
-            "occupancy_rate": 0.8519960595331577,
-            "shared_credit_willingness": 0.015406598128723914
-        },
-        "position": [
-            377.64910668572315,
-            345.7894241134321
-        ]
+            "price": 0.37599707465925203,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 1.4026280284823112,
-            "property_value": 503899.49510860397,
-            "occupancy_rate": 0.7491399971677867,
-            "shared_credit_willingness": 0.8661683004812482
-        },
-        "position": [
-            299.58780954154315,
-            435.4661493493894
-        ]
+            "price": 0.8910101727861053,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 66.7649480116901,
-            "property_value": 524187.29396519216,
-            "occupancy_rate": 0.06401800473248431,
-            "shared_credit_willingness": 0.23070912838004132
-        },
-        "position": [
-            123.70298138983739,
-            157.47567385786164
-        ]
+            "price": 0.8475843297224638,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 42.21789497187252,
-            "property_value": 730295.1123847438,
-            "occupancy_rate": 0.48972693818038526,
-            "shared_credit_willingness": 0.6193777354710128
-        },
-        "position": [
-            480.424071582638,
-            367.503420662291
-        ]
+            "price": 0.06244059686456471,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 99.21884441337451,
-            "property_value": 387260.3173444314,
-            "occupancy_rate": 0.022275123821210552,
-            "shared_credit_willingness": 0.8421350613210938
-        },
-        "position": [
-            110.91803553553363,
-            180.31794177704316
-        ]
+            "price": 0.15533084004347308,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.9272914938584,
-            "property_value": 919898.9772181229,
-            "occupancy_rate": 0.9049407675174145,
-            "shared_credit_willingness": 0.5745686066470859
-        },
-        "position": [
-            159.31355041899732,
-            140.02596053076638
-        ]
+            "price": 0.7315084827665369,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 57.45884621282753,
-            "property_value": 584368.0829111042,
-            "occupancy_rate": 0.7882365556290057,
-            "shared_credit_willingness": 0.21574221344179179
-        },
-        "position": [
-            425.65372930495556,
-            380.7334245056801
-        ]
+            "price": 0.6139647872962855,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 95.75009756143771,
-            "property_value": 288127.0676327783,
-            "occupancy_rate": 0.5743958833989172,
-            "shared_credit_willingness": 0.9616177312267087
-        },
-        "position": [
-            427.15220935464447,
-            297.0866219833416
-        ]
+            "price": 0.5434058103207569,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 9.726986003703775,
-            "property_value": 668439.7913530016,
-            "occupancy_rate": 0.11079086797431614,
-            "shared_credit_willingness": 0.02226648798946851
-        },
-        "position": [
-            282.82024444162096,
-            118.40576608609857
-        ]
+            "price": 0.2928300380848473,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 32.768940865936955,
-            "property_value": 872869.8255458471,
-            "occupancy_rate": 0.40596230907029074,
-            "shared_credit_willingness": 0.19462964711693165
-        },
-        "position": [
-            332.03393263187,
-            373.31620587542744
-        ]
+            "price": 0.9943755946208163,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 25.984118977344973,
-            "property_value": 287540.9141324802,
-            "occupancy_rate": 0.6761998023477966,
-            "shared_credit_willingness": 0.3046428700134398
-        },
-        "position": [
-            278.1998029630339,
-            112.1850901726158
-        ]
+            "price": 0.7599359853508237,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 3.1938838516318735,
-            "property_value": 547473.3919169973,
-            "occupancy_rate": 0.33941837835064004,
-            "shared_credit_willingness": 0.6202697897909976
-        },
-        "position": [
-            363.7948539594543,
-            262.32952323197674
-        ]
+            "price": 0.2760960136472801,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 83.14414110299687,
-            "property_value": 564421.2794931307,
-            "occupancy_rate": 0.5363397936567887,
-            "shared_credit_willingness": 0.15684317282934535
-        },
-        "position": [
-            470.0677274515041,
-            376.3973674681694
-        ]
+            "price": 0.09201222439074708,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 86.45401231165016,
-            "property_value": 527067.897222315,
-            "occupancy_rate": 0.5555667686853487,
-            "shared_credit_willingness": 0.24504739469482273
-        },
-        "position": [
-            521.6941543368314,
-            111.6164480366999
-        ]
+            "price": 0.5203565832488761,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 25.702437393444942,
-            "property_value": 609573.7192798643,
-            "occupancy_rate": 0.37941520425057484,
-            "shared_credit_willingness": 0.21144596969314988
-        },
-        "position": [
-            465.36270529086596,
-            457.7017176124978
-        ]
+            "price": 0.6721148011458309,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 32.01362285575331,
-            "property_value": 133136.91216183163,
-            "occupancy_rate": 0.04050253081398403,
-            "shared_credit_willingness": 0.0373127256936896
-        },
-        "position": [
-            467.49459017288825,
-            309.7877485567723
-        ]
+            "price": 0.6939508551093684,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 77.68950318440555,
-            "property_value": 561769.836419059,
-            "occupancy_rate": 0.8760668283267492,
-            "shared_credit_willingness": 0.7668764707871398
-        },
-        "position": [
-            253.68233684109197,
-            138.59381351755303
-        ]
+            "price": 0.687753731891322,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 76.27713957252787,
-            "property_value": 289169.82271655847,
-            "occupancy_rate": 0.7848674768798706,
-            "shared_credit_willingness": 0.5663415566608077
-        },
-        "position": [
-            344.87163766948254,
-            260.9653939822693
-        ]
+            "price": 0.08779006517390353,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 35.09733311183674,
-            "property_value": 121164.12200983289,
-            "occupancy_rate": 0.8864860729024375,
-            "shared_credit_willingness": 0.4252779163090784
-        },
-        "position": [
-            352.65832342132296,
-            157.9432452339903
-        ]
+            "price": 0.1486471941762818,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 86.89603276634143,
-            "property_value": 254711.05764239712,
-            "occupancy_rate": 0.3529694288516292,
-            "shared_credit_willingness": 0.9588702101720025
-        },
-        "position": [
-            274.0407092109682,
-            424.8176909918975
-        ]
+            "price": 0.7091838514269455,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 79.54952912514936,
-            "property_value": 530632.5938207298,
-            "occupancy_rate": 0.2612365908553147,
-            "shared_credit_willingness": 0.285076011661867
-        },
-        "position": [
-            243.0331651082855,
-            117.40689220887091
-        ]
+            "price": 0.29438945510818926,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 81.4274211684983,
-            "property_value": 263649.9710605546,
-            "occupancy_rate": 0.563711436940213,
-            "shared_credit_willingness": 0.9103902502835926
-        },
-        "position": [
-            285.1178847950629,
-            459.6480884632106
-        ]
+            "price": 0.6942626460747152,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 55.671407754338475,
-            "property_value": 794393.1792033841,
-            "occupancy_rate": 0.5850840110941854,
-            "shared_credit_willingness": 0.4534183187734375
-        },
-        "position": [
-            674.9934447807021,
-            422.26586416780225
-        ]
+            "price": 0.4547384820936502,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 85.36194715080988,
-            "property_value": 600147.4373438642,
-            "occupancy_rate": 0.3049127782140536,
-            "shared_credit_willingness": 0.3608221809349278
-        },
-        "position": [
-            372.09642662986954,
-            150.46768724156232
-        ]
+            "price": 0.30310708990445157,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 56.57493521111828,
-            "property_value": 304117.0106199868,
-            "occupancy_rate": 0.6033221141854146,
-            "shared_credit_willingness": 0.6711716334419593
-        },
-        "position": [
-            697.8057009719005,
-            304.2416399686656
-        ]
+            "price": 0.9854030580734223,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 5.70063741175979,
-            "property_value": 231233.18740948074,
-            "occupancy_rate": 0.5863173985112139,
-            "shared_credit_willingness": 0.3191346715800353
-        },
-        "position": [
-            384.8102286862535,
-            420.7053505500914
-        ]
+            "price": 0.30464144734274157,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 41.741620972648064,
-            "property_value": 782927.6509248377,
-            "occupancy_rate": 0.8700864534634708,
-            "shared_credit_willingness": 0.9316545193678896
-        },
-        "position": [
-            315.0362421557676,
-            458.86072210009377
-        ]
+            "price": 0.6191735364945996,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 80.70138920705932,
-            "property_value": 387931.7105368295,
-            "occupancy_rate": 0.897148757835827,
-            "shared_credit_willingness": 0.5402419603538333
-        },
-        "position": [
-            508.71715035184144,
-            431.70744409416216
-        ]
+            "price": 0.131131232561844,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 1.1536975712720055,
-            "property_value": 882644.1268010942,
-            "occupancy_rate": 0.0419254244439089,
-            "shared_credit_willingness": 0.4025243383480196
-        },
-        "position": [
-            195.0609129656171,
-            167.9408981983685
-        ]
+            "price": 0.03117022217840781,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 28.759959260483747,
-            "property_value": 557804.4904506793,
-            "occupancy_rate": 0.7535640854028011,
-            "shared_credit_willingness": 0.4327616720005836
-        },
-        "position": [
-            523.8173976592149,
-            435.51612642653487
-        ]
+            "price": 0.31479025095355884,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 63.51727182196241,
-            "property_value": 964770.5796153705,
-            "occupancy_rate": 0.46431764654966434,
-            "shared_credit_willingness": 0.4475514237527546
-        },
-        "position": [
-            389.2488371815987,
-            243.84203432982244
-        ]
+            "price": 0.5547724515329339,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 91.51508069367559,
-            "property_value": 446747.734687693,
-            "occupancy_rate": 0.3564914649398002,
-            "shared_credit_willingness": 0.42067057211911296
-        },
-        "position": [
-            114.40114775024705,
-            272.21693788466484
-        ]
+            "price": 0.5177086155843734,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 59.772115520661785,
-            "property_value": 283920.96592761116,
-            "occupancy_rate": 0.6397772109165571,
-            "shared_credit_willingness": 0.9811591568042379
-        },
-        "position": [
-            147.28238183367702,
-            320.13234318499633
-        ]
+            "price": 0.01587605661771352,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.818065726955847,
-            "property_value": 813468.8680538152,
-            "occupancy_rate": 0.0720935080283217,
-            "shared_credit_willingness": 0.14454830781041872
-        },
-        "position": [
-            375.6326142600638,
-            433.60352189315086
-        ]
+            "price": 0.1893276677046246,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 89.97907586482769,
-            "property_value": 758775.2344261544,
-            "occupancy_rate": 0.39544970489449394,
-            "shared_credit_willingness": 0.688264427364406
-        },
-        "position": [
-            327.63992561099656,
-            219.90968915937916
-        ]
+            "price": 0.32293910482359056,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 46.907900531727556,
-            "property_value": 766901.6181723984,
-            "occupancy_rate": 0.9830347310719645,
-            "shared_credit_willingness": 0.7511753359864749
-        },
-        "position": [
-            526.2752357107956,
-            419.9371981517888
-        ]
+            "price": 0.28948072098074884,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 47.83940689973727,
-            "property_value": 411070.85653772537,
-            "occupancy_rate": 0.8465874610210725,
-            "shared_credit_willingness": 0.2557761488996704
-        },
-        "position": [
-            315.7124492388786,
-            127.00871504482474
-        ]
+            "price": 0.4241195391133631,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 75.73782533712064,
-            "property_value": 580447.9503762574,
-            "occupancy_rate": 0.11785765643090762,
-            "shared_credit_willingness": 0.15977020459795743
-        },
-        "position": [
-            498.34240260975605,
-            239.87968596678564
-        ]
+            "price": 0.5470156712731628,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 89.54198467220141,
-            "property_value": 539723.8890394464,
-            "occupancy_rate": 0.7912409824305673,
-            "shared_credit_willingness": 0.025940705565661193
-        },
-        "position": [
-            459.55550928066515,
-            469.6343416725144
-        ]
+            "price": 0.9634881895244607,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 16.979819702765564,
-            "property_value": 398167.7370852436,
-            "occupancy_rate": 0.3972055104209955,
-            "shared_credit_willingness": 0.7416145319741364
-        },
-        "position": [
-            299.9754950984053,
-            394.5646043706501
-        ]
+            "price": 0.6404491606840401,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 90.19859984367075,
-            "property_value": 102262.96882139164,
-            "occupancy_rate": 0.027764121141436338,
-            "shared_credit_willingness": 0.7482758454055063
-        },
-        "position": [
-            444.1061484857886,
-            206.88943669774102
-        ]
+            "price": 0.6831998938604045,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 22.72519347218436,
-            "property_value": 865956.9115558105,
-            "occupancy_rate": 0.08720498243315555,
-            "shared_credit_willingness": 0.475000695054387
-        },
-        "position": [
-            360.84399365387793,
-            160.31492746794714
-        ]
+            "price": 0.1606634545146456,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 36.0712553093102,
-            "property_value": 633577.1548826194,
-            "occupancy_rate": 0.017311363629489263,
-            "shared_credit_willingness": 0.5819587351988069
-        },
-        "position": [
-            561.188805813714,
-            162.3077327556377
-        ]
+            "price": 0.6678634137975046,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 41.82635455616172,
-            "property_value": 297998.4427295153,
-            "occupancy_rate": 0.24213562185177517,
-            "shared_credit_willingness": 0.16966225916776778
-        },
-        "position": [
-            549.1263394929429,
-            371.0659935474022
-        ]
+            "price": 0.6055191362508092,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 73.34223945167486,
-            "property_value": 917323.5187308831,
-            "occupancy_rate": 0.9660533334399499,
-            "shared_credit_willingness": 0.5728712257278626
-        },
-        "position": [
-            502.602836573813,
-            356.8338983182683
-        ]
+            "price": 0.7274365296820854,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 43.61660738747776,
-            "property_value": 119026.29379320801,
-            "occupancy_rate": 0.9525073215638564,
-            "shared_credit_willingness": 0.441256366924038
-        },
-        "position": [
-            396.27155458974715,
-            201.3664412213817
-        ]
+            "price": 0.8714515121169831,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.698107424199502,
-            "property_value": 261806.4357155843,
-            "occupancy_rate": 0.20058173263111112,
-            "shared_credit_willingness": 0.11665644074156645
-        },
-        "position": [
-            425.0972159998848,
-            457.99744404973137
-        ]
+            "price": 0.662493512412175,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 6.16248400489714,
-            "property_value": 701638.2145051658,
-            "occupancy_rate": 0.5970632062116791,
-            "shared_credit_willingness": 0.01734241857873442
-        },
-        "position": [
-            121.57678926835113,
-            101.54876394193538
-        ]
+            "price": 0.2978585106298882,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 33.488960216795206,
-            "property_value": 609297.5715507071,
-            "occupancy_rate": 0.45568632120438135,
-            "shared_credit_willingness": 0.14424625443877603
-        },
-        "position": [
-            671.7143078061707,
-            176.64938596562962
-        ]
+            "price": 0.40916870417982976,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 44.61811641194079,
-            "property_value": 315326.28330873395,
-            "occupancy_rate": 0.48784679315107704,
-            "shared_credit_willingness": 0.522719371827305
-        },
-        "position": [
-            397.724619863651,
-            409.4624245625668
-        ]
+            "price": 0.7492780777171283,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 55.607331069469744,
-            "property_value": 155543.3643134425,
-            "occupancy_rate": 0.7462689413083174,
-            "shared_credit_willingness": 0.23833383598518576
-        },
-        "position": [
-            141.66637381223376,
-            364.51159437310224
-        ]
+            "price": 0.37739463593832123,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 64.69307922167172,
-            "property_value": 237158.78036003246,
-            "occupancy_rate": 0.7384915258738495,
-            "shared_credit_willingness": 0.09991396089897753
-        },
-        "position": [
-            561.4169032636953,
-            419.70420011806283
-        ]
+            "price": 0.6804182491257007,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 4.2759274772675155,
-            "property_value": 940754.1283742231,
-            "occupancy_rate": 0.7448806045974143,
-            "shared_credit_willingness": 0.39373994677828383
-        },
-        "position": [
-            591.5047541346796,
-            368.1833310606873
-        ]
+            "price": 0.7760504397065336,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 5.547091780182445,
-            "property_value": 509724.0460199856,
-            "occupancy_rate": 0.46027256277020434,
-            "shared_credit_willingness": 0.5107625147668676
-        },
-        "position": [
-            417.4473037912823,
-            381.32162191806486
-        ]
+            "price": 0.15731637498959483,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 52.75415847836101,
-            "property_value": 157864.14687311824,
-            "occupancy_rate": 0.5151131101707654,
-            "shared_credit_willingness": 0.04694531806836699
-        },
-        "position": [
-            591.0036666184649,
-            104.18259398207606
-        ]
+            "price": 0.6389809725101622,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 7.426297275739713,
-            "property_value": 236026.69814983968,
-            "occupancy_rate": 0.7241816690776386,
-            "shared_credit_willingness": 0.738270924349276
-        },
-        "position": [
-            287.38647695682494,
-            304.66068984720823
-        ]
+            "price": 0.8257657628923908,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 81.70772498059526,
-            "property_value": 580926.5239635014,
-            "occupancy_rate": 0.7588548194386535,
-            "shared_credit_willingness": 0.876595526848325
-        },
-        "position": [
-            657.0968510815482,
-            438.420292988362
-        ]
+            "price": 0.7037072777597033,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 42.14937842672509,
-            "property_value": 671498.9078536043,
-            "occupancy_rate": 0.6633822585953103,
-            "shared_credit_willingness": 0.3612247078749419
-        },
-        "position": [
-            252.71623522802008,
-            204.99472568199553
-        ]
+            "price": 0.23785773931896348,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 31.149535581593778,
-            "property_value": 972556.0721730585,
-            "occupancy_rate": 0.03717401407268761,
-            "shared_credit_willingness": 0.3069293567705631
-        },
-        "position": [
-            645.9451039695023,
-            449.361363078988
-        ]
+            "price": 0.7252882096019883,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 97.34136481263249,
-            "property_value": 939186.7806016136,
-            "occupancy_rate": 0.8365283865577002,
-            "shared_credit_willingness": 0.2828770571981748
-        },
-        "position": [
-            556.2196359907232,
-            223.2891871733866
-        ]
+            "price": 0.21816259546489902,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 73.4462447518087,
-            "property_value": 972150.5882619513,
-            "occupancy_rate": 0.8760374582557127,
-            "shared_credit_willingness": 0.9804359505411829
-        },
-        "position": [
-            681.5588179749248,
-            360.10770840683006
-        ]
+            "price": 0.481897566556052,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.240641547492576,
-            "property_value": 470902.9688483102,
-            "occupancy_rate": 0.3635882896963919,
-            "shared_credit_willingness": 0.7489811193659847
-        },
-        "position": [
-            609.7820848723981,
-            493.8913293495047
-        ]
+            "price": 0.8560471408662725,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 80.52830326758725,
-            "property_value": 629562.8577876105,
-            "occupancy_rate": 0.5823856710486989,
-            "shared_credit_willingness": 0.5301324221383595
-        },
-        "position": [
-            587.6072969450474,
-            392.51660611162475
-        ]
+            "price": 0.2163494736064816,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 55.35058868220055,
-            "property_value": 967623.070568327,
-            "occupancy_rate": 0.6913471579815827,
-            "shared_credit_willingness": 0.2934319199398804
-        },
-        "position": [
-            624.6698627597669,
-            247.9575840242552
-        ]
+            "price": 0.9432116541569359,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.39259426179197,
-            "property_value": 756531.2076013908,
-            "occupancy_rate": 0.3690193831484918,
-            "shared_credit_willingness": 0.48570028250097175
-        },
-        "position": [
-            129.06936163964502,
-            124.92854244777769
-        ]
+            "price": 0.4612156557865592,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 24.58551017870828,
-            "property_value": 868296.8468603656,
-            "occupancy_rate": 0.6717131457176723,
-            "shared_credit_willingness": 0.7378619814756164
-        },
-        "position": [
-            638.5874433402108,
-            494.21980019523943
-        ]
+            "price": 0.2171203527325315,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 43.866803558672416,
-            "property_value": 100677.94292324572,
-            "occupancy_rate": 0.8525239049019554,
-            "shared_credit_willingness": 0.8558864567347682
-        },
-        "position": [
-            661.7115543552919,
-            223.43401508557852
-        ]
+            "price": 0.8954770575628677,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 98.18425828102933,
-            "property_value": 861492.3246407824,
-            "occupancy_rate": 0.2779660667529733,
-            "shared_credit_willingness": 0.9978710971465081
-        },
-        "position": [
-            198.24900158085666,
-            256.1955795269453
-        ]
+            "price": 0.5422123077207963,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 75.94630677294548,
-            "property_value": 175796.82119735645,
-            "occupancy_rate": 0.049154938123677105,
-            "shared_credit_willingness": 0.21676781911562293
-        },
-        "position": [
-            454.9759618976486,
-            263.42440771861015
-        ]
+            "price": 0.2338687552935783,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 49.65999232663496,
-            "property_value": 430468.6150552073,
-            "occupancy_rate": 0.9060179689022683,
-            "shared_credit_willingness": 0.6405348226640148
-        },
-        "position": [
-            546.4185641902366,
-            304.14613145069063
-        ]
+            "price": 0.814012073795245,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 47.255044008707145,
-            "property_value": 636100.8414236617,
-            "occupancy_rate": 0.9812578443515398,
-            "shared_credit_willingness": 0.8785776373688738
-        },
-        "position": [
-            438.86644992672086,
-            259.7701195064353
-        ]
+            "price": 0.3116523794660817,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 36.92601979583772,
-            "property_value": 481491.9472713782,
-            "occupancy_rate": 0.8030177318935228,
-            "shared_credit_willingness": 0.7898183672285031
-        },
-        "position": [
-            182.26506846089532,
-            132.80973195676458
-        ]
+            "price": 0.43602152851130327,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 80.47162002895126,
-            "property_value": 996607.4522113528,
-            "occupancy_rate": 0.8624946065668121,
-            "shared_credit_willingness": 0.9177304643510785
-        },
-        "position": [
-            198.86371284195658,
-            301.9824172131895
-        ]
+            "price": 0.5062960701169956,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.428975399975553,
-            "property_value": 272529.8768699815,
-            "occupancy_rate": 0.3866904364090823,
-            "shared_credit_willingness": 0.2922519974335498
-        },
-        "position": [
-            554.2794745756075,
-            220.95122103445573
-        ]
+            "price": 0.6393010961311836,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 30.68416346556061,
-            "property_value": 520619.6900065012,
-            "occupancy_rate": 0.7043097506819778,
-            "shared_credit_willingness": 0.39740385872228945
-        },
-        "position": [
-            490.26043728794417,
-            348.03369196799235
-        ]
+            "price": 0.872825981308326,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 88.43436826144652,
-            "property_value": 849945.7861986365,
-            "occupancy_rate": 0.7392095577829367,
-            "shared_credit_willingness": 0.6305288582477454
-        },
-        "position": [
-            361.5889962840165,
-            297.1703365634868
-        ]
+            "price": 0.17466085784871843,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 12.189156842450577,
-            "property_value": 709275.2336401157,
-            "occupancy_rate": 0.45329121859772115,
-            "shared_credit_willingness": 0.2926577682711977
-        },
-        "position": [
-            176.79914170395244,
-            427.99015171475037
-        ]
+            "price": 0.09321030411786024,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 9.999848290118907,
-            "property_value": 731617.4261938934,
-            "occupancy_rate": 0.3271589303304764,
-            "shared_credit_willingness": 0.14661703765453926
-        },
-        "position": [
-            225.05374485935937,
-            222.93722661251957
-        ]
+            "price": 0.2385826067663923,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 62.13845921298468,
-            "property_value": 809138.3914853036,
-            "occupancy_rate": 0.3873068447632012,
-            "shared_credit_willingness": 0.8346491485565383
-        },
-        "position": [
-            162.93687939426098,
-            494.98812991901076
-        ]
+            "price": 0.5863680797675105,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 5.0547709295941985,
-            "property_value": 872584.3882369916,
-            "occupancy_rate": 0.7617974347851273,
-            "shared_credit_willingness": 0.6298646354550959
-        },
-        "position": [
-            458.1153768274611,
-            240.17916175709524
-        ]
+            "price": 0.384661319260838,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 23.408783113908072,
-            "property_value": 531805.0421004109,
-            "occupancy_rate": 0.0018801028013721854,
-            "shared_credit_willingness": 0.033852811740322064
-        },
-        "position": [
-            648.1486036094568,
-            249.83774463172006
-        ]
+            "price": 0.026481260700122574,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 93.93420636355997,
-            "property_value": 257235.7492710466,
-            "occupancy_rate": 0.7572045973640686,
-            "shared_credit_willingness": 0.2182625874184625
-        },
-        "position": [
-            652.7590093531509,
-            345.3241741908512
-        ]
+            "price": 0.42531439582795283,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 99.95363450154326,
-            "property_value": 415931.2812543414,
-            "occupancy_rate": 0.08076435111287705,
-            "shared_credit_willingness": 0.3624873899849118
-        },
-        "position": [
-            524.4841151162403,
-            428.4906165169903
-        ]
+            "price": 0.6403260422979271,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 68.81261042668278,
-            "property_value": 692647.6893605223,
-            "occupancy_rate": 0.061061191946140125,
-            "shared_credit_willingness": 0.09818659016302822
-        },
-        "position": [
-            192.8905093625723,
-            279.17705546185056
-        ]
+            "price": 0.4813919036123775,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 69.71573227493879,
-            "property_value": 976960.748866689,
-            "occupancy_rate": 0.6570302678394148,
-            "shared_credit_willingness": 0.7624842501700313
-        },
-        "position": [
-            633.7185625140562,
-            352.7106103655012
-        ]
+            "price": 0.5203190772018667,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 4.548149503016907,
-            "property_value": 991625.5470845767,
-            "occupancy_rate": 0.41283436014970065,
-            "shared_credit_willingness": 0.2042229271999475
-        },
-        "position": [
-            333.83230087809204,
-            374.5956702018557
-        ]
+            "price": 0.6917617518355899,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 41.869563199640645,
-            "property_value": 969674.8137173023,
-            "occupancy_rate": 0.01637618388489337,
-            "shared_credit_willingness": 0.13352040796654185
-        },
-        "position": [
-            651.1752698883298,
-            385.822477851084
-        ]
+            "price": 0.5724992626208315,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 46.21227971226411,
-            "property_value": 356129.3947542774,
-            "occupancy_rate": 0.42217080049549527,
-            "shared_credit_willingness": 0.25852221834391365
-        },
-        "position": [
-            671.9420122227788,
-            252.35913719848523
-        ]
+            "price": 0.6102395189461868,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 49.80725526061135,
-            "property_value": 623961.1829711263,
-            "occupancy_rate": 0.17086317901703496,
-            "shared_credit_willingness": 0.09503733081535781
-        },
-        "position": [
-            156.7538836950771,
-            120.65455652778829
-        ]
+            "price": 0.8619677112296641,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 6.8288445400733195,
-            "property_value": 331151.8371593468,
-            "occupancy_rate": 0.6046532060202531,
-            "shared_credit_willingness": 0.19941219534651644
-        },
-        "position": [
-            510.8771184556261,
-            432.17701772044836
-        ]
+            "price": 0.8875209156073506,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 20.654831910195703,
-            "property_value": 732712.8224250017,
-            "occupancy_rate": 0.08337166433172516,
-            "shared_credit_willingness": 0.29278956409848234
-        },
-        "position": [
-            324.07286580614783,
-            238.41369198801124
-        ]
+            "price": 0.3870292964533878,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 88.14938278407084,
-            "property_value": 615796.6959815803,
-            "occupancy_rate": 0.011210976155246244,
-            "shared_credit_willingness": 0.33648673602619195
-        },
-        "position": [
-            151.37549437378448,
-            182.61840836681395
-        ]
+            "price": 0.8722948471205284,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 70.08045575070626,
-            "property_value": 580164.7548070505,
-            "occupancy_rate": 0.941501003009821,
-            "shared_credit_willingness": 0.10077643456043361
-        },
-        "position": [
-            508.57994576339104,
-            251.49694136708925
-        ]
+            "price": 0.287486498078915,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 95.24709494846235,
-            "property_value": 574872.8802686778,
-            "occupancy_rate": 0.14097642680460165,
-            "shared_credit_willingness": 0.563460914983897
-        },
-        "position": [
-            573.140868762659,
-            415.6135559594119
-        ]
+            "price": 0.7609644195392569,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 51.00481211320872,
-            "property_value": 274770.8985664465,
-            "occupancy_rate": 0.1792894709676598,
-            "shared_credit_willingness": 0.40070614422636486
-        },
-        "position": [
-            219.3351488706844,
-            416.3209046755003
-        ]
+            "price": 0.07585030806271231,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 91.0362090995954,
-            "property_value": 794230.795669852,
-            "occupancy_rate": 0.821135233857062,
-            "shared_credit_willingness": 0.29479161732690906
-        },
-        "position": [
-            575.7316176108786,
-            249.91591055377168
-        ]
+            "price": 0.7011584716067156,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 6.700597718147561,
-            "property_value": 333352.49805046973,
-            "occupancy_rate": 0.08746649166478804,
-            "shared_credit_willingness": 0.9634012796642349
-        },
-        "position": [
-            559.7472599731648,
-            302.282872421948
-        ]
+            "price": 0.26595861744603055,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 89.68406463949925,
-            "property_value": 523956.21629734075,
-            "occupancy_rate": 0.5844096440567982,
-            "shared_credit_willingness": 0.538045995329295
-        },
-        "position": [
-            452.70438561400306,
-            199.83231551758593
-        ]
+            "price": 0.38664895329018323,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 94.37773660691016,
-            "property_value": 569642.2466566928,
-            "occupancy_rate": 0.946110082304562,
-            "shared_credit_willingness": 0.060417446939864394
-        },
-        "position": [
-            259.47613278089455,
-            167.0989895161527
-        ]
+            "price": 0.25217456379503167,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 53.82231175465586,
-            "property_value": 255492.12972717517,
-            "occupancy_rate": 0.4977175355480644,
-            "shared_credit_willingness": 0.9372770884558356
-        },
-        "position": [
-            456.8276035407846,
-            444.69576030618845
-        ]
+            "price": 0.23632991933448144,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 0.7643716367106257,
-            "property_value": 743547.5853740936,
-            "occupancy_rate": 0.9019288116595789,
-            "shared_credit_willingness": 0.6242200722322466
-        },
-        "position": [
-            588.891081701493,
-            375.1009033208158
-        ]
+            "price": 0.7879164691663171,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 50.87446641074317,
-            "property_value": 817564.3740378879,
-            "occupancy_rate": 0.6792587037483944,
-            "shared_credit_willingness": 0.5889600434051707
-        },
-        "position": [
-            580.7421778606462,
-            366.74246877124307
-        ]
+            "price": 0.7059055381888232,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 72.0624456820793,
-            "property_value": 698050.9177867558,
-            "occupancy_rate": 0.47294957151191674,
-            "shared_credit_willingness": 0.3294466157702035
-        },
-        "position": [
-            119.79964119393463,
-            162.04617134206543
-        ]
+            "price": 0.013219340683924162,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 97.47452012123841,
-            "property_value": 629574.4242728007,
-            "occupancy_rate": 0.7727365542305205,
-            "shared_credit_willingness": 0.19768571115569533
-        },
-        "position": [
-            296.82035123391813,
-            296.93464735601117
-        ]
+            "price": 0.08660339133721351,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 78.84110905863868,
-            "property_value": 552359.3467194014,
-            "occupancy_rate": 0.7666497918365461,
-            "shared_credit_willingness": 0.8257573083269222
-        },
-        "position": [
-            503.5744427039622,
-            154.75916712198585
-        ]
+            "price": 0.392616782479862,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 95.93223696695728,
-            "property_value": 231697.75779545025,
-            "occupancy_rate": 0.5293640561259789,
-            "shared_credit_willingness": 0.5828716570737263
-        },
-        "position": [
-            205.19621941716497,
-            400.18854593000054
-        ]
+            "price": 0.7254029754286752,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 73.35314066190833,
-            "property_value": 761337.1477080036,
-            "occupancy_rate": 0.44634134945815485,
-            "shared_credit_willingness": 0.23204969959366029
-        },
-        "position": [
-            415.40546213472646,
-            165.57796087548041
-        ]
+            "price": 0.011859444595530346,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 74.63140102404562,
-            "property_value": 105373.67805981982,
-            "occupancy_rate": 0.9042150243351094,
-            "shared_credit_willingness": 0.5839358001659071
-        },
-        "position": [
-            235.9429841769523,
-            111.4706729758021
-        ]
+            "price": 0.08269834675106569,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 45.908301034853125,
-            "property_value": 543760.9052710079,
-            "occupancy_rate": 0.3902517531702412,
-            "shared_credit_willingness": 0.2309801676233627
-        },
-        "position": [
-            115.71005980180465,
-            433.2282401850879
-        ]
+            "price": 0.6357586048932242,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 40.196151035917225,
-            "property_value": 702614.1064221926,
-            "occupancy_rate": 0.07378009130995966,
-            "shared_credit_willingness": 0.5480897624800328
-        },
-        "position": [
-            509.65842626761105,
-            469.0381640816713
-        ]
+            "price": 0.7802281884683901,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 42.58497105415747,
-            "property_value": 154509.32880708296,
-            "occupancy_rate": 0.313403471435571,
-            "shared_credit_willingness": 0.8522895081116308
-        },
-        "position": [
-            263.0620083051689,
-            266.23854526280127
-        ]
+            "price": 0.014655380760879242,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.723136280835323,
-            "property_value": 522391.37707881664,
-            "occupancy_rate": 0.9801332667642156,
-            "shared_credit_willingness": 0.6474347241980948
-        },
-        "position": [
-            470.49091611443447,
-            377.7062097708595
-        ]
+            "price": 0.4154551439799513,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 2.2735205421931193,
-            "property_value": 111939.80218194445,
-            "occupancy_rate": 0.12627885484545487,
-            "shared_credit_willingness": 0.43813500307134956
-        },
-        "position": [
-            238.84741761526357,
-            347.9753480049952
-        ]
+            "price": 0.540751120847713,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.07106580102929,
-            "property_value": 154588.0128018314,
-            "occupancy_rate": 0.20840713024327429,
-            "shared_credit_willingness": 0.5678191484271661
-        },
-        "position": [
-            242.77603290702427,
-            356.65477847191033
-        ]
+            "price": 0.43998647747899733,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 62.089223461688384,
-            "property_value": 358442.82950404414,
-            "occupancy_rate": 0.09930223834084051,
-            "shared_credit_willingness": 0.6255933724326872
-        },
-        "position": [
-            680.1461971658143,
-            163.98057129845856
-        ]
+            "price": 0.3964900483227186,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 16.86681063145359,
-            "property_value": 133291.28027527308,
-            "occupancy_rate": 0.5299345295539358,
-            "shared_credit_willingness": 0.9155088178781483
-        },
-        "position": [
-            287.51927355565925,
-            397.2322651007843
-        ]
+            "price": 0.8559573821368658,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 62.15624373901557,
-            "property_value": 383614.63816237985,
-            "occupancy_rate": 0.44719454280475246,
-            "shared_credit_willingness": 0.409452740833974
-        },
-        "position": [
-            338.25970540443745,
-            226.62072969000224
-        ]
+            "price": 0.08833349686712288,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 98.82341367930383,
-            "property_value": 244960.03535196217,
-            "occupancy_rate": 0.9429512354405609,
-            "shared_credit_willingness": 0.5656008873470927
-        },
-        "position": [
-            459.6792514491686,
-            439.67327228563784
-        ]
+            "price": 0.7188741496334431,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 29.712728420523316,
-            "property_value": 473880.66484602814,
-            "occupancy_rate": 0.06561427182027701,
-            "shared_credit_willingness": 0.5151208403515537
-        },
-        "position": [
-            500.1489606102166,
-            278.2577890861703
-        ]
+            "price": 0.18723671074564607,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.651225362927633,
-            "property_value": 576322.3258025174,
-            "occupancy_rate": 0.2789618056920914,
-            "shared_credit_willingness": 0.23723932282646665
-        },
-        "position": [
-            470.93314373516745,
-            155.6167725128669
-        ]
+            "price": 0.7016420169112423,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 63.53649336691588,
-            "property_value": 360349.30069538706,
-            "occupancy_rate": 0.282812488844273,
-            "shared_credit_willingness": 0.7054997841598032
-        },
-        "position": [
-            389.79056385859633,
-            327.7918084354572
-        ]
+            "price": 0.5975566335688013,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 7.564663165492114,
-            "property_value": 827859.3583946791,
-            "occupancy_rate": 0.37826400343382827,
-            "shared_credit_willingness": 0.46425908565063834
-        },
-        "position": [
-            186.7164097734708,
-            333.55097305159995
-        ]
+            "price": 0.897699186439425,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 2.6469779797062887,
-            "property_value": 142705.55037450447,
-            "occupancy_rate": 0.5240820485652796,
-            "shared_credit_willingness": 0.9964638394463354
-        },
-        "position": [
-            309.73540902228916,
-            300.5662374140254
-        ]
+            "price": 0.701788658490831,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 72.37243921452688,
-            "property_value": 749723.132259283,
-            "occupancy_rate": 0.8353222945415187,
-            "shared_credit_willingness": 0.4493186817328759
-        },
-        "position": [
-            132.41818336148015,
-            232.73027912832202
-        ]
+            "price": 0.11253262489826976,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 29.195165435428894,
-            "property_value": 707373.0014049548,
-            "occupancy_rate": 0.27883268664211314,
-            "shared_credit_willingness": 0.11746794414159778
-        },
-        "position": [
-            127.18181316850468,
-            329.5243474101658
-        ]
+            "price": 0.7175222631536061,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 54.93746127715854,
-            "property_value": 481345.02852123394,
-            "occupancy_rate": 0.13065732288977927,
-            "shared_credit_willingness": 0.7514944724908925
-        },
-        "position": [
-            133.22602948066802,
-            343.4203220356583
-        ]
+            "price": 0.3569447880602369,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 44.48669502599788,
-            "property_value": 288740.6541283445,
-            "occupancy_rate": 0.03017534069322092,
-            "shared_credit_willingness": 0.3097908935522442
-        },
-        "position": [
-            286.4845524525433,
-            332.393101614137
-        ]
+            "price": 0.22511189249027574,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.28378565528552,
-            "property_value": 571531.9206627465,
-            "occupancy_rate": 0.7021826799368169,
-            "shared_credit_willingness": 0.8469837039819408
-        },
-        "position": [
-            113.30849456177725,
-            274.207921761074
-        ]
+            "price": 0.4535661534835489,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 21.910146420589605,
-            "property_value": 345146.63176671043,
-            "occupancy_rate": 0.8264479526005338,
-            "shared_credit_willingness": 0.40643122137143084
-        },
-        "position": [
-            392.6355691990116,
-            344.31891049756007
-        ]
+            "price": 0.4235153950835453,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 73.72535754125737,
-            "property_value": 832800.5077816442,
-            "occupancy_rate": 0.816099700312617,
-            "shared_credit_willingness": 0.22719826487279138
-        },
-        "position": [
-            661.8899724090119,
-            269.37334150939853
-        ]
+            "price": 0.2649542019670099,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 27.85476518017743,
-            "property_value": 577333.0744190733,
-            "occupancy_rate": 0.9547562427193783,
-            "shared_credit_willingness": 0.22015116277106195
-        },
-        "position": [
-            525.4369647463399,
-            432.92952693547056
-        ]
+            "price": 0.48742741090105635,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 12.628080000779008,
-            "property_value": 243648.96347977288,
-            "occupancy_rate": 0.5489226305888578,
-            "shared_credit_willingness": 0.8580397958595105
-        },
-        "position": [
-            240.8623793065618,
-            133.30976928107737
-        ]
+            "price": 0.6076058328185182,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 91.99652958864257,
-            "property_value": 788556.2902631465,
-            "occupancy_rate": 0.4145053780233998,
-            "shared_credit_willingness": 0.18466651243008192
-        },
-        "position": [
-            239.51244057916753,
-            324.43183177213564
-        ]
+            "price": 0.5194327765952941,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 31.43454611514923,
-            "property_value": 774673.9722559052,
-            "occupancy_rate": 0.07896240249950204,
-            "shared_credit_willingness": 0.8496600276497134
-        },
-        "position": [
-            277.71767485286216,
-            122.52751120026142
-        ]
+            "price": 0.28971583587601446,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.319465380972638,
-            "property_value": 183307.59430059354,
-            "occupancy_rate": 0.17881268666782835,
-            "shared_credit_willingness": 0.5470826530064513
-        },
-        "position": [
-            193.31244815672937,
-            321.2209156889823
-        ]
+            "price": 0.8298252950786135,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 88.61942788460048,
-            "property_value": 124848.38742578696,
-            "occupancy_rate": 0.3871506411626521,
-            "shared_credit_willingness": 0.046426843255054084
-        },
-        "position": [
-            556.7657185662122,
-            192.24735550790805
-        ]
+            "price": 0.06876091685982955,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 44.59270057225374,
-            "property_value": 608598.652528658,
-            "occupancy_rate": 0.551841529414545,
-            "shared_credit_willingness": 0.49851315825702924
-        },
-        "position": [
-            382.6507247135396,
-            271.59552801103166
-        ]
+            "price": 0.869930699831919,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 4.279435692736788,
-            "property_value": 394301.14098823984,
-            "occupancy_rate": 0.21413888819524496,
-            "shared_credit_willingness": 0.5824473427944777
-        },
-        "position": [
-            488.30349562248034,
-            287.6756214137022
-        ]
+            "price": 0.9214233236783412,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 67.72882046559113,
-            "property_value": 972448.400548329,
-            "occupancy_rate": 0.612589666872426,
-            "shared_credit_willingness": 0.0685927069602259
-        },
-        "position": [
-            371.75543014179294,
-            428.1386985148585
-        ]
+            "price": 0.12416303172007903,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 43.471605640319545,
-            "property_value": 926150.1981804739,
-            "occupancy_rate": 0.5951628264605682,
-            "shared_credit_willingness": 0.22807840272494784
-        },
-        "position": [
-            530.4778625323484,
-            430.4035186994963
-        ]
+            "price": 0.373931541678754,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.335586623471796,
-            "property_value": 327729.6802145047,
-            "occupancy_rate": 0.9887890702538178,
-            "shared_credit_willingness": 0.41742867505243597
-        },
-        "position": [
-            594.7237683917554,
-            315.4895215386377
-        ]
+            "price": 0.8416764997599059,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 30.417650064709566,
-            "property_value": 656045.4136307144,
-            "occupancy_rate": 0.8518985984222194,
-            "shared_credit_willingness": 0.4843425937471394
-        },
-        "position": [
-            480.5481688573973,
-            196.37387101342014
-        ]
+            "price": 0.7777640925865571,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 70.24269024114645,
-            "property_value": 244544.10813796957,
-            "occupancy_rate": 0.30314254560618525,
-            "shared_credit_willingness": 0.20659968055493794
-        },
-        "position": [
-            455.8767844034969,
-            103.14004411136585
-        ]
+            "price": 0.9263184820144212,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 77.62891416540948,
-            "property_value": 819033.648917408,
-            "occupancy_rate": 0.1446634919387889,
-            "shared_credit_willingness": 0.5342318684923294
-        },
-        "position": [
-            266.4867266361921,
-            233.0853958336018
-        ]
+            "price": 0.9366028420430826,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 18.250812306297526,
-            "property_value": 836611.3443217791,
-            "occupancy_rate": 0.8277890790293482,
-            "shared_credit_willingness": 0.4328262864983079
-        },
-        "position": [
-            230.42768675213304,
-            283.20648705186284
-        ]
+            "price": 0.2157088206203821,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 81.84049832930876,
-            "property_value": 312277.3424614264,
-            "occupancy_rate": 0.27453407437705746,
-            "shared_credit_willingness": 0.48632547110000235
-        },
-        "position": [
-            337.67222643346093,
-            312.8631280775707
-        ]
+            "price": 0.26193139955939426,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 50.58734470641761,
-            "property_value": 836129.1864425556,
-            "occupancy_rate": 0.8925202723463049,
-            "shared_credit_willingness": 0.5248468627028199
-        },
-        "position": [
-            236.8295085871366,
-            318.240969674806
-        ]
+            "price": 0.035522471257086186,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 48.222498781473476,
-            "property_value": 755301.3079418713,
-            "occupancy_rate": 0.42855966250448874,
-            "shared_credit_willingness": 0.9416298469577847
-        },
-        "position": [
-            170.84649117499822,
-            409.0695599502107
-        ]
+            "price": 0.5207640853613632,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 65.501693815478,
-            "property_value": 634149.6874139592,
-            "occupancy_rate": 0.2841935776553066,
-            "shared_credit_willingness": 0.5201522612216944
-        },
-        "position": [
-            531.0122191479401,
-            212.04922835242334
-        ]
+            "price": 0.7748696579080194,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 63.86603149005205,
-            "property_value": 273266.25870073494,
-            "occupancy_rate": 0.04731182648493426,
-            "shared_credit_willingness": 0.459814565502096
-        },
-        "position": [
-            343.44740534649384,
-            167.28063350253902
-        ]
+            "price": 0.6688193614615259,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 36.58404380279995,
-            "property_value": 666948.5683507721,
-            "occupancy_rate": 0.4010560391666206,
-            "shared_credit_willingness": 0.5472750233427242
-        },
-        "position": [
-            485.83582674321224,
-            202.68170179433565
-        ]
+            "price": 0.2751679489654546,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.991392554159837,
-            "property_value": 740178.3200084588,
-            "occupancy_rate": 0.9018044127893323,
-            "shared_credit_willingness": 0.7689116569583643
-        },
-        "position": [
-            518.1807022851056,
-            444.67053156605687
-        ]
+            "price": 0.6844439129598168,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 20.449830340511287,
-            "property_value": 485722.29133693373,
-            "occupancy_rate": 0.4509666396997606,
-            "shared_credit_willingness": 0.45300846839914
-        },
-        "position": [
-            401.351993578273,
-            322.56199722400265
-        ]
+            "price": 0.04386207498730998,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 92.53185360254503,
-            "property_value": 264445.3668403361,
-            "occupancy_rate": 0.5510555946744174,
-            "shared_credit_willingness": 0.33041849549963576
-        },
-        "position": [
-            174.57401055474668,
-            342.5646124873748
-        ]
+            "price": 0.41560457858159827,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 28.302930009757567,
-            "property_value": 845946.8509865835,
-            "occupancy_rate": 0.951429168049801,
-            "shared_credit_willingness": 0.5265180664397783
-        },
-        "position": [
-            158.1105645975042,
-            168.44558103920605
-        ]
+            "price": 0.8289323094335537,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 27.124921512420308,
-            "property_value": 189419.22859480424,
-            "occupancy_rate": 0.8306777790689751,
-            "shared_credit_willingness": 0.5191964704423102
-        },
-        "position": [
-            303.60096181214226,
-            256.5173053448362
-        ]
+            "price": 0.06455225809365517,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 83.08775488042171,
-            "property_value": 747079.5285863628,
-            "occupancy_rate": 0.1954207198946103,
-            "shared_credit_willingness": 0.1392033308330095
-        },
-        "position": [
-            561.7776791745229,
-            147.9824123103134
-        ]
+            "price": 0.1404566689364427,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 50.976808039302746,
-            "property_value": 253046.6121980136,
-            "occupancy_rate": 0.028986649877067006,
-            "shared_credit_willingness": 0.6172200352540389
-        },
-        "position": [
-            448.4018067769274,
-            451.6383718582887
-        ]
+            "price": 0.9002943596768062,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 53.782700473288926,
-            "property_value": 121950.3577380619,
-            "occupancy_rate": 0.8077598190468719,
-            "shared_credit_willingness": 0.8019193785032721
-        },
-        "position": [
-            188.32824158918325,
-            465.4403999778604
-        ]
+            "price": 0.6881587562510482,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 10.088577712104719,
-            "property_value": 932123.9180136757,
-            "occupancy_rate": 0.9833881193054865,
-            "shared_credit_willingness": 0.5096266216668022
-        },
-        "position": [
-            362.3164813797432,
-            349.9219846469779
-        ]
+            "price": 0.4578382155965316,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 55.38295900065877,
-            "property_value": 351426.4148822946,
-            "occupancy_rate": 0.10502294645094723,
-            "shared_credit_willingness": 0.5028495651740538
-        },
-        "position": [
-            443.26041737864324,
-            130.5568058477417
-        ]
+            "price": 0.23148055754689756,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 56.180939912333685,
-            "property_value": 135902.88325384806,
-            "occupancy_rate": 0.5758841393147809,
-            "shared_credit_willingness": 0.6387505499446742
-        },
-        "position": [
-            228.88187719392482,
-            197.78363312104517
-        ]
+            "price": 0.3026117991377736,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.083947210954136,
-            "property_value": 512414.26066198427,
-            "occupancy_rate": 0.44685168130298936,
-            "shared_credit_willingness": 0.9766763559582691
-        },
-        "position": [
-            679.3184938775788,
-            182.22870643372028
-        ]
+            "price": 0.8208885312133135,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 61.137714188487415,
-            "property_value": 181973.56752084487,
-            "occupancy_rate": 0.8710710149765559,
-            "shared_credit_willingness": 0.38031375222326214
-        },
-        "position": [
-            445.9206035791152,
-            167.0648332610665
-        ]
+            "price": 0.8924486988205639,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 78.06062636929255,
-            "property_value": 760320.6731623529,
-            "occupancy_rate": 0.9542987995712767,
-            "shared_credit_willingness": 0.6714632367358789
-        },
-        "position": [
-            300.74755737993564,
-            469.8951647715371
-        ]
+            "price": 0.5181397012450569,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 30.311701084801022,
-            "property_value": 301530.9785398998,
-            "occupancy_rate": 0.15021515781686412,
-            "shared_credit_willingness": 0.9468329039489252
-        },
-        "position": [
-            611.6339669411598,
-            494.47717315154887
-        ]
+            "price": 0.6982568334225999,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 3.1878924604549663,
-            "property_value": 886820.5122505657,
-            "occupancy_rate": 0.5366428172328919,
-            "shared_credit_willingness": 0.26468234782159006
-        },
-        "position": [
-            137.71423829722409,
-            172.0153497706502
-        ]
+            "price": 0.9745483614994838,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 84.3462340971941,
-            "property_value": 719850.7010241292,
-            "occupancy_rate": 0.4382781829423613,
-            "shared_credit_willingness": 0.9892485531703336
-        },
-        "position": [
-            331.93964367006447,
-            366.3308978513519
-        ]
+            "price": 0.13809516585958803,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 37.91538600803581,
-            "property_value": 630494.5875623747,
-            "occupancy_rate": 0.12967519139489092,
-            "shared_credit_willingness": 0.8159534031307779
-        },
-        "position": [
-            233.31324677262506,
-            420.65446883015136
-        ]
+            "price": 0.6514184046443817,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 84.56076246245725,
-            "property_value": 635099.3554722394,
-            "occupancy_rate": 0.4168809494134741,
-            "shared_credit_willingness": 0.9103709281546408
-        },
-        "position": [
-            660.9657885402147,
-            123.92588742325455
-        ]
+            "price": 0.5522018389589722,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 51.21985403071497,
-            "property_value": 719758.0989623739,
-            "occupancy_rate": 0.5546949425362854,
-            "shared_credit_willingness": 0.9458801662843455
-        },
-        "position": [
-            631.7127205179706,
-            105.88986758286474
-        ]
+            "price": 0.12003241869588789,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.612699924646144,
-            "property_value": 550304.763004466,
-            "occupancy_rate": 0.009439594492915315,
-            "shared_credit_willingness": 0.8034359924972649
-        },
-        "position": [
-            525.3977765614425,
-            369.3585913679314
-        ]
+            "price": 0.8475213267719532,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 11.575349636026333,
-            "property_value": 641056.4889863547,
-            "occupancy_rate": 0.22839261143621914,
-            "shared_credit_willingness": 0.2956368939664631
-        },
-        "position": [
-            249.47553085797,
-            452.3478941312521
-        ]
+            "price": 0.21566373726783383,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 99.63055269891751,
-            "property_value": 878506.5452812755,
-            "occupancy_rate": 0.8756040376202125,
-            "shared_credit_willingness": 0.9111671734698681
-        },
-        "position": [
-            381.13122705917243,
-            447.6819469371183
-        ]
+            "price": 0.11634893327439777,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 40.71694904355885,
-            "property_value": 886164.8789964281,
-            "occupancy_rate": 0.42448901963676655,
-            "shared_credit_willingness": 0.47296817456170326
-        },
-        "position": [
-            340.42953750500635,
-            257.22740243479615
-        ]
+            "price": 0.3032162903698188,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 26.273059678238432,
-            "property_value": 361067.9365022761,
-            "occupancy_rate": 0.17884088921035857,
-            "shared_credit_willingness": 0.533851497940131
-        },
-        "position": [
-            620.7596697051272,
-            323.0529535537629
-        ]
+            "price": 0.38847069964414926,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 66.72499323354216,
-            "property_value": 522737.3807723304,
-            "occupancy_rate": 0.7360032711205813,
-            "shared_credit_willingness": 0.40258408727840134
-        },
-        "position": [
-            114.41645362566328,
-            156.17689378146946
-        ]
+            "price": 0.6206642770262216,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 37.46379401939688,
-            "property_value": 548765.9503718102,
-            "occupancy_rate": 0.3022589090200142,
-            "shared_credit_willingness": 0.1689117327277122
-        },
-        "position": [
-            599.4513491202815,
-            459.85540285346167
-        ]
+            "price": 0.21302767916925391,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 70.44983335996545,
-            "property_value": 248938.44135610308,
-            "occupancy_rate": 0.18613154995890935,
-            "shared_credit_willingness": 0.8094200290740698
-        },
-        "position": [
-            184.6497734745313,
-            388.3202706547901
-        ]
+            "price": 0.5426310457534871,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 86.62204769147067,
-            "property_value": 406086.08358809137,
-            "occupancy_rate": 0.4245021512546836,
-            "shared_credit_willingness": 0.4130194282053484
-        },
-        "position": [
-            455.1821956989436,
-            352.9144226686112
-        ]
+            "price": 0.1753298383424574,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 88.99897538862466,
-            "property_value": 877155.6581478681,
-            "occupancy_rate": 0.20803997128392338,
-            "shared_credit_willingness": 0.6914101854943375
-        },
-        "position": [
-            322.03877195727654,
-            110.84563833929657
-        ]
+            "price": 0.12215032755964972,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 7.283365483296822,
-            "property_value": 287859.6965360755,
-            "occupancy_rate": 0.9111230463343561,
-            "shared_credit_willingness": 0.6855913052350135
-        },
-        "position": [
-            627.058230534931,
-            134.19385718794823
-        ]
+            "price": 0.5020110642526566,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 90.50185496842126,
-            "property_value": 866413.1737354423,
-            "occupancy_rate": 0.24368405004300653,
-            "shared_credit_willingness": 0.08077913650760449
-        },
-        "position": [
-            323.5410643435119,
-            333.2831015785723
-        ]
+            "price": 0.583273521512629,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 27.97222684113049,
-            "property_value": 980560.4896579352,
-            "occupancy_rate": 0.07159716958969498,
-            "shared_credit_willingness": 0.6628797537265367
-        },
-        "position": [
-            406.8278328992112,
-            351.4656758492714
-        ]
+            "price": 0.4833767263992107,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 42.68669160196461,
-            "property_value": 866131.2294575946,
-            "occupancy_rate": 0.36184066825223404,
-            "shared_credit_willingness": 0.148040323863461
-        },
-        "position": [
-            438.239290485123,
-            367.08285465525023
-        ]
+            "price": 0.3250095478678302,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 31.032657645155336,
-            "property_value": 581004.1139025823,
-            "occupancy_rate": 0.8116492198443184,
-            "shared_credit_willingness": 0.2837069205379966
-        },
-        "position": [
-            170.78802606787818,
-            243.79728200878623
-        ]
+            "price": 0.33733684960034804,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.104589729400427,
-            "property_value": 849119.0929692229,
-            "occupancy_rate": 0.3710059360870974,
-            "shared_credit_willingness": 0.9737379436337459
-        },
-        "position": [
-            257.18564547065387,
-            276.8497003342019
-        ]
+            "price": 0.7535075201211414,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.214284032045825,
-            "property_value": 456496.1762010939,
-            "occupancy_rate": 0.1296844627290149,
-            "shared_credit_willingness": 0.1689262358059559
-        },
-        "position": [
-            150.48735905234773,
-            477.5708401737117
-        ]
+            "price": 0.0027495857226476073,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 25.531508140283965,
-            "property_value": 234710.02224414406,
-            "occupancy_rate": 0.02121908733318434,
-            "shared_credit_willingness": 0.6845294446878465
-        },
-        "position": [
-            601.0198676325917,
-            376.6236588327875
-        ]
+            "price": 0.9826690599738525,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 97.53570726989345,
-            "property_value": 520284.281306469,
-            "occupancy_rate": 0.5220310190667194,
-            "shared_credit_willingness": 0.254377474794763
-        },
-        "position": [
-            166.5634408415109,
-            340.20106128528585
-        ]
+            "price": 0.5375312364330448,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 8.297897681108978,
-            "property_value": 956833.4476915757,
-            "occupancy_rate": 0.9973829478844478,
-            "shared_credit_willingness": 0.3194887436929521
-        },
-        "position": [
-            699.7488088643415,
-            219.4622803523019
-        ]
+            "price": 0.48330404509480496,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 53.9719572163351,
-            "property_value": 483407.3381764155,
-            "occupancy_rate": 0.34208518133885657,
-            "shared_credit_willingness": 0.43215555369097947
-        },
-        "position": [
-            269.1029344450996,
-            340.3005555515757
-        ]
+            "price": 0.5430419638612576,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 18.355927528663152,
-            "property_value": 290036.08909537585,
-            "occupancy_rate": 0.9678031242065439,
-            "shared_credit_willingness": 0.5062502950991952
-        },
-        "position": [
-            278.462079513431,
-            464.2913493066112
-        ]
+            "price": 0.2699707568153649,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 60.95366754284378,
-            "property_value": 423805.3884403744,
-            "occupancy_rate": 0.7480925648840705,
-            "shared_credit_willingness": 0.9193706849727661
-        },
-        "position": [
-            389.7244084187647,
-            187.00419616584347
-        ]
+            "price": 0.24003828117126313,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 43.04722276283782,
-            "property_value": 536674.3944492707,
-            "occupancy_rate": 0.006414257061531647,
-            "shared_credit_willingness": 0.11411964519267404
-        },
-        "position": [
-            637.4437628416313,
-            441.8049812636181
-        ]
+            "price": 0.014889367213478222,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 74.4799749994115,
-            "property_value": 133379.44829013664,
-            "occupancy_rate": 0.4351959038017146,
-            "shared_credit_willingness": 0.23413128583835674
-        },
-        "position": [
-            524.7425590094946,
-            101.07323995519732
-        ]
+            "price": 0.09171648243909192,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 72.91321277404151,
-            "property_value": 139889.87943323987,
-            "occupancy_rate": 0.17876795645411192,
-            "shared_credit_willingness": 0.4844496750195253
-        },
-        "position": [
-            278.1066636799363,
-            250.91803040359162
-        ]
+            "price": 0.20621586839469097,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 17.81016902396255,
-            "property_value": 648492.9524348609,
-            "occupancy_rate": 0.019007932335962208,
-            "shared_credit_willingness": 0.3057302144484563
-        },
-        "position": [
-            218.09854808458735,
-            180.97383682828863
-        ]
+            "price": 0.7341262353222208,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.199850842342485,
-            "property_value": 169566.1384436107,
-            "occupancy_rate": 0.37055053330989784,
-            "shared_credit_willingness": 0.30356112758668097
-        },
-        "position": [
-            642.2921658171726,
-            492.3842868323897
-        ]
+            "price": 0.5161373482033308,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 85.54228957966447,
-            "property_value": 856437.4005582426,
-            "occupancy_rate": 0.24943930036366757,
-            "shared_credit_willingness": 0.11575672507245283
-        },
-        "position": [
-            173.53075664784222,
-            354.7743757445421
-        ]
+            "price": 0.9673447297964295,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 27.937884920270207,
-            "property_value": 799612.7605666601,
-            "occupancy_rate": 0.14561879930592314,
-            "shared_credit_willingness": 0.4242789410037573
-        },
-        "position": [
-            205.72597911134113,
-            435.621613938418
-        ]
+            "price": 0.280657939122121,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 2.3567249489193975,
-            "property_value": 441895.52877927216,
-            "occupancy_rate": 0.036742641203056925,
-            "shared_credit_willingness": 0.5036693960048834
-        },
-        "position": [
-            268.59245588946976,
-            307.3155110725861
-        ]
+            "price": 0.3419688184945002,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 22.64970077810622,
-            "property_value": 257088.2407685721,
-            "occupancy_rate": 0.9702512332792965,
-            "shared_credit_willingness": 0.7976801708839232
-        },
-        "position": [
-            129.3974319421783,
-            230.47265690217466
-        ]
+            "price": 0.5289326500242664,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 14.536966528927287,
-            "property_value": 340147.7643067342,
-            "occupancy_rate": 0.818640665971332,
-            "shared_credit_willingness": 0.07304272536232492
-        },
-        "position": [
-            382.3228846012006,
-            439.6526436678043
-        ]
+            "price": 0.4762727372750565,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 77.309674305146,
-            "property_value": 769586.2875467814,
-            "occupancy_rate": 0.40110089036353647,
-            "shared_credit_willingness": 0.926973763329774
-        },
-        "position": [
-            447.03039518685546,
-            335.753994730447
-        ]
+            "price": 0.35379379533907707,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 98.25921349193652,
-            "property_value": 772691.489428435,
-            "occupancy_rate": 0.47847401296971004,
-            "shared_credit_willingness": 0.666228603324519
-        },
-        "position": [
-            390.38348667455296,
-            168.48755832817463
-        ]
+            "price": 0.9551047464248809,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 92.25517050282846,
-            "property_value": 356952.1185377011,
-            "occupancy_rate": 0.8976545776920751,
-            "shared_credit_willingness": 0.2326275679929931
-        },
-        "position": [
-            449.98738573252075,
-            174.07336023158786
-        ]
+            "price": 0.8498321420979769,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 97.54593631063629,
-            "property_value": 377164.21100278397,
-            "occupancy_rate": 0.5520347841166597,
-            "shared_credit_willingness": 0.41845112390944506
-        },
-        "position": [
-            172.66055152348815,
-            397.52892297630484
-        ]
+            "price": 0.14795332965874408,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.36064002558469,
-            "property_value": 165033.9028088052,
-            "occupancy_rate": 0.7529379582643629,
-            "shared_credit_willingness": 0.312608264328753
-        },
-        "position": [
-            277.38891241945737,
-            225.8003335679576
-        ]
+            "price": 0.5285513875731029,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 11.654265366954109,
-            "property_value": 206652.7611640076,
-            "occupancy_rate": 0.9746197412330364,
-            "shared_credit_willingness": 0.651643204674824
-        },
-        "position": [
-            597.4498317515992,
-            291.7152502760956
-        ]
+            "price": 0.4009949734223391,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.065217028334285,
-            "property_value": 148009.81856266872,
-            "occupancy_rate": 0.7150504445124259,
-            "shared_credit_willingness": 0.6330871306313169
-        },
-        "position": [
-            621.5634878116175,
-            344.48206652189236
-        ]
+            "price": 0.5824658714124629,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 10.822928101093709,
-            "property_value": 404326.4092689402,
-            "occupancy_rate": 0.5327935560067614,
-            "shared_credit_willingness": 0.9576698766325601
-        },
-        "position": [
-            186.02092394145507,
-            489.539456849352
-        ]
+            "price": 0.7619310302705261,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 39.87201235401757,
-            "property_value": 290423.14603859663,
-            "occupancy_rate": 0.3128981174180592,
-            "shared_credit_willingness": 0.9268426218971171
-        },
-        "position": [
-            631.1717626289718,
-            106.39133836338281
-        ]
+            "price": 0.9974318242004658,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 95.72184157955894,
-            "property_value": 271627.9711282099,
-            "occupancy_rate": 0.8464174556768076,
-            "shared_credit_willingness": 0.3875923694728334
-        },
-        "position": [
-            413.8853502266351,
-            178.61836799304916
-        ]
+            "price": 0.3200144339449378,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 6.369115842492756,
-            "property_value": 148547.52646908164,
-            "occupancy_rate": 0.6142236386760465,
-            "shared_credit_willingness": 0.8723979547525375
-        },
-        "position": [
-            661.2810905189541,
-            387.05235392473395
-        ]
+            "price": 0.20280467620243292,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 16.34758795712924,
-            "property_value": 437704.14444832125,
-            "occupancy_rate": 0.0029201049283392733,
-            "shared_credit_willingness": 0.35355798443007824
-        },
-        "position": [
-            372.72653669710417,
-            191.49394115997742
-        ]
+            "price": 0.14064100732757867,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 5.542458997311295,
-            "property_value": 454263.2581761369,
-            "occupancy_rate": 0.3726293416532698,
-            "shared_credit_willingness": 0.3578565644258387
-        },
-        "position": [
-            421.2325482885335,
-            478.8609985023188
-        ]
+            "price": 0.8653213004210226,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 83.67243156921586,
-            "property_value": 734575.2684348552,
-            "occupancy_rate": 0.745390247182727,
-            "shared_credit_willingness": 0.9313532201578283
-        },
-        "position": [
-            601.5914356872826,
-            154.8679027478509
-        ]
+            "price": 0.5120121106474181,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 97.56193537494552,
-            "property_value": 668219.9966046063,
-            "occupancy_rate": 0.8989092512566901,
-            "shared_credit_willingness": 0.39304510220746147
-        },
-        "position": [
-            462.2848832988909,
-            317.78560139560807
-        ]
+            "price": 0.676739539100708,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 15.192563003901816,
-            "property_value": 151310.1995265265,
-            "occupancy_rate": 0.28849223435478233,
-            "shared_credit_willingness": 0.49148079243728315
-        },
-        "position": [
-            255.8125937143484,
-            451.9935989526542
-        ]
+            "price": 0.802407333621366,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 87.72894282563423,
-            "property_value": 846220.7706718588,
-            "occupancy_rate": 0.06531656028604649,
-            "shared_credit_willingness": 0.15395231688224087
-        },
-        "position": [
-            134.80225931344103,
-            251.8145479000462
-        ]
+            "price": 0.4618536395266498,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 18.270358431386533,
-            "property_value": 251559.59909894413,
-            "occupancy_rate": 0.06560983097909301,
-            "shared_credit_willingness": 0.2159625352086899
-        },
-        "position": [
-            619.5799270644442,
-            216.60986289971305
-        ]
+            "price": 0.6259507438160479,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 70.23044987545856,
-            "property_value": 370470.40701419715,
-            "occupancy_rate": 0.6238958015876295,
-            "shared_credit_willingness": 0.19873168987314582
-        },
-        "position": [
-            426.04597806108393,
-            375.3203358495789
-        ]
+            "price": 0.3415997770473427,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 83.83873282346363,
-            "property_value": 610090.100638729,
-            "occupancy_rate": 0.49606619717724376,
-            "shared_credit_willingness": 0.5275173874139737
-        },
-        "position": [
-            681.7404264413622,
-            109.30623279517731
-        ]
+            "price": 0.29515270648786784,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 72.0759990857694,
-            "property_value": 906971.0405349982,
-            "occupancy_rate": 0.7604112492434157,
-            "shared_credit_willingness": 0.49390302502088734
-        },
-        "position": [
-            324.5958164622485,
-            152.4729181596912
-        ]
+            "price": 0.22850036203558077,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 28.366994422824522,
-            "property_value": 566445.2763714942,
-            "occupancy_rate": 0.8274342660724088,
-            "shared_credit_willingness": 0.16413367994075723
-        },
-        "position": [
-            167.292896107613,
-            399.23273223854494
-        ]
+            "price": 0.4613763446609356,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 68.56999728094098,
-            "property_value": 793047.2469510814,
-            "occupancy_rate": 0.7433672797360673,
-            "shared_credit_willingness": 0.9634903084990968
-        },
-        "position": [
-            379.89322463282804,
-            140.82603984194657
-        ]
+            "price": 0.46647296208449884,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 81.54041659931747,
-            "property_value": 900260.8585419225,
-            "occupancy_rate": 0.5325730201793236,
-            "shared_credit_willingness": 0.1316178760616875
-        },
-        "position": [
-            254.77540280182006,
-            306.3623961692467
-        ]
+            "price": 0.3561030194832995,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 16.887270988399116,
-            "property_value": 813051.3817767511,
-            "occupancy_rate": 0.9701261669716096,
-            "shared_credit_willingness": 0.10649628582038317
-        },
-        "position": [
-            372.5409664542048,
-            427.6992116576619
-        ]
+            "price": 0.029627094450601965,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 28.94812079727175,
-            "property_value": 566417.3395461994,
-            "occupancy_rate": 0.7828819495987248,
-            "shared_credit_willingness": 0.5958273760975451
-        },
-        "position": [
-            404.6753361288902,
-            419.53824559138144
-        ]
+            "price": 0.19121165243822413,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 34.86594788114862,
-            "property_value": 244411.56547138645,
-            "occupancy_rate": 0.06170643684770771,
-            "shared_credit_willingness": 0.43332046785994793
-        },
-        "position": [
-            478.4275720756898,
-            357.0680192381818
-        ]
+            "price": 0.6075470989089562,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 41.204418324569446,
-            "property_value": 977583.126351685,
-            "occupancy_rate": 0.24895071537749958,
-            "shared_credit_willingness": 0.4543041924918919
-        },
-        "position": [
-            118.1092668132517,
-            433.53455927884494
-        ]
+            "price": 0.03215745777518708,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 81.71200760305013,
-            "property_value": 390119.51340113464,
-            "occupancy_rate": 0.9074347199550934,
-            "shared_credit_willingness": 0.012564181361473858
-        },
-        "position": [
-            614.5335614917308,
-            459.6314690546849
-        ]
+            "price": 0.9352585878921758,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 49.443364329630555,
-            "property_value": 771195.9722037949,
-            "occupancy_rate": 0.6758811247858495,
-            "shared_credit_willingness": 0.24487310385874517
-        },
-        "position": [
-            290.0460605482365,
-            134.09815717413403
-        ]
+            "price": 0.9222862512114516,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.059913152482583,
-            "property_value": 755542.3674552436,
-            "occupancy_rate": 0.9434654642806354,
-            "shared_credit_willingness": 0.1262455981332582
-        },
-        "position": [
-            306.5995508161104,
-            391.4875643362763
-        ]
+            "price": 0.7262155900577123,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 24.93802170078877,
-            "property_value": 641448.1911890481,
-            "occupancy_rate": 0.09031482000847468,
-            "shared_credit_willingness": 0.7773264491891315
-        },
-        "position": [
-            478.6778859920359,
-            313.21462274455905
-        ]
+            "price": 0.6660721218635726,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.778807050248094,
-            "property_value": 599336.1507252771,
-            "occupancy_rate": 0.9186985852138309,
-            "shared_credit_willingness": 0.6374819600691074
-        },
-        "position": [
-            437.05840532520483,
-            335.55909451273317
-        ]
+            "price": 0.05090246522900699,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 65.08081880491143,
-            "property_value": 933502.6581270626,
-            "occupancy_rate": 0.22319268956298222,
-            "shared_credit_willingness": 0.43348928861799196
-        },
-        "position": [
-            323.4659403422298,
-            286.6340511213758
-        ]
+            "price": 0.48044669264011686,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 42.27236375983694,
-            "property_value": 986027.9397760858,
-            "occupancy_rate": 0.7814981326923043,
-            "shared_credit_willingness": 0.464645466300437
-        },
-        "position": [
-            464.4400075244589,
-            483.5525703114213
-        ]
+            "price": 0.47144317122759116,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 76.48120205893491,
-            "property_value": 541958.674985671,
-            "occupancy_rate": 0.03490290521866346,
-            "shared_credit_willingness": 0.15239671390252651
-        },
-        "position": [
-            236.64064755505999,
-            471.95131539685235
-        ]
+            "price": 0.30823359832854835,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.999687461035382,
-            "property_value": 714072.4390052307,
-            "occupancy_rate": 0.6277996297348308,
-            "shared_credit_willingness": 0.25641697713033496
-        },
-        "position": [
-            118.06701214458259,
-            306.6323511162181
-        ]
+            "price": 0.24616668813697018,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 77.7037968069929,
-            "property_value": 714628.019430158,
-            "occupancy_rate": 0.2817554733180997,
-            "shared_credit_willingness": 0.3639553103477202
-        },
-        "position": [
-            362.88845953325034,
-            166.82230366758773
-        ]
+            "price": 0.7719991291553646,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 51.41591145178717,
-            "property_value": 473438.55405541067,
-            "occupancy_rate": 0.18627599461229238,
-            "shared_credit_willingness": 0.9029596979604128
-        },
-        "position": [
-            618.7052109608718,
-            223.03595124982706
-        ]
+            "price": 0.04713653896828751,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 93.03167366764333,
-            "property_value": 920689.1703636651,
-            "occupancy_rate": 0.4645768856103881,
-            "shared_credit_willingness": 0.47783126961652034
-        },
-        "position": [
-            118.56028027022046,
-            304.1193485445757
-        ]
+            "price": 0.3623910205145865,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.448853027777407,
-            "property_value": 695945.7521754629,
-            "occupancy_rate": 0.6955334523475373,
-            "shared_credit_willingness": 0.39396396184333393
-        },
-        "position": [
-            315.762648712794,
-            110.56142741253048
-        ]
+            "price": 0.09111207074059702,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 77.74831085085155,
-            "property_value": 234645.57070106379,
-            "occupancy_rate": 0.8220648742415428,
-            "shared_credit_willingness": 0.45575260426511965
-        },
-        "position": [
-            523.0675219407796,
-            493.95488509549796
-        ]
+            "price": 0.5956958510687522,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 18.592551643763755,
-            "property_value": 798008.632569451,
-            "occupancy_rate": 0.9563539595748233,
-            "shared_credit_willingness": 0.07370544460824946
-        },
-        "position": [
-            140.25997053467444,
-            451.4174060297995
-        ]
+            "price": 0.7446841573901442,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 0.2685398556277918,
-            "property_value": 334269.6961644599,
-            "occupancy_rate": 0.45048137893446194,
-            "shared_credit_willingness": 0.7156512632986315
-        },
-        "position": [
-            365.74349987698827,
-            215.08834302257557
-        ]
+            "price": 0.4879758991729396,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 2.185258161225012,
-            "property_value": 187369.01076024212,
-            "occupancy_rate": 0.4664757473882184,
-            "shared_credit_willingness": 0.8789629552368311
-        },
-        "position": [
-            630.5437034504037,
-            242.16027614892562
-        ]
+            "price": 0.9745969319004782,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 93.34884378593553,
-            "property_value": 596341.8157235917,
-            "occupancy_rate": 0.5785208420065948,
-            "shared_credit_willingness": 0.33158626316124495
-        },
-        "position": [
-            208.44909105406293,
-            411.64314269823467
-        ]
+            "price": 0.6164593549964784,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 13.305152527840347,
-            "property_value": 880324.3206656635,
-            "occupancy_rate": 0.4318762541424712,
-            "shared_credit_willingness": 0.6574490349048533
-        },
-        "position": [
-            220.37611437494502,
-            200.53372897017195
-        ]
+            "price": 0.30235538525804073,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 67.86321613243474,
-            "property_value": 214730.69157619943,
-            "occupancy_rate": 0.6176087416565996,
-            "shared_credit_willingness": 0.40855884833835154
-        },
-        "position": [
-            197.63611212483735,
-            296.3748293982703
-        ]
+            "price": 0.4759021776174427,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 99.33831336274022,
-            "property_value": 729856.0590340365,
-            "occupancy_rate": 0.04820855890559095,
-            "shared_credit_willingness": 0.9631776958619183
-        },
-        "position": [
-            183.95468004864398,
-            453.82221726540564
-        ]
+            "price": 0.08894077839989167,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 23.408748400652833,
-            "property_value": 853484.7124802165,
-            "occupancy_rate": 0.24941008805596832,
-            "shared_credit_willingness": 0.7114611951953952
-        },
-        "position": [
-            607.6592112180493,
-            285.3970783477398
-        ]
+            "price": 0.5728547261890116,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 74.72225140427983,
-            "property_value": 573458.6001783918,
-            "occupancy_rate": 0.9794354666579272,
-            "shared_credit_willingness": 0.7094994290485814
-        },
-        "position": [
-            381.2934498101423,
-            480.92582194757966
-        ]
+            "price": 0.3998814705828051,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 55.717931151164635,
-            "property_value": 776315.2936394233,
-            "occupancy_rate": 0.5296201961185548,
-            "shared_credit_willingness": 0.15318701908044818
-        },
-        "position": [
-            560.7941515604722,
-            268.1506316789046
-        ]
+            "price": 0.5121206000774471,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 45.793827863744326,
-            "property_value": 790961.4036669402,
-            "occupancy_rate": 0.13927223885807472,
-            "shared_credit_willingness": 0.02498454405406303
-        },
-        "position": [
-            558.1263676055279,
-            370.970316913592
-        ]
+            "price": 0.15722984569200515,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 19.87063206604345,
-            "property_value": 196059.4056706182,
-            "occupancy_rate": 0.07916966992995789,
-            "shared_credit_willingness": 0.3890679103480357
-        },
-        "position": [
-            228.12004365629247,
-            276.9473795956277
-        ]
+            "price": 0.20639057590970997,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 38.199317865362005,
-            "property_value": 149444.14317550574,
-            "occupancy_rate": 0.8901887449994811,
-            "shared_credit_willingness": 0.48045082366020175
-        },
-        "position": [
-            683.0137900524425,
-            296.7475000298803
-        ]
+            "price": 0.7566525138236958,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 55.65881252462371,
-            "property_value": 708620.671056507,
-            "occupancy_rate": 0.9376548412413174,
-            "shared_credit_willingness": 0.3988185831578668
-        },
-        "position": [
-            500.74046235459775,
-            150.09031216915486
-        ]
+            "price": 0.282300061246634,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 37.13475064517188,
-            "property_value": 862214.0215242534,
-            "occupancy_rate": 0.5332427361343396,
-            "shared_credit_willingness": 0.20039092827723037
-        },
-        "position": [
-            265.48664557238203,
-            452.15808249895593
-        ]
+            "price": 0.3400532668429179,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 56.803979364531244,
-            "property_value": 613036.4405971521,
-            "occupancy_rate": 0.4985280484778687,
-            "shared_credit_willingness": 0.8705395599072034
-        },
-        "position": [
-            467.3076552344996,
-            215.2954222824238
-        ]
+            "price": 0.9059854354610523,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 25.06172594000938,
-            "property_value": 338326.075143461,
-            "occupancy_rate": 0.8026229038417462,
-            "shared_credit_willingness": 0.55774348490176
-        },
-        "position": [
-            319.30792014646204,
-            340.95325345689486
-        ]
+            "price": 0.5292834184803993,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 84.3914171394609,
-            "property_value": 442819.4386766641,
-            "occupancy_rate": 0.9815502234048707,
-            "shared_credit_willingness": 0.8038744353967593
-        },
-        "position": [
-            332.29429884256035,
-            446.71133620711925
-        ]
+            "price": 0.6107983034501199,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 65.30183900992157,
-            "property_value": 851878.7498873228,
-            "occupancy_rate": 0.9262575389693162,
-            "shared_credit_willingness": 0.3597603553310261
-        },
-        "position": [
-            654.9386900207614,
-            360.119019805064
-        ]
+            "price": 0.38749141527041664,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 93.535826625966,
-            "property_value": 886918.8655412302,
-            "occupancy_rate": 0.5478367062973105,
-            "shared_credit_willingness": 0.5314774161452829
-        },
-        "position": [
-            483.6229108941862,
-            344.423496485571
-        ]
+            "price": 0.6647498809443994,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
     },
     {
         "attributes": {
-            "proximity": 25.3189011864,
-            "property_value": 101654.79968561207,
-            "occupancy_rate": 0.8405515700955971,
-            "shared_credit_willingness": 0.6036076129887915
-        },
-        "position": [
-            236.15520772778407,
-            484.3983663309352
-        ]
+            "price": 0.4826165876236215,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 1,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 71.44851159181287,
-            "property_value": 678245.1554054071,
-            "occupancy_rate": 0.5870431988497621,
-            "shared_credit_willingness": 0.004171783333232315
-        },
-        "position": [
-            662.4043154200572,
-            209.4880610909266
-        ]
+            "price": 0.44346085056162066,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
     },
     {
         "attributes": {
-            "proximity": 54.70776540421419,
-            "property_value": 493537.66439222737,
-            "occupancy_rate": 0.2154047891508304,
-            "shared_credit_willingness": 0.19565885535455985
-        },
-        "position": [
-            201.1428964507631,
-            398.8226306011337
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 37.45614771301259,
-            "property_value": 514659.315517799,
-            "occupancy_rate": 0.7781578340959134,
-            "shared_credit_willingness": 0.5948137562119352
-        },
-        "position": [
-            520.7513594075322,
-            168.16337599280814
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 88.18590084427757,
-            "property_value": 974201.3712328407,
-            "occupancy_rate": 0.832413505074028,
-            "shared_credit_willingness": 0.8102799541289272
-        },
-        "position": [
-            523.3007454856627,
-            134.9865401239984
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 16.528445298186966,
-            "property_value": 456050.4151705117,
-            "occupancy_rate": 0.8983872277388164,
-            "shared_credit_willingness": 0.7191895030703019
-        },
-        "position": [
-            212.51188778437603,
-            141.8162703474515
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 26.079297142653967,
-            "property_value": 295899.99047397403,
-            "occupancy_rate": 0.5382504874488891,
-            "shared_credit_willingness": 0.5136923017329939
-        },
-        "position": [
-            212.95961175952783,
-            482.49911091687767
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 22.380193726502394,
-            "property_value": 647418.5908718132,
-            "occupancy_rate": 0.896076523247083,
-            "shared_credit_willingness": 0.047745210427218465
-        },
-        "position": [
-            640.3039496506019,
-            451.57180482568486
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 94.04534442370156,
-            "property_value": 332788.57930843916,
-            "occupancy_rate": 0.194525616495265,
-            "shared_credit_willingness": 0.19200759399603395
-        },
-        "position": [
-            634.438451490743,
-            438.8232992054865
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 14.179934246221093,
-            "property_value": 519489.78207084874,
-            "occupancy_rate": 0.7250247750226717,
-            "shared_credit_willingness": 0.3822066251703108
-        },
-        "position": [
-            573.669634815147,
-            251.4042118879503
-        ]
-    },
-    {
-        "attributes": {
-            "proximity": 5.534892311226313,
-            "property_value": 599378.4183490318,
-            "occupancy_rate": 0.552392471011682,
-            "shared_credit_willingness": 0.07505859157591876
-        },
-        "position": [
-            423.965504724813,
-            299.2625802406335
-        ]
+            "price": 0.5904439542485599,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.35758122324314223,
+            "category_shoes": 1,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.16627848009575763,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 1
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.576900348713927,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.9732052242014337,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 1,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.8406707859915723,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.886683532221979,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 1,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.8378363001998899,
+            "category_shoes": 0,
+            "category_tshirts": 1,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 0,
+            "category_bags": 0
+        }
+    },
+    {
+        "attributes": {
+            "price": 0.13390695685755816,
+            "category_shoes": 0,
+            "category_tshirts": 0,
+            "category_pants": 0,
+            "category_hats": 0,
+            "category_jackets": 0,
+            "category_accessories": 1,
+            "category_bags": 0
+        }
     }
 ]

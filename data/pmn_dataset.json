@@ -1,41 +1,79 @@
 [
     {
         "preferences": {
-            "proximity": 0.7672368617773613,
-            "property_value": 0.8747555516972788,
-            "occupancy_rate": 0.835552705287997,
-            "shared_credit_willingness": 0.6493097892473159
+            "price": 0.2,
+            "category_shoes": 0.8
         },
-        "threads": 13,
-        "position": [
-            200.0,
-            300.0
-        ]
-    },
-    {
-        "preferences": {
-            "proximity": 0.5642417856541936,
-            "property_value": 0.7511979107602363,
-            "occupancy_rate": 0.6735161971714898,
-            "shared_credit_willingness": 0.5990792417024826
-        },
-        "threads": 7,
-        "position": [
-            400.0,
-            300.0
-        ]
-    },
-    {
-        "preferences": {
-            "proximity": 0.8369101150385827,
-            "property_value": 0.5292914144113836,
-            "occupancy_rate": 0.851381923021941,
-            "shared_credit_willingness": 0.8124959265181795
-        },
-        "threads": 6,
+        "threads": 15,
         "position": [
             600.0,
             300.0
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_tshirts": 0.8
+        },
+        "threads": 7,
+        "position": [
+            524.6979603717467,
+            456.366296493606
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_pants": 0.8
+        },
+        "threads": 13,
+        "position": [
+            355.4958132087371,
+            494.9855824363647
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_hats": 0.8
+        },
+        "threads": 9,
+        "position": [
+            219.80622641951618,
+            386.77674782351164
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_jackets": 0.8
+        },
+        "threads": 11,
+        "position": [
+            219.80622641951618,
+            213.22325217648842
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_accessories": 0.8
+        },
+        "threads": 6,
+        "position": [
+            355.4958132087371,
+            105.01441756363528
+        ]
+    },
+    {
+        "preferences": {
+            "price": 0.2,
+            "category_bags": 0.8
+        },
+        "threads": 12,
+        "position": [
+            524.6979603717467,
+            143.63370350639403
         ]
     }
 ]

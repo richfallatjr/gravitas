@@ -87,8 +87,8 @@ Gravitas, with its temporal foundation, represents a shift from static recommend
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/sol-gravitas.git
-cd sol-gravitas
+git clone https://github.com/your-username/gravitas.git
+cd gravitas
 ```
 
 2. **Install Dependencies:**
