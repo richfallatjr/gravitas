@@ -1,79 +1,104 @@
 [
     {
-        "preferences": {
-            "price": 0.2,
-            "category_shoes": 0.8
+        "attributes": {
+            "color_red": 1.0,
+            "color_green": 0.0,
+            "color_blue": 0.0
         },
-        "threads": 15,
         "position": [
-            600.0,
-            300.0
-        ]
+            200,
+            200
+        ],
+        "threads": 8,
+        "preferences": {
+            "color_red": 1.0,
+            "color_green": 0.0,
+            "color_blue": 0.0
+        }
     },
     {
-        "preferences": {
-            "price": 0.2,
-            "category_tshirts": 0.8
+        "attributes": {
+            "color_red": 0.0,
+            "color_green": 1.0,
+            "color_blue": 0.0
         },
-        "threads": 7,
         "position": [
-            524.6979603717467,
-            456.366296493606
-        ]
+            400,
+            200
+        ],
+        "threads": 8,
+        "preferences": {
+            "color_red": 0.0,
+            "color_green": 1.0,
+            "color_blue": 0.0
+        }
     },
     {
-        "preferences": {
-            "price": 0.2,
-            "category_pants": 0.8
+        "attributes": {
+            "color_red": 0.0,
+            "color_green": 0.0,
+            "color_blue": 1.0
         },
-        "threads": 13,
         "position": [
-            355.4958132087371,
-            494.9855824363647
-        ]
+            600,
+            200
+        ],
+        "threads": 8,
+        "preferences": {
+            "color_red": 0.0,
+            "color_green": 0.0,
+            "color_blue": 1.0
+        }
     },
     {
-        "preferences": {
-            "price": 0.2,
-            "category_hats": 0.8
+        "attributes": {
+            "color_red": 0.0,
+            "color_green": 1.0,
+            "color_blue": 1.0
         },
-        "threads": 9,
         "position": [
-            219.80622641951618,
-            386.77674782351164
-        ]
+            200,
+            400
+        ],
+        "threads": 8,
+        "preferences": {
+            "color_red": 0.0,
+            "color_green": 1.0,
+            "color_blue": 1.0
+        }
     },
     {
-        "preferences": {
-            "price": 0.2,
-            "category_jackets": 0.8
+        "attributes": {
+            "color_red": 1.0,
+            "color_green": 0.0,
+            "color_blue": 1.0
         },
-        "threads": 11,
         "position": [
-            219.80622641951618,
-            213.22325217648842
-        ]
+            400,
+            400
+        ],
+        "threads": 8,
+        "preferences": {
+            "color_red": 1.0,
+            "color_green": 0.0,
+            "color_blue": 1.0
+        }
     },
     {
-        "preferences": {
-            "price": 0.2,
-            "category_accessories": 0.8
+        "attributes": {
+            "color_red": 1.0,
+            "color_green": 1.0,
+            "color_blue": 0.0
         },
-        "threads": 6,
         "position": [
-            355.4958132087371,
-            105.01441756363528
-        ]
-    },
-    {
+            600,
+            400
+        ],
+        "threads": 8,
         "preferences": {
-            "price": 0.2,
-            "category_bags": 0.8
-        },
-        "threads": 12,
-        "position": [
-            524.6979603717467,
-            143.63370350639403
-        ]
+            "color_red": 1.0,
+            "color_green": 1.0,
+            "color_blue": 0.0
+        }
     }
 ]

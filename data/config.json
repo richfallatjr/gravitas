@@ -1,54 +1,27 @@
 {
     "attributes": {
-        "price": {
-            "weight": 0.2,
-            "min": 0,
-            "max": 1000
-        },
-        "category_shoes": {
-            "weight": 0.8,
+        "color_red": {
+            "weight": 1.0,
             "min": 0,
             "max": 1
         },
-        "category_tshirts": {
-            "weight": 0.8,
+        "color_green": {
+            "weight": 1.0,
             "min": 0,
             "max": 1
         },
-        "category_pants": {
-            "weight": 0.8,
-            "min": 0,
-            "max": 1
-        },
-        "category_hats": {
-            "weight": 0.8,
-            "min": 0,
-            "max": 1
-        },
-        "category_jackets": {
-            "weight": 0.8,
-            "min": 0,
-            "max": 1
-        },
-        "category_accessories": {
-            "weight": 0.8,
-            "min": 0,
-            "max": 1
-        },
-        "category_bags": {
-            "weight": 0.8,
+        "color_blue": {
+            "weight": 1.0,
             "min": 0,
             "max": 1
         }
     },
+    "invert_attributes": [],
+    "absorption_threshold": 10,
     "processing": {
         "single_process_delay": 5,
         "multi_process_threads": 128,
         "visual_timer": 15
     },
-    "invert_attributes": [
-        "price"
-    ],
-    "absorption_threshold": 10,
     "mode": "multi_process"
 }

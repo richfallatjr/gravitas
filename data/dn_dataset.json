@@ -1,3602 +1,2025 @@
 [
     {
         "attributes": {
-            "price": 0.27311827255641563,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.023529411764705882,
+            "color_green": 0.023529411764705882,
+            "color_blue": 0.023529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.081258159573117,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.0392156862745098,
+            "color_green": 0.0392156862745098,
+            "color_blue": 0.03137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.04553518428322045,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.050980392156862744,
+            "color_green": 0.050980392156862744,
+            "color_blue": 0.043137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.8315450634003457,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.047058823529411764,
+            "color_green": 0.050980392156862744,
+            "color_blue": 0.047058823529411764
         }
     },
     {
         "attributes": {
-            "price": 0.10867209433755143,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.10196078431372549,
+            "color_blue": 0.10196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.09081488050169007,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1607843137254902,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.1803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.08292938961622331,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.19215686274509805,
+            "color_green": 0.2235294117647059,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.9622304473560411,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.16862745098039217,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.29516609255338333,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.11764705882352941,
+            "color_green": 0.14901960784313725,
+            "color_blue": 0.1568627450980392
         }
     },
     {
         "attributes": {
-            "price": 0.887973750773239,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.12549019607843137,
+            "color_blue": 0.12941176470588237
         }
     },
     {
         "attributes": {
-            "price": 0.08832554911178314,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.12156862745098039,
+            "color_blue": 0.12549019607843137
         }
     },
     {
         "attributes": {
-            "price": 0.9024872100889658,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.08235294117647059,
+            "color_green": 0.10980392156862745,
+            "color_blue": 0.11372549019607843
         }
     },
     {
         "attributes": {
-            "price": 0.00035386766843048534,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.11372549019607843,
+            "color_blue": 0.12941176470588237
         }
     },
     {
         "attributes": {
-            "price": 0.8525494035891735,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.08627450980392157,
+            "color_green": 0.11372549019607843,
+            "color_blue": 0.13725490196078433
         }
     },
     {
         "attributes": {
-            "price": 0.49436708446611644,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.0784313725490196,
+            "color_green": 0.09019607843137255,
+            "color_blue": 0.10196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.6341008114821455,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.06274509803921569,
+            "color_green": 0.07058823529411765,
+            "color_blue": 0.07450980392156863
         }
     },
     {
         "attributes": {
-            "price": 0.39244097394760935,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.0392156862745098,
+            "color_green": 0.043137254901960784,
+            "color_blue": 0.0392156862745098
         }
     },
     {
         "attributes": {
-            "price": 0.967531430833575,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.043137254901960784,
+            "color_green": 0.043137254901960784,
+            "color_blue": 0.043137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.7683691243742341,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.08235294117647059,
+            "color_green": 0.0784313725490196,
+            "color_blue": 0.07058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.7696659245645798,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.09803921568627451,
+            "color_green": 0.10588235294117647,
+            "color_blue": 0.09803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.1607387891942934,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.13333333333333333,
+            "color_green": 0.16470588235294117,
+            "color_blue": 0.16862745098039217
         }
     },
     {
         "attributes": {
-            "price": 0.0072328021245096075,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2235294117647059,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.2784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.5610844255255824,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2196078431372549,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.27058823529411763
         }
     },
     {
         "attributes": {
-            "price": 0.37599707465925203,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.16470588235294117,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.8910101727861053,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.11372549019607843,
+            "color_green": 0.17647058823529413,
+            "color_blue": 0.2
         }
     },
     {
         "attributes": {
-            "price": 0.8475843297224638,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.13333333333333333,
+            "color_green": 0.2,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.06244059686456471,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.14901960784313725,
+            "color_green": 0.2235294117647059,
+            "color_blue": 0.25882352941176473
         }
     },
     {
         "attributes": {
-            "price": 0.15533084004347308,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.20784313725490197,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.30196078431372547
         }
     },
     {
         "attributes": {
-            "price": 0.7315084827665369,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2196078431372549,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.30196078431372547
         }
     },
     {
         "attributes": {
-            "price": 0.6139647872962855,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.26666666666666666,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.35294117647058826
         }
     },
     {
         "attributes": {
-            "price": 0.5434058103207569,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.3215686274509804,
+            "color_green": 0.27450980392156865,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.2928300380848473,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2901960784313726,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.3215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.9943755946208163,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2196078431372549,
+            "color_green": 0.19215686274509805,
+            "color_blue": 0.27058823529411763
         }
     },
     {
         "attributes": {
-            "price": 0.7599359853508237,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.13725490196078433,
+            "color_green": 0.13333333333333333,
+            "color_blue": 0.17647058823529413
         }
     },
     {
         "attributes": {
-            "price": 0.2760960136472801,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.08235294117647059,
+            "color_green": 0.09019607843137255,
+            "color_blue": 0.09019607843137255
         }
     },
     {
         "attributes": {
-            "price": 0.09201222439074708,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.14901960784313725,
+            "color_green": 0.17254901960784313,
+            "color_blue": 0.17254901960784313
         }
     },
     {
         "attributes": {
-            "price": 0.5203565832488761,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.20784313725490197,
+            "color_green": 0.25882352941176473,
+            "color_blue": 0.26666666666666666
         }
     },
     {
         "attributes": {
-            "price": 0.6721148011458309,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.3058823529411765,
+            "color_blue": 0.3215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.6939508551093684,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.19607843137254902,
+            "color_green": 0.25882352941176473,
+            "color_blue": 0.2784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.687753731891322,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.1450980392156863,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.26666666666666666
         }
     },
     {
         "attributes": {
-            "price": 0.08779006517390353,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1607843137254902,
+            "color_green": 0.29411764705882354,
+            "color_blue": 0.34901960784313724
         }
     },
     {
         "attributes": {
-            "price": 0.1486471941762818,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2196078431372549,
+            "color_green": 0.33725490196078434,
+            "color_blue": 0.41568627450980394
         }
     },
     {
         "attributes": {
-            "price": 0.7091838514269455,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.32941176470588235,
+            "color_green": 0.3607843137254902,
+            "color_blue": 0.4627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.29438945510818926,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.43529411764705883,
+            "color_green": 0.3803921568627451,
+            "color_blue": 0.4980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.6942626460747152,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.49411764705882355,
+            "color_green": 0.43137254901960786,
+            "color_blue": 0.5803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.4547384820936502,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4823529411764706,
+            "color_green": 0.4666666666666667,
+            "color_blue": 0.6431372549019608
         }
     },
     {
         "attributes": {
-            "price": 0.30310708990445157,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5254901960784314,
+            "color_green": 0.4980392156862745,
+            "color_blue": 0.6705882352941176
         }
     },
     {
         "attributes": {
-            "price": 0.9854030580734223,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.6980392156862745,
+            "color_green": 0.5411764705882353,
+            "color_blue": 0.6431372549019608
         }
     },
     {
         "attributes": {
-            "price": 0.30464144734274157,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4666666666666667,
+            "color_green": 0.34901960784313724,
+            "color_blue": 0.4549019607843137
         }
     },
     {
         "attributes": {
-            "price": 0.6191735364945996,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3686274509803922,
+            "color_green": 0.27450980392156865,
+            "color_blue": 0.3764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.131131232561844,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.24313725490196078,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.2901960784313726
         }
     },
     {
         "attributes": {
-            "price": 0.03117022217840781,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.16470588235294117,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.2235294117647059
         }
     },
     {
         "attributes": {
-            "price": 0.31479025095355884,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.26666666666666666,
+            "color_green": 0.33725490196078434,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.5547724515329339,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.18823529411764706,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.2627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.5177086155843734,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1568627450980392,
+            "color_green": 0.23137254901960785,
+            "color_blue": 0.25882352941176473
         }
     },
     {
         "attributes": {
-            "price": 0.01587605661771352,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.15294117647058825,
+            "color_green": 0.28627450980392155,
+            "color_blue": 0.33725490196078434
         }
     },
     {
         "attributes": {
-            "price": 0.1893276677046246,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.24705882352941178,
+            "color_green": 0.396078431372549,
+            "color_blue": 0.49019607843137253
         }
     },
     {
         "attributes": {
-            "price": 0.32293910482359056,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.42745098039215684,
+            "color_green": 0.4823529411764706,
+            "color_blue": 0.6078431372549019
         }
     },
     {
         "attributes": {
-            "price": 0.28948072098074884,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5490196078431373,
+            "color_green": 0.49411764705882355,
+            "color_blue": 0.6431372549019608
         }
     },
     {
         "attributes": {
-            "price": 0.4241195391133631,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5215686274509804,
+            "color_green": 0.403921568627451,
+            "color_blue": 0.5529411764705883
         }
     },
     {
         "attributes": {
-            "price": 0.5470156712731628,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.5333333333333333,
+            "color_green": 0.3333333333333333,
+            "color_blue": 0.4392156862745098
         }
     },
     {
         "attributes": {
-            "price": 0.9634881895244607,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5294117647058824,
+            "color_green": 0.2980392156862745,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.6404491606840401,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.48627450980392156,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.35294117647058826
         }
     },
     {
         "attributes": {
-            "price": 0.6831998938604045,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.4235294117647059,
+            "color_green": 0.29411764705882354,
+            "color_blue": 0.43529411764705883
         }
     },
     {
         "attributes": {
-            "price": 0.1606634545146456,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.47843137254901963,
+            "color_green": 0.43137254901960786,
+            "color_blue": 0.615686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.6678634137975046,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6509803921568628,
+            "color_green": 0.592156862745098,
+            "color_blue": 0.7607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.6055191362508092,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4549019607843137,
+            "color_green": 0.35294117647058826,
+            "color_blue": 0.4627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.7274365296820854,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.24705882352941178,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.8714515121169831,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2196078431372549,
+            "color_green": 0.27058823529411763,
+            "color_blue": 0.2901960784313726
         }
     },
     {
         "attributes": {
-            "price": 0.662493512412175,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.15294117647058825,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.23137254901960785
         }
     },
     {
         "attributes": {
-            "price": 0.2978585106298882,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.12549019607843137,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.23529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.40916870417982976,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2,
+            "color_green": 0.3333333333333333,
+            "color_blue": 0.40784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.7492780777171283,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.38823529411764707,
+            "color_green": 0.4549019607843137,
+            "color_blue": 0.5764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.37739463593832123,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5372549019607843,
+            "color_green": 0.5450980392156862,
+            "color_blue": 0.7058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.6804182491257007,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5882352941176471,
+            "color_green": 0.4745098039215686,
+            "color_blue": 0.6196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.7760504397065336,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.596078431372549,
+            "color_green": 0.3254901960784314,
+            "color_blue": 0.3843137254901961
         }
     },
     {
         "attributes": {
-            "price": 0.15731637498959483,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5254901960784314,
+            "color_green": 0.19607843137254902,
+            "color_blue": 0.16470588235294117
         }
     },
     {
         "attributes": {
-            "price": 0.6389809725101622,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.48627450980392156,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.11764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.8257657628923908,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4980392156862745,
+            "color_green": 0.23921568627450981,
+            "color_blue": 0.12549019607843137
         }
     },
     {
         "attributes": {
-            "price": 0.7037072777597033,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6274509803921569,
+            "color_green": 0.28627450980392155,
+            "color_blue": 0.11764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.23785773931896348,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.6509803921568628,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.1450980392156863
         }
     },
     {
         "attributes": {
-            "price": 0.7252882096019883,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.36470588235294116,
+            "color_green": 0.1411764705882353,
+            "color_blue": 0.2196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.21816259546489902,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5647058823529412,
+            "color_green": 0.5137254901960784,
+            "color_blue": 0.7098039215686275
         }
     },
     {
         "attributes": {
-            "price": 0.481897566556052,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.403921568627451,
+            "color_green": 0.34901960784313724,
+            "color_blue": 0.4823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.8560471408662725,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.30980392156862746,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.2823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.2163494736064816,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1450980392156863,
+            "color_green": 0.18823529411764706,
+            "color_blue": 0.20784313725490197
         }
     },
     {
         "attributes": {
-            "price": 0.9432116541569359,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.14901960784313725,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.4612156557865592,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.23529411764705882,
+            "color_green": 0.3176470588235294,
+            "color_blue": 0.38823529411764707
         }
     },
     {
         "attributes": {
-            "price": 0.2171203527325315,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.403921568627451,
+            "color_green": 0.43137254901960786,
+            "color_blue": 0.5607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.8954770575628677,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5647058823529412,
+            "color_green": 0.4588235294117647,
+            "color_blue": 0.615686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.5422123077207963,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6313725490196078,
+            "color_green": 0.36470588235294116,
+            "color_blue": 0.4
         }
     },
     {
         "attributes": {
-            "price": 0.2338687552935783,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5568627450980392,
+            "color_green": 0.24313725490196078,
+            "color_blue": 0.1607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.814012073795245,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.49019607843137253,
+            "color_green": 0.2784313725490196,
+            "color_blue": 0.17647058823529413
         }
     },
     {
         "attributes": {
-            "price": 0.3116523794660817,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5882352941176471,
+            "color_green": 0.4470588235294118,
+            "color_blue": 0.3333333333333333
         }
     },
     {
         "attributes": {
-            "price": 0.43602152851130327,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6039215686274509,
+            "color_green": 0.49411764705882355,
+            "color_blue": 0.3764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.5062960701169956,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.48627450980392156,
+            "color_green": 0.39215686274509803,
+            "color_blue": 0.3058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.6393010961311836,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3215686274509804,
+            "color_green": 0.19215686274509805,
+            "color_blue": 0.14901960784313725
         }
     },
     {
         "attributes": {
-            "price": 0.872825981308326,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6745098039215687,
+            "color_green": 0.3137254901960784,
+            "color_blue": 0.12941176470588237
         }
     },
     {
         "attributes": {
-            "price": 0.17466085784871843,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5294117647058824,
+            "color_green": 0.2235294117647059,
+            "color_blue": 0.23529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.09321030411786024,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.47843137254901963,
+            "color_green": 0.36470588235294116,
+            "color_blue": 0.5294117647058824
         }
     },
     {
         "attributes": {
-            "price": 0.2385826067663923,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3764705882352941,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.37254901960784315
         }
     },
     {
         "attributes": {
-            "price": 0.5863680797675105,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.22745098039215686,
+            "color_green": 0.18823529411764706,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.384661319260838,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.10196078431372549,
+            "color_green": 0.16470588235294117,
+            "color_blue": 0.2
         }
     },
     {
         "attributes": {
-            "price": 0.026481260700122574,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.34901960784313724
         }
     },
     {
         "attributes": {
-            "price": 0.42531439582795283,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4235294117647059,
+            "color_green": 0.36470588235294116,
+            "color_blue": 0.47843137254901963
         }
     },
     {
         "attributes": {
-            "price": 0.6403260422979271,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.5529411764705883,
+            "color_green": 0.39215686274509803,
+            "color_blue": 0.5215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.4813919036123775,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.6784313725490196,
+            "color_green": 0.34509803921568627,
+            "color_blue": 0.2823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.5203190772018667,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.48627450980392156,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.11764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.6917617518355899,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5254901960784314,
+            "color_green": 0.396078431372549,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.5724992626208315,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.7215686274509804,
+            "color_green": 0.6,
+            "color_blue": 0.4588235294117647
         }
     },
     {
         "attributes": {
-            "price": 0.6102395189461868,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5098039215686274,
+            "color_green": 0.4470588235294118,
+            "color_blue": 0.3568627450980392
         }
     },
     {
         "attributes": {
-            "price": 0.8619677112296641,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.8549019607843137,
+            "color_green": 0.7607843137254902,
+            "color_blue": 0.615686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.8875209156073506,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.7333333333333333,
+            "color_green": 0.5686274509803921,
+            "color_blue": 0.4
         }
     },
     {
         "attributes": {
-            "price": 0.3870292964533878,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.36470588235294116,
+            "color_green": 0.25882352941176473,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.8722948471205284,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6039215686274509,
+            "color_green": 0.23921568627450981,
+            "color_blue": 0.09019607843137255
         }
     },
     {
         "attributes": {
-            "price": 0.287486498078915,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6470588235294118,
+            "color_green": 0.29411764705882354,
+            "color_blue": 0.23137254901960785
         }
     },
     {
         "attributes": {
-            "price": 0.7609644195392569,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.40784313725490196,
+            "color_green": 0.2196078431372549,
+            "color_blue": 0.34901960784313724
         }
     },
     {
         "attributes": {
-            "price": 0.07585030806271231,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3254901960784314,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.3803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.7011584716067156,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.30980392156862746
         }
     },
     {
         "attributes": {
-            "price": 0.26595861744603055,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.17647058823529413,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.38664895329018323,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.43529411764705883,
+            "color_green": 0.30980392156862746,
+            "color_blue": 0.403921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.25217456379503167,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5176470588235295,
+            "color_green": 0.3803921568627451,
+            "color_blue": 0.5294117647058824
         }
     },
     {
         "attributes": {
-            "price": 0.23632991933448144,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6509803921568628,
+            "color_green": 0.3568627450980392,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.7879164691663171,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5843137254901961,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.12156862745098039
         }
     },
     {
         "attributes": {
-            "price": 0.7059055381888232,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4,
+            "color_green": 0.3058823529411765,
+            "color_blue": 0.25098039215686274
         }
     },
     {
         "attributes": {
-            "price": 0.013219340683924162,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.8313725490196079,
+            "color_green": 0.6666666666666666,
+            "color_blue": 0.49019607843137253
         }
     },
     {
         "attributes": {
-            "price": 0.08660339133721351,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.7372549019607844,
+            "color_green": 0.6823529411764706,
+            "color_blue": 0.5725490196078431
         }
     },
     {
         "attributes": {
-            "price": 0.392616782479862,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.49019607843137253,
+            "color_green": 0.4470588235294118,
+            "color_blue": 0.3686274509803922
         }
     },
     {
         "attributes": {
-            "price": 0.7254029754286752,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.8,
+            "color_green": 0.6627450980392157,
+            "color_blue": 0.5019607843137255
         }
     },
     {
         "attributes": {
-            "price": 0.011859444595530346,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5254901960784314,
+            "color_green": 0.403921568627451,
+            "color_blue": 0.30196078431372547
         }
     },
     {
         "attributes": {
-            "price": 0.08269834675106569,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.39215686274509803,
+            "color_green": 0.2,
+            "color_blue": 0.12549019607843137
         }
     },
     {
         "attributes": {
-            "price": 0.6357586048932242,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6901960784313725,
+            "color_green": 0.3568627450980392,
+            "color_blue": 0.16862745098039217
         }
     },
     {
         "attributes": {
-            "price": 0.7802281884683901,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.49019607843137253,
+            "color_green": 0.25882352941176473,
+            "color_blue": 0.30980392156862746
         }
     },
     {
         "attributes": {
-            "price": 0.014655380760879242,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.4549019607843137,
+            "color_green": 0.34509803921568627,
+            "color_blue": 0.5372549019607843
         }
     },
     {
         "attributes": {
-            "price": 0.4154551439799513,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3803921568627451,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.40784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.540751120847713,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.29411764705882354,
+            "color_green": 0.2,
+            "color_blue": 0.27058823529411763
         }
     },
     {
         "attributes": {
-            "price": 0.43998647747899733,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.3058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.3964900483227186,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.36470588235294116,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.3803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.8559573821368658,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.49019607843137253,
+            "color_green": 0.3568627450980392,
+            "color_blue": 0.5215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.08833349686712288,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6901960784313725,
+            "color_green": 0.3333333333333333,
+            "color_blue": 0.20392156862745098
         }
     },
     {
         "attributes": {
-            "price": 0.7188741496334431,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4196078431372549,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.10980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.18723671074564607,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4,
+            "color_green": 0.3215686274509804,
+            "color_blue": 0.27450980392156865
         }
     },
     {
         "attributes": {
-            "price": 0.7016420169112423,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.6588235294117647,
+            "color_green": 0.5137254901960784,
+            "color_blue": 0.3764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.5975566335688013,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.7294117647058823,
+            "color_green": 0.6078431372549019,
+            "color_blue": 0.4745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.897699186439425,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6431372549019608,
+            "color_green": 0.5333333333333333,
+            "color_blue": 0.4235294117647059
         }
     },
     {
         "attributes": {
-            "price": 0.701788658490831,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.41568627450980394,
+            "color_green": 0.3058823529411765,
+            "color_blue": 0.23529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.11253262489826976,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4235294117647059,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.10980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.7175222631536061,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.6431372549019608,
+            "color_green": 0.30196078431372547,
+            "color_blue": 0.13725490196078433
         }
     },
     {
         "attributes": {
-            "price": 0.3569447880602369,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5254901960784314,
+            "color_green": 0.27058823529411763,
+            "color_blue": 0.2980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.22511189249027574,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5843137254901961,
+            "color_green": 0.4666666666666667,
+            "color_blue": 0.6392156862745098
         }
     },
     {
         "attributes": {
-            "price": 0.4535661534835489,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5019607843137255,
+            "color_green": 0.3803921568627451,
+            "color_blue": 0.5098039215686274
         }
     },
     {
         "attributes": {
-            "price": 0.4235153950835453,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3215686274509804,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.2649542019670099,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.23921568627450981,
+            "color_green": 0.16862745098039217,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.48742741090105635,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.23137254901960785,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.2784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.6076058328185182,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.49019607843137253,
+            "color_green": 0.4470588235294118,
+            "color_blue": 0.6078431372549019
         }
     },
     {
         "attributes": {
-            "price": 0.5194327765952941,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4627450980392157,
+            "color_green": 0.3215686274509804,
+            "color_blue": 0.4470588235294118
         }
     },
     {
         "attributes": {
-            "price": 0.28971583587601446,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5882352941176471,
+            "color_green": 0.22745098039215686,
+            "color_blue": 0.1411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.8298252950786135,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6274509803921569,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.13725490196078433
         }
     },
     {
         "attributes": {
-            "price": 0.06876091685982955,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4,
+            "color_green": 0.19215686274509805,
+            "color_blue": 0.10980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.869930699831919,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.3803921568627451,
+            "color_green": 0.24313725490196078,
+            "color_blue": 0.1803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.9214233236783412,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4117647058823529,
+            "color_green": 0.25098039215686274,
+            "color_blue": 0.17254901960784313
         }
     },
     {
         "attributes": {
-            "price": 0.12416303172007903,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4549019607843137,
+            "color_green": 0.2196078431372549,
+            "color_blue": 0.11372549019607843
         }
     },
     {
         "attributes": {
-            "price": 0.373931541678754,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5686274509803921,
+            "color_green": 0.25098039215686274,
+            "color_blue": 0.10980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.8416764997599059,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.592156862745098,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.18823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.7777640925865571,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.5333333333333333,
+            "color_green": 0.34509803921568627,
+            "color_blue": 0.43529411764705883
         }
     },
     {
         "attributes": {
-            "price": 0.9263184820144212,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.6078431372549019,
+            "color_green": 0.48627450980392156,
+            "color_blue": 0.6470588235294118
         }
     },
     {
         "attributes": {
-            "price": 0.9366028420430826,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.4823529411764706,
+            "color_green": 0.3411764705882353,
+            "color_blue": 0.4666666666666667
         }
     },
     {
         "attributes": {
-            "price": 0.2157088206203821,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.29411764705882354,
+            "color_green": 0.2196078431372549,
+            "color_blue": 0.30980392156862746
         }
     },
     {
         "attributes": {
-            "price": 0.26193139955939426,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25882352941176473,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.3411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.035522471257086186,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1411764705882353,
+            "color_green": 0.15294117647058825,
+            "color_blue": 0.23921568627450981
         }
     },
     {
         "attributes": {
-            "price": 0.5207640853613632,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3568627450980392,
+            "color_green": 0.27058823529411763,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.7748696579080194,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5529411764705883,
+            "color_green": 0.49411764705882355,
+            "color_blue": 0.6470588235294118
         }
     },
     {
         "attributes": {
-            "price": 0.6688193614615259,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5137254901960784,
+            "color_green": 0.4196078431372549,
+            "color_blue": 0.5843137254901961
         }
     },
     {
         "attributes": {
-            "price": 0.2751679489654546,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3607843137254902,
+            "color_green": 0.1411764705882353,
+            "color_blue": 0.19607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.6844439129598168,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5294117647058824,
+            "color_green": 0.2,
+            "color_blue": 0.14901960784313725
         }
     },
     {
         "attributes": {
-            "price": 0.04386207498730998,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6588235294117647,
+            "color_green": 0.2980392156862745,
+            "color_blue": 0.1568627450980392
         }
     },
     {
         "attributes": {
-            "price": 0.41560457858159827,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.6039215686274509,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.13333333333333333
         }
     },
     {
         "attributes": {
-            "price": 0.8289323094335537,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5686274509803921,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.1450980392156863
         }
     },
     {
         "attributes": {
-            "price": 0.06455225809365517,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5333333333333333,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.23529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.1404566689364427,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.5215686274509804,
+            "color_green": 0.3215686274509804,
+            "color_blue": 0.40784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.9002943596768062,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.6431372549019608,
+            "color_green": 0.4823529411764706,
+            "color_blue": 0.6235294117647059
         }
     },
     {
         "attributes": {
-            "price": 0.6881587562510482,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5568627450980392,
+            "color_green": 0.4549019607843137,
+            "color_blue": 0.611764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.4578382155965316,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3803921568627451,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.3607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.23148055754689756,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.24705882352941178,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.27058823529411763
         }
     },
     {
         "attributes": {
-            "price": 0.3026117991377736,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.18823529411764706,
+            "color_green": 0.1607843137254902,
+            "color_blue": 0.24705882352941178
         }
     },
     {
         "attributes": {
-            "price": 0.8208885312133135,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.23921568627450981,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.30196078431372547
         }
     },
     {
         "attributes": {
-            "price": 0.8924486988205639,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.12156862745098039,
+            "color_green": 0.1411764705882353,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.5181397012450569,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2549019607843137,
+            "color_green": 0.23137254901960785,
+            "color_blue": 0.35294117647058826
         }
     },
     {
         "attributes": {
-            "price": 0.6982568334225999,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.596078431372549,
+            "color_green": 0.42745098039215684,
+            "color_blue": 0.5019607843137255
         }
     },
     {
         "attributes": {
-            "price": 0.9745483614994838,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.6039215686274509,
+            "color_green": 0.5607843137254902,
+            "color_blue": 0.7450980392156863
         }
     },
     {
         "attributes": {
-            "price": 0.13809516585958803,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.4117647058823529,
+            "color_green": 0.41568627450980394,
+            "color_blue": 0.5764705882352941
         }
     },
     {
         "attributes": {
-            "price": 0.6514184046443817,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3568627450980392,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.32941176470588235
         }
     },
     {
         "attributes": {
-            "price": 0.5522018389589722,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.37254901960784315,
+            "color_green": 0.2,
+            "color_blue": 0.30980392156862746
         }
     },
     {
         "attributes": {
-            "price": 0.12003241869588789,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4196078431372549,
+            "color_green": 0.2980392156862745,
+            "color_blue": 0.43137254901960786
         }
     },
     {
         "attributes": {
-            "price": 0.8475213267719532,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4549019607843137,
+            "color_green": 0.3843137254901961,
+            "color_blue": 0.5450980392156862
         }
     },
     {
         "attributes": {
-            "price": 0.21566373726783383,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5019607843137255,
+            "color_green": 0.39215686274509803,
+            "color_blue": 0.5490196078431373
         }
     },
     {
         "attributes": {
-            "price": 0.11634893327439777,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4588235294117647,
+            "color_green": 0.30980392156862746,
+            "color_blue": 0.43529411764705883
         }
     },
     {
         "attributes": {
-            "price": 0.3032162903698188,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.35294117647058826,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.3568627450980392
         }
     },
     {
         "attributes": {
-            "price": 0.38847069964414926,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3411764705882353,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.2784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.6206642770262216,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.2627450980392157,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.2627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.21302767916925391,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.3058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.5426310457534871,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.21568627450980393,
+            "color_green": 0.17254901960784313,
+            "color_blue": 0.25098039215686274
         }
     },
     {
         "attributes": {
-            "price": 0.1753298383424574,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.2,
+            "color_green": 0.19215686274509805,
+            "color_blue": 0.25098039215686274
         }
     },
     {
         "attributes": {
-            "price": 0.12215032755964972,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.20784313725490197,
+            "color_green": 0.2196078431372549,
+            "color_blue": 0.25882352941176473
         }
     },
     {
         "attributes": {
-            "price": 0.5020110642526566,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.26666666666666666,
+            "color_green": 0.19607843137254902,
+            "color_blue": 0.28627450980392155
         }
     },
     {
         "attributes": {
-            "price": 0.583273521512629,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.4,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.3686274509803922
         }
     },
     {
         "attributes": {
-            "price": 0.4833767263992107,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5215686274509804,
+            "color_green": 0.41568627450980394,
+            "color_blue": 0.5333333333333333
         }
     },
     {
         "attributes": {
-            "price": 0.3250095478678302,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.5058823529411764,
+            "color_green": 0.45098039215686275,
+            "color_blue": 0.611764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.33733684960034804,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.6078431372549019,
+            "color_green": 0.5058823529411764,
+            "color_blue": 0.6666666666666666
         }
     },
     {
         "attributes": {
-            "price": 0.7535075201211414,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.4627450980392157,
+            "color_green": 0.4235294117647059,
+            "color_blue": 0.6196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.0027495857226476073,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4392156862745098,
+            "color_green": 0.3686274509803922,
+            "color_blue": 0.5450980392156862
         }
     },
     {
         "attributes": {
-            "price": 0.9826690599738525,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.4470588235294118,
+            "color_green": 0.3137254901960784,
+            "color_blue": 0.42745098039215684
         }
     },
     {
         "attributes": {
-            "price": 0.5375312364330448,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.36470588235294116,
+            "color_green": 0.24313725490196078,
+            "color_blue": 0.33725490196078434
         }
     },
     {
         "attributes": {
-            "price": 0.48330404509480496,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2627450980392157,
+            "color_green": 0.15294117647058825,
+            "color_blue": 0.2196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.5430419638612576,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2,
+            "color_green": 0.13333333333333333,
+            "color_blue": 0.20784313725490197
         }
     },
     {
         "attributes": {
-            "price": 0.2699707568153649,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1450980392156863,
+            "color_green": 0.11764705882352941,
+            "color_blue": 0.19607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.24003828117126313,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.26666666666666666,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.25098039215686274
         }
     },
     {
         "attributes": {
-            "price": 0.014889367213478222,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2823529411764706,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.34901960784313724
         }
     },
     {
         "attributes": {
-            "price": 0.09171648243909192,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.1450980392156863,
+            "color_green": 0.18823529411764706,
+            "color_blue": 0.2627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.20621586839469097,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.12549019607843137,
+            "color_green": 0.19215686274509805,
+            "color_blue": 0.24313725490196078
         }
     },
     {
         "attributes": {
-            "price": 0.7341262353222208,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.12549019607843137,
+            "color_green": 0.17254901960784313,
+            "color_blue": 0.19215686274509805
         }
     },
     {
         "attributes": {
-            "price": 0.5161373482033308,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.18823529411764706,
+            "color_green": 0.1803921568627451,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.9673447297964295,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.3176470588235294,
+            "color_green": 0.21568627450980393,
+            "color_blue": 0.2901960784313726
         }
     },
     {
         "attributes": {
-            "price": 0.280657939122121,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.37254901960784315,
+            "color_green": 0.25882352941176473,
+            "color_blue": 0.36470588235294116
         }
     },
     {
         "attributes": {
-            "price": 0.3419688184945002,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2823529411764706,
+            "color_green": 0.21176470588235294,
+            "color_blue": 0.34509803921568627
         }
     },
     {
         "attributes": {
-            "price": 0.5289326500242664,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.3764705882352941,
+            "color_green": 0.27450980392156865,
+            "color_blue": 0.40784313725490196
         }
     },
     {
         "attributes": {
-            "price": 0.4762727372750565,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.42745098039215684,
+            "color_green": 0.30980392156862746,
+            "color_blue": 0.42745098039215684
         }
     },
     {
         "attributes": {
-            "price": 0.35379379533907707,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.30196078431372547,
+            "color_green": 0.25098039215686274,
+            "color_blue": 0.37254901960784315
         }
     },
     {
         "attributes": {
-            "price": 0.9551047464248809,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.23137254901960785,
+            "color_green": 0.2,
+            "color_blue": 0.3058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.8498321420979769,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.24313725490196078,
+            "color_green": 0.1450980392156863,
+            "color_blue": 0.2196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.14795332965874408,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.17254901960784313,
+            "color_green": 0.1411764705882353,
+            "color_blue": 0.21568627450980393
         }
     },
     {
         "attributes": {
-            "price": 0.5285513875731029,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.23529411764705882,
+            "color_green": 0.1843137254901961,
+            "color_blue": 0.25882352941176473
         }
     },
     {
         "attributes": {
-            "price": 0.4009949734223391,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.28627450980392155,
+            "color_green": 0.2549019607843137,
+            "color_blue": 0.3568627450980392
         }
     },
     {
         "attributes": {
-            "price": 0.5824658714124629,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3411764705882353,
+            "color_green": 0.2823529411764706,
+            "color_blue": 0.37254901960784315
         }
     },
     {
         "attributes": {
-            "price": 0.7619310302705261,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.18823529411764706,
+            "color_green": 0.23137254901960785,
+            "color_blue": 0.3058823529411765
         }
     },
     {
         "attributes": {
-            "price": 0.9974318242004658,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.15294117647058825,
+            "color_green": 0.22745098039215686,
+            "color_blue": 0.27058823529411763
         }
     },
     {
         "attributes": {
-            "price": 0.3200144339449378,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.19215686274509805,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.28627450980392155
         }
     },
     {
         "attributes": {
-            "price": 0.20280467620243292,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1843137254901961,
+            "color_green": 0.23137254901960785,
+            "color_blue": 0.24313725490196078
         }
     },
     {
         "attributes": {
-            "price": 0.14064100732757867,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.14901960784313725,
+            "color_green": 0.15294117647058825,
+            "color_blue": 0.23921568627450981
         }
     },
     {
         "attributes": {
-            "price": 0.8653213004210226,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.29411764705882354,
+            "color_green": 0.18823529411764706,
+            "color_blue": 0.24313725490196078
         }
     },
     {
         "attributes": {
-            "price": 0.5120121106474181,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.21568627450980393,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.3137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.676739539100708,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.22745098039215686,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.3215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.802407333621366,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.26666666666666666,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.3137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.4618536395266498,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.23529411764705882,
+            "color_green": 0.17254901960784313,
+            "color_blue": 0.2823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.6259507438160479,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.3058823529411765,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.2627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.3415997770473427,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.2627450980392157,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.2823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.29515270648786784,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.27450980392156865,
+            "color_green": 0.23529411764705882,
+            "color_blue": 0.3215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.22850036203558077,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.25098039215686274,
+            "color_green": 0.2196078431372549,
+            "color_blue": 0.3215686274509804
         }
     },
     {
         "attributes": {
-            "price": 0.4613763446609356,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.39215686274509803,
+            "color_green": 0.2980392156862745,
+            "color_blue": 0.37254901960784315
         }
     },
     {
         "attributes": {
-            "price": 0.46647296208449884,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.32941176470588235,
+            "color_green": 0.28627450980392155,
+            "color_blue": 0.39215686274509803
         }
     },
     {
         "attributes": {
-            "price": 0.3561030194832995,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.19215686274509805,
+            "color_green": 0.2627450980392157,
+            "color_blue": 0.3411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.029627094450601965,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.12156862745098039,
+            "color_green": 0.20784313725490197,
+            "color_blue": 0.23921568627450981
         }
     },
     {
         "attributes": {
-            "price": 0.19121165243822413,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1411764705882353,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.2196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.6075470989089562,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1843137254901961,
+            "color_green": 0.24705882352941178,
+            "color_blue": 0.2627450980392157
         }
     },
     {
         "attributes": {
-            "price": 0.03215745777518708,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.16470588235294117,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.9352585878921758,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.06666666666666667,
+            "color_green": 0.07058823529411765,
+            "color_blue": 0.09411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.9222862512114516,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.11764705882352941,
+            "color_green": 0.11764705882352941,
+            "color_blue": 0.18823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.7262155900577123,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1568627450980392,
+            "color_green": 0.1450980392156863,
+            "color_blue": 0.20784313725490197
         }
     },
     {
         "attributes": {
-            "price": 0.6660721218635726,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.19607843137254902,
+            "color_green": 0.15294117647058825,
+            "color_blue": 0.19607843137254902
         }
     },
     {
         "attributes": {
-            "price": 0.05090246522900699,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1843137254901961,
+            "color_green": 0.17647058823529413,
+            "color_blue": 0.2549019607843137
         }
     },
     {
         "attributes": {
-            "price": 0.48044669264011686,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.25882352941176473,
+            "color_green": 0.2,
+            "color_blue": 0.28627450980392155
         }
     },
     {
         "attributes": {
-            "price": 0.47144317122759116,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.27450980392156865,
+            "color_green": 0.2235294117647059,
+            "color_blue": 0.2980392156862745
         }
     },
     {
         "attributes": {
-            "price": 0.30823359832854835,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.17254901960784313,
+            "color_green": 0.16470588235294117,
+            "color_blue": 0.22745098039215686
         }
     },
     {
         "attributes": {
-            "price": 0.24616668813697018,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.1843137254901961,
+            "color_green": 0.16862745098039217,
+            "color_blue": 0.23137254901960785
         }
     },
     {
         "attributes": {
-            "price": 0.7719991291553646,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.21568627450980393,
+            "color_green": 0.22745098039215686,
+            "color_blue": 0.3137254901960784
         }
     },
     {
         "attributes": {
-            "price": 0.04713653896828751,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.27058823529411763,
+            "color_green": 0.26666666666666666,
+            "color_blue": 0.34509803921568627
         }
     },
     {
         "attributes": {
-            "price": 0.3623910205145865,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1411764705882353,
+            "color_green": 0.20392156862745098,
+            "color_blue": 0.27450980392156865
         }
     },
     {
         "attributes": {
-            "price": 0.09111207074059702,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.12941176470588237,
+            "color_green": 0.23921568627450981,
+            "color_blue": 0.29411764705882354
         }
     },
     {
         "attributes": {
-            "price": 0.5956958510687522,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.11372549019607843,
+            "color_green": 0.17254901960784313,
+            "color_blue": 0.18823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.7446841573901442,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.12549019607843137,
+            "color_green": 0.1843137254901961,
+            "color_blue": 0.2
         }
     },
     {
         "attributes": {
-            "price": 0.4879758991729396,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.10196078431372549,
+            "color_green": 0.12941176470588237,
+            "color_blue": 0.13333333333333333
         }
     },
     {
         "attributes": {
-            "price": 0.9745969319004782,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.09803921568627451,
+            "color_blue": 0.09411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.6164593549964784,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.023529411764705882,
+            "color_green": 0.023529411764705882,
+            "color_blue": 0.023529411764705882
         }
     },
     {
         "attributes": {
-            "price": 0.30235538525804073,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.06666666666666667,
+            "color_green": 0.07450980392156863,
+            "color_blue": 0.08235294117647059
         }
     },
     {
         "attributes": {
-            "price": 0.4759021776174427,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.07450980392156863,
+            "color_green": 0.0784313725490196,
+            "color_blue": 0.09803921568627451
         }
     },
     {
         "attributes": {
-            "price": 0.08894077839989167,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
+            "color_red": 0.20392156862745098,
+            "color_green": 0.1607843137254902,
+            "color_blue": 0.16470588235294117
         }
     },
     {
         "attributes": {
-            "price": 0.5728547261890116,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.0784313725490196,
+            "color_green": 0.10196078431372549,
+            "color_blue": 0.13333333333333333
         }
     },
     {
         "attributes": {
-            "price": 0.3998814705828051,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.10196078431372549,
+            "color_green": 0.12941176470588237,
+            "color_blue": 0.17254901960784313
         }
     },
     {
         "attributes": {
-            "price": 0.5121206000774471,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.13725490196078433,
+            "color_green": 0.1607843137254902,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.15722984569200515,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.08627450980392157,
+            "color_green": 0.13725490196078433,
+            "color_blue": 0.18823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.20639057590970997,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.11372549019607843,
+            "color_green": 0.14901960784313725,
+            "color_blue": 0.18823529411764706
         }
     },
     {
         "attributes": {
-            "price": 0.7566525138236958,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.1411764705882353,
+            "color_green": 0.1843137254901961,
+            "color_blue": 0.21176470588235294
         }
     },
     {
         "attributes": {
-            "price": 0.282300061246634,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.08235294117647059,
+            "color_green": 0.14901960784313725,
+            "color_blue": 0.1843137254901961
         }
     },
     {
         "attributes": {
-            "price": 0.3400532668429179,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.09019607843137255,
+            "color_green": 0.14901960784313725,
+            "color_blue": 0.17254901960784313
         }
     },
     {
         "attributes": {
-            "price": 0.9059854354610523,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.08627450980392157,
+            "color_green": 0.12941176470588237,
+            "color_blue": 0.1411764705882353
         }
     },
     {
         "attributes": {
-            "price": 0.5292834184803993,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.07450980392156863,
+            "color_green": 0.10196078431372549,
+            "color_blue": 0.10588235294117647
         }
     },
     {
         "attributes": {
-            "price": 0.6107983034501199,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.0784313725490196,
+            "color_green": 0.09803921568627451,
+            "color_blue": 0.10196078431372549
         }
     },
     {
         "attributes": {
-            "price": 0.38749141527041664,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
+            "color_red": 0.06274509803921569,
+            "color_green": 0.06666666666666667,
+            "color_blue": 0.06274509803921569
         }
     },
     {
         "attributes": {
-            "price": 0.6647498809443994,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.4826165876236215,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 1,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.44346085056162066,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.5904439542485599,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.35758122324314223,
-            "category_shoes": 1,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.16627848009575763,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 1
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.576900348713927,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.9732052242014337,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 1,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.8406707859915723,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.886683532221979,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 1,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.8378363001998899,
-            "category_shoes": 0,
-            "category_tshirts": 1,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 0,
-            "category_bags": 0
-        }
-    },
-    {
-        "attributes": {
-            "price": 0.13390695685755816,
-            "category_shoes": 0,
-            "category_tshirts": 0,
-            "category_pants": 0,
-            "category_hats": 0,
-            "category_jackets": 0,
-            "category_accessories": 1,
-            "category_bags": 0
+            "color_red": 0.050980392156862744,
+            "color_green": 0.054901960784313725,
+            "color_blue": 0.050980392156862744
         }
     }
 ]
