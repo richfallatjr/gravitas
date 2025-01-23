@@ -1,104 +1,98 @@
 [
     {
-        "attributes": {
-            "color_red": 1.0,
-            "color_green": 0.0,
-            "color_blue": 0.0
-        },
-        "position": [
-            200,
-            200
-        ],
+        "id": "Validator_1",
         "threads": 8,
         "preferences": {
-            "color_red": 1.0,
-            "color_green": 0.0,
-            "color_blue": 0.0
-        }
+            "transaction_load": 0.9,
+            "node_reliability": 0.8,
+            "latency": 0.2,
+            "hash_power": 0.7,
+            "network_contribution": 0.5,
+            "propagation_efficiency": 0.6
+        },
+        "position": [
+            300,
+            150
+        ]
     },
     {
-        "attributes": {
-            "color_red": 0.0,
-            "color_green": 1.0,
-            "color_blue": 0.0
+        "id": "Validator_2",
+        "threads": 8,
+        "preferences": {
+            "transaction_load": 0.7,
+            "node_reliability": 1.0,
+            "latency": 0.4,
+            "hash_power": 0.5,
+            "network_contribution": 0.3,
+            "propagation_efficiency": 0.8
+        },
+        "position": [
+            500,
+            150
+        ]
+    },
+    {
+        "id": "Validator_3",
+        "threads": 8,
+        "preferences": {
+            "transaction_load": 0.5,
+            "node_reliability": 0.6,
+            "latency": 0.8,
+            "hash_power": 1.0,
+            "network_contribution": 0.4,
+            "propagation_efficiency": 0.3
+        },
+        "position": [
+            300,
+            400
+        ]
+    },
+    {
+        "id": "Validator_4",
+        "threads": 8,
+        "preferences": {
+            "transaction_load": 0.6,
+            "node_reliability": 0.7,
+            "latency": 0.9,
+            "hash_power": 0.4,
+            "network_contribution": 1.0,
+            "propagation_efficiency": 0.5
+        },
+        "position": [
+            500,
+            400
+        ]
+    },
+    {
+        "id": "Validator_5",
+        "threads": 8,
+        "preferences": {
+            "transaction_load": 0.3,
+            "node_reliability": 0.4,
+            "latency": 0.7,
+            "hash_power": 0.6,
+            "network_contribution": 0.8,
+            "propagation_efficiency": 1.0
         },
         "position": [
             400,
-            200
-        ],
-        "threads": 8,
-        "preferences": {
-            "color_red": 0.0,
-            "color_green": 1.0,
-            "color_blue": 0.0
-        }
+            100
+        ]
     },
     {
-        "attributes": {
-            "color_red": 0.0,
-            "color_green": 0.0,
-            "color_blue": 1.0
-        },
-        "position": [
-            600,
-            200
-        ],
+        "id": "Validator_6",
         "threads": 8,
         "preferences": {
-            "color_red": 0.0,
-            "color_green": 0.0,
-            "color_blue": 1.0
-        }
-    },
-    {
-        "attributes": {
-            "color_red": 0.0,
-            "color_green": 1.0,
-            "color_blue": 1.0
-        },
-        "position": [
-            200,
-            400
-        ],
-        "threads": 8,
-        "preferences": {
-            "color_red": 0.0,
-            "color_green": 1.0,
-            "color_blue": 1.0
-        }
-    },
-    {
-        "attributes": {
-            "color_red": 1.0,
-            "color_green": 0.0,
-            "color_blue": 1.0
+            "transaction_load": 0.4,
+            "node_reliability": 0.5,
+            "latency": 0.6,
+            "hash_power": 0.3,
+            "network_contribution": 0.7,
+            "propagation_efficiency": 0.9
         },
         "position": [
             400,
-            400
-        ],
-        "threads": 8,
-        "preferences": {
-            "color_red": 1.0,
-            "color_green": 0.0,
-            "color_blue": 1.0
-        }
-    },
-    {
-        "attributes": {
-            "color_red": 1.0,
-            "color_green": 1.0,
-            "color_blue": 0.0
-        },
-        "position": [
-            600,
-            400
-        ],
-        "threads": 8,
-        "preferences": {
-            "color_red": 1.0,
-            "color_green": 1.0,
-            "color_blue": 0.0
-        }
+            450
+        ]
     }
 ]

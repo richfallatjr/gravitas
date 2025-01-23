@@ -1,2025 +1,3002 @@
 [
     {
         "attributes": {
-            "color_red": 0.023529411764705882,
-            "color_green": 0.023529411764705882,
-            "color_blue": 0.023529411764705882
+            "transaction_load": 0.12980766337401617,
+            "node_reliability": 0.36226658999266237,
+            "latency": 0.16326147256098722,
+            "hash_power": 0.8235502347541331,
+            "network_contribution": 0.7255970230759342,
+            "propagation_efficiency": 0.14184603347906655
         }
     },
     {
         "attributes": {
-            "color_red": 0.0392156862745098,
-            "color_green": 0.0392156862745098,
-            "color_blue": 0.03137254901960784
+            "transaction_load": 0.024068376644411194,
+            "node_reliability": 0.08145461190091607,
+            "latency": 0.23499134278478595,
+            "hash_power": 0.5113067287525026,
+            "network_contribution": 0.5264564475722268,
+            "propagation_efficiency": 0.6232736275076861
         }
     },
     {
         "attributes": {
-            "color_red": 0.050980392156862744,
-            "color_green": 0.050980392156862744,
-            "color_blue": 0.043137254901960784
+            "transaction_load": 0.7863933015161055,
+            "node_reliability": 0.7205618541712077,
+            "latency": 0.7241030418935638,
+            "hash_power": 0.7384612247926285,
+            "network_contribution": 0.9906440472325806,
+            "propagation_efficiency": 0.08775270346218023
         }
     },
     {
         "attributes": {
-            "color_red": 0.047058823529411764,
-            "color_green": 0.050980392156862744,
-            "color_blue": 0.047058823529411764
+            "transaction_load": 0.0681459723402239,
+            "node_reliability": 0.568626443543748,
+            "latency": 0.8208618653191716,
+            "hash_power": 0.48780308000300077,
+            "network_contribution": 0.6101007613554427,
+            "propagation_efficiency": 0.5208247880866637
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.10196078431372549,
-            "color_blue": 0.10196078431372549
+            "transaction_load": 0.4533730778599592,
+            "node_reliability": 0.14937623375977804,
+            "latency": 0.5510975467987991,
+            "hash_power": 0.14467631015754234,
+            "network_contribution": 0.9871397370866968,
+            "propagation_efficiency": 0.35982240250612574
         }
     },
     {
         "attributes": {
-            "color_red": 0.1607843137254902,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.1803921568627451
+            "transaction_load": 0.8582253857697955,
+            "node_reliability": 0.01250647357277268,
+            "latency": 0.8252221027533205,
+            "hash_power": 0.8537377512860195,
+            "network_contribution": 0.1338375402961619,
+            "propagation_efficiency": 0.817986638352111
         }
     },
     {
         "attributes": {
-            "color_red": 0.19215686274509805,
-            "color_green": 0.2235294117647059,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.6612646127311727,
+            "node_reliability": 0.6930045832952699,
+            "latency": 0.7177056991406828,
+            "hash_power": 0.5470530788007449,
+            "network_contribution": 0.39490605575586357,
+            "propagation_efficiency": 0.9368345569026543
         }
     },
     {
         "attributes": {
-            "color_red": 0.16862745098039217,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.757905528300004,
+            "node_reliability": 0.32605170994745347,
+            "latency": 0.07041530359330739,
+            "hash_power": 0.0577546542336953,
+            "network_contribution": 0.15968541096126065,
+            "propagation_efficiency": 0.9996927618031252
         }
     },
     {
         "attributes": {
-            "color_red": 0.11764705882352941,
-            "color_green": 0.14901960784313725,
-            "color_blue": 0.1568627450980392
+            "transaction_load": 0.19719673651758196,
+            "node_reliability": 0.5577753819233944,
+            "latency": 0.20676004357973987,
+            "hash_power": 0.002299143162260764,
+            "network_contribution": 0.7090473123191299,
+            "propagation_efficiency": 0.6884583711171691
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.12549019607843137,
-            "color_blue": 0.12941176470588237
+            "transaction_load": 0.3010591577145556,
+            "node_reliability": 0.3424172164540713,
+            "latency": 0.08644337374246702,
+            "hash_power": 0.33957999145749795,
+            "network_contribution": 0.19143466076583449,
+            "propagation_efficiency": 0.8665283691482376
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.12156862745098039,
-            "color_blue": 0.12549019607843137
+            "transaction_load": 0.3191671604213736,
+            "node_reliability": 0.2107483218847589,
+            "latency": 0.17855744062319434,
+            "hash_power": 0.12601110470999854,
+            "network_contribution": 0.7084792829800697,
+            "propagation_efficiency": 0.7606876141314207
         }
     },
     {
         "attributes": {
-            "color_red": 0.08235294117647059,
-            "color_green": 0.10980392156862745,
-            "color_blue": 0.11372549019607843
+            "transaction_load": 0.17818492070985792,
+            "node_reliability": 0.5558541222261634,
+            "latency": 0.2440428839957498,
+            "hash_power": 0.9655649953385996,
+            "network_contribution": 0.025787525014607238,
+            "propagation_efficiency": 0.5945696194379523
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.11372549019607843,
-            "color_blue": 0.12941176470588237
+            "transaction_load": 0.9803574781476255,
+            "node_reliability": 0.7759887263124375,
+            "latency": 0.22207734480424635,
+            "hash_power": 0.3561147134656728,
+            "network_contribution": 0.5729139263542893,
+            "propagation_efficiency": 0.5446228185843958
         }
     },
     {
         "attributes": {
-            "color_red": 0.08627450980392157,
-            "color_green": 0.11372549019607843,
-            "color_blue": 0.13725490196078433
+            "transaction_load": 0.273547570109571,
+            "node_reliability": 0.4444144575589165,
+            "latency": 0.13997716858530151,
+            "hash_power": 0.8175038449521034,
+            "network_contribution": 0.10109397313948654,
+            "propagation_efficiency": 0.38892439748085283
         }
     },
     {
         "attributes": {
-            "color_red": 0.0784313725490196,
-            "color_green": 0.09019607843137255,
-            "color_blue": 0.10196078431372549
+            "transaction_load": 0.00047616778697878726,
+            "node_reliability": 0.7311857190727419,
+            "latency": 0.47557355510425414,
+            "hash_power": 0.035381102448779345,
+            "network_contribution": 0.3125057555916897,
+            "propagation_efficiency": 0.4806732495776921
         }
     },
     {
         "attributes": {
-            "color_red": 0.06274509803921569,
-            "color_green": 0.07058823529411765,
-            "color_blue": 0.07450980392156863
+            "transaction_load": 0.9689521126281019,
+            "node_reliability": 0.6153177570243981,
+            "latency": 0.8892116911932116,
+            "hash_power": 0.3621703630809916,
+            "network_contribution": 0.7562694598589841,
+            "propagation_efficiency": 0.5769398822435094
         }
     },
     {
         "attributes": {
-            "color_red": 0.0392156862745098,
-            "color_green": 0.043137254901960784,
-            "color_blue": 0.0392156862745098
+            "transaction_load": 0.4176697231233065,
+            "node_reliability": 0.5468287469945041,
+            "latency": 0.6041443610819551,
+            "hash_power": 0.6418597333062961,
+            "network_contribution": 0.3062870138619519,
+            "propagation_efficiency": 0.5380397323580923
         }
     },
     {
         "attributes": {
-            "color_red": 0.043137254901960784,
-            "color_green": 0.043137254901960784,
-            "color_blue": 0.043137254901960784
+            "transaction_load": 0.866638178631068,
+            "node_reliability": 0.3819444746258073,
+            "latency": 0.1738924458889214,
+            "hash_power": 0.17116672784533982,
+            "network_contribution": 0.08586388532711176,
+            "propagation_efficiency": 0.9448581945996435
         }
     },
     {
         "attributes": {
-            "color_red": 0.08235294117647059,
-            "color_green": 0.0784313725490196,
-            "color_blue": 0.07058823529411765
+            "transaction_load": 0.08810574580202768,
+            "node_reliability": 0.8349733480093532,
+            "latency": 0.6788518034125376,
+            "hash_power": 0.8832529262082623,
+            "network_contribution": 0.18305381163675427,
+            "propagation_efficiency": 0.7065826661827121
         }
     },
     {
         "attributes": {
-            "color_red": 0.09803921568627451,
-            "color_green": 0.10588235294117647,
-            "color_blue": 0.09803921568627451
+            "transaction_load": 0.36645366300761384,
+            "node_reliability": 0.5751928868779125,
+            "latency": 0.058242747855306254,
+            "hash_power": 0.026355383632970852,
+            "network_contribution": 0.46244426016850426,
+            "propagation_efficiency": 0.7976719655402881
         }
     },
     {
         "attributes": {
-            "color_red": 0.13333333333333333,
-            "color_green": 0.16470588235294117,
-            "color_blue": 0.16862745098039217
+            "transaction_load": 0.25803228742893614,
+            "node_reliability": 0.10279296624549794,
+            "latency": 0.4254679826126805,
+            "hash_power": 0.7259317678255899,
+            "network_contribution": 0.7966491715378797,
+            "propagation_efficiency": 0.7590744673975601
         }
     },
     {
         "attributes": {
-            "color_red": 0.2235294117647059,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.2784313725490196
+            "transaction_load": 0.03544836595342027,
+            "node_reliability": 0.5633233217034003,
+            "latency": 0.13263884510181978,
+            "hash_power": 0.4376020939436225,
+            "network_contribution": 0.9614969539953869,
+            "propagation_efficiency": 0.4952996588172085
         }
     },
     {
         "attributes": {
-            "color_red": 0.2196078431372549,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.27058823529411763
+            "transaction_load": 0.8852986989419824,
+            "node_reliability": 0.05175536993626417,
+            "latency": 0.16284837568480315,
+            "hash_power": 0.9863077898688708,
+            "network_contribution": 0.7305326642077407,
+            "propagation_efficiency": 0.1022954457921803
         }
     },
     {
         "attributes": {
-            "color_red": 0.16470588235294117,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.17652398135563252,
+            "node_reliability": 0.8352362348803682,
+            "latency": 0.6493827219988495,
+            "hash_power": 0.4791643030964602,
+            "network_contribution": 0.09492929296949248,
+            "propagation_efficiency": 0.6781204661114
         }
     },
     {
         "attributes": {
-            "color_red": 0.11372549019607843,
-            "color_green": 0.17647058823529413,
-            "color_blue": 0.2
+            "transaction_load": 0.01997479904355981,
+            "node_reliability": 0.456037124393341,
+            "latency": 0.29574020491865727,
+            "hash_power": 0.6788622194831123,
+            "network_contribution": 0.1816591794330149,
+            "propagation_efficiency": 0.6723240278922575
         }
     },
     {
         "attributes": {
-            "color_red": 0.13333333333333333,
-            "color_green": 0.2,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.4558915066229371,
+            "node_reliability": 0.4546170003189858,
+            "latency": 0.7164751273693438,
+            "hash_power": 0.2251380862756187,
+            "network_contribution": 0.5322431112118684,
+            "propagation_efficiency": 0.5598831445176224
         }
     },
     {
         "attributes": {
-            "color_red": 0.14901960784313725,
-            "color_green": 0.2235294117647059,
-            "color_blue": 0.25882352941176473
+            "transaction_load": 0.10264930493798252,
+            "node_reliability": 0.321206095615699,
+            "latency": 0.5533365462867815,
+            "hash_power": 0.45973374468865424,
+            "network_contribution": 0.7248150992598379,
+            "propagation_efficiency": 0.5278888681413999
         }
     },
     {
         "attributes": {
-            "color_red": 0.20784313725490197,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.30196078431372547
+            "transaction_load": 0.3416769513926131,
+            "node_reliability": 0.22495359485433797,
+            "latency": 0.696147369865748,
+            "hash_power": 0.034871205836212726,
+            "network_contribution": 0.5878527706833295,
+            "propagation_efficiency": 0.41161235967251286
         }
     },
     {
         "attributes": {
-            "color_red": 0.2196078431372549,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.30196078431372547
+            "transaction_load": 0.5210192172135207,
+            "node_reliability": 0.8222269797825709,
+            "latency": 0.042653987759284195,
+            "hash_power": 0.9996719791222083,
+            "network_contribution": 0.45517872372891743,
+            "propagation_efficiency": 0.45744346136679437
         }
     },
     {
         "attributes": {
-            "color_red": 0.26666666666666666,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.35294117647058826
+            "transaction_load": 0.19735462477043775,
+            "node_reliability": 0.23507265528963583,
+            "latency": 0.9182671005168437,
+            "hash_power": 0.35162125283275214,
+            "network_contribution": 0.6272989862607434,
+            "propagation_efficiency": 0.8358537822985537
         }
     },
     {
         "attributes": {
-            "color_red": 0.3215686274509804,
-            "color_green": 0.27450980392156865,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.054790816131375264,
+            "node_reliability": 0.5110108953654691,
+            "latency": 0.8969259547596761,
+            "hash_power": 0.035453663178640626,
+            "network_contribution": 0.13467908566495923,
+            "propagation_efficiency": 0.18327923751277264
         }
     },
     {
         "attributes": {
-            "color_red": 0.2901960784313726,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.3215686274509804
+            "transaction_load": 0.4375443408001045,
+            "node_reliability": 0.6276850520904033,
+            "latency": 0.3256844235830877,
+            "hash_power": 0.6523720982227265,
+            "network_contribution": 0.16265893646360252,
+            "propagation_efficiency": 0.9248583587860529
         }
     },
     {
         "attributes": {
-            "color_red": 0.2196078431372549,
-            "color_green": 0.19215686274509805,
-            "color_blue": 0.27058823529411763
+            "transaction_load": 0.4061202299417418,
+            "node_reliability": 0.06307756622864236,
+            "latency": 0.28441205637631184,
+            "hash_power": 0.22823001003618648,
+            "network_contribution": 0.9773519842888336,
+            "propagation_efficiency": 0.16188921626273944
         }
     },
     {
         "attributes": {
-            "color_red": 0.13725490196078433,
-            "color_green": 0.13333333333333333,
-            "color_blue": 0.17647058823529413
+            "transaction_load": 0.7580719345327472,
+            "node_reliability": 0.4726203409193488,
+            "latency": 0.6081201546046595,
+            "hash_power": 0.17944033084876032,
+            "network_contribution": 0.27380566654879057,
+            "propagation_efficiency": 0.8256573732517891
         }
     },
     {
         "attributes": {
-            "color_red": 0.08235294117647059,
-            "color_green": 0.09019607843137255,
-            "color_blue": 0.09019607843137255
+            "transaction_load": 0.7004953740350263,
+            "node_reliability": 0.23020246381839726,
+            "latency": 0.9493762418135222,
+            "hash_power": 0.0009152233058938863,
+            "network_contribution": 0.10475304463971513,
+            "propagation_efficiency": 0.9667037309455646
         }
     },
     {
         "attributes": {
-            "color_red": 0.14901960784313725,
-            "color_green": 0.17254901960784313,
-            "color_blue": 0.17254901960784313
+            "transaction_load": 0.6940218440170786,
+            "node_reliability": 0.14048397239570376,
+            "latency": 0.5790040350049287,
+            "hash_power": 0.6852809624000507,
+            "network_contribution": 0.7576470125544714,
+            "propagation_efficiency": 0.6192794939240684
         }
     },
     {
         "attributes": {
-            "color_red": 0.20784313725490197,
-            "color_green": 0.25882352941176473,
-            "color_blue": 0.26666666666666666
+            "transaction_load": 0.18836116866550645,
+            "node_reliability": 0.16498345977063744,
+            "latency": 0.10638299534179418,
+            "hash_power": 0.7718421684961488,
+            "network_contribution": 0.25810209082011626,
+            "propagation_efficiency": 0.9131451333764702
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.3058823529411765,
-            "color_blue": 0.3215686274509804
+            "transaction_load": 0.3912772039894491,
+            "node_reliability": 0.9733370043395314,
+            "latency": 0.20154615877454019,
+            "hash_power": 0.4286748169161615,
+            "network_contribution": 0.06492411972932322,
+            "propagation_efficiency": 0.2784750033015865
         }
     },
     {
         "attributes": {
-            "color_red": 0.19607843137254902,
-            "color_green": 0.25882352941176473,
-            "color_blue": 0.2784313725490196
+            "transaction_load": 0.13117956280721277,
+            "node_reliability": 0.4269247872011934,
+            "latency": 0.9377541230697998,
+            "hash_power": 0.7182731751063473,
+            "network_contribution": 0.5305255899913672,
+            "propagation_efficiency": 0.10955065955788557
         }
     },
     {
         "attributes": {
-            "color_red": 0.1450980392156863,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.26666666666666666
+            "transaction_load": 0.7954028250882509,
+            "node_reliability": 0.9523741065097445,
+            "latency": 0.9986735252941694,
+            "hash_power": 0.590734502121046,
+            "network_contribution": 0.024238252670044758,
+            "propagation_efficiency": 0.14424351832573268
         }
     },
     {
         "attributes": {
-            "color_red": 0.1607843137254902,
-            "color_green": 0.29411764705882354,
-            "color_blue": 0.34901960784313724
+            "transaction_load": 0.4420267165428391,
+            "node_reliability": 0.28011712982859827,
+            "latency": 0.5112692662000525,
+            "hash_power": 0.21338426634123497,
+            "network_contribution": 0.23715978128626813,
+            "propagation_efficiency": 0.7768076942301207
         }
     },
     {
         "attributes": {
-            "color_red": 0.2196078431372549,
-            "color_green": 0.33725490196078434,
-            "color_blue": 0.41568627450980394
+            "transaction_load": 0.41533427932216316,
+            "node_reliability": 0.7457441509152878,
+            "latency": 0.021165486624069252,
+            "hash_power": 0.608454588092658,
+            "network_contribution": 0.5374735566459697,
+            "propagation_efficiency": 0.35568097469308213
         }
     },
     {
         "attributes": {
-            "color_red": 0.32941176470588235,
-            "color_green": 0.3607843137254902,
-            "color_blue": 0.4627450980392157
+            "transaction_load": 0.02206922612222406,
+            "node_reliability": 0.24283656563626532,
+            "latency": 0.9952613973516918,
+            "hash_power": 0.4824368986720565,
+            "network_contribution": 0.8858111753373641,
+            "propagation_efficiency": 0.8630088323730172
         }
     },
     {
         "attributes": {
-            "color_red": 0.43529411764705883,
-            "color_green": 0.3803921568627451,
-            "color_blue": 0.4980392156862745
+            "transaction_load": 0.10663849341119402,
+            "node_reliability": 0.6244818271178839,
+            "latency": 0.7654423475152289,
+            "hash_power": 0.6948151500208772,
+            "network_contribution": 0.7389603226080794,
+            "propagation_efficiency": 0.8325081502204668
         }
     },
     {
         "attributes": {
-            "color_red": 0.49411764705882355,
-            "color_green": 0.43137254901960786,
-            "color_blue": 0.5803921568627451
+            "transaction_load": 0.6092554808739861,
+            "node_reliability": 0.6542552587417573,
+            "latency": 0.8164386773442951,
+            "hash_power": 0.02500301861665788,
+            "network_contribution": 0.19876327547478412,
+            "propagation_efficiency": 0.7086554333927724
         }
     },
     {
         "attributes": {
-            "color_red": 0.4823529411764706,
-            "color_green": 0.4666666666666667,
-            "color_blue": 0.6431372549019608
+            "transaction_load": 0.682628819253636,
+            "node_reliability": 0.6351600896838049,
+            "latency": 0.06488664920933718,
+            "hash_power": 0.7954000708457765,
+            "network_contribution": 0.6241183542920009,
+            "propagation_efficiency": 0.3748070385690867
         }
     },
     {
         "attributes": {
-            "color_red": 0.5254901960784314,
-            "color_green": 0.4980392156862745,
-            "color_blue": 0.6705882352941176
+            "transaction_load": 0.33721787484038357,
+            "node_reliability": 0.041101134196979694,
+            "latency": 0.3279155567022072,
+            "hash_power": 0.064032041392311,
+            "network_contribution": 0.8404029560469175,
+            "propagation_efficiency": 0.7126319735926414
         }
     },
     {
         "attributes": {
-            "color_red": 0.6980392156862745,
-            "color_green": 0.5411764705882353,
-            "color_blue": 0.6431372549019608
+            "transaction_load": 0.30054447112820526,
+            "node_reliability": 0.32918106612400855,
+            "latency": 0.9252257677906349,
+            "hash_power": 0.34632750793114264,
+            "network_contribution": 0.8601248798870893,
+            "propagation_efficiency": 0.2578376586579656
         }
     },
     {
         "attributes": {
-            "color_red": 0.4666666666666667,
-            "color_green": 0.34901960784313724,
-            "color_blue": 0.4549019607843137
+            "transaction_load": 0.4516889471077238,
+            "node_reliability": 0.7872184358586779,
+            "latency": 0.48278396854082417,
+            "hash_power": 0.11802782153695457,
+            "network_contribution": 0.4224684664568016,
+            "propagation_efficiency": 0.919168933673561
         }
     },
     {
         "attributes": {
-            "color_red": 0.3686274509803922,
-            "color_green": 0.27450980392156865,
-            "color_blue": 0.3764705882352941
+            "transaction_load": 0.6269011877703808,
+            "node_reliability": 0.05330443398702822,
+            "latency": 0.9088930512614659,
+            "hash_power": 0.8758396929347719,
+            "network_contribution": 0.7801347233941311,
+            "propagation_efficiency": 0.2761507136173308
         }
     },
     {
         "attributes": {
-            "color_red": 0.24313725490196078,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.2901960784313726
+            "transaction_load": 0.24940245904933445,
+            "node_reliability": 0.16969360332428385,
+            "latency": 0.6406988709898441,
+            "hash_power": 0.5026743470711456,
+            "network_contribution": 0.2205570796274703,
+            "propagation_efficiency": 0.8588485583185033
         }
     },
     {
         "attributes": {
-            "color_red": 0.16470588235294117,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.2235294117647059
+            "transaction_load": 0.23213167652916966,
+            "node_reliability": 0.7616404328451409,
+            "latency": 0.2101211863358451,
+            "hash_power": 0.2585485363463613,
+            "network_contribution": 0.4205796372435866,
+            "propagation_efficiency": 0.8517071735292369
         }
     },
     {
         "attributes": {
-            "color_red": 0.26666666666666666,
-            "color_green": 0.33725490196078434,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.3799228737165181,
+            "node_reliability": 0.7094869374053675,
+            "latency": 0.7055313792294364,
+            "hash_power": 0.1522864532056306,
+            "network_contribution": 0.1938666962688983,
+            "propagation_efficiency": 0.4931016907844976
         }
     },
     {
         "attributes": {
-            "color_red": 0.18823529411764706,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.2627450980392157
+            "transaction_load": 0.6069391500420196,
+            "node_reliability": 0.20931187815482388,
+            "latency": 0.6000194568429299,
+            "hash_power": 0.747560125390668,
+            "network_contribution": 0.37280195532356997,
+            "propagation_efficiency": 0.22917668368151567
         }
     },
     {
         "attributes": {
-            "color_red": 0.1568627450980392,
-            "color_green": 0.23137254901960785,
-            "color_blue": 0.25882352941176473
+            "transaction_load": 0.26665934978847805,
+            "node_reliability": 0.8402475409712512,
+            "latency": 0.03371289618651818,
+            "hash_power": 0.25491522387954746,
+            "network_contribution": 0.19734144833511202,
+            "propagation_efficiency": 0.2806776097050956
         }
     },
     {
         "attributes": {
-            "color_red": 0.15294117647058825,
-            "color_green": 0.28627450980392155,
-            "color_blue": 0.33725490196078434
+            "transaction_load": 0.2204501364610173,
+            "node_reliability": 0.5777436397366723,
+            "latency": 0.6834457520810487,
+            "hash_power": 0.8929295415336489,
+            "network_contribution": 0.14335153292398062,
+            "propagation_efficiency": 0.7703352073339187
         }
     },
     {
         "attributes": {
-            "color_red": 0.24705882352941178,
-            "color_green": 0.396078431372549,
-            "color_blue": 0.49019607843137253
+            "transaction_load": 0.4723266601255729,
+            "node_reliability": 0.4394482693833931,
+            "latency": 0.847464227028207,
+            "hash_power": 0.06586518583822709,
+            "network_contribution": 0.41164690699554196,
+            "propagation_efficiency": 0.2595116552094766
         }
     },
     {
         "attributes": {
-            "color_red": 0.42745098039215684,
-            "color_green": 0.4823529411764706,
-            "color_blue": 0.6078431372549019
+            "transaction_load": 0.21672108802616474,
+            "node_reliability": 0.8710622109347456,
+            "latency": 0.7231669476272264,
+            "hash_power": 0.8839753304215903,
+            "network_contribution": 0.81238902033325,
+            "propagation_efficiency": 0.5846049312119161
         }
     },
     {
         "attributes": {
-            "color_red": 0.5490196078431373,
-            "color_green": 0.49411764705882355,
-            "color_blue": 0.6431372549019608
+            "transaction_load": 0.7722449975085295,
+            "node_reliability": 0.7620037132109098,
+            "latency": 0.8283023572988965,
+            "hash_power": 0.8266532205964554,
+            "network_contribution": 0.017925486786690703,
+            "propagation_efficiency": 0.1866848053236343
         }
     },
     {
         "attributes": {
-            "color_red": 0.5215686274509804,
-            "color_green": 0.403921568627451,
-            "color_blue": 0.5529411764705883
+            "transaction_load": 0.9337126158581361,
+            "node_reliability": 0.31012575000475884,
+            "latency": 0.9469015740171903,
+            "hash_power": 0.22504925078613602,
+            "network_contribution": 0.688034094022558,
+            "propagation_efficiency": 0.33574978954219514
         }
     },
     {
         "attributes": {
-            "color_red": 0.5333333333333333,
-            "color_green": 0.3333333333333333,
-            "color_blue": 0.4392156862745098
+            "transaction_load": 0.14513366859982357,
+            "node_reliability": 0.39219234060647,
+            "latency": 0.18393165965922365,
+            "hash_power": 0.44808099001852986,
+            "network_contribution": 0.6325417999409589,
+            "propagation_efficiency": 0.6802748752527247
         }
     },
     {
         "attributes": {
-            "color_red": 0.5294117647058824,
-            "color_green": 0.2980392156862745,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.08427464096518467,
+            "node_reliability": 0.21649692719722635,
+            "latency": 0.48837944386572885,
+            "hash_power": 0.8728491659303993,
+            "network_contribution": 0.6479854404925217,
+            "propagation_efficiency": 0.9284173590531339
         }
     },
     {
         "attributes": {
-            "color_red": 0.48627450980392156,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.35294117647058826
+            "transaction_load": 0.0227724836463985,
+            "node_reliability": 0.28974762888283745,
+            "latency": 0.9451974243871868,
+            "hash_power": 0.952648929942027,
+            "network_contribution": 0.974717734546365,
+            "propagation_efficiency": 0.1880999411552582
         }
     },
     {
         "attributes": {
-            "color_red": 0.4235294117647059,
-            "color_green": 0.29411764705882354,
-            "color_blue": 0.43529411764705883
+            "transaction_load": 0.15153451056152767,
+            "node_reliability": 0.3356123720556363,
+            "latency": 0.24374448265332072,
+            "hash_power": 0.6193201083563373,
+            "network_contribution": 0.5718850202887874,
+            "propagation_efficiency": 0.6900866847349596
         }
     },
     {
         "attributes": {
-            "color_red": 0.47843137254901963,
-            "color_green": 0.43137254901960786,
-            "color_blue": 0.615686274509804
+            "transaction_load": 0.5024720410986047,
+            "node_reliability": 0.5400829720106352,
+            "latency": 0.47232423737193985,
+            "hash_power": 0.026045911017273382,
+            "network_contribution": 0.854790015671413,
+            "propagation_efficiency": 0.23913925254917923
         }
     },
     {
         "attributes": {
-            "color_red": 0.6509803921568628,
-            "color_green": 0.592156862745098,
-            "color_blue": 0.7607843137254902
+            "transaction_load": 0.186104018653672,
+            "node_reliability": 0.27151607845120296,
+            "latency": 0.21248591023668395,
+            "hash_power": 0.42069639430729766,
+            "network_contribution": 0.10235539798369964,
+            "propagation_efficiency": 0.624028387700612
         }
     },
     {
         "attributes": {
-            "color_red": 0.4549019607843137,
-            "color_green": 0.35294117647058826,
-            "color_blue": 0.4627450980392157
+            "transaction_load": 0.8897621841587553,
+            "node_reliability": 0.6626760579043586,
+            "latency": 0.891291036687818,
+            "hash_power": 0.05400889382961638,
+            "network_contribution": 0.8425063054751452,
+            "propagation_efficiency": 0.709183688509431
         }
     },
     {
         "attributes": {
-            "color_red": 0.24705882352941178,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.8872339960490707,
+            "node_reliability": 0.8679245510657125,
+            "latency": 0.2866297266194846,
+            "hash_power": 0.16935072028960063,
+            "network_contribution": 0.5070291926725659,
+            "propagation_efficiency": 0.33441850219811653
         }
     },
     {
         "attributes": {
-            "color_red": 0.2196078431372549,
-            "color_green": 0.27058823529411763,
-            "color_blue": 0.2901960784313726
+            "transaction_load": 0.5254383129942033,
+            "node_reliability": 0.3686698432607889,
+            "latency": 0.3844772165528496,
+            "hash_power": 0.24120410165111605,
+            "network_contribution": 0.654284041465943,
+            "propagation_efficiency": 0.4928658026952649
         }
     },
     {
         "attributes": {
-            "color_red": 0.15294117647058825,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.23137254901960785
+            "transaction_load": 0.09427957521032881,
+            "node_reliability": 0.027690511176940436,
+            "latency": 0.49641695424382026,
+            "hash_power": 0.03519188525154937,
+            "network_contribution": 0.6151866281059752,
+            "propagation_efficiency": 0.47580998128454954
         }
     },
     {
         "attributes": {
-            "color_red": 0.12549019607843137,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.23529411764705882
+            "transaction_load": 0.8317950289266638,
+            "node_reliability": 0.4965485312117174,
+            "latency": 0.8231237109991982,
+            "hash_power": 0.5310916562699998,
+            "network_contribution": 0.14329802223895183,
+            "propagation_efficiency": 0.33602688374528455
         }
     },
     {
         "attributes": {
-            "color_red": 0.2,
-            "color_green": 0.3333333333333333,
-            "color_blue": 0.40784313725490196
+            "transaction_load": 0.17813629965901112,
+            "node_reliability": 0.5757188176125739,
+            "latency": 0.1610327279541517,
+            "hash_power": 0.22724799826486253,
+            "network_contribution": 0.4465145215099636,
+            "propagation_efficiency": 0.4241203918743328
         }
     },
     {
         "attributes": {
-            "color_red": 0.38823529411764707,
-            "color_green": 0.4549019607843137,
-            "color_blue": 0.5764705882352941
+            "transaction_load": 0.979125634083784,
+            "node_reliability": 0.9860854132387132,
+            "latency": 0.3465488889762145,
+            "hash_power": 0.44536508009024767,
+            "network_contribution": 0.9161677944387189,
+            "propagation_efficiency": 0.9132158542530245
         }
     },
     {
         "attributes": {
-            "color_red": 0.5372549019607843,
-            "color_green": 0.5450980392156862,
-            "color_blue": 0.7058823529411765
+            "transaction_load": 0.4093447539414873,
+            "node_reliability": 0.9651704201680582,
+            "latency": 0.769899974113463,
+            "hash_power": 0.9654490930280679,
+            "network_contribution": 0.5309218441949117,
+            "propagation_efficiency": 0.389827343406266
         }
     },
     {
         "attributes": {
-            "color_red": 0.5882352941176471,
-            "color_green": 0.4745098039215686,
-            "color_blue": 0.6196078431372549
+            "transaction_load": 0.751101910726228,
+            "node_reliability": 0.8651912445637128,
+            "latency": 0.6820123527565001,
+            "hash_power": 0.4810499201053525,
+            "network_contribution": 0.6992362214355662,
+            "propagation_efficiency": 0.2497037456766461
         }
     },
     {
         "attributes": {
-            "color_red": 0.596078431372549,
-            "color_green": 0.3254901960784314,
-            "color_blue": 0.3843137254901961
+            "transaction_load": 0.36271350652387135,
+            "node_reliability": 0.20286750860772818,
+            "latency": 0.36389563517380685,
+            "hash_power": 0.11401177035729881,
+            "network_contribution": 0.5843471897046724,
+            "propagation_efficiency": 0.8371998152974156
         }
     },
     {
         "attributes": {
-            "color_red": 0.5254901960784314,
-            "color_green": 0.19607843137254902,
-            "color_blue": 0.16470588235294117
+            "transaction_load": 0.7478873598551761,
+            "node_reliability": 0.17664560575030985,
+            "latency": 0.6310512732319951,
+            "hash_power": 0.7939108252473758,
+            "network_contribution": 0.19718143992838721,
+            "propagation_efficiency": 0.18981775447875404
         }
     },
     {
         "attributes": {
-            "color_red": 0.48627450980392156,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.11764705882352941
+            "transaction_load": 0.08958556935870376,
+            "node_reliability": 0.6995816606321211,
+            "latency": 0.17550968548246404,
+            "hash_power": 0.48685199530269974,
+            "network_contribution": 0.29201131866176167,
+            "propagation_efficiency": 0.38748649246303424
         }
     },
     {
         "attributes": {
-            "color_red": 0.4980392156862745,
-            "color_green": 0.23921568627450981,
-            "color_blue": 0.12549019607843137
+            "transaction_load": 0.16085880400944963,
+            "node_reliability": 0.8842498876766953,
+            "latency": 0.5404399624109344,
+            "hash_power": 0.9382797226422644,
+            "network_contribution": 0.3278672256729306,
+            "propagation_efficiency": 0.948693924179785
         }
     },
     {
         "attributes": {
-            "color_red": 0.6274509803921569,
-            "color_green": 0.28627450980392155,
-            "color_blue": 0.11764705882352941
+            "transaction_load": 0.5302148325006674,
+            "node_reliability": 0.8926371632535857,
+            "latency": 0.45356170864120526,
+            "hash_power": 0.7495690274706638,
+            "network_contribution": 0.7558026719794522,
+            "propagation_efficiency": 0.9268418371278665
         }
     },
     {
         "attributes": {
-            "color_red": 0.6509803921568628,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.1450980392156863
+            "transaction_load": 0.5468261615198327,
+            "node_reliability": 0.6930546895252587,
+            "latency": 0.20791613544635634,
+            "hash_power": 0.2772845458660217,
+            "network_contribution": 0.8209172916139534,
+            "propagation_efficiency": 0.15706326080124622
         }
     },
     {
         "attributes": {
-            "color_red": 0.36470588235294116,
-            "color_green": 0.1411764705882353,
-            "color_blue": 0.2196078431372549
+            "transaction_load": 0.457901592102816,
+            "node_reliability": 0.6037515905102403,
+            "latency": 0.06628864513977728,
+            "hash_power": 0.5415357649847697,
+            "network_contribution": 0.7711268943211366,
+            "propagation_efficiency": 0.20597843214869882
         }
     },
     {
         "attributes": {
-            "color_red": 0.5647058823529412,
-            "color_green": 0.5137254901960784,
-            "color_blue": 0.7098039215686275
+            "transaction_load": 0.0940748423387675,
+            "node_reliability": 0.29776149789576933,
+            "latency": 0.2998332030592634,
+            "hash_power": 0.6637653378399074,
+            "network_contribution": 0.22490248615010378,
+            "propagation_efficiency": 0.18138751488548288
         }
     },
     {
         "attributes": {
-            "color_red": 0.403921568627451,
-            "color_green": 0.34901960784313724,
-            "color_blue": 0.4823529411764706
+            "transaction_load": 0.7964332513472898,
+            "node_reliability": 0.14319247093448761,
+            "latency": 0.6739286424947181,
+            "hash_power": 0.7867418433470817,
+            "network_contribution": 0.9694420248335167,
+            "propagation_efficiency": 0.5484070419791298
         }
     },
     {
         "attributes": {
-            "color_red": 0.30980392156862746,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.2823529411764706
+            "transaction_load": 0.9109055466131688,
+            "node_reliability": 0.9562936153349676,
+            "latency": 0.5529120257967198,
+            "hash_power": 0.27011270351550376,
+            "network_contribution": 0.482601637845128,
+            "propagation_efficiency": 0.09038068027563739
         }
     },
     {
         "attributes": {
-            "color_red": 0.1450980392156863,
-            "color_green": 0.18823529411764706,
-            "color_blue": 0.20784313725490197
+            "transaction_load": 0.2721244079392988,
+            "node_reliability": 0.12562096146942026,
+            "latency": 0.5406580480572964,
+            "hash_power": 0.04188964647266513,
+            "network_contribution": 0.5453152400329105,
+            "propagation_efficiency": 0.26902235448734024
         }
     },
     {
         "attributes": {
-            "color_red": 0.14901960784313725,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.014193338905195807,
+            "node_reliability": 0.23297523342685855,
+            "latency": 0.6584922266787947,
+            "hash_power": 0.41214163434121276,
+            "network_contribution": 0.6545138546785407,
+            "propagation_efficiency": 0.8203376609539698
         }
     },
     {
         "attributes": {
-            "color_red": 0.23529411764705882,
-            "color_green": 0.3176470588235294,
-            "color_blue": 0.38823529411764707
+            "transaction_load": 0.9354947737486881,
+            "node_reliability": 0.5960548539847018,
+            "latency": 0.6035780675057716,
+            "hash_power": 0.09261528833873567,
+            "network_contribution": 0.6376768960979877,
+            "propagation_efficiency": 0.07030041619820138
         }
     },
     {
         "attributes": {
-            "color_red": 0.403921568627451,
-            "color_green": 0.43137254901960786,
-            "color_blue": 0.5607843137254902
+            "transaction_load": 0.11607283400271418,
+            "node_reliability": 0.6861019840089232,
+            "latency": 0.9374740344268789,
+            "hash_power": 0.6872635641794169,
+            "network_contribution": 0.07476350201068982,
+            "propagation_efficiency": 0.9776472613605532
         }
     },
     {
         "attributes": {
-            "color_red": 0.5647058823529412,
-            "color_green": 0.4588235294117647,
-            "color_blue": 0.615686274509804
+            "transaction_load": 0.01995503234151985,
+            "node_reliability": 0.47647896014384505,
+            "latency": 0.4368745697493396,
+            "hash_power": 0.6524491625284286,
+            "network_contribution": 0.7676816898557457,
+            "propagation_efficiency": 0.3603664084227266
         }
     },
     {
         "attributes": {
-            "color_red": 0.6313725490196078,
-            "color_green": 0.36470588235294116,
-            "color_blue": 0.4
+            "transaction_load": 0.3923348685557577,
+            "node_reliability": 0.4167939052206008,
+            "latency": 0.6468795830807085,
+            "hash_power": 0.8446928160975865,
+            "network_contribution": 0.8237514580094925,
+            "propagation_efficiency": 0.1859483779530261
         }
     },
     {
         "attributes": {
-            "color_red": 0.5568627450980392,
-            "color_green": 0.24313725490196078,
-            "color_blue": 0.1607843137254902
+            "transaction_load": 0.46283253223607834,
+            "node_reliability": 0.6066671496689466,
+            "latency": 0.42732453990564057,
+            "hash_power": 0.130239678239645,
+            "network_contribution": 0.9275045401546357,
+            "propagation_efficiency": 0.8815844497329345
         }
     },
     {
         "attributes": {
-            "color_red": 0.49019607843137253,
-            "color_green": 0.2784313725490196,
-            "color_blue": 0.17647058823529413
+            "transaction_load": 0.7065279963559631,
+            "node_reliability": 0.4267334745460055,
+            "latency": 0.055626247453969935,
+            "hash_power": 0.04016604560166115,
+            "network_contribution": 0.2667950611997577,
+            "propagation_efficiency": 0.011594154155595171
         }
     },
     {
         "attributes": {
-            "color_red": 0.5882352941176471,
-            "color_green": 0.4470588235294118,
-            "color_blue": 0.3333333333333333
+            "transaction_load": 0.7822967116527653,
+            "node_reliability": 0.43278922767197125,
+            "latency": 0.7225702164439644,
+            "hash_power": 0.4730907313143651,
+            "network_contribution": 0.6128377616774193,
+            "propagation_efficiency": 0.4592136915702276
         }
     },
     {
         "attributes": {
-            "color_red": 0.6039215686274509,
-            "color_green": 0.49411764705882355,
-            "color_blue": 0.3764705882352941
+            "transaction_load": 0.3553432884460428,
+            "node_reliability": 0.3445165770384514,
+            "latency": 0.9938258760803915,
+            "hash_power": 0.7968498172702905,
+            "network_contribution": 0.549337360851233,
+            "propagation_efficiency": 0.547728111476259
         }
     },
     {
         "attributes": {
-            "color_red": 0.48627450980392156,
-            "color_green": 0.39215686274509803,
-            "color_blue": 0.3058823529411765
+            "transaction_load": 0.10722734716900573,
+            "node_reliability": 0.9646216747023642,
+            "latency": 0.8728013793057052,
+            "hash_power": 0.8454552957687741,
+            "network_contribution": 0.8076544363942367,
+            "propagation_efficiency": 0.08255076005661555
         }
     },
     {
         "attributes": {
-            "color_red": 0.3215686274509804,
-            "color_green": 0.19215686274509805,
-            "color_blue": 0.14901960784313725
+            "transaction_load": 0.251580649426428,
+            "node_reliability": 0.639112639777273,
+            "latency": 0.9313594475554465,
+            "hash_power": 0.7898806607369736,
+            "network_contribution": 0.5555005035236577,
+            "propagation_efficiency": 0.1554739539158957
         }
     },
     {
         "attributes": {
-            "color_red": 0.6745098039215687,
-            "color_green": 0.3137254901960784,
-            "color_blue": 0.12941176470588237
+            "transaction_load": 0.869743600655061,
+            "node_reliability": 0.947117535647741,
+            "latency": 0.23762373109372348,
+            "hash_power": 0.920033139922727,
+            "network_contribution": 0.7027626729814885,
+            "propagation_efficiency": 0.23011778520743864
         }
     },
     {
         "attributes": {
-            "color_red": 0.5294117647058824,
-            "color_green": 0.2235294117647059,
-            "color_blue": 0.23529411764705882
+            "transaction_load": 0.6133214374268358,
+            "node_reliability": 0.8451799207994442,
+            "latency": 0.6064618672061679,
+            "hash_power": 0.3921653083106177,
+            "network_contribution": 0.40268343469876877,
+            "propagation_efficiency": 0.4961572794764014
         }
     },
     {
         "attributes": {
-            "color_red": 0.47843137254901963,
-            "color_green": 0.36470588235294116,
-            "color_blue": 0.5294117647058824
+            "transaction_load": 0.7795470479377797,
+            "node_reliability": 0.1348728879023149,
+            "latency": 0.17837818428349117,
+            "hash_power": 0.9616140031964275,
+            "network_contribution": 0.6037562645276007,
+            "propagation_efficiency": 0.7468295717955541
         }
     },
     {
         "attributes": {
-            "color_red": 0.3764705882352941,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.37254901960784315
+            "transaction_load": 0.5654354598633214,
+            "node_reliability": 0.6279477169470478,
+            "latency": 0.0695208572899727,
+            "hash_power": 0.11184334455146983,
+            "network_contribution": 0.8828286157074575,
+            "propagation_efficiency": 0.02048090852568385
         }
     },
     {
         "attributes": {
-            "color_red": 0.22745098039215686,
-            "color_green": 0.18823529411764706,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.7575685769825018,
+            "node_reliability": 0.1744717050907033,
+            "latency": 0.4820675207884365,
+            "hash_power": 0.5311533189354901,
+            "network_contribution": 0.8273152622183523,
+            "propagation_efficiency": 0.8017313495653436
         }
     },
     {
         "attributes": {
-            "color_red": 0.10196078431372549,
-            "color_green": 0.16470588235294117,
-            "color_blue": 0.2
+            "transaction_load": 0.24107604479366151,
+            "node_reliability": 0.050931490424748316,
+            "latency": 0.9598795833854102,
+            "hash_power": 0.17804885346402066,
+            "network_contribution": 0.1562347022292666,
+            "propagation_efficiency": 0.005880394638186126
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.34901960784313724
+            "transaction_load": 0.9383597470697365,
+            "node_reliability": 0.3123080452618855,
+            "latency": 0.6117398733086974,
+            "hash_power": 0.052128463865657726,
+            "network_contribution": 0.9241597251753847,
+            "propagation_efficiency": 0.24078923174016564
         }
     },
     {
         "attributes": {
-            "color_red": 0.4235294117647059,
-            "color_green": 0.36470588235294116,
-            "color_blue": 0.47843137254901963
+            "transaction_load": 0.4787124466281486,
+            "node_reliability": 0.6913302391935703,
+            "latency": 0.7075918755897447,
+            "hash_power": 0.5913013850804575,
+            "network_contribution": 0.5053266633030239,
+            "propagation_efficiency": 0.12845937894331505
         }
     },
     {
         "attributes": {
-            "color_red": 0.5529411764705883,
-            "color_green": 0.39215686274509803,
-            "color_blue": 0.5215686274509804
+            "transaction_load": 0.41012137557145767,
+            "node_reliability": 0.8554490825454513,
+            "latency": 0.2303272437389724,
+            "hash_power": 0.05413748397626139,
+            "network_contribution": 0.54055998735135,
+            "propagation_efficiency": 0.005533129814836446
         }
     },
     {
         "attributes": {
-            "color_red": 0.6784313725490196,
-            "color_green": 0.34509803921568627,
-            "color_blue": 0.2823529411764706
+            "transaction_load": 0.675200020230092,
+            "node_reliability": 0.6006173635606031,
+            "latency": 0.11090378412304369,
+            "hash_power": 0.6445584237350898,
+            "network_contribution": 0.9723197548896321,
+            "propagation_efficiency": 0.16609910135319106
         }
     },
     {
         "attributes": {
-            "color_red": 0.48627450980392156,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.11764705882352941
+            "transaction_load": 0.19947492433872183,
+            "node_reliability": 0.9425824665140228,
+            "latency": 0.33994223152783043,
+            "hash_power": 0.001996566548000178,
+            "network_contribution": 0.541594678949744,
+            "propagation_efficiency": 0.8931208101772468
         }
     },
     {
         "attributes": {
-            "color_red": 0.5254901960784314,
-            "color_green": 0.396078431372549,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.9137159216434613,
+            "node_reliability": 0.022903185577606844,
+            "latency": 0.05365469263093359,
+            "hash_power": 0.16813615504618584,
+            "network_contribution": 0.2149745582878746,
+            "propagation_efficiency": 0.3445272426060033
         }
     },
     {
         "attributes": {
-            "color_red": 0.7215686274509804,
-            "color_green": 0.6,
-            "color_blue": 0.4588235294117647
+            "transaction_load": 0.19398508826832728,
+            "node_reliability": 0.22645626102424954,
+            "latency": 0.4117897082597587,
+            "hash_power": 0.5587341571030372,
+            "network_contribution": 0.5773772368038492,
+            "propagation_efficiency": 0.11471384227604531
         }
     },
     {
         "attributes": {
-            "color_red": 0.5098039215686274,
-            "color_green": 0.4470588235294118,
-            "color_blue": 0.3568627450980392
+            "transaction_load": 0.06588036756001847,
+            "node_reliability": 0.28815542272664185,
+            "latency": 0.9620093474271697,
+            "hash_power": 0.29666367808072713,
+            "network_contribution": 0.535084540316248,
+            "propagation_efficiency": 0.7586820281580321
         }
     },
     {
         "attributes": {
-            "color_red": 0.8549019607843137,
-            "color_green": 0.7607843137254902,
-            "color_blue": 0.615686274509804
+            "transaction_load": 0.34883648203717765,
+            "node_reliability": 0.1807771663558615,
+            "latency": 0.832591643106805,
+            "hash_power": 0.6550508568580907,
+            "network_contribution": 0.8624906469734065,
+            "propagation_efficiency": 0.1833201315790275
         }
     },
     {
         "attributes": {
-            "color_red": 0.7333333333333333,
-            "color_green": 0.5686274509803921,
-            "color_blue": 0.4
+            "transaction_load": 0.7721921981707159,
+            "node_reliability": 0.28132096478821755,
+            "latency": 0.07699122446770168,
+            "hash_power": 0.7600696815514768,
+            "network_contribution": 0.8256876052623308,
+            "propagation_efficiency": 0.8310581667497661
         }
     },
     {
         "attributes": {
-            "color_red": 0.36470588235294116,
-            "color_green": 0.25882352941176473,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.6347719286444654,
+            "node_reliability": 0.5558077532688688,
+            "latency": 0.04593675469511049,
+            "hash_power": 0.22842882158825017,
+            "network_contribution": 0.7737519397174009,
+            "propagation_efficiency": 0.5884584311477423
         }
     },
     {
         "attributes": {
-            "color_red": 0.6039215686274509,
-            "color_green": 0.23921568627450981,
-            "color_blue": 0.09019607843137255
+            "transaction_load": 0.0038952488490445747,
+            "node_reliability": 0.8093205410698715,
+            "latency": 0.9496556320288222,
+            "hash_power": 0.4070451897243518,
+            "network_contribution": 0.7267995591737433,
+            "propagation_efficiency": 0.9017873409568414
         }
     },
     {
         "attributes": {
-            "color_red": 0.6470588235294118,
-            "color_green": 0.29411764705882354,
-            "color_blue": 0.23137254901960785
+            "transaction_load": 0.9651643546127958,
+            "node_reliability": 0.2464351331450083,
+            "latency": 0.4014551318595667,
+            "hash_power": 0.1730553815813246,
+            "network_contribution": 0.6227351640389658,
+            "propagation_efficiency": 0.5035934603602081
         }
     },
     {
         "attributes": {
-            "color_red": 0.40784313725490196,
-            "color_green": 0.2196078431372549,
-            "color_blue": 0.34901960784313724
+            "transaction_load": 0.10599594149131664,
+            "node_reliability": 0.9737977395143989,
+            "latency": 0.13035454589796192,
+            "hash_power": 0.9013883563091478,
+            "network_contribution": 0.5967607692601292,
+            "propagation_efficiency": 0.13328657374346842
         }
     },
     {
         "attributes": {
-            "color_red": 0.3254901960784314,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.3803921568627451
+            "transaction_load": 0.6803679329892184,
+            "node_reliability": 0.7056824136693707,
+            "latency": 0.7722647781175033,
+            "hash_power": 0.66429157517116,
+            "network_contribution": 0.6624026362560412,
+            "propagation_efficiency": 0.22945609047814752
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.30980392156862746
+            "transaction_load": 0.180238271723279,
+            "node_reliability": 0.09997782857765614,
+            "latency": 0.812977579730964,
+            "hash_power": 0.18407983943172945,
+            "network_contribution": 0.21331535630674925,
+            "propagation_efficiency": 0.150925146935318
         }
     },
     {
         "attributes": {
-            "color_red": 0.17647058823529413,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.4321294935237061,
+            "node_reliability": 0.6558288543583011,
+            "latency": 0.22717912470805923,
+            "hash_power": 0.6755935272961562,
+            "network_contribution": 0.6245797391583032,
+            "propagation_efficiency": 0.2349674232279797
         }
     },
     {
         "attributes": {
-            "color_red": 0.43529411764705883,
-            "color_green": 0.30980392156862746,
-            "color_blue": 0.403921568627451
+            "transaction_load": 0.6576742220643906,
+            "node_reliability": 0.03524576385527889,
+            "latency": 0.7525172747061262,
+            "hash_power": 0.48432254422095244,
+            "network_contribution": 0.7805618260471269,
+            "propagation_efficiency": 0.7287060740179954
         }
     },
     {
         "attributes": {
-            "color_red": 0.5176470588235295,
-            "color_green": 0.3803921568627451,
-            "color_blue": 0.5294117647058824
+            "transaction_load": 0.8029768265974618,
+            "node_reliability": 0.8366625833039837,
+            "latency": 0.056948287074435666,
+            "hash_power": 0.10797024940528555,
+            "network_contribution": 0.44677858463464637,
+            "propagation_efficiency": 0.5580340345290603
         }
     },
     {
         "attributes": {
-            "color_red": 0.6509803921568628,
-            "color_green": 0.3568627450980392,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.6538206051710156,
+            "node_reliability": 0.998462608614674,
+            "latency": 0.4102933516308518,
+            "hash_power": 0.6727640567158936,
+            "network_contribution": 0.9003888106388418,
+            "propagation_efficiency": 0.04419890648706848
         }
     },
     {
         "attributes": {
-            "color_red": 0.5843137254901961,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.12156862745098039
+            "transaction_load": 0.1925699714738458,
+            "node_reliability": 0.9504759789146064,
+            "latency": 0.34859260262575753,
+            "hash_power": 0.8449392038898303,
+            "network_contribution": 0.7853870366801394,
+            "propagation_efficiency": 0.5468222899928299
         }
     },
     {
         "attributes": {
-            "color_red": 0.4,
-            "color_green": 0.3058823529411765,
-            "color_blue": 0.25098039215686274
+            "transaction_load": 0.5372860067117792,
+            "node_reliability": 0.8541062026064707,
+            "latency": 0.6760991754851357,
+            "hash_power": 0.5354651260163185,
+            "network_contribution": 0.45422646830521674,
+            "propagation_efficiency": 0.5975274485173436
         }
     },
     {
         "attributes": {
-            "color_red": 0.8313725490196079,
-            "color_green": 0.6666666666666666,
-            "color_blue": 0.49019607843137253
+            "transaction_load": 0.14504770454706795,
+            "node_reliability": 0.1673557577886855,
+            "latency": 0.842855469467942,
+            "hash_power": 0.16384529852592755,
+            "network_contribution": 0.8297221021076385,
+            "propagation_efficiency": 0.9687903196682857
         }
     },
     {
         "attributes": {
-            "color_red": 0.7372549019607844,
-            "color_green": 0.6823529411764706,
-            "color_blue": 0.5725490196078431
+            "transaction_load": 0.3678732229665116,
+            "node_reliability": 0.2872720135309419,
+            "latency": 0.9289113837271471,
+            "hash_power": 0.6808522355371638,
+            "network_contribution": 0.36888344480350976,
+            "propagation_efficiency": 0.48092629007788645
         }
     },
     {
         "attributes": {
-            "color_red": 0.49019607843137253,
-            "color_green": 0.4470588235294118,
-            "color_blue": 0.3686274509803922
+            "transaction_load": 0.18590974516034042,
+            "node_reliability": 0.8416378678036258,
+            "latency": 0.39343099610138466,
+            "hash_power": 0.5215471008695302,
+            "network_contribution": 0.15996405048987294,
+            "propagation_efficiency": 0.43022272213842094
         }
     },
     {
         "attributes": {
-            "color_red": 0.8,
-            "color_green": 0.6627450980392157,
-            "color_blue": 0.5019607843137255
+            "transaction_load": 0.5431154585770936,
+            "node_reliability": 0.4496261183507164,
+            "latency": 0.04359559269668589,
+            "hash_power": 0.7523756801810592,
+            "network_contribution": 0.011528658112128443,
+            "propagation_efficiency": 0.8238602984377407
         }
     },
     {
         "attributes": {
-            "color_red": 0.5254901960784314,
-            "color_green": 0.403921568627451,
-            "color_blue": 0.30196078431372547
+            "transaction_load": 0.09287683490393561,
+            "node_reliability": 0.3610930695671286,
+            "latency": 0.057916174793279596,
+            "hash_power": 0.1441207387348431,
+            "network_contribution": 0.7731895161090081,
+            "propagation_efficiency": 0.708828263755921
         }
     },
     {
         "attributes": {
-            "color_red": 0.39215686274509803,
-            "color_green": 0.2,
-            "color_blue": 0.12549019607843137
+            "transaction_load": 0.14915606234784962,
+            "node_reliability": 0.7332144512331543,
+            "latency": 0.5700677548755173,
+            "hash_power": 0.06626865139297689,
+            "network_contribution": 0.45062541380980603,
+            "propagation_efficiency": 0.06962486992892714
         }
     },
     {
         "attributes": {
-            "color_red": 0.6901960784313725,
-            "color_green": 0.3568627450980392,
-            "color_blue": 0.16862745098039217
+            "transaction_load": 0.7114453909306188,
+            "node_reliability": 0.5290903928245481,
+            "latency": 0.016229899832552186,
+            "hash_power": 0.6569764923157616,
+            "network_contribution": 0.680812544149609,
+            "propagation_efficiency": 0.21002007548847246
         }
     },
     {
         "attributes": {
-            "color_red": 0.49019607843137253,
-            "color_green": 0.25882352941176473,
-            "color_blue": 0.30980392156862746
+            "transaction_load": 0.589104149298866,
+            "node_reliability": 0.5296974249519871,
+            "latency": 0.9254569143597671,
+            "hash_power": 0.5118510476293368,
+            "network_contribution": 0.2504049624082365,
+            "propagation_efficiency": 0.3309542094866842
         }
     },
     {
         "attributes": {
-            "color_red": 0.4549019607843137,
-            "color_green": 0.34509803921568627,
-            "color_blue": 0.5372549019607843
+            "transaction_load": 0.5589149620410818,
+            "node_reliability": 0.20715633512321696,
+            "latency": 0.08430177419083573,
+            "hash_power": 0.21502879896494986,
+            "network_contribution": 0.1869075257263525,
+            "propagation_efficiency": 0.8766989833082137
         }
     },
     {
         "attributes": {
-            "color_red": 0.3803921568627451,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.40784313725490196
+            "transaction_load": 0.8702167188007384,
+            "node_reliability": 0.4823237514957114,
+            "latency": 0.03647606348600618,
+            "hash_power": 0.8581058864392962,
+            "network_contribution": 0.9687620334258568,
+            "propagation_efficiency": 0.6873205410697785
         }
     },
     {
         "attributes": {
-            "color_red": 0.29411764705882354,
-            "color_green": 0.2,
-            "color_blue": 0.27058823529411763
+            "transaction_load": 0.7609129957379404,
+            "node_reliability": 0.5580224327172574,
+            "latency": 0.2835399194790611,
+            "hash_power": 0.9530085942257299,
+            "network_contribution": 0.404873537471633,
+            "propagation_efficiency": 0.3123749176661841
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.3058823529411765
+            "transaction_load": 0.6712042553437098,
+            "node_reliability": 0.14980928111952396,
+            "latency": 0.1641875023214201,
+            "hash_power": 0.03839384284805092,
+            "network_contribution": 0.31897456765822796,
+            "propagation_efficiency": 0.16568017214478314
         }
     },
     {
         "attributes": {
-            "color_red": 0.36470588235294116,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.3803921568627451
+            "transaction_load": 0.8324676863613499,
+            "node_reliability": 0.031270451934584,
+            "latency": 0.5702245560932092,
+            "hash_power": 0.7641041131404867,
+            "network_contribution": 0.2145472840551016,
+            "propagation_efficiency": 0.8121007482442124
         }
     },
     {
         "attributes": {
-            "color_red": 0.49019607843137253,
-            "color_green": 0.3568627450980392,
-            "color_blue": 0.5215686274509804
+            "transaction_load": 0.6680388446173767,
+            "node_reliability": 0.2496377709765243,
+            "latency": 0.38862946588630665,
+            "hash_power": 0.9610451422938437,
+            "network_contribution": 0.06803519858410245,
+            "propagation_efficiency": 0.4009197783754046
         }
     },
     {
         "attributes": {
-            "color_red": 0.6901960784313725,
-            "color_green": 0.3333333333333333,
-            "color_blue": 0.20392156862745098
+            "transaction_load": 0.3927765884540989,
+            "node_reliability": 0.13168938366830296,
+            "latency": 0.7682885950723383,
+            "hash_power": 0.49547671860192777,
+            "network_contribution": 0.10623915273395979,
+            "propagation_efficiency": 0.5715565016991716
         }
     },
     {
         "attributes": {
-            "color_red": 0.4196078431372549,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.10980392156862745
+            "transaction_load": 0.010780375817208254,
+            "node_reliability": 0.034312037518888894,
+            "latency": 0.03156335258589171,
+            "hash_power": 0.8938093184832854,
+            "network_contribution": 0.48589887150803523,
+            "propagation_efficiency": 0.7996084756875006
         }
     },
     {
         "attributes": {
-            "color_red": 0.4,
-            "color_green": 0.3215686274509804,
-            "color_blue": 0.27450980392156865
+            "transaction_load": 0.06718898633110737,
+            "node_reliability": 0.1652481941213788,
+            "latency": 0.6125107797427807,
+            "hash_power": 0.5904927902217098,
+            "network_contribution": 0.6724960921710869,
+            "propagation_efficiency": 0.08985274402280319
         }
     },
     {
         "attributes": {
-            "color_red": 0.6588235294117647,
-            "color_green": 0.5137254901960784,
-            "color_blue": 0.3764705882352941
+            "transaction_load": 0.047634495216873796,
+            "node_reliability": 0.692311752713194,
+            "latency": 0.4606749708057818,
+            "hash_power": 0.20293855819394213,
+            "network_contribution": 0.42820076499097537,
+            "propagation_efficiency": 0.10242140446902481
         }
     },
     {
         "attributes": {
-            "color_red": 0.7294117647058823,
-            "color_green": 0.6078431372549019,
-            "color_blue": 0.4745098039215686
+            "transaction_load": 0.4712858018583861,
+            "node_reliability": 0.5964141947888774,
+            "latency": 0.3257360867394157,
+            "hash_power": 0.8110982007214235,
+            "network_contribution": 0.825503768434106,
+            "propagation_efficiency": 0.47143464433340576
         }
     },
     {
         "attributes": {
-            "color_red": 0.6431372549019608,
-            "color_green": 0.5333333333333333,
-            "color_blue": 0.4235294117647059
+            "transaction_load": 0.8052858773344184,
+            "node_reliability": 0.335744117836987,
+            "latency": 0.6389673236099899,
+            "hash_power": 0.033186813936668336,
+            "network_contribution": 0.9228811849270815,
+            "propagation_efficiency": 0.2775247453186501
         }
     },
     {
         "attributes": {
-            "color_red": 0.41568627450980394,
-            "color_green": 0.3058823529411765,
-            "color_blue": 0.23529411764705882
+            "transaction_load": 0.4485494383076709,
+            "node_reliability": 0.8389898905694748,
+            "latency": 0.38642469737888296,
+            "hash_power": 0.9092599040891066,
+            "network_contribution": 0.489675473626494,
+            "propagation_efficiency": 0.3391798961859799
         }
     },
     {
         "attributes": {
-            "color_red": 0.4235294117647059,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.10980392156862745
+            "transaction_load": 0.6470907118992006,
+            "node_reliability": 0.3639488962910179,
+            "latency": 0.023586619416476662,
+            "hash_power": 0.14783746853310575,
+            "network_contribution": 0.7551246492356153,
+            "propagation_efficiency": 0.6599542280123654
         }
     },
     {
         "attributes": {
-            "color_red": 0.6431372549019608,
-            "color_green": 0.30196078431372547,
-            "color_blue": 0.13725490196078433
+            "transaction_load": 0.4153306334662207,
+            "node_reliability": 0.42211621211808636,
+            "latency": 0.7526656102060459,
+            "hash_power": 0.6661390496915269,
+            "network_contribution": 0.8311081531144985,
+            "propagation_efficiency": 0.826495433275323
         }
     },
     {
         "attributes": {
-            "color_red": 0.5254901960784314,
-            "color_green": 0.27058823529411763,
-            "color_blue": 0.2980392156862745
+            "transaction_load": 0.9196813339684958,
+            "node_reliability": 0.7770681063418403,
+            "latency": 0.992446192930743,
+            "hash_power": 0.5445981626658217,
+            "network_contribution": 0.027913697041629937,
+            "propagation_efficiency": 0.534650497269289
         }
     },
     {
         "attributes": {
-            "color_red": 0.5843137254901961,
-            "color_green": 0.4666666666666667,
-            "color_blue": 0.6392156862745098
+            "transaction_load": 0.573913076439178,
+            "node_reliability": 0.5889153800470837,
+            "latency": 0.14933126076886294,
+            "hash_power": 0.1263123349007701,
+            "network_contribution": 0.2147311499362694,
+            "propagation_efficiency": 0.11116264252057473
         }
     },
     {
         "attributes": {
-            "color_red": 0.5019607843137255,
-            "color_green": 0.3803921568627451,
-            "color_blue": 0.5098039215686274
+            "transaction_load": 0.1656075061816552,
+            "node_reliability": 0.5621040668663131,
+            "latency": 0.1449739166764269,
+            "hash_power": 0.910087462028718,
+            "network_contribution": 0.6473802736371809,
+            "propagation_efficiency": 0.7366940881538218
         }
     },
     {
         "attributes": {
-            "color_red": 0.3215686274509804,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.12035158236707466,
+            "node_reliability": 0.13686339716897755,
+            "latency": 0.39998934111910733,
+            "hash_power": 0.4422340369428768,
+            "network_contribution": 0.5020873243268718,
+            "propagation_efficiency": 0.6043979292180695
         }
     },
     {
         "attributes": {
-            "color_red": 0.23921568627450981,
-            "color_green": 0.16862745098039217,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.683699138242525,
+            "node_reliability": 0.04191858111143043,
+            "latency": 0.1684038641841623,
+            "hash_power": 0.837642406615314,
+            "network_contribution": 0.9299832539838828,
+            "propagation_efficiency": 0.8242332739541539
         }
     },
     {
         "attributes": {
-            "color_red": 0.23137254901960785,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.2784313725490196
+            "transaction_load": 0.36414444948987157,
+            "node_reliability": 0.5155248085828595,
+            "latency": 0.04623595589440843,
+            "hash_power": 0.46940403664786035,
+            "network_contribution": 0.3335767314488899,
+            "propagation_efficiency": 0.18149893629584823
         }
     },
     {
         "attributes": {
-            "color_red": 0.49019607843137253,
-            "color_green": 0.4470588235294118,
-            "color_blue": 0.6078431372549019
+            "transaction_load": 0.1674339983895774,
+            "node_reliability": 0.6330357453747751,
+            "latency": 0.29928999790937805,
+            "hash_power": 0.8690726919625763,
+            "network_contribution": 0.5028304472450043,
+            "propagation_efficiency": 0.89117628307893
         }
     },
     {
         "attributes": {
-            "color_red": 0.4627450980392157,
-            "color_green": 0.3215686274509804,
-            "color_blue": 0.4470588235294118
+            "transaction_load": 0.23769513328324665,
+            "node_reliability": 0.11664071424619415,
+            "latency": 0.4056423442636431,
+            "hash_power": 0.6051974066217157,
+            "network_contribution": 0.9334688956078537,
+            "propagation_efficiency": 0.7070788824963719
         }
     },
     {
         "attributes": {
-            "color_red": 0.5882352941176471,
-            "color_green": 0.22745098039215686,
-            "color_blue": 0.1411764705882353
+            "transaction_load": 0.014500019382923224,
+            "node_reliability": 0.07912186042555724,
+            "latency": 0.04996289157630718,
+            "hash_power": 0.36798108598143686,
+            "network_contribution": 0.3313361150311057,
+            "propagation_efficiency": 0.21974579730154487
         }
     },
     {
         "attributes": {
-            "color_red": 0.6274509803921569,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.13725490196078433
+            "transaction_load": 0.7487326362474058,
+            "node_reliability": 0.64828406870927,
+            "latency": 0.28914816754100237,
+            "hash_power": 0.26899542573785085,
+            "network_contribution": 0.3514372806274716,
+            "propagation_efficiency": 0.44780359217501275
         }
     },
     {
         "attributes": {
-            "color_red": 0.4,
-            "color_green": 0.19215686274509805,
-            "color_blue": 0.10980392156862745
+            "transaction_load": 0.5996345680200923,
+            "node_reliability": 0.8715323965771802,
+            "latency": 0.14720286156414253,
+            "hash_power": 0.34841780146515866,
+            "network_contribution": 0.3590176526496175,
+            "propagation_efficiency": 0.8239502224593497
         }
     },
     {
         "attributes": {
-            "color_red": 0.3803921568627451,
-            "color_green": 0.24313725490196078,
-            "color_blue": 0.1803921568627451
+            "transaction_load": 0.12187415678073854,
+            "node_reliability": 0.9112131856716997,
+            "latency": 0.5990604094282843,
+            "hash_power": 0.04656503463868278,
+            "network_contribution": 0.4915287980254027,
+            "propagation_efficiency": 0.2325843500957009
         }
     },
     {
         "attributes": {
-            "color_red": 0.4117647058823529,
-            "color_green": 0.25098039215686274,
-            "color_blue": 0.17254901960784313
+            "transaction_load": 0.9304123727263317,
+            "node_reliability": 0.629392219154843,
+            "latency": 0.5244280646250936,
+            "hash_power": 0.4395707967374244,
+            "network_contribution": 0.5444324827496273,
+            "propagation_efficiency": 0.7202327077647054
         }
     },
     {
         "attributes": {
-            "color_red": 0.4549019607843137,
-            "color_green": 0.2196078431372549,
-            "color_blue": 0.11372549019607843
+            "transaction_load": 0.4992434066069441,
+            "node_reliability": 0.9461971483871823,
+            "latency": 0.3286446834235309,
+            "hash_power": 0.676897505910929,
+            "network_contribution": 0.7953792842913325,
+            "propagation_efficiency": 0.35853384610314865
         }
     },
     {
         "attributes": {
-            "color_red": 0.5686274509803921,
-            "color_green": 0.25098039215686274,
-            "color_blue": 0.10980392156862745
+            "transaction_load": 0.014078843291677745,
+            "node_reliability": 0.2560557546198494,
+            "latency": 0.4440686477623852,
+            "hash_power": 0.501154756001312,
+            "network_contribution": 0.29933658936197927,
+            "propagation_efficiency": 0.1632752601673383
         }
     },
     {
         "attributes": {
-            "color_red": 0.592156862745098,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.18823529411764706
+            "transaction_load": 0.2500696028827314,
+            "node_reliability": 0.7926823951810391,
+            "latency": 0.02435542273297775,
+            "hash_power": 0.9351978640486274,
+            "network_contribution": 0.8934916192541578,
+            "propagation_efficiency": 0.8195497504526608
         }
     },
     {
         "attributes": {
-            "color_red": 0.5333333333333333,
-            "color_green": 0.34509803921568627,
-            "color_blue": 0.43529411764705883
+            "transaction_load": 0.3591732992074904,
+            "node_reliability": 0.41053834406031264,
+            "latency": 0.33065363323236396,
+            "hash_power": 0.0782466797696536,
+            "network_contribution": 0.48070000859151973,
+            "propagation_efficiency": 0.2919246698866279
         }
     },
     {
         "attributes": {
-            "color_red": 0.6078431372549019,
-            "color_green": 0.48627450980392156,
-            "color_blue": 0.6470588235294118
+            "transaction_load": 0.46827941768787207,
+            "node_reliability": 0.8961991020497317,
+            "latency": 0.3215324104645323,
+            "hash_power": 0.6841254014458932,
+            "network_contribution": 0.8361404234974468,
+            "propagation_efficiency": 0.30295117185995646
         }
     },
     {
         "attributes": {
-            "color_red": 0.4823529411764706,
-            "color_green": 0.3411764705882353,
-            "color_blue": 0.4666666666666667
+            "transaction_load": 0.5857419951190919,
+            "node_reliability": 0.36353365455776154,
+            "latency": 0.8135347737005837,
+            "hash_power": 0.9174335763468816,
+            "network_contribution": 0.8314834429454699,
+            "propagation_efficiency": 0.003847701487556976
         }
     },
     {
         "attributes": {
-            "color_red": 0.29411764705882354,
-            "color_green": 0.2196078431372549,
-            "color_blue": 0.30980392156862746
+            "transaction_load": 0.6184210508973903,
+            "node_reliability": 0.33737718822293616,
+            "latency": 0.3135940671681535,
+            "hash_power": 0.03704261481496085,
+            "network_contribution": 0.9222790515214967,
+            "propagation_efficiency": 0.9444906890570754
         }
     },
     {
         "attributes": {
-            "color_red": 0.25882352941176473,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.3411764705882353
+            "transaction_load": 0.395232567156765,
+            "node_reliability": 0.9607725387816325,
+            "latency": 0.43557059184415226,
+            "hash_power": 0.5819543115379766,
+            "network_contribution": 0.27201778879442207,
+            "propagation_efficiency": 0.9426647441656748
         }
     },
     {
         "attributes": {
-            "color_red": 0.1411764705882353,
-            "color_green": 0.15294117647058825,
-            "color_blue": 0.23921568627450981
+            "transaction_load": 0.8076727479088534,
+            "node_reliability": 0.9875200133505004,
+            "latency": 0.9058603531386001,
+            "hash_power": 0.12453708045929801,
+            "network_contribution": 0.7199947800352102,
+            "propagation_efficiency": 0.4991825722301124
         }
     },
     {
         "attributes": {
-            "color_red": 0.3568627450980392,
-            "color_green": 0.27058823529411763,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.09155196040696745,
+            "node_reliability": 0.31653492432585384,
+            "latency": 0.9513404382198412,
+            "hash_power": 0.3497676102167524,
+            "network_contribution": 0.6431978233871879,
+            "propagation_efficiency": 0.4416962365311041
         }
     },
     {
         "attributes": {
-            "color_red": 0.5529411764705883,
-            "color_green": 0.49411764705882355,
-            "color_blue": 0.6470588235294118
+            "transaction_load": 0.4935672102647667,
+            "node_reliability": 0.0377640228963273,
+            "latency": 0.8221166178509366,
+            "hash_power": 0.6358634231947333,
+            "network_contribution": 0.02402329150091176,
+            "propagation_efficiency": 0.5474934276866081
         }
     },
     {
         "attributes": {
-            "color_red": 0.5137254901960784,
-            "color_green": 0.4196078431372549,
-            "color_blue": 0.5843137254901961
+            "transaction_load": 0.6184149635286252,
+            "node_reliability": 0.856052798080961,
+            "latency": 0.19642364633616805,
+            "hash_power": 0.043829774550935174,
+            "network_contribution": 0.34018419262454636,
+            "propagation_efficiency": 0.7190667725814048
         }
     },
     {
         "attributes": {
-            "color_red": 0.3607843137254902,
-            "color_green": 0.1411764705882353,
-            "color_blue": 0.19607843137254902
+            "transaction_load": 0.758894306213263,
+            "node_reliability": 0.40773092224155794,
+            "latency": 0.17431871904372487,
+            "hash_power": 0.5294961044723165,
+            "network_contribution": 0.8144395625424338,
+            "propagation_efficiency": 0.2135970827745085
         }
     },
     {
         "attributes": {
-            "color_red": 0.5294117647058824,
-            "color_green": 0.2,
-            "color_blue": 0.14901960784313725
+            "transaction_load": 0.5583530703030142,
+            "node_reliability": 0.6303488631507782,
+            "latency": 0.703622862401382,
+            "hash_power": 0.4986804659049535,
+            "network_contribution": 0.8183215814497615,
+            "propagation_efficiency": 0.6634297943607731
         }
     },
     {
         "attributes": {
-            "color_red": 0.6588235294117647,
-            "color_green": 0.2980392156862745,
-            "color_blue": 0.1568627450980392
+            "transaction_load": 0.7732566030897926,
+            "node_reliability": 0.04425154685561494,
+            "latency": 0.025433378419242425,
+            "hash_power": 0.9665922413881548,
+            "network_contribution": 0.3839059561826945,
+            "propagation_efficiency": 0.6122732621242585
         }
     },
     {
         "attributes": {
-            "color_red": 0.6039215686274509,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.13333333333333333
+            "transaction_load": 0.8984817501010843,
+            "node_reliability": 0.992424235920923,
+            "latency": 0.36591594693183993,
+            "hash_power": 0.20400903994370123,
+            "network_contribution": 0.037618286920832356,
+            "propagation_efficiency": 0.8637935863171025
         }
     },
     {
         "attributes": {
-            "color_red": 0.5686274509803921,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.1450980392156863
+            "transaction_load": 0.0689112632108122,
+            "node_reliability": 0.46913058483708314,
+            "latency": 0.337165568142216,
+            "hash_power": 0.4934413089960654,
+            "network_contribution": 0.4624685391776161,
+            "propagation_efficiency": 0.4679697915807909
         }
     },
     {
         "attributes": {
-            "color_red": 0.5333333333333333,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.23529411764705882
+            "transaction_load": 0.6322975743709293,
+            "node_reliability": 0.7669242021895722,
+            "latency": 0.571444541075874,
+            "hash_power": 0.41285105324270843,
+            "network_contribution": 0.3111416472114038,
+            "propagation_efficiency": 0.43130784728471094
         }
     },
     {
         "attributes": {
-            "color_red": 0.5215686274509804,
-            "color_green": 0.3215686274509804,
-            "color_blue": 0.40784313725490196
+            "transaction_load": 0.5539779692391404,
+            "node_reliability": 0.9718568299535479,
+            "latency": 0.6663009664508834,
+            "hash_power": 0.43031681531144883,
+            "network_contribution": 0.996429544223989,
+            "propagation_efficiency": 0.5251619239603399
         }
     },
     {
         "attributes": {
-            "color_red": 0.6431372549019608,
-            "color_green": 0.4823529411764706,
-            "color_blue": 0.6235294117647059
+            "transaction_load": 0.827758049884731,
+            "node_reliability": 0.6178174140278923,
+            "latency": 0.2103370978925968,
+            "hash_power": 0.7456280314744392,
+            "network_contribution": 0.5009164327683931,
+            "propagation_efficiency": 0.65551813016865
         }
     },
     {
         "attributes": {
-            "color_red": 0.5568627450980392,
-            "color_green": 0.4549019607843137,
-            "color_blue": 0.611764705882353
+            "transaction_load": 0.5235199618503972,
+            "node_reliability": 0.7131969095799896,
+            "latency": 0.2540905271251399,
+            "hash_power": 0.47217288887878484,
+            "network_contribution": 0.8476161767582883,
+            "propagation_efficiency": 0.7028769959336805
         }
     },
     {
         "attributes": {
-            "color_red": 0.3803921568627451,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.3607843137254902
+            "transaction_load": 0.2284403685612757,
+            "node_reliability": 0.7541780529001482,
+            "latency": 0.9199412559070347,
+            "hash_power": 0.47533537913212953,
+            "network_contribution": 0.04563019274414171,
+            "propagation_efficiency": 0.4352785539651791
         }
     },
     {
         "attributes": {
-            "color_red": 0.24705882352941178,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.27058823529411763
+            "transaction_load": 0.8801871662845077,
+            "node_reliability": 0.5465916110695427,
+            "latency": 0.2200331791931156,
+            "hash_power": 0.4350207863313932,
+            "network_contribution": 0.9729177825618935,
+            "propagation_efficiency": 0.2879698824745198
         }
     },
     {
         "attributes": {
-            "color_red": 0.18823529411764706,
-            "color_green": 0.1607843137254902,
-            "color_blue": 0.24705882352941178
+            "transaction_load": 0.4876343440149372,
+            "node_reliability": 0.5687564013684355,
+            "latency": 0.7551575636414501,
+            "hash_power": 0.10913647486349953,
+            "network_contribution": 0.003839545609239492,
+            "propagation_efficiency": 0.655611114730928
         }
     },
     {
         "attributes": {
-            "color_red": 0.23921568627450981,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.30196078431372547
+            "transaction_load": 0.3537115750276384,
+            "node_reliability": 0.2139453646054258,
+            "latency": 0.6340649170452459,
+            "hash_power": 0.44737720018435545,
+            "network_contribution": 0.6894906814272437,
+            "propagation_efficiency": 0.32640990501492295
         }
     },
     {
         "attributes": {
-            "color_red": 0.12156862745098039,
-            "color_green": 0.1411764705882353,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.29578155373135384,
+            "node_reliability": 0.5580571812417152,
+            "latency": 0.30452414677229533,
+            "hash_power": 0.2775996274581892,
+            "network_contribution": 0.5620805347216172,
+            "propagation_efficiency": 0.027958575341027525
         }
     },
     {
         "attributes": {
-            "color_red": 0.2549019607843137,
-            "color_green": 0.23137254901960785,
-            "color_blue": 0.35294117647058826
+            "transaction_load": 0.6922821162224007,
+            "node_reliability": 0.261260259985039,
+            "latency": 0.9675765454721548,
+            "hash_power": 0.054528413427813005,
+            "network_contribution": 0.07628903731435221,
+            "propagation_efficiency": 0.34466174236085634
         }
     },
     {
         "attributes": {
-            "color_red": 0.596078431372549,
-            "color_green": 0.42745098039215684,
-            "color_blue": 0.5019607843137255
+            "transaction_load": 0.5951381084911034,
+            "node_reliability": 0.784375466031628,
+            "latency": 0.2643357406749547,
+            "hash_power": 0.5640717824020666,
+            "network_contribution": 0.7677027912891886,
+            "propagation_efficiency": 0.9027115766548285
         }
     },
     {
         "attributes": {
-            "color_red": 0.6039215686274509,
-            "color_green": 0.5607843137254902,
-            "color_blue": 0.7450980392156863
+            "transaction_load": 0.47726976579250413,
+            "node_reliability": 0.5289335340735491,
+            "latency": 0.5804189368667468,
+            "hash_power": 0.18727580936165433,
+            "network_contribution": 0.807932255244623,
+            "propagation_efficiency": 0.6320980209321466
         }
     },
     {
         "attributes": {
-            "color_red": 0.4117647058823529,
-            "color_green": 0.41568627450980394,
-            "color_blue": 0.5764705882352941
+            "transaction_load": 0.6438644661324474,
+            "node_reliability": 0.13378825088764756,
+            "latency": 0.9471687720879889,
+            "hash_power": 0.0809986954616615,
+            "network_contribution": 0.869916338235942,
+            "propagation_efficiency": 0.11299001595511338
         }
     },
     {
         "attributes": {
-            "color_red": 0.3568627450980392,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.32941176470588235
+            "transaction_load": 0.9021210353015606,
+            "node_reliability": 0.32629499372734216,
+            "latency": 0.8092384425594462,
+            "hash_power": 0.8206989095387978,
+            "network_contribution": 0.9794008199687321,
+            "propagation_efficiency": 0.828680136483887
         }
     },
     {
         "attributes": {
-            "color_red": 0.37254901960784315,
-            "color_green": 0.2,
-            "color_blue": 0.30980392156862746
+            "transaction_load": 0.08293337004323786,
+            "node_reliability": 0.4559753999372984,
+            "latency": 0.29842452887411985,
+            "hash_power": 0.4122115577376215,
+            "network_contribution": 0.31625483967916834,
+            "propagation_efficiency": 0.4900304517987367
         }
     },
     {
         "attributes": {
-            "color_red": 0.4196078431372549,
-            "color_green": 0.2980392156862745,
-            "color_blue": 0.43137254901960786
+            "transaction_load": 0.09355703866680143,
+            "node_reliability": 0.29084357962920027,
+            "latency": 0.9654391679763215,
+            "hash_power": 0.4507875917510725,
+            "network_contribution": 0.8544182536483722,
+            "propagation_efficiency": 0.7826225717972934
         }
     },
     {
         "attributes": {
-            "color_red": 0.4549019607843137,
-            "color_green": 0.3843137254901961,
-            "color_blue": 0.5450980392156862
+            "transaction_load": 0.2665371579324818,
+            "node_reliability": 0.1780381258523308,
+            "latency": 0.7587968709851238,
+            "hash_power": 0.5668768784701894,
+            "network_contribution": 0.5288881672104443,
+            "propagation_efficiency": 0.7303150976578718
         }
     },
     {
         "attributes": {
-            "color_red": 0.5019607843137255,
-            "color_green": 0.39215686274509803,
-            "color_blue": 0.5490196078431373
+            "transaction_load": 0.44415876814358113,
+            "node_reliability": 0.07346081694652684,
+            "latency": 0.9272388023863314,
+            "hash_power": 0.9249012858191272,
+            "network_contribution": 0.36042651614065957,
+            "propagation_efficiency": 0.7890271330573597
         }
     },
     {
         "attributes": {
-            "color_red": 0.4588235294117647,
-            "color_green": 0.30980392156862746,
-            "color_blue": 0.43529411764705883
+            "transaction_load": 0.7103146075969876,
+            "node_reliability": 0.7898942091575086,
+            "latency": 0.6053017674083125,
+            "hash_power": 0.7383092362961262,
+            "network_contribution": 0.0889697069341554,
+            "propagation_efficiency": 0.6513700165220024
         }
     },
     {
         "attributes": {
-            "color_red": 0.35294117647058826,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.3568627450980392
+            "transaction_load": 0.57279287775482,
+            "node_reliability": 0.001712625729996864,
+            "latency": 0.3839902307207149,
+            "hash_power": 0.38188447598842845,
+            "network_contribution": 0.963074691192385,
+            "propagation_efficiency": 0.43713465962366593
         }
     },
     {
         "attributes": {
-            "color_red": 0.3411764705882353,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.2784313725490196
+            "transaction_load": 0.35473082916412313,
+            "node_reliability": 0.030553765832520563,
+            "latency": 0.6969767702170873,
+            "hash_power": 0.18771914913743748,
+            "network_contribution": 0.8134079758120526,
+            "propagation_efficiency": 0.39236709410998827
         }
     },
     {
         "attributes": {
-            "color_red": 0.2627450980392157,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.2627450980392157
+            "transaction_load": 0.08906205562367353,
+            "node_reliability": 0.8399596558821757,
+            "latency": 0.38861328665989836,
+            "hash_power": 0.7050926799751147,
+            "network_contribution": 0.9651024555564148,
+            "propagation_efficiency": 0.9738574210137402
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.3058823529411765
+            "transaction_load": 0.8325007392842219,
+            "node_reliability": 0.39871680064323256,
+            "latency": 0.052043864904987136,
+            "hash_power": 0.9662504925370816,
+            "network_contribution": 0.015814884722176625,
+            "propagation_efficiency": 0.06945387030024008
         }
     },
     {
         "attributes": {
-            "color_red": 0.21568627450980393,
-            "color_green": 0.17254901960784313,
-            "color_blue": 0.25098039215686274
+            "transaction_load": 0.6309814433537896,
+            "node_reliability": 0.3557910521599975,
+            "latency": 0.9826767542772125,
+            "hash_power": 0.5924347160376445,
+            "network_contribution": 0.4032065408795277,
+            "propagation_efficiency": 0.13873869756079116
         }
     },
     {
         "attributes": {
-            "color_red": 0.2,
-            "color_green": 0.19215686274509805,
-            "color_blue": 0.25098039215686274
+            "transaction_load": 0.7497755662098289,
+            "node_reliability": 0.8079341543745847,
+            "latency": 0.10597730876356959,
+            "hash_power": 0.9197808722925529,
+            "network_contribution": 0.5793868815065588,
+            "propagation_efficiency": 0.9866656192106833
         }
     },
     {
         "attributes": {
-            "color_red": 0.20784313725490197,
-            "color_green": 0.2196078431372549,
-            "color_blue": 0.25882352941176473
+            "transaction_load": 0.462264871931402,
+            "node_reliability": 0.784898382990808,
+            "latency": 0.5713707234401783,
+            "hash_power": 0.840421896162038,
+            "network_contribution": 0.461520425705062,
+            "propagation_efficiency": 0.2442170579046049
         }
     },
     {
         "attributes": {
-            "color_red": 0.26666666666666666,
-            "color_green": 0.19607843137254902,
-            "color_blue": 0.28627450980392155
+            "transaction_load": 0.465245594848988,
+            "node_reliability": 0.5540177660878433,
+            "latency": 0.4832604829675332,
+            "hash_power": 0.5040680460673487,
+            "network_contribution": 0.2546688409922009,
+            "propagation_efficiency": 0.7884720317895862
         }
     },
     {
         "attributes": {
-            "color_red": 0.4,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.3686274509803922
+            "transaction_load": 0.3219685067050555,
+            "node_reliability": 0.34081830895153264,
+            "latency": 0.34714723225163546,
+            "hash_power": 0.44499833814729184,
+            "network_contribution": 0.19159432982876412,
+            "propagation_efficiency": 0.47715697967271387
         }
     },
     {
         "attributes": {
-            "color_red": 0.5215686274509804,
-            "color_green": 0.41568627450980394,
-            "color_blue": 0.5333333333333333
+            "transaction_load": 0.2325810672537898,
+            "node_reliability": 0.33061830507363765,
+            "latency": 0.07587649502410809,
+            "hash_power": 0.41712583860800534,
+            "network_contribution": 0.2019289875052449,
+            "propagation_efficiency": 0.5807372565683773
         }
     },
     {
         "attributes": {
-            "color_red": 0.5058823529411764,
-            "color_green": 0.45098039215686275,
-            "color_blue": 0.611764705882353
+            "transaction_load": 0.41472868421688036,
+            "node_reliability": 0.4405813462418978,
+            "latency": 0.4860219558032012,
+            "hash_power": 0.982634917843938,
+            "network_contribution": 0.7367712111408016,
+            "propagation_efficiency": 0.3782321733274243
         }
     },
     {
         "attributes": {
-            "color_red": 0.6078431372549019,
-            "color_green": 0.5058823529411764,
-            "color_blue": 0.6666666666666666
+            "transaction_load": 0.960723964661851,
+            "node_reliability": 0.38329777081902827,
+            "latency": 0.16664003358962187,
+            "hash_power": 0.7352731133311904,
+            "network_contribution": 0.2653688979999623,
+            "propagation_efficiency": 0.7252426013366415
         }
     },
     {
         "attributes": {
-            "color_red": 0.4627450980392157,
-            "color_green": 0.4235294117647059,
-            "color_blue": 0.6196078431372549
+            "transaction_load": 0.9854350340426635,
+            "node_reliability": 0.3990019527536771,
+            "latency": 0.6238634201276217,
+            "hash_power": 0.1485594985631794,
+            "network_contribution": 0.22088748355518406,
+            "propagation_efficiency": 0.13709969028306113
         }
     },
     {
         "attributes": {
-            "color_red": 0.4392156862745098,
-            "color_green": 0.3686274509803922,
-            "color_blue": 0.5450980392156862
+            "transaction_load": 0.6850856350317233,
+            "node_reliability": 0.8709173460786793,
+            "latency": 0.37642816639023324,
+            "hash_power": 0.44537184978838495,
+            "network_contribution": 0.9002123657431124,
+            "propagation_efficiency": 0.45246452628012745
         }
     },
     {
         "attributes": {
-            "color_red": 0.4470588235294118,
-            "color_green": 0.3137254901960784,
-            "color_blue": 0.42745098039215684
+            "transaction_load": 0.7424926511449408,
+            "node_reliability": 0.02280365364915704,
+            "latency": 0.6672806823661204,
+            "hash_power": 0.9244148161681347,
+            "network_contribution": 0.1955626118437267,
+            "propagation_efficiency": 0.008175881330627521
         }
     },
     {
         "attributes": {
-            "color_red": 0.36470588235294116,
-            "color_green": 0.24313725490196078,
-            "color_blue": 0.33725490196078434
+            "transaction_load": 0.4873284386933172,
+            "node_reliability": 0.3179290974291019,
+            "latency": 0.5190813931795633,
+            "hash_power": 0.27591386372836857,
+            "network_contribution": 0.9202525378162719,
+            "propagation_efficiency": 0.5195688827864475
         }
     },
     {
         "attributes": {
-            "color_red": 0.2627450980392157,
-            "color_green": 0.15294117647058825,
-            "color_blue": 0.2196078431372549
+            "transaction_load": 0.09927373427372876,
+            "node_reliability": 0.21876713697381645,
+            "latency": 0.6898920066041349,
+            "hash_power": 0.9424585035134493,
+            "network_contribution": 0.5965315535331895,
+            "propagation_efficiency": 0.22593927480212728
         }
     },
     {
         "attributes": {
-            "color_red": 0.2,
-            "color_green": 0.13333333333333333,
-            "color_blue": 0.20784313725490197
+            "transaction_load": 0.5111111682127503,
+            "node_reliability": 0.4696346935513712,
+            "latency": 0.36245302819988245,
+            "hash_power": 0.09475129913835922,
+            "network_contribution": 0.7162954197946998,
+            "propagation_efficiency": 0.5206538037820063
         }
     },
     {
         "attributes": {
-            "color_red": 0.1450980392156863,
-            "color_green": 0.11764705882352941,
-            "color_blue": 0.19607843137254902
+            "transaction_load": 0.5004287392599175,
+            "node_reliability": 0.8772832311246515,
+            "latency": 0.12532710311573036,
+            "hash_power": 0.5851655892700391,
+            "network_contribution": 0.09077207378115193,
+            "propagation_efficiency": 0.6292428122048985
         }
     },
     {
         "attributes": {
-            "color_red": 0.26666666666666666,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.25098039215686274
+            "transaction_load": 0.68087884624259,
+            "node_reliability": 0.851434042327149,
+            "latency": 0.6338708904705972,
+            "hash_power": 0.680389692100328,
+            "network_contribution": 0.1567605064982891,
+            "propagation_efficiency": 0.7683120267227435
         }
     },
     {
         "attributes": {
-            "color_red": 0.2823529411764706,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.34901960784313724
+            "transaction_load": 0.029154752106262505,
+            "node_reliability": 0.24302497079543584,
+            "latency": 0.3537809498010299,
+            "hash_power": 0.29191279109708557,
+            "network_contribution": 0.3152846041120717,
+            "propagation_efficiency": 0.3457008777134367
         }
     },
     {
         "attributes": {
-            "color_red": 0.1450980392156863,
-            "color_green": 0.18823529411764706,
-            "color_blue": 0.2627450980392157
+            "transaction_load": 0.11433490922561951,
+            "node_reliability": 0.4193429940235288,
+            "latency": 0.6606012565644117,
+            "hash_power": 0.5249732978551072,
+            "network_contribution": 0.1161127830810188,
+            "propagation_efficiency": 0.3240939497285965
         }
     },
     {
         "attributes": {
-            "color_red": 0.12549019607843137,
-            "color_green": 0.19215686274509805,
-            "color_blue": 0.24313725490196078
+            "transaction_load": 0.07376416199628788,
+            "node_reliability": 0.722328336358249,
+            "latency": 0.9265508254949645,
+            "hash_power": 0.8974943801787446,
+            "network_contribution": 0.5225996431370836,
+            "propagation_efficiency": 0.04916999765393337
         }
     },
     {
         "attributes": {
-            "color_red": 0.12549019607843137,
-            "color_green": 0.17254901960784313,
-            "color_blue": 0.19215686274509805
+            "transaction_load": 0.07617187995891395,
+            "node_reliability": 0.6362743596753871,
+            "latency": 0.30613343152793626,
+            "hash_power": 0.7964068887698709,
+            "network_contribution": 0.0693994914738002,
+            "propagation_efficiency": 0.5070659780329951
         }
     },
     {
         "attributes": {
-            "color_red": 0.18823529411764706,
-            "color_green": 0.1803921568627451,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.07136768948265049,
+            "node_reliability": 0.7754130379339307,
+            "latency": 0.8865529974950584,
+            "hash_power": 0.7551484876588527,
+            "network_contribution": 0.2812550324666573,
+            "propagation_efficiency": 0.8083487717062776
         }
     },
     {
         "attributes": {
-            "color_red": 0.3176470588235294,
-            "color_green": 0.21568627450980393,
-            "color_blue": 0.2901960784313726
+            "transaction_load": 0.011058732176144281,
+            "node_reliability": 0.4524142667483798,
+            "latency": 0.18284072752523883,
+            "hash_power": 0.06663317555578219,
+            "network_contribution": 0.977866507393147,
+            "propagation_efficiency": 0.9189212208503581
         }
     },
     {
         "attributes": {
-            "color_red": 0.37254901960784315,
-            "color_green": 0.25882352941176473,
-            "color_blue": 0.36470588235294116
+            "transaction_load": 0.7713201790740124,
+            "node_reliability": 0.3066045972424283,
+            "latency": 0.18370283040279012,
+            "hash_power": 0.13723411101772198,
+            "network_contribution": 0.9112551189663133,
+            "propagation_efficiency": 0.4559102245368246
         }
     },
     {
         "attributes": {
-            "color_red": 0.2823529411764706,
-            "color_green": 0.21176470588235294,
-            "color_blue": 0.34509803921568627
+            "transaction_load": 0.2505422427783798,
+            "node_reliability": 0.7037485795891171,
+            "latency": 0.655845729646902,
+            "hash_power": 0.5740302467607327,
+            "network_contribution": 0.6312435946285067,
+            "propagation_efficiency": 0.5676396544523986
         }
     },
     {
         "attributes": {
-            "color_red": 0.3764705882352941,
-            "color_green": 0.27450980392156865,
-            "color_blue": 0.40784313725490196
+            "transaction_load": 0.9262195803500296,
+            "node_reliability": 0.9893078185276506,
+            "latency": 0.8996170947899691,
+            "hash_power": 0.0278116765049502,
+            "network_contribution": 0.2574059210033247,
+            "propagation_efficiency": 0.922868648870108
         }
     },
     {
         "attributes": {
-            "color_red": 0.42745098039215684,
-            "color_green": 0.30980392156862746,
-            "color_blue": 0.42745098039215684
+            "transaction_load": 0.8073884273348839,
+            "node_reliability": 0.4520549797790402,
+            "latency": 0.585373023733972,
+            "hash_power": 0.9884432816394635,
+            "network_contribution": 0.5198393950538994,
+            "propagation_efficiency": 0.6235337428324907
         }
     },
     {
         "attributes": {
-            "color_red": 0.30196078431372547,
-            "color_green": 0.25098039215686274,
-            "color_blue": 0.37254901960784315
+            "transaction_load": 0.2925302448463226,
+            "node_reliability": 0.45639796474091665,
+            "latency": 0.009413048789392864,
+            "hash_power": 0.9809182088748138,
+            "network_contribution": 0.8610460730970144,
+            "propagation_efficiency": 0.7182463695723511
         }
     },
     {
         "attributes": {
-            "color_red": 0.23137254901960785,
-            "color_green": 0.2,
-            "color_blue": 0.3058823529411765
+            "transaction_load": 0.7605042073948013,
+            "node_reliability": 0.03040296241633078,
+            "latency": 0.43613214374671205,
+            "hash_power": 0.23747145871671882,
+            "network_contribution": 0.7433661434779475,
+            "propagation_efficiency": 0.09615535669953013
         }
     },
     {
         "attributes": {
-            "color_red": 0.24313725490196078,
-            "color_green": 0.1450980392156863,
-            "color_blue": 0.2196078431372549
+            "transaction_load": 0.024172824592765485,
+            "node_reliability": 0.6202240700193432,
+            "latency": 0.04128350841529038,
+            "hash_power": 0.31402593455596584,
+            "network_contribution": 0.2482628319257466,
+            "propagation_efficiency": 0.11010599179372504
         }
     },
     {
         "attributes": {
-            "color_red": 0.17254901960784313,
-            "color_green": 0.1411764705882353,
-            "color_blue": 0.21568627450980393
+            "transaction_load": 0.31381601424111927,
+            "node_reliability": 0.03600062560962902,
+            "latency": 0.7421812004207995,
+            "hash_power": 0.13523107509175802,
+            "network_contribution": 0.48487476804158114,
+            "propagation_efficiency": 0.10302657852630326
         }
     },
     {
         "attributes": {
-            "color_red": 0.23529411764705882,
-            "color_green": 0.1843137254901961,
-            "color_blue": 0.25882352941176473
+            "transaction_load": 0.026078498299202835,
+            "node_reliability": 0.45688642489241027,
+            "latency": 0.19941070346563416,
+            "hash_power": 0.6081003702284666,
+            "network_contribution": 0.42432872803417676,
+            "propagation_efficiency": 0.3201634689096927
         }
     },
     {
         "attributes": {
-            "color_red": 0.28627450980392155,
-            "color_green": 0.2549019607843137,
-            "color_blue": 0.3568627450980392
+            "transaction_load": 0.8842002310047729,
+            "node_reliability": 0.37443437976527827,
+            "latency": 0.7866967820431026,
+            "hash_power": 0.2888549656402253,
+            "network_contribution": 0.7038544241589989,
+            "propagation_efficiency": 0.046902999541054924
         }
     },
     {
         "attributes": {
-            "color_red": 0.3411764705882353,
-            "color_green": 0.2823529411764706,
-            "color_blue": 0.37254901960784315
+            "transaction_load": 0.6814286780684568,
+            "node_reliability": 0.49023082300617316,
+            "latency": 0.14075804910741851,
+            "hash_power": 0.0916570043809517,
+            "network_contribution": 0.11134983068563042,
+            "propagation_efficiency": 0.29046394332638537
         }
     },
     {
         "attributes": {
-            "color_red": 0.18823529411764706,
-            "color_green": 0.23137254901960785,
-            "color_blue": 0.3058823529411765
+            "transaction_load": 0.01842547157545027,
+            "node_reliability": 0.667765606470368,
+            "latency": 0.15083024769054065,
+            "hash_power": 0.5464598547661792,
+            "network_contribution": 0.46961180985868445,
+            "propagation_efficiency": 0.2103835256440284
         }
     },
     {
         "attributes": {
-            "color_red": 0.15294117647058825,
-            "color_green": 0.22745098039215686,
-            "color_blue": 0.27058823529411763
+            "transaction_load": 0.062056264246803994,
+            "node_reliability": 0.5608213035801963,
+            "latency": 0.5527375528152864,
+            "hash_power": 0.4611947304678846,
+            "network_contribution": 0.25549989247825644,
+            "propagation_efficiency": 0.03183843091440286
         }
     },
     {
         "attributes": {
-            "color_red": 0.19215686274509805,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.28627450980392155
+            "transaction_load": 0.673564217412124,
+            "node_reliability": 0.5967731952559852,
+            "latency": 0.5422914894500356,
+            "hash_power": 0.9520824005837014,
+            "network_contribution": 0.6738902315978478,
+            "propagation_efficiency": 0.9803957298446244
         }
     },
     {
         "attributes": {
-            "color_red": 0.1843137254901961,
-            "color_green": 0.23137254901960785,
-            "color_blue": 0.24313725490196078
+            "transaction_load": 0.9021583825358058,
+            "node_reliability": 0.3692284297102477,
+            "latency": 0.7888165155299445,
+            "hash_power": 0.8509884799190706,
+            "network_contribution": 0.41112163147584646,
+            "propagation_efficiency": 0.7921060447058124
         }
     },
     {
         "attributes": {
-            "color_red": 0.14901960784313725,
-            "color_green": 0.15294117647058825,
-            "color_blue": 0.23921568627450981
+            "transaction_load": 0.2124044279308659,
+            "node_reliability": 0.15708462289524272,
+            "latency": 0.19380532233365821,
+            "hash_power": 0.9515292200232949,
+            "network_contribution": 0.5517923703416042,
+            "propagation_efficiency": 0.9725062159549941
         }
     },
     {
         "attributes": {
-            "color_red": 0.29411764705882354,
-            "color_green": 0.18823529411764706,
-            "color_blue": 0.24313725490196078
+            "transaction_load": 0.9023642569366468,
+            "node_reliability": 0.607241456085741,
+            "latency": 0.5358478078715254,
+            "hash_power": 0.6885127666093354,
+            "network_contribution": 0.41240044652465413,
+            "propagation_efficiency": 0.062194245314271646
         }
     },
     {
         "attributes": {
-            "color_red": 0.21568627450980393,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.3137254901960784
+            "transaction_load": 0.8236111552725905,
+            "node_reliability": 0.6988295994309992,
+            "latency": 0.18953239482573714,
+            "hash_power": 0.2309574969319439,
+            "network_contribution": 0.798931418475605,
+            "propagation_efficiency": 0.6041179911949535
         }
     },
     {
         "attributes": {
-            "color_red": 0.22745098039215686,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.3215686274509804
+            "transaction_load": 0.48163192266962584,
+            "node_reliability": 0.6053626211793977,
+            "latency": 0.6184258244244333,
+            "hash_power": 0.2911377530406225,
+            "network_contribution": 0.5184259209282019,
+            "propagation_efficiency": 0.3877250636821712
         }
     },
     {
         "attributes": {
-            "color_red": 0.26666666666666666,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.3137254901960784
+            "transaction_load": 0.06017610697522313,
+            "node_reliability": 0.23019620372323502,
+            "latency": 0.3492490943404378,
+            "hash_power": 0.03234261756747647,
+            "network_contribution": 0.7078550844043986,
+            "propagation_efficiency": 0.5337811068799533
         }
     },
     {
         "attributes": {
-            "color_red": 0.23529411764705882,
-            "color_green": 0.17254901960784313,
-            "color_blue": 0.2823529411764706
+            "transaction_load": 0.010475586863514907,
+            "node_reliability": 0.26856752927575456,
+            "latency": 0.11973974726173753,
+            "hash_power": 0.4123803645695323,
+            "network_contribution": 0.0017296875657820676,
+            "propagation_efficiency": 0.7990072773276489
         }
     },
     {
         "attributes": {
-            "color_red": 0.3058823529411765,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.2627450980392157
+            "transaction_load": 0.6239988893590809,
+            "node_reliability": 0.2988032666824255,
+            "latency": 0.18738382679689514,
+            "hash_power": 0.8578049988252805,
+            "network_contribution": 0.3748937215710786,
+            "propagation_efficiency": 0.33983189666016966
         }
     },
     {
         "attributes": {
-            "color_red": 0.2627450980392157,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.2823529411764706
+            "transaction_load": 0.109952003975752,
+            "node_reliability": 0.49578507285893747,
+            "latency": 0.22484938411948607,
+            "hash_power": 0.8270639129487742,
+            "network_contribution": 0.5174148754729603,
+            "propagation_efficiency": 0.6951047874404424
         }
     },
     {
         "attributes": {
-            "color_red": 0.27450980392156865,
-            "color_green": 0.23529411764705882,
-            "color_blue": 0.3215686274509804
+            "transaction_load": 0.8074638978778237,
+            "node_reliability": 0.4799161234284405,
+            "latency": 0.6719304591837645,
+            "hash_power": 0.009655286228640314,
+            "network_contribution": 0.33329475662062136,
+            "propagation_efficiency": 0.5550980969422846
         }
     },
     {
         "attributes": {
-            "color_red": 0.25098039215686274,
-            "color_green": 0.2196078431372549,
-            "color_blue": 0.3215686274509804
+            "transaction_load": 0.7648271274425443,
+            "node_reliability": 0.7249836169076286,
+            "latency": 0.49300736707877146,
+            "hash_power": 0.2679141986947583,
+            "network_contribution": 0.6649800206914367,
+            "propagation_efficiency": 0.5854306264127057
         }
     },
     {
         "attributes": {
-            "color_red": 0.39215686274509803,
-            "color_green": 0.2980392156862745,
-            "color_blue": 0.37254901960784315
+            "transaction_load": 0.3872354023031789,
+            "node_reliability": 0.7695386205100608,
+            "latency": 0.5412697564507953,
+            "hash_power": 0.6339109587166158,
+            "network_contribution": 0.36431273983830004,
+            "propagation_efficiency": 0.38508669842078247
         }
     },
     {
         "attributes": {
-            "color_red": 0.32941176470588235,
-            "color_green": 0.28627450980392155,
-            "color_blue": 0.39215686274509803
+            "transaction_load": 0.3885142910658118,
+            "node_reliability": 0.2309784247163813,
+            "latency": 0.4130060110298749,
+            "hash_power": 0.5123992170653721,
+            "network_contribution": 0.953501988726049,
+            "propagation_efficiency": 0.7178471355071628
         }
     },
     {
         "attributes": {
-            "color_red": 0.19215686274509805,
-            "color_green": 0.2627450980392157,
-            "color_blue": 0.3411764705882353
+            "transaction_load": 0.4467950886657446,
+            "node_reliability": 0.041772409429043034,
+            "latency": 0.6187417451244007,
+            "hash_power": 0.29825493214818166,
+            "network_contribution": 0.5912058524801191,
+            "propagation_efficiency": 0.3867694477593496
         }
     },
     {
         "attributes": {
-            "color_red": 0.12156862745098039,
-            "color_green": 0.20784313725490197,
-            "color_blue": 0.23921568627450981
+            "transaction_load": 0.05995029339563274,
+            "node_reliability": 0.7636252092904042,
+            "latency": 0.8191513222153165,
+            "hash_power": 0.7434559309877903,
+            "network_contribution": 0.30415918194470815,
+            "propagation_efficiency": 0.4778834534708879
         }
     },
     {
         "attributes": {
-            "color_red": 0.1411764705882353,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.2196078431372549
+            "transaction_load": 0.6767116462979416,
+            "node_reliability": 0.16104264396701518,
+            "latency": 0.7732317999169509,
+            "hash_power": 0.9311634649694176,
+            "network_contribution": 0.7302889768395857,
+            "propagation_efficiency": 0.6153288665709883
         }
     },
     {
         "attributes": {
-            "color_red": 0.1843137254901961,
-            "color_green": 0.24705882352941178,
-            "color_blue": 0.2627450980392157
+            "transaction_load": 0.16277422710201628,
+            "node_reliability": 0.18490326605520457,
+            "latency": 0.3903974721313218,
+            "hash_power": 0.10585402637332009,
+            "network_contribution": 0.5228093415925013,
+            "propagation_efficiency": 0.07430077484811493
         }
     },
     {
         "attributes": {
-            "color_red": 0.16470588235294117,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.9212389445192919,
+            "node_reliability": 0.9426504899498273,
+            "latency": 0.9128691170026915,
+            "hash_power": 0.8559106632631653,
+            "network_contribution": 0.35636707870152173,
+            "propagation_efficiency": 0.6071062579469444
         }
     },
     {
         "attributes": {
-            "color_red": 0.06666666666666667,
-            "color_green": 0.07058823529411765,
-            "color_blue": 0.09411764705882353
+            "transaction_load": 0.3225425401710841,
+            "node_reliability": 0.01741457286117587,
+            "latency": 0.821749706006503,
+            "hash_power": 0.994811580794236,
+            "network_contribution": 0.2633737800938557,
+            "propagation_efficiency": 0.5201690733228023
         }
     },
     {
         "attributes": {
-            "color_red": 0.11764705882352941,
-            "color_green": 0.11764705882352941,
-            "color_blue": 0.18823529411764706
+            "transaction_load": 0.7386511032833509,
+            "node_reliability": 0.7223676423996046,
+            "latency": 0.06940009008846837,
+            "hash_power": 0.7282507408677524,
+            "network_contribution": 0.01457103815101779,
+            "propagation_efficiency": 0.6140706224110556
         }
     },
     {
         "attributes": {
-            "color_red": 0.1568627450980392,
-            "color_green": 0.1450980392156863,
-            "color_blue": 0.20784313725490197
+            "transaction_load": 0.6458053857182791,
+            "node_reliability": 0.806151852158024,
+            "latency": 0.7251030864841095,
+            "hash_power": 0.5191932777090836,
+            "network_contribution": 0.05035090282192212,
+            "propagation_efficiency": 0.48111568115023795
         }
     },
     {
         "attributes": {
-            "color_red": 0.19607843137254902,
-            "color_green": 0.15294117647058825,
-            "color_blue": 0.19607843137254902
+            "transaction_load": 0.11332294976009016,
+            "node_reliability": 0.08613606584674638,
+            "latency": 0.24765035797451407,
+            "hash_power": 0.9514101124154858,
+            "network_contribution": 0.6429980738023455,
+            "propagation_efficiency": 0.6705883809593113
         }
     },
     {
         "attributes": {
-            "color_red": 0.1843137254901961,
-            "color_green": 0.17647058823529413,
-            "color_blue": 0.2549019607843137
+            "transaction_load": 0.20525131346215497,
+            "node_reliability": 0.92459817830522,
+            "latency": 0.5607756694050556,
+            "hash_power": 0.4572010486208128,
+            "network_contribution": 0.5250276062671132,
+            "propagation_efficiency": 0.24970520361912596
         }
     },
     {
         "attributes": {
-            "color_red": 0.25882352941176473,
-            "color_green": 0.2,
-            "color_blue": 0.28627450980392155
+            "transaction_load": 0.7791180834148388,
+            "node_reliability": 0.7325706576798213,
+            "latency": 0.7790370364970709,
+            "hash_power": 0.1003850291814895,
+            "network_contribution": 0.5233876546817808,
+            "propagation_efficiency": 0.4857550608143941
         }
     },
     {
         "attributes": {
-            "color_red": 0.27450980392156865,
-            "color_green": 0.2235294117647059,
-            "color_blue": 0.2980392156862745
+            "transaction_load": 0.6312364757629185,
+            "node_reliability": 0.9403902157337514,
+            "latency": 0.3005886257448267,
+            "hash_power": 0.5008571703418017,
+            "network_contribution": 0.7175007721642528,
+            "propagation_efficiency": 0.3103318580446802
         }
     },
     {
         "attributes": {
-            "color_red": 0.17254901960784313,
-            "color_green": 0.16470588235294117,
-            "color_blue": 0.22745098039215686
+            "transaction_load": 0.3892344471919863,
+            "node_reliability": 0.3167751109236304,
+            "latency": 0.8691793556779073,
+            "hash_power": 0.4927632484824853,
+            "network_contribution": 0.8511936378387748,
+            "propagation_efficiency": 0.39362399962708194
         }
     },
     {
         "attributes": {
-            "color_red": 0.1843137254901961,
-            "color_green": 0.16862745098039217,
-            "color_blue": 0.23137254901960785
+            "transaction_load": 0.5840577998595313,
+            "node_reliability": 0.8233272612584656,
+            "latency": 0.5967405960480883,
+            "hash_power": 0.5769621528982118,
+            "network_contribution": 0.17966149380775742,
+            "propagation_efficiency": 0.8373640059430175
         }
     },
     {
         "attributes": {
-            "color_red": 0.21568627450980393,
-            "color_green": 0.22745098039215686,
-            "color_blue": 0.3137254901960784
+            "transaction_load": 0.4748882688183401,
+            "node_reliability": 0.6109686537947295,
+            "latency": 0.2274519550778411,
+            "hash_power": 0.7572986567498692,
+            "network_contribution": 0.8571617928210468,
+            "propagation_efficiency": 0.4309440142081955
         }
     },
     {
         "attributes": {
-            "color_red": 0.27058823529411763,
-            "color_green": 0.26666666666666666,
-            "color_blue": 0.34509803921568627
+            "transaction_load": 0.9178992013838818,
+            "node_reliability": 0.30501098396547754,
+            "latency": 0.33237504557541875,
+            "hash_power": 0.0022830473650554683,
+            "network_contribution": 0.7398581077400717,
+            "propagation_efficiency": 0.08039670598400506
         }
     },
     {
         "attributes": {
-            "color_red": 0.1411764705882353,
-            "color_green": 0.20392156862745098,
-            "color_blue": 0.27450980392156865
+            "transaction_load": 0.3809906649429132,
+            "node_reliability": 0.7521232760001143,
+            "latency": 0.5107372215007338,
+            "hash_power": 0.7558509035027376,
+            "network_contribution": 0.08375833408433808,
+            "propagation_efficiency": 0.607161275801269
         }
     },
     {
         "attributes": {
-            "color_red": 0.12941176470588237,
-            "color_green": 0.23921568627450981,
-            "color_blue": 0.29411764705882354
+            "transaction_load": 0.25520607065033196,
+            "node_reliability": 0.3164946473228203,
+            "latency": 0.4457142588716455,
+            "hash_power": 0.9262567484513932,
+            "network_contribution": 0.6252796173850768,
+            "propagation_efficiency": 0.006184052318607636
         }
     },
     {
         "attributes": {
-            "color_red": 0.11372549019607843,
-            "color_green": 0.17254901960784313,
-            "color_blue": 0.18823529411764706
+            "transaction_load": 0.5790356870351757,
+            "node_reliability": 0.7012168674068079,
+            "latency": 0.8402077197945147,
+            "hash_power": 0.586535769424803,
+            "network_contribution": 0.2817160754976019,
+            "propagation_efficiency": 0.9278635056605969
         }
     },
     {
         "attributes": {
-            "color_red": 0.12549019607843137,
-            "color_green": 0.1843137254901961,
-            "color_blue": 0.2
+            "transaction_load": 0.17658338908034354,
+            "node_reliability": 0.9799082570789164,
+            "latency": 0.2436473672466255,
+            "hash_power": 0.38280216532847655,
+            "network_contribution": 0.5896240604506088,
+            "propagation_efficiency": 0.06295098874257987
         }
     },
     {
         "attributes": {
-            "color_red": 0.10196078431372549,
-            "color_green": 0.12941176470588237,
-            "color_blue": 0.13333333333333333
+            "transaction_load": 0.489663075620147,
+            "node_reliability": 0.17553229859492936,
+            "latency": 0.01708003252119783,
+            "hash_power": 0.4827721320302151,
+            "network_contribution": 0.5416664442498859,
+            "propagation_efficiency": 0.19604135313246795
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.09803921568627451,
-            "color_blue": 0.09411764705882353
+            "transaction_load": 0.8878313414040078,
+            "node_reliability": 0.36513259154769073,
+            "latency": 0.8018727973031133,
+            "hash_power": 0.14015435848152924,
+            "network_contribution": 0.08523220704851919,
+            "propagation_efficiency": 0.3665158991581603
         }
     },
     {
         "attributes": {
-            "color_red": 0.023529411764705882,
-            "color_green": 0.023529411764705882,
-            "color_blue": 0.023529411764705882
+            "transaction_load": 0.3837785821879467,
+            "node_reliability": 0.6132449199787743,
+            "latency": 0.618701384345783,
+            "hash_power": 0.4517715988972433,
+            "network_contribution": 0.9700091103571424,
+            "propagation_efficiency": 0.5542595948647551
         }
     },
     {
         "attributes": {
-            "color_red": 0.06666666666666667,
-            "color_green": 0.07450980392156863,
-            "color_blue": 0.08235294117647059
+            "transaction_load": 0.8357311192364191,
+            "node_reliability": 0.3844690898454345,
+            "latency": 0.9166503335916136,
+            "hash_power": 0.1768396727749203,
+            "network_contribution": 0.9546087425613287,
+            "propagation_efficiency": 0.7262471526218347
         }
     },
     {
         "attributes": {
-            "color_red": 0.07450980392156863,
-            "color_green": 0.0784313725490196,
-            "color_blue": 0.09803921568627451
+            "transaction_load": 0.6037241618207126,
+            "node_reliability": 0.4189974692487658,
+            "latency": 0.6139753651373159,
+            "hash_power": 0.11510515300568858,
+            "network_contribution": 0.4579020384373389,
+            "propagation_efficiency": 0.4251734728147377
         }
     },
     {
         "attributes": {
-            "color_red": 0.20392156862745098,
-            "color_green": 0.1607843137254902,
-            "color_blue": 0.16470588235294117
+            "transaction_load": 0.8382805622283237,
+            "node_reliability": 0.8811782353657217,
+            "latency": 0.9653025821527688,
+            "hash_power": 0.4616021207975156,
+            "network_contribution": 0.6531377308567257,
+            "propagation_efficiency": 0.32085688840604143
         }
     },
     {
         "attributes": {
-            "color_red": 0.0784313725490196,
-            "color_green": 0.10196078431372549,
-            "color_blue": 0.13333333333333333
+            "transaction_load": 0.22794645344704667,
+            "node_reliability": 0.2096413736543794,
+            "latency": 0.10992604940868411,
+            "hash_power": 0.6035509458349112,
+            "network_contribution": 0.1621207246769688,
+            "propagation_efficiency": 0.982390129756936
         }
     },
     {
         "attributes": {
-            "color_red": 0.10196078431372549,
-            "color_green": 0.12941176470588237,
-            "color_blue": 0.17254901960784313
+            "transaction_load": 0.1650778794010236,
+            "node_reliability": 0.20571346371820098,
+            "latency": 0.3336132062753028,
+            "hash_power": 0.08642611937386169,
+            "network_contribution": 0.31518010023799636,
+            "propagation_efficiency": 0.29695284118357446
         }
     },
     {
         "attributes": {
-            "color_red": 0.13725490196078433,
-            "color_green": 0.1607843137254902,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.44180894765070866,
+            "node_reliability": 0.6696339381991614,
+            "latency": 0.4823745629230529,
+            "hash_power": 0.6089462371094178,
+            "network_contribution": 0.1629363272845641,
+            "propagation_efficiency": 0.705994429754887
         }
     },
     {
         "attributes": {
-            "color_red": 0.08627450980392157,
-            "color_green": 0.13725490196078433,
-            "color_blue": 0.18823529411764706
+            "transaction_load": 0.1350002589509801,
+            "node_reliability": 0.03203429660774004,
+            "latency": 0.6108286548903474,
+            "hash_power": 0.8903759283601248,
+            "network_contribution": 0.519572317098059,
+            "propagation_efficiency": 0.11895519436039015
         }
     },
     {
         "attributes": {
-            "color_red": 0.11372549019607843,
-            "color_green": 0.14901960784313725,
-            "color_blue": 0.18823529411764706
+            "transaction_load": 0.4415721084058637,
+            "node_reliability": 0.9687445538982853,
+            "latency": 0.6304529647055039,
+            "hash_power": 0.012546900586370091,
+            "network_contribution": 0.14010066966440327,
+            "propagation_efficiency": 0.9715713276590825
         }
     },
     {
         "attributes": {
-            "color_red": 0.1411764705882353,
-            "color_green": 0.1843137254901961,
-            "color_blue": 0.21176470588235294
+            "transaction_load": 0.2644917394066649,
+            "node_reliability": 0.39825104907851483,
+            "latency": 0.4331475523702579,
+            "hash_power": 0.8799467566228926,
+            "network_contribution": 0.6251843222481812,
+            "propagation_efficiency": 0.25090903615325266
         }
     },
     {
         "attributes": {
-            "color_red": 0.08235294117647059,
-            "color_green": 0.14901960784313725,
-            "color_blue": 0.1843137254901961
+            "transaction_load": 0.9396740330423906,
+            "node_reliability": 0.08461356348132854,
+            "latency": 0.19753669725472045,
+            "hash_power": 0.025889486378185333,
+            "network_contribution": 0.417964127925184,
+            "propagation_efficiency": 0.3682135782745859
         }
     },
     {
         "attributes": {
-            "color_red": 0.09019607843137255,
-            "color_green": 0.14901960784313725,
-            "color_blue": 0.17254901960784313
+            "transaction_load": 0.32923743565168995,
+            "node_reliability": 0.7159869220611331,
+            "latency": 0.18551765998424496,
+            "hash_power": 0.86315290109394,
+            "network_contribution": 0.16037535387395363,
+            "propagation_efficiency": 0.8844427560180939
         }
     },
     {
         "attributes": {
-            "color_red": 0.08627450980392157,
-            "color_green": 0.12941176470588237,
-            "color_blue": 0.1411764705882353
+            "transaction_load": 0.5206744959770997,
+            "node_reliability": 0.8258141654052431,
+            "latency": 0.6441480975373219,
+            "hash_power": 0.1561217507302992,
+            "network_contribution": 0.9332303397535298,
+            "propagation_efficiency": 0.6939344209759993
         }
     },
     {
         "attributes": {
-            "color_red": 0.07450980392156863,
-            "color_green": 0.10196078431372549,
-            "color_blue": 0.10588235294117647
+            "transaction_load": 0.28478583801964896,
+            "node_reliability": 0.07732985364606193,
+            "latency": 0.4414762568053401,
+            "hash_power": 0.37349351020351484,
+            "network_contribution": 0.9282060983988536,
+            "propagation_efficiency": 0.4963343078768052
         }
     },
     {
         "attributes": {
-            "color_red": 0.0784313725490196,
-            "color_green": 0.09803921568627451,
-            "color_blue": 0.10196078431372549
+            "transaction_load": 0.7356654666953328,
+            "node_reliability": 0.0978550516712191,
+            "latency": 0.5967760094134995,
+            "hash_power": 0.13020001058606512,
+            "network_contribution": 0.9643805336727861,
+            "propagation_efficiency": 0.25204213678378284
         }
     },
     {
         "attributes": {
-            "color_red": 0.06274509803921569,
-            "color_green": 0.06666666666666667,
-            "color_blue": 0.06274509803921569
+            "transaction_load": 0.8318341383430015,
+            "node_reliability": 0.9675515580405386,
+            "latency": 0.36636914304464185,
+            "hash_power": 0.07915948177165733,
+            "network_contribution": 0.2269888096773125,
+            "propagation_efficiency": 0.8979449497684887
         }
     },
     {
         "attributes": {
-            "color_red": 0.050980392156862744,
-            "color_green": 0.054901960784313725,
-            "color_blue": 0.050980392156862744
+            "transaction_load": 0.2895024921966187,
+            "node_reliability": 0.012622795198569126,
+            "latency": 0.4690578428677915,
+            "hash_power": 0.9401998079125147,
+            "network_contribution": 0.656096933050685,
+            "propagation_efficiency": 0.7470202311136542
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.32473866639231086,
+            "node_reliability": 0.8738047607123567,
+            "latency": 0.024316516365664342,
+            "hash_power": 0.21076064986048382,
+            "network_contribution": 0.42865569881934174,
+            "propagation_efficiency": 0.6702063086699604
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.2540046920329261,
+            "node_reliability": 0.7122727962466191,
+            "latency": 0.5252968854510799,
+            "hash_power": 0.646701847671243,
+            "network_contribution": 0.31055069949368763,
+            "propagation_efficiency": 0.9592077561191583
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.4039150402799231,
+            "node_reliability": 0.13583534602838843,
+            "latency": 0.680159518940742,
+            "hash_power": 0.8318047777662835,
+            "network_contribution": 0.5718073829586396,
+            "propagation_efficiency": 0.5178133747823993
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.3997581809447822,
+            "node_reliability": 0.41210317423503806,
+            "latency": 0.3262751852605805,
+            "hash_power": 0.8007040429801233,
+            "network_contribution": 0.20038586064353614,
+            "propagation_efficiency": 0.6369557341525514
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.04264833053658745,
+            "node_reliability": 0.8013255316071821,
+            "latency": 0.49786090894353674,
+            "hash_power": 0.37647385206879114,
+            "network_contribution": 0.15036002042068852,
+            "propagation_efficiency": 0.9536092263754639
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.19345655032546627,
+            "node_reliability": 0.42986771307616023,
+            "latency": 0.30877348616629274,
+            "hash_power": 0.9175023105699468,
+            "network_contribution": 0.23173781557639916,
+            "propagation_efficiency": 0.208029076028589
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.39567250458360914,
+            "node_reliability": 0.6608588974174193,
+            "latency": 0.17951038689072552,
+            "hash_power": 0.7357321663261559,
+            "network_contribution": 0.7418569547045305,
+            "propagation_efficiency": 0.7508219607882617
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.8585210168278298,
+            "node_reliability": 0.033228962283720964,
+            "latency": 0.33764701658175034,
+            "hash_power": 0.7142983056135849,
+            "network_contribution": 0.09241423513057223,
+            "propagation_efficiency": 0.7485001299447611
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.16922343742907375,
+            "node_reliability": 0.245476018294445,
+            "latency": 0.5417349228198992,
+            "hash_power": 0.6576833157627782,
+            "network_contribution": 0.45582358549590063,
+            "propagation_efficiency": 0.8521799491147817
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.4851777770553011,
+            "node_reliability": 0.9469568591640407,
+            "latency": 0.20023931244180526,
+            "hash_power": 0.015985395544164227,
+            "network_contribution": 0.45740895957285344,
+            "propagation_efficiency": 0.34345322928363575
+        }
+    },
+    {
+        "attributes": {
+            "transaction_load": 0.5957831724062111,
+            "node_reliability": 0.4811791572424623,
+            "latency": 0.14703053755405937,
+            "hash_power": 0.31894525280929265,
+            "network_contribution": 0.890642807466628,
+            "propagation_efficiency": 0.7645244671102545
         }
     }
 ]

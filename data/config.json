@@ -1,27 +1,43 @@
 {
     "attributes": {
-        "color_red": {
-            "weight": 1.0,
+        "transaction_load": {
+            "weight": 0.8,
             "min": 0,
             "max": 1
         },
-        "color_green": {
-            "weight": 1.0,
+        "node_reliability": {
+            "weight": 0.7,
             "min": 0,
             "max": 1
         },
-        "color_blue": {
-            "weight": 1.0,
+        "latency": {
+            "weight": 0.9,
+            "min": 0,
+            "max": 1
+        },
+        "hash_power": {
+            "weight": 0.6,
+            "min": 0,
+            "max": 1
+        },
+        "network_contribution": {
+            "weight": 0.5,
+            "min": 0,
+            "max": 1
+        },
+        "propagation_efficiency": {
+            "weight": 0.4,
             "min": 0,
             "max": 1
         }
     },
-    "invert_attributes": [],
-    "absorption_threshold": 10,
+    "invert_attributes": [
+        "latency"
+    ],
+    "absorption_threshold": 15,
     "processing": {
-        "single_process_delay": 5,
         "multi_process_threads": 128,
-        "visual_timer": 15
+        "visual_timer": 10
     },
     "mode": "multi_process"
 }
