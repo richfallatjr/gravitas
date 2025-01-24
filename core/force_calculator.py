@@ -13,7 +13,8 @@ class ForceCalculator:
         """
         Calculate gravitational forces between DNs and PMNs and update velocities.
         """
-        G = 1.2  # Gravitational constant (scaling factor)
+        speed_multiplier = 1
+        G = 1.2 * speed_multiplier  # Gravitational constant (scaling factor)
         softening = 5
         max_force = 15
         max_velocity = 20
@@ -39,7 +40,7 @@ class ForceCalculator:
                 if force_magnitude > max_force:
                     total_force = (total_force / force_magnitude) * max_force
 
-                node.velocity += (total_force / node.mass) * 100
+                node.velocity += (total_force / node.mass) * 100 * speed_multiplier
 
                 # Apply tangential motion and random perturbations
                 self.apply_perturbations(node, max_velocity)
