@@ -21,7 +21,7 @@ The visualization offers a glimpse into how gravitational mechanics, when proper
 - **Biomimetic Gravitational Averaging (BGA):** Introduces the gravitational averaging formula to a computer science problem.
 - **Filament Visualization:** Displays dynamic filaments representing gravitational connections and data pathways between nodes.
 - **Interactive Controls:** Add or remove nodes, adjust mass, velocity, and toggle collision mechanics in real-time.
-- **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions. (present in the code but not active, but could be interesting for certain use cases)
+- **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions (present in the code but not active, though potentially useful for specific use cases).
 
 ![Harmonic Gravitational Sorting](./assets/harmonic-gravitational-sorting.png)
 
@@ -34,7 +34,7 @@ The visualization offers a glimpse into how gravitational mechanics, when proper
 Mathematically, this is achieved by distributing the gravitational force across multiple nodes proportionally to their mass and distance:
 
 ```
-F_total = \sum_{i=1}^{n} \frac{G * m_1 * m_i}{d_i^{2}}
+F_total = Σ (G * m_1 * m_i) / d_i^2
 ```
 
 Where:
@@ -52,9 +52,8 @@ This smooth distribution prevents single PMNs from dominating and enables nodes 
 **Biomimetic Gravitational Averaging (BGA)** is a novel algorithmic approach for system optimization and data compression. Inspired by the self-organizing principles of gravitational systems, particularly the emergent behaviors seen in phenomena like Saturn’s rings, BGA leverages the concepts of distributed gravitational influence and harmonic gravitational sorting to enable dynamic load balancing, self-healing systems, and natural data compression. By mimicking the way gravitational systems achieve equilibrium through collective interactions, BGA provides an adaptive and efficient solution for managing complex, distributed computing environments.
 
 **Formula:**
-
 ```
-F_weighted = \frac{\sum_{i=1}^{n} \left( \frac{m_i}{d_i} * F_i \right)}{\sum_{i=1}^{n} \frac{m_i}{d_i}}
+F_weighted = Σ [(m_i / d_i) * F_i] / Σ (m_i / d_i)
 ```
 
 This ensures that nodes find natural equilibrium zones between competing gravitational sources, leading to:
@@ -70,45 +69,41 @@ This ensures that nodes find natural equilibrium zones between competing gravita
 
 Gravitas (GREP) is a temporal system, meaning it processes recommendations and matches based on dynamic, real-time interactions rather than static datasets. This temporal nature offers both advantages and challenges, which merit discussion to provide a holistic view of its capabilities.
 
-**Positives of Temporal Processing**
+### **Advantages of Temporal Processing**
+- **Adaptability:** Adjusts to changing datasets or user preferences dynamically.
+- **Fair Load Distribution:** Avoids static hierarchies, ensuring equitable visibility for entities.
+- **Responsive Interaction:** Delivers recommendations that feel immediate and personalized.
 
-**Adaptability**: Gravitas can adjust on-the-fly to changing datasets or user preferences. In a recommendation system like GREP, this means adapting recommendations to match evolving user inputs and system conditions without requiring complete recalculations.
+### **Challenges of Temporal Processing**
+- **Computational Overhead:** Requires significant processing power for real-time updates.
+- **Transient States:** May overlook long-term patterns in favor of immediate trends.
+- **Scalability:** Balancing vast datasets in real-time remains a technical hurdle.
 
-**Fair Load Distribution**: By leveraging controlled probabilistic randomness, Gravitas avoids static hierarchies where top-ranked entities consistently dominate. This allows for fairer distribution and prevents the "rich get richer" dynamics prevalent in many ranking systems.
-
-**Responsive Interaction**: Temporal systems align naturally with use cases where immediacy is critical, such as dating apps or real-time processing queues. They deliver recommendations that feel timely and personalized.
-
-**Challenges of Temporal Processing**
-
-**Computational Overhead**: Continuous updates and dynamic interactions require significant computational resources, especially as the dataset scales. While GREP reduces this by limiting drawn elements and leveraging gravitational averaging, there remains a practical limit to what can be visualized and processed simultaneously.
-
-**Transient States**: Temporal systems inherently prioritize the "now," which can lead to fleeting recommendations that may not always reflect longer-term patterns or preferences. Balancing immediate responsiveness with broader insights is an ongoing consideration.
-
-**Scalability**: Temporal systems face limitations when managing vast datasets in real-time, especially when visualizing or simulating dynamic interactions. Techniques like reducing drawn nodes or integrating with traditional AI methods can mitigate these constraints.
-
-Gravitas, with its temporal foundation, represents a shift from static recommendation paradigms to dynamic, adaptive systems. While it introduces unique complexities, its ability to model chaotic yet organized systems like gravitational mechanics offers a compelling alternative to traditional AI-driven approaches.
+Gravitas represents a shift from static recommendation paradigms to dynamic, adaptive systems. While complex, its ability to model chaotic yet organized systems like gravitational mechanics offers a compelling alternative to traditional AI-driven approaches.
 
 ![Gravitas Blockchain Load Balancing](./assets/blockchain.gif)
 
-[Or watch the video on YouTube](https://youtu.be/XEB_d5aLHbE?si=zrzj2Md8dj1x_xqF)
+[Watch the video on YouTube](https://youtu.be/XEB_d5aLHbE?si=zrzj2Md8dj1x_xqF)
+
+---
 
 ## Installation
 
 1. **Clone the Repository:**
-```bash
-git clone https://github.com/your-username/gravitas.git
-cd gravitas
-```
+   ```bash
+   git clone https://github.com/your-username/gravitas.git
+   cd gravitas
+   ```
 
 2. **Install Dependencies:**
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Run the Simulation:**
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ---
 
@@ -133,7 +128,7 @@ python main.py
 
 ## License
 
-This project is licensed under non-commercial License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under a non-commercial license. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -155,4 +150,3 @@ For questions, contributions, or collaborations:
 ![SoL Icon](./assets/sol-icon.png)
 
 *SoL Gravitas: Harnessing the elegance of gravitational forces to visualize balance in chaos.*
-
