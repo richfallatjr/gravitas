@@ -1,3 +1,5 @@
+![Gravitas banner](./assets/gravitas-banner.png)
+
 # SoL Gravitas
 
 **Dynamic Gravitational Simulation with Gravitational Averaging (GA) and Biomimetic Gravitational Averaging (BGA)**
@@ -20,6 +22,8 @@ The visualization offers a glimpse into how gravitational mechanics, when proper
 - **Filament Visualization:** Displays dynamic filaments representing gravitational connections and data pathways between nodes.
 - **Interactive Controls:** Add or remove nodes, adjust mass, velocity, and toggle collision mechanics in real-time.
 - **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions.
+
+![Harmonic Gravitational Sorting](./assets/harmonic-gravitational-sorting.png)
 
 ---
 
@@ -58,6 +62,8 @@ This ensures that nodes find natural equilibrium zones between competing gravita
 - **Realistic Swarm Behavior**
 - **Adaptive Gravitational Influence**
 
+![Biomimetic gravitational averaging](./assets/pmn_dn_vizdev.png)
+
 ---
 
 ## Gravitas Recommendation Engine Protocol (GREP)
@@ -82,6 +88,9 @@ Gravitas (GREP) is a temporal system, meaning it processes recommendations and m
 
 Gravitas, with its temporal foundation, represents a shift from static recommendation paradigms to dynamic, adaptive systems. While it introduces unique complexities, its ability to model chaotic yet organized systems like gravitational mechanics offers a compelling alternative to traditional AI-driven approaches.
 
+![Gravitas Blockchain Load Balancing](./assets/blockchain.gif)
+
+[Or watch the video on YouTube](https://youtu.be/XEB_d5aLHbE?si=zrzj2Md8dj1x_xqF)
 
 ## Installation
 
@@ -124,7 +133,7 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under non-commercial License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -141,6 +150,8 @@ For questions, contributions, or collaborations:
 - **GitHub:** [richfallatjr](https://github.com/richfallatjr)
 
 ---
+
+![SoL Icon](./assets/sol-icon.png)
 
 *SoL Gravitas: Harnessing the elegance of gravitational forces to visualize balance in chaos.*
 
