@@ -18,10 +18,10 @@ The visualization offers a glimpse into how gravitational mechanics, when proper
 
 - **Dynamic Node Interaction:** Visualizes how smaller Dynamic Nodes (DNs) interact with larger Primary Mass Nodes (PMNs) based on gravitational forces.
 - **Gravitational Averaging (GA):** Smooths gravitational influence across multiple PMNs, creating natural, emergent behavior that mimics orbital mechanics.
-- **Biomimetic Gravitational Averaging (BGA):** Introduces mass and distance weighting to create more realistic, adaptive gravitational interactions.
+- **Biomimetic Gravitational Averaging (BGA):** Introduces the gravitational averaging formula to a computer science problem.
 - **Filament Visualization:** Displays dynamic filaments representing gravitational connections and data pathways between nodes.
 - **Interactive Controls:** Add or remove nodes, adjust mass, velocity, and toggle collision mechanics in real-time.
-- **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions.
+- **Sophisticated Collision Response:** Implements elastic collisions between nodes to simulate realistic mass interactions. (present in the code but not active, but could be interesting for certain use cases)
 
 ![Harmonic Gravitational Sorting](./assets/harmonic-gravitational-sorting.png)
 
@@ -49,7 +49,7 @@ This smooth distribution prevents single PMNs from dominating and enables nodes 
 
 ## Biomimetic Gravitational Averaging (BGA)
 
-**Biomimetic Gravitational Averaging (BGA)** refines GA by introducing mass-distance weighting, ensuring that larger masses have a proportionally larger influence while accounting for proximity. This prevents distant, massive nodes from exerting excessive force compared to nearer, smaller nodes.
+**Biomimetic Gravitational Averaging (BGA)** is a novel algorithmic approach for system optimization and data compression. Inspired by the self-organizing principles of gravitational systems, particularly the emergent behaviors seen in phenomena like Saturn’s rings, BGA leverages the concepts of distributed gravitational influence and harmonic gravitational sorting to enable dynamic load balancing, self-healing systems, and natural data compression. By mimicking the way gravitational systems achieve equilibrium through collective interactions, BGA provides an adaptive and efficient solution for managing complex, distributed computing environments.
 
 **Formula:**
 
