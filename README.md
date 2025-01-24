@@ -148,6 +148,7 @@ This project is inspired by astrophysical phenomena and theoretical models of gr
 For questions, contributions, or collaborations:
 - **Email:** info@losangelesmercantile.com
 - **GitHub:** [richfallatjr](https://github.com/richfallatjr)
+- **Discord:** [SoL (Speed of Light)](https://discord.gg/kjRc93BY)
 
 ---
 
