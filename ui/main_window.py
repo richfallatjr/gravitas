@@ -168,7 +168,7 @@ class MainWindow(QMainWindow):
     def __init__(self, controller):
         super().__init__()
         self.controller = controller
-        self.setWindowTitle("SoL Gravitas - Multi-PMN Simulation")
+        self.setWindowTitle("SoL Gravitas Recommendation Engine Protocol (GREP)")
         self.setGeometry(100, 100, 800, 600)
 
         self.timer = QTimer(self)
@@ -194,25 +194,25 @@ class MainWindow(QMainWindow):
         control_panel = QWidget()
         control_layout = QHBoxLayout()
 
-        #self.collision_checkbox = QCheckBox("Enable DN Collisions")
-        #self.collision_checkbox.setChecked(False)
-        #self.collision_checkbox.stateChanged.connect(self.toggle_dn_collisions)
-        #control_layout.addWidget(self.collision_checkbox)
+        self.collision_checkbox = QCheckBox("Enable DN Collisions")
+        self.collision_checkbox.setChecked(False)
+        self.collision_checkbox.stateChanged.connect(self.toggle_dn_collisions)
+        control_layout.addWidget(self.collision_checkbox)
 
-        #add_dn_button = QPushButton("Add Dynamic Node")
-        #add_dn_button.clicked.connect(self.add_dynamic_node)
-        #control_layout.addWidget(add_dn_button)
+        add_dn_button = QPushButton("Add Dynamic Node")
+        add_dn_button.clicked.connect(self.add_dynamic_node)
+        control_layout.addWidget(add_dn_button)
 
-        #add_pmn_button = QPushButton("Add Primary Mass Node")
-        #add_pmn_button.clicked.connect(self.add_primary_mass_node)
-        #control_layout.addWidget(add_pmn_button)
+        add_pmn_button = QPushButton("Add Primary Mass Node")
+        add_pmn_button.clicked.connect(self.add_primary_mass_node)
+        control_layout.addWidget(add_pmn_button)
 
-        #self.mass_slider = QSlider(Qt.Horizontal)
-        #self.mass_slider.setMinimum(1)
-        #self.mass_slider.setMaximum(100)
-        #self.mass_slider.setValue(10)
+        self.mass_slider = QSlider(Qt.Horizontal)
+        self.mass_slider.setMinimum(1)
+        self.mass_slider.setMaximum(20)
+        self.mass_slider.setValue(5)
         #control_layout.addWidget(QLabel("Mass:"))
-        #control_layout.addWidget(self.mass_slider)
+        control_layout.addWidget(self.mass_slider)
         
         # In ui/main_window.py (initUI method):
         self.dn_display_slider = QSlider(Qt.Horizontal)
@@ -221,7 +221,7 @@ class MainWindow(QMainWindow):
         self.dn_display_slider.setValue(100)  # Default to showing all DNs
         self.dn_display_slider.valueChanged.connect(self.update_dn_display_limit)
 
-        control_layout.addWidget(QLabel("Display DNs:"))
+        #control_layout.addWidget(QLabel("Display DNs:"))
         control_layout.addWidget(self.dn_display_slider)
 
 
@@ -267,7 +267,7 @@ class MainWindow(QMainWindow):
         )
         velocity_vector = (np.random.rand(2) - 0.5) * 2  # Random velocity
 
-        new_node = DynamicNode(mass=mass, position=position, velocity=velocity_vector)
+        new_node = DynamicNode(mass=self.mass_slider.value(), position=position, velocity=velocity_vector)
         self.controller.nodes.append(new_node)  # Add to simulation controller
         self.simulation_view.update()  # Refresh the UI
         

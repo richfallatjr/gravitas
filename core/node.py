@@ -9,7 +9,7 @@ class Node:
 
 
 class DynamicNode(Node):
-    def __init__(self, config=None, attributes=None, position=None, velocity=None):
+    def __init__(self, mass=None, config=None, attributes=None, position=None, velocity=None):
         """
         DynamicNode represents a task or item with configurable attributes.
 
@@ -29,8 +29,11 @@ class DynamicNode(Node):
                 "threads": np.random.randint(1, 16)
             }
 
-        # Calculate mass using the config
-        self.mass = self.calculate_mass()
+        if not mass:
+            # Calculate mass using the config
+            self.mass = self.calculate_mass()
+        else:
+            self.mass = mass
 
         # Randomize position and velocity if not provided
         if position is None:

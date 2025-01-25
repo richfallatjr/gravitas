@@ -1,3002 +1,3002 @@
 [
     {
         "attributes": {
-            "cpu_request": 0.1514698851225128,
-            "memory_request": 0.43324927634043287,
-            "priority": 0.23988279207781993,
-            "network_bandwidth": 0.6740726383757297,
-            "scaling_factor": 0.4393243926169075,
-            "latency_sensitivity": 0.09323702808698331
+            "cpu_request": 0.3950802648279278,
+            "memory_request": 0.1158196991416992,
+            "priority": 0.7783943737986326,
+            "network_bandwidth": 0.4840853548438425,
+            "scaling_factor": 0.5124696377602184,
+            "latency_sensitivity": 0.3961984842027726
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.35026248885477174,
-            "memory_request": 0.7479313477086557,
-            "priority": 0.05243648590084571,
-            "network_bandwidth": 0.7715292501053894,
-            "scaling_factor": 0.3141918300579891,
-            "latency_sensitivity": 0.03559300095514761
+            "cpu_request": 0.4215980685616597,
+            "memory_request": 0.2279158986248555,
+            "priority": 0.6696038097690697,
+            "network_bandwidth": 0.9834226358427305,
+            "scaling_factor": 0.6632776285185038,
+            "latency_sensitivity": 0.9881776434683669
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6653141859827908,
-            "memory_request": 0.8876600664275726,
-            "priority": 0.6519586633205482,
-            "network_bandwidth": 0.8926697139033458,
-            "scaling_factor": 0.2127236662689913,
-            "latency_sensitivity": 0.6229173372647031
+            "cpu_request": 0.7881502223610438,
+            "memory_request": 0.6876773369483552,
+            "priority": 0.4504684997074373,
+            "network_bandwidth": 0.0677129204000313,
+            "scaling_factor": 0.11999601505255064,
+            "latency_sensitivity": 0.608812042789088
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5856840960380976,
-            "memory_request": 0.8656037079964426,
-            "priority": 0.5179748181889774,
-            "network_bandwidth": 0.23433790650768394,
-            "scaling_factor": 0.0927812161111693,
-            "latency_sensitivity": 0.046746973722608276
+            "cpu_request": 0.9022258536988541,
+            "memory_request": 0.8354414131717921,
+            "priority": 0.555862672432142,
+            "network_bandwidth": 0.10928980130579102,
+            "scaling_factor": 0.2623506062959605,
+            "latency_sensitivity": 0.156491971699522
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9322855679479919,
-            "memory_request": 0.8833834090175454,
-            "priority": 0.8235883005888806,
-            "network_bandwidth": 0.8303435956657629,
-            "scaling_factor": 0.9841937756200697,
-            "latency_sensitivity": 0.06756869339388238
+            "cpu_request": 0.31610321844284295,
+            "memory_request": 0.022933188667312088,
+            "priority": 0.004068660412667513,
+            "network_bandwidth": 0.4252639515494281,
+            "scaling_factor": 0.687979544191817,
+            "latency_sensitivity": 0.048191724340361564
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8500004232460049,
-            "memory_request": 0.26055018826173026,
-            "priority": 0.9675660455644673,
-            "network_bandwidth": 0.41193294435543615,
-            "scaling_factor": 0.41042100152970196,
-            "latency_sensitivity": 0.3614029949203982
+            "cpu_request": 0.18665187359708324,
+            "memory_request": 0.5290404996267827,
+            "priority": 0.021956870113750915,
+            "network_bandwidth": 0.8110968170475337,
+            "scaling_factor": 0.538311485792997,
+            "latency_sensitivity": 0.6225299920457522
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.015343122159156675,
-            "memory_request": 0.24460820313150944,
-            "priority": 0.3742200478723391,
-            "network_bandwidth": 0.13989481363234246,
-            "scaling_factor": 0.5741528393742837,
-            "latency_sensitivity": 0.5979050428802176
+            "cpu_request": 0.870263532804892,
+            "memory_request": 0.629459017710616,
+            "priority": 0.9472289911244898,
+            "network_bandwidth": 0.11715545862247867,
+            "scaling_factor": 0.6426443572093056,
+            "latency_sensitivity": 0.24338700899028265
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7195679535491313,
-            "memory_request": 0.9520614404905297,
-            "priority": 0.17620864592112928,
-            "network_bandwidth": 0.7907984912381555,
-            "scaling_factor": 0.49867502847435496,
-            "latency_sensitivity": 0.6561920610111761
+            "cpu_request": 0.9851075467781198,
+            "memory_request": 0.39907570420957217,
+            "priority": 0.21853858023148198,
+            "network_bandwidth": 0.9767816347037062,
+            "scaling_factor": 0.4418503340577088,
+            "latency_sensitivity": 0.8632695647843882
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9059379021257302,
-            "memory_request": 0.8121410217067205,
-            "priority": 0.30429755244053935,
-            "network_bandwidth": 0.20318769360096234,
-            "scaling_factor": 0.9060250862300543,
-            "latency_sensitivity": 0.9812239659083348
+            "cpu_request": 0.014986326625159974,
+            "memory_request": 0.03333230225220185,
+            "priority": 0.3224013930882673,
+            "network_bandwidth": 0.43818872815688803,
+            "scaling_factor": 0.4691763849098525,
+            "latency_sensitivity": 0.6785156570005454
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9801019957512526,
-            "memory_request": 0.0741090461836108,
-            "priority": 0.5815170541994137,
-            "network_bandwidth": 0.9832846040601236,
-            "scaling_factor": 0.8516770630439646,
-            "latency_sensitivity": 0.22482077740019935
+            "cpu_request": 0.6718302572290299,
+            "memory_request": 0.09885502572732241,
+            "priority": 0.844187852652744,
+            "network_bandwidth": 0.35412827609861763,
+            "scaling_factor": 0.08342150256471714,
+            "latency_sensitivity": 0.17983415671276115
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.23725407268519527,
-            "memory_request": 0.3597392406551926,
-            "priority": 0.9086194763585249,
-            "network_bandwidth": 0.42431347961698906,
-            "scaling_factor": 0.371240303265418,
-            "latency_sensitivity": 0.5048465570743238
+            "cpu_request": 0.4728666581004891,
+            "memory_request": 0.8160914840403675,
+            "priority": 0.31894215897439615,
+            "network_bandwidth": 0.6862179694825049,
+            "scaling_factor": 0.7079781973545989,
+            "latency_sensitivity": 0.4121559809394648
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.903369782486383,
-            "memory_request": 0.9111064704063577,
-            "priority": 0.2714977184462479,
-            "network_bandwidth": 0.2590155587587043,
-            "scaling_factor": 0.5132069253584344,
-            "latency_sensitivity": 0.35604239580358454
+            "cpu_request": 0.3552886816602854,
+            "memory_request": 0.6601702059744974,
+            "priority": 0.4574345071456841,
+            "network_bandwidth": 0.8028981470856257,
+            "scaling_factor": 0.15849478982717502,
+            "latency_sensitivity": 0.7616390796006823
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.1398523407379053,
-            "memory_request": 0.6406880844472833,
-            "priority": 0.8342930299984993,
-            "network_bandwidth": 0.5281342818584989,
-            "scaling_factor": 0.873616052932375,
-            "latency_sensitivity": 0.9862507801269784
+            "cpu_request": 0.6987084605611619,
+            "memory_request": 0.2636289101800421,
+            "priority": 0.11347479118323767,
+            "network_bandwidth": 0.997295566387701,
+            "scaling_factor": 0.19651793452023203,
+            "latency_sensitivity": 0.062474398876379955
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5032775198317391,
-            "memory_request": 0.8709130998090765,
-            "priority": 0.1417206208809454,
-            "network_bandwidth": 0.8944227994023644,
-            "scaling_factor": 0.27851192816188364,
-            "latency_sensitivity": 0.8116938572654847
+            "cpu_request": 0.5427576513434269,
+            "memory_request": 0.15907452317101,
+            "priority": 0.43979782930684497,
+            "network_bandwidth": 0.9991857978000307,
+            "scaling_factor": 0.15434611130045484,
+            "latency_sensitivity": 0.27680202920410124
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.03940132573378685,
-            "memory_request": 0.7763934800167753,
-            "priority": 0.9602277317315614,
-            "network_bandwidth": 0.09639263462917713,
-            "scaling_factor": 0.21777447270450923,
-            "latency_sensitivity": 0.42555896533478643
+            "cpu_request": 0.21040000603195885,
+            "memory_request": 0.4917823527910884,
+            "priority": 0.9496893722516403,
+            "network_bandwidth": 0.40064997014837134,
+            "scaling_factor": 0.2083611362222969,
+            "latency_sensitivity": 0.26045187971246353
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.21223355112527198,
-            "memory_request": 0.15664048467199287,
-            "priority": 0.0738717034207853,
-            "network_bandwidth": 0.5752784853637475,
-            "scaling_factor": 0.7516585860416264,
-            "latency_sensitivity": 0.8511891264511395
+            "cpu_request": 0.16581531310522402,
+            "memory_request": 0.22870694517618417,
+            "priority": 0.6530787394825326,
+            "network_bandwidth": 0.730912018477435,
+            "scaling_factor": 0.055907916371259136,
+            "latency_sensitivity": 0.2654798898221642
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6566933174751437,
-            "memory_request": 0.7882930652233534,
-            "priority": 0.47552425946843535,
-            "network_bandwidth": 0.39950879297694686,
-            "scaling_factor": 0.2512142703168728,
-            "latency_sensitivity": 0.059691200620977325
+            "cpu_request": 0.361764884149289,
+            "memory_request": 0.16353373326611798,
+            "priority": 0.9980419063582533,
+            "network_bandwidth": 0.22665883701527612,
+            "scaling_factor": 0.7930305876090826,
+            "latency_sensitivity": 0.004626351017552377
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4368300107283931,
-            "memory_request": 0.31263197788566666,
-            "priority": 0.5831108511283375,
-            "network_bandwidth": 0.5661572042201505,
-            "scaling_factor": 0.7453646797982577,
-            "latency_sensitivity": 0.04145273368378177
+            "cpu_request": 0.9344383143083961,
+            "memory_request": 0.40388833867907314,
+            "priority": 0.6877096502428126,
+            "network_bandwidth": 0.582722191146815,
+            "scaling_factor": 0.42280342247212543,
+            "latency_sensitivity": 0.7558400333226932
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9943671569286632,
-            "memory_request": 0.6356156359193877,
-            "priority": 0.25518166666511954,
-            "network_bandwidth": 0.66891753481686,
-            "scaling_factor": 0.1355921505821157,
-            "latency_sensitivity": 0.2834345978762224
+            "cpu_request": 0.7988812187637417,
+            "memory_request": 0.08074949149727373,
+            "priority": 0.4117936072436882,
+            "network_bandwidth": 0.09406773020543602,
+            "scaling_factor": 0.23638146011066496,
+            "latency_sensitivity": 0.22132238003278537
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.30476912796563616,
-            "memory_request": 0.5771703647918218,
-            "priority": 0.8262983775762925,
-            "network_bandwidth": 0.7094036154656996,
-            "scaling_factor": 0.4258140481406568,
-            "latency_sensitivity": 0.7007590445881534
+            "cpu_request": 0.3316638018768333,
+            "memory_request": 0.1994287959884261,
+            "priority": 0.5721969832171855,
+            "network_bandwidth": 0.941940013084342,
+            "scaling_factor": 0.5177714404460425,
+            "latency_sensitivity": 0.8173030302742902
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4309838977602597,
-            "memory_request": 0.10114576653411067,
-            "priority": 0.2900090908917009,
-            "network_bandwidth": 0.13331506657340964,
-            "scaling_factor": 0.7423443061842183,
-            "latency_sensitivity": 0.2589631145592308
+            "cpu_request": 0.6967206457955961,
+            "memory_request": 0.13464409606957983,
+            "priority": 0.11174834668910771,
+            "network_bandwidth": 0.623623668198687,
+            "scaling_factor": 0.6966795162890644,
+            "latency_sensitivity": 0.1186500921970316
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.022485273575484355,
-            "memory_request": 0.7631724526496654,
-            "priority": 0.529479270685863,
-            "network_bandwidth": 0.5814820754554202,
-            "scaling_factor": 0.3524902895611578,
-            "latency_sensitivity": 0.947927488382547
+            "cpu_request": 0.9275810304984262,
+            "memory_request": 0.8491445583086165,
+            "priority": 0.48747105199975627,
+            "network_bandwidth": 0.8023032069357765,
+            "scaling_factor": 0.5887155410806115,
+            "latency_sensitivity": 0.7119909202776006
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.027330890130966567,
-            "memory_request": 0.5027986067502794,
-            "priority": 0.4600035880322505,
-            "network_bandwidth": 0.50133344383294,
-            "scaling_factor": 0.5648840905299739,
-            "latency_sensitivity": 0.7633643300700564
+            "cpu_request": 0.6763609888602244,
+            "memory_request": 0.07522025306036795,
+            "priority": 0.4582938720355394,
+            "network_bandwidth": 0.06429060951750831,
+            "scaling_factor": 0.37800332579196716,
+            "latency_sensitivity": 0.7446838014504494
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.30735361694685004,
-            "memory_request": 0.12850007257510476,
-            "priority": 0.5022365055182552,
-            "network_bandwidth": 0.4843817907638871,
-            "scaling_factor": 0.5066420949590889,
-            "latency_sensitivity": 0.5433607824723895
+            "cpu_request": 0.8812657961579824,
+            "memory_request": 0.3930758562844845,
+            "priority": 0.4913539178513464,
+            "network_bandwidth": 0.9114012509351751,
+            "scaling_factor": 0.9870108352814617,
+            "latency_sensitivity": 0.33217815622458846
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.41438312274661504,
-            "memory_request": 0.00881829517686028,
-            "priority": 0.47477452552289734,
-            "network_bandwidth": 0.9584291986677121,
-            "scaling_factor": 0.340356944495499,
-            "latency_sensitivity": 0.10988782290419274
+            "cpu_request": 0.6826944133465312,
+            "memory_request": 0.7281132393881344,
+            "priority": 0.2306532651067449,
+            "network_bandwidth": 0.45430871111568905,
+            "scaling_factor": 0.5125936869906679,
+            "latency_sensitivity": 0.9145972354054531
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6245406815992742,
-            "memory_request": 0.2952846628132898,
-            "priority": 0.4924102491784603,
-            "network_bandwidth": 0.9579575580236979,
-            "scaling_factor": 0.5389742055053015,
-            "latency_sensitivity": 0.8695219157869035
+            "cpu_request": 0.5326252727549998,
+            "memory_request": 0.6565835574340215,
+            "priority": 0.445261617821468,
+            "network_bandwidth": 0.6529332350902562,
+            "scaling_factor": 0.0031717055525071203,
+            "latency_sensitivity": 0.18242806561324498
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9253452840052274,
-            "memory_request": 0.6009807991100843,
-            "priority": 0.874906797612564,
-            "network_bandwidth": 0.8383336968492953,
-            "scaling_factor": 0.3269648597879832,
-            "latency_sensitivity": 0.715933856146888
+            "cpu_request": 0.9257795151964361,
+            "memory_request": 0.19355658092657457,
+            "priority": 0.6099541370175651,
+            "network_bandwidth": 0.46109874220129066,
+            "scaling_factor": 0.6822618328600324,
+            "latency_sensitivity": 0.24803587548579864
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7705675547372187,
-            "memory_request": 0.412025246002963,
-            "priority": 0.8105347526966825,
-            "network_bandwidth": 0.3901632264089777,
-            "scaling_factor": 0.10483926756072359,
-            "latency_sensitivity": 0.6932033335766115
+            "cpu_request": 0.4034526269925154,
+            "memory_request": 0.9468620134596578,
+            "priority": 0.48181900383862253,
+            "network_bandwidth": 0.4263562883431897,
+            "scaling_factor": 0.050906327156004405,
+            "latency_sensitivity": 0.7792619216871283
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5172845481994557,
-            "memory_request": 0.7079124156469926,
-            "priority": 0.14740741306490523,
-            "network_bandwidth": 0.17933463881544098,
-            "scaling_factor": 0.5791131000779826,
-            "latency_sensitivity": 0.15503228360304122
+            "cpu_request": 0.9268082925271498,
+            "memory_request": 0.7750167542655968,
+            "priority": 0.38513292513307207,
+            "network_bandwidth": 0.5228839124444964,
+            "scaling_factor": 0.17972140160065608,
+            "latency_sensitivity": 0.38787603600621035
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.206622862980135,
-            "memory_request": 0.8030647548336703,
-            "priority": 0.6558774212000286,
-            "network_bandwidth": 0.20637266496407425,
-            "scaling_factor": 0.9975542210334328,
-            "latency_sensitivity": 0.9787860767806026
+            "cpu_request": 0.5980560713549065,
+            "memory_request": 0.5152675110152679,
+            "priority": 0.2194312182952599,
+            "network_bandwidth": 0.0879426554998981,
+            "scaling_factor": 0.36031483435029,
+            "latency_sensitivity": 0.28362159784898844
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.31000062499463155,
-            "memory_request": 0.10177049678688532,
-            "priority": 0.2057860029303208,
-            "network_bandwidth": 0.9129890441287822,
-            "scaling_factor": 0.32113518782010597,
-            "latency_sensitivity": 0.4532136264514369
+            "cpu_request": 0.6906650487072917,
+            "memory_request": 0.4582552681326384,
+            "priority": 0.5952682884306943,
+            "network_bandwidth": 0.8442821351841165,
+            "scaling_factor": 0.997260420643417,
+            "latency_sensitivity": 0.7649696615446756
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5181066472694684,
-            "memory_request": 0.6731811387945404,
-            "priority": 0.6292253423159121,
-            "network_bandwidth": 0.44403034213420955,
-            "scaling_factor": 0.6673055579869122,
-            "latency_sensitivity": 0.7116505185132184
+            "cpu_request": 0.26311301812274523,
+            "memory_request": 0.0907182735491956,
+            "priority": 0.34094991782208517,
+            "network_bandwidth": 0.511108638466615,
+            "scaling_factor": 0.056509083424117756,
+            "latency_sensitivity": 0.7263128427513051
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.31186325615751853,
-            "memory_request": 0.5881503530975277,
-            "priority": 0.08670580279224172,
-            "network_bandwidth": 0.08008174236362087,
-            "scaling_factor": 0.9345124662117561,
-            "latency_sensitivity": 0.9494103189948846
+            "cpu_request": 0.20233715301150312,
+            "memory_request": 0.3964031467012169,
+            "priority": 0.2845035877703873,
+            "network_bandwidth": 0.7071304563251545,
+            "scaling_factor": 0.11252589216170494,
+            "latency_sensitivity": 0.8485803997520157
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9487595214805672,
-            "memory_request": 0.0017707327725633437,
-            "priority": 0.4505867510536703,
-            "network_bandwidth": 0.06056304007335089,
-            "scaling_factor": 0.20106451328407648,
-            "latency_sensitivity": 0.31391196611974237
+            "cpu_request": 0.4813947801161048,
+            "memory_request": 0.9456385571223463,
+            "priority": 0.41015089787324954,
+            "network_bandwidth": 0.5260397555314391,
+            "scaling_factor": 0.8922086736086491,
+            "latency_sensitivity": 0.15559733583050062
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.43807197849133916,
-            "memory_request": 0.07289932483537154,
-            "priority": 0.8030894878712003,
-            "network_bandwidth": 0.5016988646276815,
-            "scaling_factor": 0.9289152711169777,
-            "latency_sensitivity": 0.9497172897287425
+            "cpu_request": 0.04831537205421976,
+            "memory_request": 0.5667017992945081,
+            "priority": 0.2092067751878428,
+            "network_bandwidth": 0.5010790834100027,
+            "scaling_factor": 0.5616183590838264,
+            "latency_sensitivity": 0.441705939460862
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6050436193611637,
-            "memory_request": 0.45031959106433084,
-            "priority": 0.33769610029612673,
-            "network_bandwidth": 0.34665884953757564,
-            "scaling_factor": 0.8964587532051534,
-            "latency_sensitivity": 0.16500998581039716
+            "cpu_request": 0.6604214145496469,
+            "memory_request": 0.9053936615854362,
+            "priority": 0.2816818790522936,
+            "network_bandwidth": 0.10851492685280228,
+            "scaling_factor": 0.5141201321629449,
+            "latency_sensitivity": 0.07123749477224095
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.21723943947249702,
-            "memory_request": 0.034674661733690604,
-            "priority": 0.2829760568163757,
-            "network_bandwidth": 0.38410591435444297,
-            "scaling_factor": 0.16162659833563653,
-            "latency_sensitivity": 0.8044358130649324
+            "cpu_request": 0.8937159361155155,
+            "memory_request": 0.43063750257092426,
+            "priority": 0.10772582409773424,
+            "network_bandwidth": 0.9708781221191486,
+            "scaling_factor": 0.0834319697297905,
+            "latency_sensitivity": 0.253808378282247
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.39994244688274194,
-            "memory_request": 0.5390985922368443,
-            "priority": 0.899017479314155,
-            "network_bandwidth": 0.19445081614050808,
-            "scaling_factor": 0.4499596671357069,
-            "latency_sensitivity": 0.9539537875635523
+            "cpu_request": 0.7536177492623256,
+            "memory_request": 0.042643083236736934,
+            "priority": 0.9494866271752712,
+            "network_bandwidth": 0.735728787091366,
+            "scaling_factor": 0.6500162839196961,
+            "latency_sensitivity": 0.7407409856387306
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.35413722941360226,
-            "memory_request": 0.28381998968940314,
-            "priority": 0.6369545428576303,
-            "network_bandwidth": 0.737693077150744,
-            "scaling_factor": 0.19903726004145328,
-            "latency_sensitivity": 0.5351594653011336
+            "cpu_request": 0.29160519593276846,
+            "memory_request": 0.16425783147711792,
+            "priority": 0.10628217606004142,
+            "network_bandwidth": 0.923243167541915,
+            "scaling_factor": 0.07895388862257724,
+            "latency_sensitivity": 0.17913132134850251
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7482173783362925,
-            "memory_request": 0.6665240175440065,
-            "priority": 0.379838361339474,
-            "network_bandwidth": 0.2156922631344923,
-            "scaling_factor": 0.6716671926752013,
-            "latency_sensitivity": 0.05124941133623928
+            "cpu_request": 0.18275847993527705,
+            "memory_request": 0.08425587116729305,
+            "priority": 0.5967300810225864,
+            "network_bandwidth": 0.03623057258564921,
+            "scaling_factor": 0.8447931562124215,
+            "latency_sensitivity": 0.8336001507584622
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.1305676768280184,
-            "memory_request": 0.41976363455819454,
-            "priority": 0.3875258743651554,
-            "network_bandwidth": 0.027371569733863566,
-            "scaling_factor": 0.24119621145276915,
-            "latency_sensitivity": 0.9859730360944597
+            "cpu_request": 0.7624607197413976,
+            "memory_request": 0.758153973341268,
+            "priority": 0.1147995617728984,
+            "network_bandwidth": 0.13042966006948742,
+            "scaling_factor": 0.8803024360596721,
+            "latency_sensitivity": 0.015337823437122089
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7972009735181438,
-            "memory_request": 0.4301107733731665,
-            "priority": 0.27039542626664215,
-            "network_bandwidth": 0.3902372173913393,
-            "scaling_factor": 0.9388407388615014,
-            "latency_sensitivity": 0.15952697884509315
+            "cpu_request": 0.43815044826296146,
+            "memory_request": 0.24407143799718678,
+            "priority": 0.4726057572216479,
+            "network_bandwidth": 0.9395812324302919,
+            "scaling_factor": 0.21642067033653034,
+            "latency_sensitivity": 0.7184966797416481
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6727047425278871,
-            "memory_request": 0.5674399554590058,
-            "priority": 0.7390662426202487,
-            "network_bandwidth": 0.49021570886511956,
-            "scaling_factor": 0.724653939276085,
-            "latency_sensitivity": 0.14440131545920487
+            "cpu_request": 0.38709423108594676,
+            "memory_request": 0.4488592483034157,
+            "priority": 0.5170158523918567,
+            "network_bandwidth": 0.45809644955694717,
+            "scaling_factor": 0.7083768737963888,
+            "latency_sensitivity": 0.892660277486939
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5074231121681249,
-            "memory_request": 0.11895110204096959,
-            "priority": 0.3044992993318095,
-            "network_bandwidth": 0.4353594290991478,
-            "scaling_factor": 0.2815931129212912,
-            "latency_sensitivity": 0.06572927208659995
+            "cpu_request": 0.022187835951133494,
+            "memory_request": 0.6879397004036774,
+            "priority": 0.3950892016790315,
+            "network_bandwidth": 0.27068129340782776,
+            "scaling_factor": 0.729677002397087,
+            "latency_sensitivity": 0.695857757425747
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.20554156033971993,
-            "memory_request": 0.3128423053699394,
-            "priority": 0.6779593407961375,
-            "network_bandwidth": 0.48421394805826024,
-            "scaling_factor": 0.8334452883889167,
-            "latency_sensitivity": 0.6488595619389493
+            "cpu_request": 0.5227613287137362,
+            "memory_request": 0.63781227006355,
+            "priority": 0.7590539428188892,
+            "network_bandwidth": 0.7445044585879748,
+            "scaling_factor": 0.12288653234940117,
+            "latency_sensitivity": 0.678136603800239
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.36423941654289693,
-            "memory_request": 0.04455808668798378,
-            "priority": 0.8242639802948696,
-            "network_bandwidth": 0.030405351835014915,
-            "scaling_factor": 0.9125114074602897,
-            "latency_sensitivity": 0.7993267212034159
+            "cpu_request": 0.4311155523849832,
+            "memory_request": 0.2132255328293975,
+            "priority": 0.9440997500634506,
+            "network_bandwidth": 0.8820120539486389,
+            "scaling_factor": 0.3511030034201086,
+            "latency_sensitivity": 0.9374642911301367
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3684634608761975,
-            "memory_request": 0.35049773357950387,
-            "priority": 0.07518639892873924,
-            "network_bandwidth": 0.7637688390303864,
-            "scaling_factor": 0.3371103569766818,
-            "latency_sensitivity": 0.3166602292018754
+            "cpu_request": 0.8706072763360148,
+            "memory_request": 0.06676358029804375,
+            "priority": 0.42857901746037874,
+            "network_bandwidth": 0.3481469931125598,
+            "scaling_factor": 0.4512823167745271,
+            "latency_sensitivity": 0.7357116999614789
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.03905861040058789,
-            "memory_request": 0.06727261170280963,
-            "priority": 0.367680485838096,
-            "network_bandwidth": 0.7324923663498322,
-            "scaling_factor": 0.4885385676163958,
-            "latency_sensitivity": 0.19172769835821546
+            "cpu_request": 0.5108539676615194,
+            "memory_request": 0.7627030063573206,
+            "priority": 0.35421266501077553,
+            "network_bandwidth": 0.25921608543621355,
+            "scaling_factor": 0.9905191364572199,
+            "latency_sensitivity": 0.4334125678587344
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7141357654360005,
-            "memory_request": 0.21290554507582227,
-            "priority": 0.2918279247464567,
-            "network_bandwidth": 0.4068781209373602,
-            "scaling_factor": 0.5558083749473802,
-            "latency_sensitivity": 0.34598451389221563
+            "cpu_request": 0.3916870103919946,
+            "memory_request": 0.6844744799744796,
+            "priority": 0.6668034300828126,
+            "network_bandwidth": 0.09082824547332757,
+            "scaling_factor": 0.8982883430309401,
+            "latency_sensitivity": 0.5399095026927851
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8339852890139425,
-            "memory_request": 0.3388207011717551,
-            "priority": 0.6449978133973369,
-            "network_bandwidth": 0.18306790779932913,
-            "scaling_factor": 0.9871655370675011,
-            "latency_sensitivity": 0.13949472122248785
+            "cpu_request": 0.9508410629326088,
+            "memory_request": 0.30165939813695475,
+            "priority": 0.5782537368232994,
+            "network_bandwidth": 0.9210266115617454,
+            "scaling_factor": 0.9085345684967703,
+            "latency_sensitivity": 0.7402216529930941
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7128142936194697,
-            "memory_request": 0.7257885404627729,
-            "priority": 0.3021720386138548,
-            "network_bandwidth": 0.15118710127587132,
-            "scaling_factor": 0.12756508254515742,
-            "latency_sensitivity": 0.5993096171428717
+            "cpu_request": 0.7883158902387454,
+            "memory_request": 0.8441524734035045,
+            "priority": 0.15268103300920843,
+            "network_bandwidth": 0.678335747211286,
+            "scaling_factor": 0.9731967151079409,
+            "latency_sensitivity": 0.1949470004602124
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2436627967519024,
-            "memory_request": 0.42378649656091893,
-            "priority": 0.5522588566441021,
-            "network_bandwidth": 0.29071174587172255,
-            "scaling_factor": 0.9178258940490406,
-            "latency_sensitivity": 0.4440914566862263
+            "cpu_request": 0.13695509724977706,
+            "memory_request": 0.5406144951514076,
+            "priority": 0.03663191862205495,
+            "network_bandwidth": 0.7191858059289532,
+            "scaling_factor": 0.8695315135422761,
+            "latency_sensitivity": 0.7410512074548075
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.30994144158476455,
-            "memory_request": 0.6670619707396968,
-            "priority": 0.6859047952337288,
-            "network_bandwidth": 0.1277427978540342,
-            "scaling_factor": 0.7486853072106553,
-            "latency_sensitivity": 0.3534941754366646
+            "cpu_request": 0.0868267473202905,
+            "memory_request": 0.29694284009434446,
+            "priority": 0.39101205299276265,
+            "network_bandwidth": 0.6909138692129839,
+            "scaling_factor": 0.110713783953163,
+            "latency_sensitivity": 0.7121281894299291
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5591031093886727,
-            "memory_request": 0.5811436388382596,
-            "priority": 0.5835839954872444,
-            "network_bandwidth": 0.4270753502385055,
-            "scaling_factor": 0.6878104463710724,
-            "latency_sensitivity": 0.010694434939581332
+            "cpu_request": 0.4362581449163616,
+            "memory_request": 0.6649961813511129,
+            "priority": 0.603411298100912,
+            "network_bandwidth": 0.7131496633012929,
+            "scaling_factor": 0.004250237748375629,
+            "latency_sensitivity": 0.1211290714129809
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9934758733339668,
-            "memory_request": 0.5691458066464998,
-            "priority": 0.507215906460248,
-            "network_bandwidth": 0.00986218443260456,
-            "scaling_factor": 0.3541675643493287,
-            "latency_sensitivity": 0.5292301011157724
+            "cpu_request": 0.3916679010848708,
+            "memory_request": 0.5176932983640585,
+            "priority": 0.5796792279174522,
+            "network_bandwidth": 0.5266228048269017,
+            "scaling_factor": 0.9838137048498503,
+            "latency_sensitivity": 0.053381586942945036
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22734855320324543,
-            "memory_request": 0.17112781054596693,
-            "priority": 0.826708337307246,
-            "network_bandwidth": 0.1733330514903737,
-            "scaling_factor": 0.5324983037454054,
-            "latency_sensitivity": 0.5350953231717508
+            "cpu_request": 0.6647383834360613,
+            "memory_request": 0.6126000641978483,
+            "priority": 0.5708312787226664,
+            "network_bandwidth": 0.35456185178194977,
+            "scaling_factor": 0.5740983600531987,
+            "latency_sensitivity": 0.502399316367528
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22344172705629695,
-            "memory_request": 0.7998518826616989,
-            "priority": 0.632427719719644,
-            "network_bandwidth": 0.3981071057160013,
-            "scaling_factor": 0.5617816114159655,
-            "latency_sensitivity": 0.9958536872554283
+            "cpu_request": 0.12314277185725053,
+            "memory_request": 0.8288254631500181,
+            "priority": 0.1739726466743885,
+            "network_bandwidth": 0.8968698400852132,
+            "scaling_factor": 0.8526729753937774,
+            "latency_sensitivity": 0.1525154594291892
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.890309469613378,
-            "memory_request": 0.3093457620926521,
-            "priority": 0.9304871505821576,
-            "network_bandwidth": 0.46078318431796317,
-            "scaling_factor": 0.11572053765665502,
-            "latency_sensitivity": 0.9764381770594097
+            "cpu_request": 0.12382553280996544,
+            "memory_request": 0.3325069486905766,
+            "priority": 0.692592965176788,
+            "network_bandwidth": 0.9072841287903467,
+            "scaling_factor": 0.05443047401841705,
+            "latency_sensitivity": 0.5259991066401005
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.256743117034658,
-            "memory_request": 0.6151502567064181,
-            "priority": 0.740606249633305,
-            "network_bandwidth": 0.12676523174793441,
-            "scaling_factor": 0.5075662495393768,
-            "latency_sensitivity": 0.7694085197425916
+            "cpu_request": 0.1295786521711093,
+            "memory_request": 0.7632687018745805,
+            "priority": 0.15713390385862847,
+            "network_bandwidth": 0.2887231936988932,
+            "scaling_factor": 0.5652332202620312,
+            "latency_sensitivity": 0.8430736014628314
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9288182414916839,
-            "memory_request": 0.31152153971977714,
-            "priority": 0.32726976349491743,
-            "network_bandwidth": 0.9781391219767221,
-            "scaling_factor": 0.9999436753806221,
-            "latency_sensitivity": 0.5891558443211522
+            "cpu_request": 0.6664966327815881,
+            "memory_request": 0.8473552784373852,
+            "priority": 0.5854978904205626,
+            "network_bandwidth": 0.6617653380417087,
+            "scaling_factor": 0.47722374374934273,
+            "latency_sensitivity": 0.6542960449536763
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.48616739250675645,
-            "memory_request": 0.5804906038810674,
-            "priority": 0.12908355610196143,
-            "network_bandwidth": 0.3586008560001862,
-            "scaling_factor": 0.12975640719259984,
-            "latency_sensitivity": 0.6877234419802729
+            "cpu_request": 0.5749046651446614,
+            "memory_request": 0.471233921949468,
+            "priority": 0.0020655608795113745,
+            "network_bandwidth": 0.6430569317065127,
+            "scaling_factor": 0.4123576748471576,
+            "latency_sensitivity": 0.9115049830364345
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8421759225717085,
-            "memory_request": 0.10679017569846916,
-            "priority": 0.5248562178720217,
-            "network_bandwidth": 0.7056340926145341,
-            "scaling_factor": 0.6504778244540885,
-            "latency_sensitivity": 0.2019578019744246
+            "cpu_request": 0.6737015871607405,
+            "memory_request": 0.9516903149870102,
+            "priority": 0.6786874639172054,
+            "network_bandwidth": 0.3436372472023076,
+            "scaling_factor": 0.9346220061427409,
+            "latency_sensitivity": 0.2149952098791592
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.934860029322631,
-            "memory_request": 0.37608797118983284,
-            "priority": 0.32729738348053894,
-            "network_bandwidth": 0.5256031732477675,
-            "scaling_factor": 0.859374716072493,
-            "latency_sensitivity": 0.7778196825210973
+            "cpu_request": 0.06490867443753578,
+            "memory_request": 0.5427636027661755,
+            "priority": 0.8395260263950534,
+            "network_bandwidth": 0.8135914307879215,
+            "scaling_factor": 0.7936777326251199,
+            "latency_sensitivity": 0.11406776107350236
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.45159038867157975,
-            "memory_request": 0.6905733752867261,
-            "priority": 0.4024394970972822,
-            "network_bandwidth": 0.19492666219412735,
-            "scaling_factor": 0.2392520780515972,
-            "latency_sensitivity": 0.569979499714774
+            "cpu_request": 0.4461069168025056,
+            "memory_request": 0.943819783676952,
+            "priority": 0.6102926694586172,
+            "network_bandwidth": 0.44862430274105247,
+            "scaling_factor": 0.5538437685078844,
+            "latency_sensitivity": 0.4277015823690571
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.45615858559829336,
-            "memory_request": 0.6180374223064794,
-            "priority": 0.9293824378312602,
-            "network_bandwidth": 0.3869936446982585,
-            "scaling_factor": 0.9118803227888153,
-            "latency_sensitivity": 0.9198172063152491
+            "cpu_request": 0.12067214545881944,
+            "memory_request": 0.9920547605951445,
+            "priority": 0.7189986832446553,
+            "network_bandwidth": 0.7909905212418185,
+            "scaling_factor": 0.52958169114313,
+            "latency_sensitivity": 0.22605293487028377
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5220489449389765,
-            "memory_request": 0.6376096739829257,
-            "priority": 0.9357521773834732,
-            "network_bandwidth": 0.7957837545993589,
-            "scaling_factor": 0.5662914124210289,
-            "latency_sensitivity": 0.6529308760871658
+            "cpu_request": 0.044008296416500614,
+            "memory_request": 0.31725002412025427,
+            "priority": 0.23926752398647433,
+            "network_bandwidth": 0.7768288788333971,
+            "scaling_factor": 0.7399261504255754,
+            "latency_sensitivity": 0.6150611250147455
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2899811494460175,
-            "memory_request": 0.5309542208349826,
-            "priority": 0.0178409868561914,
-            "network_bandwidth": 0.2119110906224022,
-            "scaling_factor": 0.8428342493077955,
-            "latency_sensitivity": 0.3120258195528587
+            "cpu_request": 0.8312748575994606,
+            "memory_request": 0.7752535764683917,
+            "priority": 0.42716058521359757,
+            "network_bandwidth": 0.2824538336159049,
+            "scaling_factor": 0.5864796800498433,
+            "latency_sensitivity": 0.5380981188343796
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7552756574503269,
-            "memory_request": 0.32665851265505685,
-            "priority": 0.8525780984386876,
-            "network_bandwidth": 0.5077900249177899,
-            "scaling_factor": 0.244874683368273,
-            "latency_sensitivity": 0.8713020847843536
+            "cpu_request": 0.8056032294871851,
+            "memory_request": 0.8128136627421353,
+            "priority": 0.060993393905634075,
+            "network_bandwidth": 0.49872695667727573,
+            "scaling_factor": 0.05280929188849803,
+            "latency_sensitivity": 0.7153582650483968
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.26789416577620917,
-            "memory_request": 0.726302603869029,
-            "priority": 0.950982511925932,
-            "network_bandwidth": 0.6781436785000824,
-            "scaling_factor": 0.8935158730609637,
-            "latency_sensitivity": 0.4239573703079963
+            "cpu_request": 0.9925102682170617,
+            "memory_request": 0.02062540447663974,
+            "priority": 0.27008246994698304,
+            "network_bandwidth": 0.31975601587712377,
+            "scaling_factor": 0.9353639476725092,
+            "latency_sensitivity": 0.4676583711170005
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.06177537438439096,
-            "memory_request": 0.020174435818376413,
-            "priority": 0.6142594910926023,
-            "network_bandwidth": 0.9540749872524549,
-            "scaling_factor": 0.5135262502850175,
-            "latency_sensitivity": 0.7037301248586232
+            "cpu_request": 0.6179823096967124,
+            "memory_request": 0.5247072293052996,
+            "priority": 0.686366544395411,
+            "network_bandwidth": 0.7096821332979417,
+            "scaling_factor": 0.9847498481780078,
+            "latency_sensitivity": 0.8035315437779942
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9080964174300521,
-            "memory_request": 0.28366544311169084,
-            "priority": 0.60029540047089,
-            "network_bandwidth": 0.22810320013905305,
-            "scaling_factor": 0.31061348847130765,
-            "latency_sensitivity": 0.25722776800808533
+            "cpu_request": 0.4702893032730888,
+            "memory_request": 0.8677477503041392,
+            "priority": 0.9245518020120618,
+            "network_bandwidth": 0.8160263754146795,
+            "scaling_factor": 0.7963577233270522,
+            "latency_sensitivity": 0.35971410990082797
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7481090276266482,
-            "memory_request": 0.5214219171098544,
-            "priority": 0.9920634046650869,
-            "network_bandwidth": 0.7878079928339882,
-            "scaling_factor": 0.13095013723655136,
-            "latency_sensitivity": 0.9694908187364997
+            "cpu_request": 0.4867364289714009,
+            "memory_request": 0.13343440981262933,
+            "priority": 0.3654551279312954,
+            "network_bandwidth": 0.6802344068176909,
+            "scaling_factor": 0.6054740857038166,
+            "latency_sensitivity": 0.9273275113884734
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.20951011200094027,
-            "memory_request": 0.8046164306660408,
-            "priority": 0.3735897878420714,
-            "network_bandwidth": 0.9852355036658791,
-            "scaling_factor": 0.1781698913156985,
-            "latency_sensitivity": 0.39043407095915594
+            "cpu_request": 0.3187229362808254,
+            "memory_request": 0.3734886456167835,
+            "priority": 0.8167746850064521,
+            "network_bandwidth": 0.24551248346216625,
+            "scaling_factor": 0.842306836281887,
+            "latency_sensitivity": 0.8534236016204869
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6871812568493165,
-            "memory_request": 0.6737862074369668,
-            "priority": 0.4775365551746711,
-            "network_bandwidth": 0.3065123779556862,
-            "scaling_factor": 0.36416193280595577,
-            "latency_sensitivity": 0.4922649201590338
+            "cpu_request": 0.17617248717429967,
+            "memory_request": 0.2875752437818454,
+            "priority": 0.24059522604640626,
+            "network_bandwidth": 0.02833574305507469,
+            "scaling_factor": 0.6738708534243225,
+            "latency_sensitivity": 0.39879335133490434
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9217824834693962,
-            "memory_request": 0.5988507852394528,
-            "priority": 0.7806244885133861,
-            "network_bandwidth": 0.48989634253721537,
-            "scaling_factor": 0.21999643591937723,
-            "latency_sensitivity": 0.04650517623494199
+            "cpu_request": 0.4736508552424956,
+            "memory_request": 0.7139501121266209,
+            "priority": 0.38035179314131773,
+            "network_bandwidth": 0.3475728430099828,
+            "scaling_factor": 0.8384313287290738,
+            "latency_sensitivity": 0.04704755520163095
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9459033737630209,
-            "memory_request": 0.8876868849636814,
-            "priority": 0.36950911109321916,
-            "network_bandwidth": 0.7807619208655426,
-            "scaling_factor": 0.282851796610634,
-            "latency_sensitivity": 0.42204396716483483
+            "cpu_request": 0.6822589854339288,
+            "memory_request": 0.05845357574454679,
+            "priority": 0.7001107116212812,
+            "network_bandwidth": 0.4612202849485125,
+            "scaling_factor": 0.4838117752597305,
+            "latency_sensitivity": 0.7448745754963167
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3826229191187712,
-            "memory_request": 0.149992563447776,
-            "priority": 0.4907380749145879,
-            "network_bandwidth": 0.890145951836419,
-            "scaling_factor": 0.9338429394324713,
-            "latency_sensitivity": 0.45035015271198253
+            "cpu_request": 0.8628223096281193,
+            "memory_request": 0.12232539613913351,
+            "priority": 0.9846433535574389,
+            "network_bandwidth": 0.9592652680730731,
+            "scaling_factor": 0.17342667107257292,
+            "latency_sensitivity": 0.45940817582883653
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5845210281417288,
-            "memory_request": 0.9292996866959234,
-            "priority": 0.5112872483801174,
-            "network_bandwidth": 0.6381543765577238,
-            "scaling_factor": 0.41429315824953294,
-            "latency_sensitivity": 0.32737067870998504
+            "cpu_request": 0.39866118283290153,
+            "memory_request": 0.7193400658646294,
+            "priority": 0.81221318508377,
+            "network_bandwidth": 0.5428858838754476,
+            "scaling_factor": 0.49949649105856686,
+            "latency_sensitivity": 0.22420000747635582
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6233984857554767,
-            "memory_request": 0.2914249361332776,
-            "priority": 0.13896202180329875,
-            "network_bandwidth": 0.3359342762468789,
-            "scaling_factor": 0.419000939842037,
-            "latency_sensitivity": 0.9912744817520438
+            "cpu_request": 0.5317291933749726,
+            "memory_request": 0.9439483799157607,
+            "priority": 0.7615435795076096,
+            "network_bandwidth": 0.39206996456554477,
+            "scaling_factor": 0.8119682979444732,
+            "latency_sensitivity": 0.3406014071722845
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9417570864251497,
-            "memory_request": 0.5002002475647082,
-            "priority": 0.6688152031496508,
-            "network_bandwidth": 0.6903824936109051,
-            "scaling_factor": 0.6617654474990399,
-            "latency_sensitivity": 0.744045541989634
+            "cpu_request": 0.42544722454887407,
+            "memory_request": 0.010921697027475918,
+            "priority": 0.14503702541805186,
+            "network_bandwidth": 0.6550539657141337,
+            "scaling_factor": 0.427869416229939,
+            "latency_sensitivity": 0.028216111406627498
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2357762556287426,
-            "memory_request": 0.2890750143441868,
-            "priority": 0.9729239732291722,
-            "network_bandwidth": 0.18771833039159513,
-            "scaling_factor": 0.6486517090983392,
-            "latency_sensitivity": 0.644834484947301
+            "cpu_request": 0.18741911792022958,
+            "memory_request": 0.920989965969935,
+            "priority": 0.09092856833715302,
+            "network_bandwidth": 0.6958218209125403,
+            "scaling_factor": 0.25412124658397883,
+            "latency_sensitivity": 0.7074243470036986
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4619139876028746,
-            "memory_request": 0.49832449839537263,
-            "priority": 0.2675948376041718,
-            "network_bandwidth": 0.039627476507393955,
-            "scaling_factor": 0.03907444148622208,
-            "latency_sensitivity": 0.6151301645445882
+            "cpu_request": 0.9162019660105668,
+            "memory_request": 0.012695194074518135,
+            "priority": 0.8085021606910348,
+            "network_bandwidth": 0.48996711528063563,
+            "scaling_factor": 0.12853158082223293,
+            "latency_sensitivity": 0.7641746925497124
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08068135440803803,
-            "memory_request": 0.43036840860691616,
-            "priority": 0.7260231468103105,
-            "network_bandwidth": 0.7440768188720696,
-            "scaling_factor": 0.59318276512178,
-            "latency_sensitivity": 0.5814946700250567
+            "cpu_request": 0.6063096836692157,
+            "memory_request": 0.3016071218329597,
+            "priority": 0.31224018682576926,
+            "network_bandwidth": 0.8594503933946627,
+            "scaling_factor": 0.08309452744244372,
+            "latency_sensitivity": 0.731152516726932
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.397156058698932,
-            "memory_request": 0.028086368434536824,
-            "priority": 0.005129986779262574,
-            "network_bandwidth": 0.29510362366376985,
-            "scaling_factor": 0.1599611625987586,
-            "latency_sensitivity": 0.7578977849375425
+            "cpu_request": 0.24000720005535026,
+            "memory_request": 0.22267982055266122,
+            "priority": 0.6085688528367408,
+            "network_bandwidth": 0.6359009846568081,
+            "scaling_factor": 0.9205464044358518,
+            "latency_sensitivity": 0.5220763705878119
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2817432311121828,
-            "memory_request": 0.4194697625382854,
-            "priority": 0.7967370842609203,
-            "network_bandwidth": 0.27401855536121866,
-            "scaling_factor": 0.25876132549595854,
-            "latency_sensitivity": 0.2634854071020827
+            "cpu_request": 0.5876591359261513,
+            "memory_request": 0.425136553332342,
+            "priority": 0.18770522780440324,
+            "network_bandwidth": 0.3296016883497376,
+            "scaling_factor": 0.21774028538161627,
+            "latency_sensitivity": 0.8572301548130059
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9234489661382571,
-            "memory_request": 0.8343479011661435,
-            "priority": 0.15814589570148774,
-            "network_bandwidth": 0.23782660062880479,
-            "scaling_factor": 0.5399973379406213,
-            "latency_sensitivity": 0.9464674563671316
+            "cpu_request": 0.6369080988307227,
+            "memory_request": 0.5394352192163883,
+            "priority": 0.1083294741589459,
+            "network_bandwidth": 0.4150356070777492,
+            "scaling_factor": 0.04969671910238571,
+            "latency_sensitivity": 0.5800253435912774
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7489436268705606,
-            "memory_request": 0.8039515444321677,
-            "priority": 0.6721947748973054,
-            "network_bandwidth": 0.18031103819576222,
-            "scaling_factor": 0.6924813238680332,
-            "latency_sensitivity": 0.12039931767698053
+            "cpu_request": 0.7168485353050704,
+            "memory_request": 0.5944912457680632,
+            "priority": 0.1825931916726119,
+            "network_bandwidth": 0.3139752803875211,
+            "scaling_factor": 0.2317664347276328,
+            "latency_sensitivity": 0.7905721839697889
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9973724531339185,
-            "memory_request": 0.7034302753200585,
-            "priority": 0.12991978237286206,
-            "network_bandwidth": 0.6256546437020788,
-            "scaling_factor": 0.7341487364741955,
-            "latency_sensitivity": 0.4522305183942642
+            "cpu_request": 0.6188772202938658,
+            "memory_request": 0.6648044457626098,
+            "priority": 0.025478443672950934,
+            "network_bandwidth": 0.46641613312199937,
+            "scaling_factor": 0.935944998966984,
+            "latency_sensitivity": 0.5752339548693483
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8059589883585203,
-            "memory_request": 0.9268311179548164,
-            "priority": 0.8888640540141701,
-            "network_bandwidth": 0.27306473017341737,
-            "scaling_factor": 0.030516807343400787,
-            "latency_sensitivity": 0.9688537543304504
+            "cpu_request": 0.17433923187927547,
+            "memory_request": 0.8468176514271536,
+            "priority": 0.47709583004378053,
+            "network_bandwidth": 0.1476093317194137,
+            "scaling_factor": 0.892575595392636,
+            "latency_sensitivity": 0.062049923549786334
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5269743461412986,
-            "memory_request": 0.25201612609834256,
-            "priority": 0.8024482377928086,
-            "network_bandwidth": 0.7854996844971733,
-            "scaling_factor": 0.5523572756548878,
-            "latency_sensitivity": 0.6835934291122616
+            "cpu_request": 0.538970090998058,
+            "memory_request": 0.941630354192813,
+            "priority": 0.9984088793820604,
+            "network_bandwidth": 0.91862640072093,
+            "scaling_factor": 0.23411487496886652,
+            "latency_sensitivity": 0.17232742415390445
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.290039931166196,
-            "memory_request": 0.5040186576578837,
-            "priority": 0.2422367876962408,
-            "network_bandwidth": 0.3259175054995018,
-            "scaling_factor": 0.238752831228094,
-            "latency_sensitivity": 0.6547388564554802
+            "cpu_request": 0.4769663239493409,
+            "memory_request": 0.902644609863571,
+            "priority": 0.07713473527785641,
+            "network_bandwidth": 0.47149759764680665,
+            "scaling_factor": 0.4069014556469064,
+            "latency_sensitivity": 0.5649734362233458
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9151316934881502,
-            "memory_request": 0.38975257513548145,
-            "priority": 0.3366038980615911,
-            "network_bandwidth": 0.1420845122839951,
-            "scaling_factor": 0.5164955894442157,
-            "latency_sensitivity": 0.48695259908371136
+            "cpu_request": 0.28658403037473956,
+            "memory_request": 0.4753415340359035,
+            "priority": 0.3713903894289554,
+            "network_bandwidth": 0.2537676216617354,
+            "scaling_factor": 0.9602550596468437,
+            "latency_sensitivity": 0.33913946771028813
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.11921438012471941,
-            "memory_request": 0.6820093254768665,
-            "priority": 0.6053481365104186,
-            "network_bandwidth": 0.8811564300995748,
-            "scaling_factor": 0.7581515190221126,
-            "latency_sensitivity": 0.6398486257556734
+            "cpu_request": 0.7851486407458352,
+            "memory_request": 0.34452266491470396,
+            "priority": 0.17084948200942085,
+            "network_bandwidth": 0.5656861274774326,
+            "scaling_factor": 0.9478738855877462,
+            "latency_sensitivity": 0.07341797355267987
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.38367917746014824,
-            "memory_request": 0.8704419804164358,
-            "priority": 0.9299880506177247,
-            "network_bandwidth": 0.6393048406165663,
-            "scaling_factor": 0.442172048936596,
-            "latency_sensitivity": 0.05828958532447914
+            "cpu_request": 0.9298692790037871,
+            "memory_request": 0.6437577426307599,
+            "priority": 0.06433240026511955,
+            "network_bandwidth": 0.6178537364669118,
+            "scaling_factor": 0.8050030334816354,
+            "latency_sensitivity": 0.11940249952075332
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6137148041559288,
-            "memory_request": 0.5762518981249045,
-            "priority": 0.3887697025861485,
-            "network_bandwidth": 0.9932586884008036,
-            "scaling_factor": 0.5406560183462498,
-            "latency_sensitivity": 0.11121585448880644
+            "cpu_request": 0.4391054977697937,
+            "memory_request": 0.7676657909444924,
+            "priority": 0.9580542182400963,
+            "network_bandwidth": 0.8962735766548515,
+            "scaling_factor": 0.20706213849122512,
+            "latency_sensitivity": 0.009665470866306425
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3565934485239628,
-            "memory_request": 0.49654522542066637,
-            "priority": 0.1492408899095593,
-            "network_bandwidth": 0.34848968584462237,
-            "scaling_factor": 0.2969203191422485,
-            "latency_sensitivity": 0.5222928681532881
+            "cpu_request": 0.24298981570134692,
+            "memory_request": 0.06403000651673008,
+            "priority": 0.3887585061166575,
+            "network_bandwidth": 0.7429064070038826,
+            "scaling_factor": 0.3484198393677732,
+            "latency_sensitivity": 0.7755674397381312
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6250456069323884,
-            "memory_request": 0.6647558588965021,
-            "priority": 0.18026824511584438,
-            "network_bandwidth": 0.25454065719231167,
-            "scaling_factor": 0.5421857046532849,
-            "latency_sensitivity": 0.49064594978452647
+            "cpu_request": 0.5471594715452899,
+            "memory_request": 0.8506492485568076,
+            "priority": 0.9827965943950678,
+            "network_bandwidth": 0.9745019281171514,
+            "scaling_factor": 0.8405383223930142,
+            "latency_sensitivity": 0.3331660557340457
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.47495604037772854,
-            "memory_request": 0.9355582046384484,
-            "priority": 0.8288694092339531,
-            "network_bandwidth": 0.8082933358150007,
-            "scaling_factor": 0.9533414589140342,
-            "latency_sensitivity": 0.43809468376866867
+            "cpu_request": 0.0910423892279345,
+            "memory_request": 0.18729466805493067,
+            "priority": 0.4416309347922851,
+            "network_bandwidth": 0.5800595098383049,
+            "scaling_factor": 0.4732957712174224,
+            "latency_sensitivity": 0.7426122083835857
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.20709759873887923,
-            "memory_request": 0.6131667277886919,
-            "priority": 0.2458589527519568,
-            "network_bandwidth": 0.47033943122688815,
-            "scaling_factor": 0.7072241198133259,
-            "latency_sensitivity": 0.8542489113434475
+            "cpu_request": 0.3634685892541305,
+            "memory_request": 0.5501643922330114,
+            "priority": 0.11699867516167184,
+            "network_bandwidth": 0.45723134201496163,
+            "scaling_factor": 0.32166305083016167,
+            "latency_sensitivity": 0.5230673727184506
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.828239008664897,
-            "memory_request": 0.49801327780082894,
-            "priority": 0.648583464970215,
-            "network_bandwidth": 0.2880568744510219,
-            "scaling_factor": 0.5779776076614209,
-            "latency_sensitivity": 0.7712669798750237
+            "cpu_request": 0.7932017459299784,
+            "memory_request": 0.3308897087995081,
+            "priority": 0.7130089027738673,
+            "network_bandwidth": 0.2990539979454485,
+            "scaling_factor": 0.8290913617893888,
+            "latency_sensitivity": 0.6628446830422939
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9953514635287524,
-            "memory_request": 0.6418088952969543,
-            "priority": 0.3084841951488638,
-            "network_bandwidth": 0.6588942232719507,
-            "scaling_factor": 0.2909917909137043,
-            "latency_sensitivity": 0.5556821522246217
+            "cpu_request": 0.18207265010806184,
+            "memory_request": 0.2521058966579248,
+            "priority": 0.6928088777454791,
+            "network_bandwidth": 0.7411355256958453,
+            "scaling_factor": 0.005196257238277879,
+            "latency_sensitivity": 0.4627706609785034
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7874924862596079,
-            "memory_request": 0.3902418261576527,
-            "priority": 0.7466027920346641,
-            "network_bandwidth": 0.6397753651298864,
-            "scaling_factor": 0.009923464607324628,
-            "latency_sensitivity": 0.416327486684128
+            "cpu_request": 0.5943791222514072,
+            "memory_request": 0.7765610463844617,
+            "priority": 0.041604768516688484,
+            "network_bandwidth": 0.12739823354143798,
+            "scaling_factor": 0.10162340804957437,
+            "latency_sensitivity": 0.11969276291151876
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2426569015163631,
-            "memory_request": 0.0720736410812034,
-            "priority": 0.9069070831399761,
-            "network_bandwidth": 0.5474350389498748,
-            "scaling_factor": 0.6424440922946242,
-            "latency_sensitivity": 0.5366573842852704
+            "cpu_request": 0.9008896942931961,
+            "memory_request": 0.14384782023382126,
+            "priority": 0.6656122554487361,
+            "network_bandwidth": 0.06447447759694958,
+            "scaling_factor": 0.9645072499456127,
+            "latency_sensitivity": 0.18457062806577873
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.13953476620917793,
-            "memory_request": 0.34209716575880467,
-            "priority": 0.45772528922820976,
-            "network_bandwidth": 0.8748870575453993,
-            "scaling_factor": 0.42431163895800283,
-            "latency_sensitivity": 0.8972458348079403
+            "cpu_request": 0.7816990608901586,
+            "memory_request": 0.0003084851608337047,
+            "priority": 0.6747970454066637,
+            "network_bandwidth": 0.2737134872848511,
+            "scaling_factor": 0.9898436339727765,
+            "latency_sensitivity": 0.24221759603466086
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9565065812818543,
-            "memory_request": 0.5871183409032918,
-            "priority": 0.8553961174680933,
-            "network_bandwidth": 0.06732463699592905,
-            "scaling_factor": 0.6832695891493974,
-            "latency_sensitivity": 0.09620957721808321
+            "cpu_request": 0.2567474028996002,
+            "memory_request": 0.9542179810672206,
+            "priority": 0.1938545462004707,
+            "network_bandwidth": 0.5212218024662665,
+            "scaling_factor": 0.9216435018206547,
+            "latency_sensitivity": 0.5721230571463343
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6742953274897096,
-            "memory_request": 0.4942507210329712,
-            "priority": 0.4672587339132732,
-            "network_bandwidth": 0.21699903925338726,
-            "scaling_factor": 0.8722511457711061,
-            "latency_sensitivity": 0.17998374730293565
+            "cpu_request": 0.5734809410055091,
+            "memory_request": 0.36528906650500326,
+            "priority": 0.776918168495079,
+            "network_bandwidth": 0.6697339272701851,
+            "scaling_factor": 0.1297040844429388,
+            "latency_sensitivity": 0.02607807194464018
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3400067201645053,
-            "memory_request": 0.24846439036378898,
-            "priority": 0.38405955880379783,
-            "network_bandwidth": 0.5384695490672782,
-            "scaling_factor": 0.9766141761520528,
-            "latency_sensitivity": 0.8178817220385801
+            "cpu_request": 0.9504882006955516,
+            "memory_request": 0.8580898358021355,
+            "priority": 0.28927529707072386,
+            "network_bandwidth": 0.908058974901353,
+            "scaling_factor": 0.15743610210810866,
+            "latency_sensitivity": 0.2471951087803952
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6716553566251919,
-            "memory_request": 0.7496105383874101,
-            "priority": 0.10782291439545133,
-            "network_bandwidth": 0.6473509552766208,
-            "scaling_factor": 0.8321579276175095,
-            "latency_sensitivity": 0.5219159520246786
+            "cpu_request": 0.3237003668071722,
+            "memory_request": 0.11074895243113447,
+            "priority": 0.9265202606584184,
+            "network_bandwidth": 0.0359831200296582,
+            "scaling_factor": 0.5834093526169353,
+            "latency_sensitivity": 0.5750351160885795
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7810123254187545,
-            "memory_request": 0.5263603987540829,
-            "priority": 0.8323373027815462,
-            "network_bandwidth": 0.3752331890824544,
-            "scaling_factor": 0.47911680388580125,
-            "latency_sensitivity": 0.6158210161677916
+            "cpu_request": 0.8196187751318994,
+            "memory_request": 0.9337202458234185,
+            "priority": 0.8286109190707334,
+            "network_bandwidth": 0.18605788340724416,
+            "scaling_factor": 0.40966778780667634,
+            "latency_sensitivity": 0.6016865911387813
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.23497864877046282,
-            "memory_request": 0.22369324916109978,
-            "priority": 0.1324571655833784,
-            "network_bandwidth": 0.9937188049150841,
-            "scaling_factor": 0.22978743621970898,
-            "latency_sensitivity": 0.11322573420521187
+            "cpu_request": 0.2317330554772582,
+            "memory_request": 0.9961085557597057,
+            "priority": 0.829876208570075,
+            "network_bandwidth": 0.7063475988811844,
+            "scaling_factor": 0.9016458231653101,
+            "latency_sensitivity": 0.0968130060010497
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6860419858793848,
-            "memory_request": 0.78916555757921,
-            "priority": 0.022947219133494956,
-            "network_bandwidth": 0.458986938503788,
-            "scaling_factor": 0.13648538381239494,
-            "latency_sensitivity": 0.23282744789891385
+            "cpu_request": 0.16526319179486848,
+            "memory_request": 0.1712295187312476,
+            "priority": 0.7803073002403068,
+            "network_bandwidth": 0.937941111869874,
+            "scaling_factor": 0.4206045338903821,
+            "latency_sensitivity": 0.64342592840809
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.044173625751172674,
-            "memory_request": 0.1827202842452348,
-            "priority": 0.5192148289169753,
-            "network_bandwidth": 0.6119923473597866,
-            "scaling_factor": 0.33943987461307423,
-            "latency_sensitivity": 0.6182103015399276
+            "cpu_request": 0.70252640969232,
+            "memory_request": 0.3698032110314695,
+            "priority": 0.1848109462137313,
+            "network_bandwidth": 0.3000712857302942,
+            "scaling_factor": 0.9727117197799983,
+            "latency_sensitivity": 0.739457730958495
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.002836723020250953,
-            "memory_request": 0.39823839348801615,
-            "priority": 0.735640813884413,
-            "network_bandwidth": 0.6862271171442765,
-            "scaling_factor": 0.007551040405654019,
-            "latency_sensitivity": 0.9821719041151685
+            "cpu_request": 0.6717831335009133,
+            "memory_request": 0.768344094633261,
+            "priority": 0.03369205159641986,
+            "network_bandwidth": 0.9697773038201594,
+            "scaling_factor": 0.3986246595897809,
+            "latency_sensitivity": 0.7245790359727221
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.685226800423941,
-            "memory_request": 0.2697011238991893,
-            "priority": 0.2988564903318046,
-            "network_bandwidth": 0.3511867079022314,
-            "scaling_factor": 0.8174227935703701,
-            "latency_sensitivity": 0.1935456302672417
+            "cpu_request": 0.7968723163181854,
+            "memory_request": 0.5420050629567664,
+            "priority": 0.41909489655652743,
+            "network_bandwidth": 0.2972886594606373,
+            "scaling_factor": 0.864299613085039,
+            "latency_sensitivity": 0.672653787004917
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.37449058207047636,
-            "memory_request": 0.2559405226855407,
-            "priority": 0.7758392690904615,
-            "network_bandwidth": 0.22345879930552492,
-            "scaling_factor": 0.7755422609476342,
-            "latency_sensitivity": 0.2678356098764276
+            "cpu_request": 0.6515899885524882,
+            "memory_request": 0.9296799786339714,
+            "priority": 0.42510507008292464,
+            "network_bandwidth": 0.40350647154263963,
+            "scaling_factor": 0.36459382093532533,
+            "latency_sensitivity": 0.568897864692235
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08457879269209923,
-            "memory_request": 0.8931329976914593,
-            "priority": 0.8758261010392687,
-            "network_bandwidth": 0.1691612841479727,
-            "scaling_factor": 0.2399964681875889,
-            "latency_sensitivity": 0.44319010505059575
+            "cpu_request": 0.7765787103355632,
+            "memory_request": 0.7590050673656513,
+            "priority": 0.1915414604525978,
+            "network_bandwidth": 0.2029317822632808,
+            "scaling_factor": 0.23050774660788065,
+            "latency_sensitivity": 0.06913370461235702
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9685744493929609,
-            "memory_request": 0.4342058648740925,
-            "priority": 0.6743674939564053,
-            "network_bandwidth": 0.22813243466418676,
-            "scaling_factor": 0.30308399884416415,
-            "latency_sensitivity": 0.38864860527460965
+            "cpu_request": 0.3395345663825541,
+            "memory_request": 0.06967175597189612,
+            "priority": 0.6667884025913345,
+            "network_bandwidth": 0.435183724117571,
+            "scaling_factor": 0.46424309278308973,
+            "latency_sensitivity": 0.9037121140350612
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.851909644168157,
-            "memory_request": 0.22662998984955152,
-            "priority": 0.36762607411940507,
-            "network_bandwidth": 0.1808799815094091,
-            "scaling_factor": 0.652454855425809,
-            "latency_sensitivity": 0.6491653125834352
+            "cpu_request": 0.3889315406712561,
+            "memory_request": 0.5634458349554152,
+            "priority": 0.4348773206331502,
+            "network_bandwidth": 0.3381323277030511,
+            "scaling_factor": 0.2659054760058305,
+            "latency_sensitivity": 0.5120146515130618
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4958060426695624,
-            "memory_request": 0.5441530065032459,
-            "priority": 0.14962047192948325,
-            "network_bandwidth": 0.39791415292870513,
-            "scaling_factor": 0.34710918344320707,
-            "latency_sensitivity": 0.7735325519368523
+            "cpu_request": 0.9541356504725154,
+            "memory_request": 0.908344682567643,
+            "priority": 0.6429003960335563,
+            "network_bandwidth": 0.9446410653826061,
+            "scaling_factor": 0.4737250496366,
+            "latency_sensitivity": 0.3605977957393417
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4259418920582061,
-            "memory_request": 0.7841250322218677,
-            "priority": 0.2517674295971849,
-            "network_bandwidth": 0.15167825641557364,
-            "scaling_factor": 0.2712171279866794,
-            "latency_sensitivity": 0.7685349792880153
+            "cpu_request": 0.9014726397937962,
+            "memory_request": 0.9277486778119347,
+            "priority": 0.691471498418727,
+            "network_bandwidth": 0.2182627345344461,
+            "scaling_factor": 0.07827797953831761,
+            "latency_sensitivity": 0.9896727443007982
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.852585731148334,
-            "memory_request": 0.2921704396599286,
-            "priority": 0.009715470581060703,
-            "network_bandwidth": 0.6041137641428015,
-            "scaling_factor": 0.3014539213472821,
-            "latency_sensitivity": 0.5529174138141438
+            "cpu_request": 0.06776843915474928,
+            "memory_request": 0.868547458304008,
+            "priority": 0.493637969009423,
+            "network_bandwidth": 0.26617635664247263,
+            "scaling_factor": 0.08348690935938108,
+            "latency_sensitivity": 0.9637600945557273
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5947675561038522,
-            "memory_request": 0.8915321124588098,
-            "priority": 0.6297324072860464,
-            "network_bandwidth": 0.5227661495086791,
-            "scaling_factor": 0.9987895265619665,
-            "latency_sensitivity": 0.6491443069581511
+            "cpu_request": 0.9242925620019432,
+            "memory_request": 0.41395558984408987,
+            "priority": 0.0380032113243669,
+            "network_bandwidth": 0.7116519642427335,
+            "scaling_factor": 0.2125793075188439,
+            "latency_sensitivity": 0.9113136482516775
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8930754710558568,
-            "memory_request": 0.34654149839871706,
-            "priority": 0.7448684184545065,
-            "network_bandwidth": 0.6333400388638992,
-            "scaling_factor": 0.2949351394670059,
-            "latency_sensitivity": 0.7985336132779645
+            "cpu_request": 0.7725970293402413,
+            "memory_request": 0.5109874270482412,
+            "priority": 0.6733029180485025,
+            "network_bandwidth": 0.06403151950518005,
+            "scaling_factor": 0.3580511151256116,
+            "latency_sensitivity": 0.7680894345417206
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9884388316221412,
-            "memory_request": 0.882042886614553,
-            "priority": 0.6834835837255262,
-            "network_bandwidth": 0.86721895649428,
-            "scaling_factor": 0.6793445388678541,
-            "latency_sensitivity": 0.7571095472901541
+            "cpu_request": 0.40082776461330283,
+            "memory_request": 0.8384846474685067,
+            "priority": 0.7832762149140523,
+            "network_bandwidth": 0.8021468682183419,
+            "scaling_factor": 0.48548653336890524,
+            "latency_sensitivity": 0.8097296940854973
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.09961042223898542,
-            "memory_request": 0.3789307788442541,
-            "priority": 0.9720538284302093,
-            "network_bandwidth": 0.7915945199945151,
-            "scaling_factor": 0.5570506798581216,
-            "latency_sensitivity": 0.5960272687518118
+            "cpu_request": 0.902611293893861,
+            "memory_request": 0.2716598829835516,
+            "priority": 0.5090238121245759,
+            "network_bandwidth": 0.29799473712455404,
+            "scaling_factor": 0.9142354615042029,
+            "latency_sensitivity": 0.7279666568140125
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9455688160484589,
-            "memory_request": 0.9891880200352634,
-            "priority": 0.5583862235764079,
-            "network_bandwidth": 0.29672586079638164,
-            "scaling_factor": 0.2853153272575034,
-            "latency_sensitivity": 0.6953134408011945
+            "cpu_request": 0.15443217149402388,
+            "memory_request": 0.07848937275999457,
+            "priority": 0.5894013803059186,
+            "network_bandwidth": 0.098060351674772,
+            "scaling_factor": 0.3773756095002698,
+            "latency_sensitivity": 0.5083600884754857
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.21727229779053037,
-            "memory_request": 0.12326105072564952,
-            "priority": 0.7284544664217374,
-            "network_bandwidth": 0.0826177642727629,
-            "scaling_factor": 0.8476927414050334,
-            "latency_sensitivity": 0.711179956413232
+            "cpu_request": 0.9083628518810032,
+            "memory_request": 0.15577848288765173,
+            "priority": 0.8940630677248367,
+            "network_bandwidth": 0.7563541629936119,
+            "scaling_factor": 0.8113643936840919,
+            "latency_sensitivity": 0.6182414277671249
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6080414143192675,
-            "memory_request": 0.5834322963910894,
-            "priority": 0.8919032499992873,
-            "network_bandwidth": 0.8506939270682453,
-            "scaling_factor": 0.22070215018486106,
-            "latency_sensitivity": 0.056050836879444565
+            "cpu_request": 0.5446261814060712,
+            "memory_request": 0.3590558958895671,
+            "priority": 0.07519656666130992,
+            "network_bandwidth": 0.21643250466791397,
+            "scaling_factor": 0.3055360425091683,
+            "latency_sensitivity": 0.07323715473827486
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.20510970145083085,
-            "memory_request": 0.8433173287422192,
-            "priority": 0.2407263037931905,
-            "network_bandwidth": 0.2593574746961338,
-            "scaling_factor": 0.2617147609373802,
-            "latency_sensitivity": 0.642058501006762
+            "cpu_request": 0.3266785732359482,
+            "memory_request": 0.8423825463255109,
+            "priority": 0.24122451728615613,
+            "network_bandwidth": 0.5862891105039092,
+            "scaling_factor": 0.9647491919583896,
+            "latency_sensitivity": 0.19203644060808645
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.07767313354877636,
-            "memory_request": 0.9204477637032631,
-            "priority": 0.2885562824050447,
-            "network_bandwidth": 0.6641743724085861,
-            "scaling_factor": 0.6546652482072786,
-            "latency_sensitivity": 0.5679814810789101
+            "cpu_request": 0.8971972967203112,
+            "memory_request": 0.9088127356445548,
+            "priority": 0.5956800080849686,
+            "network_bandwidth": 0.1157809675933571,
+            "scaling_factor": 0.34345463164132783,
+            "latency_sensitivity": 0.37678188032234095
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08069583088457377,
-            "memory_request": 0.5196685322653858,
-            "priority": 0.11337003554952074,
-            "network_bandwidth": 0.5938851464533172,
-            "scaling_factor": 0.5323958089923745,
-            "latency_sensitivity": 0.39111260795501646
+            "cpu_request": 0.5982237282005073,
+            "memory_request": 0.9129913404301452,
+            "priority": 0.06654817385773726,
+            "network_bandwidth": 0.733917031639185,
+            "scaling_factor": 0.5223450459472988,
+            "latency_sensitivity": 0.7909673943138122
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.34578927693099504,
-            "memory_request": 0.11606615241865315,
-            "priority": 0.9072503586663881,
-            "network_bandwidth": 0.978682327117118,
-            "scaling_factor": 0.14910392670311445,
-            "latency_sensitivity": 0.5308533177286286
+            "cpu_request": 0.8808013154189659,
+            "memory_request": 0.20803095372780112,
+            "priority": 0.9014443148391222,
+            "network_bandwidth": 0.009946596877850045,
+            "scaling_factor": 0.6848283629435219,
+            "latency_sensitivity": 0.2678323451992325
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.24572593605890014,
-            "memory_request": 0.6779750008732178,
-            "priority": 0.8074930761383099,
-            "network_bandwidth": 0.877273785168739,
-            "scaling_factor": 0.7325073871467984,
-            "latency_sensitivity": 0.24990671958053168
+            "cpu_request": 0.18102409818102627,
+            "memory_request": 0.2813593096294752,
+            "priority": 0.5175073710052742,
+            "network_bandwidth": 0.7082731960629366,
+            "scaling_factor": 0.0831649929120869,
+            "latency_sensitivity": 0.011345276870042609
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9645662737630845,
-            "memory_request": 0.3164344370316433,
-            "priority": 0.7379419989645171,
-            "network_bandwidth": 0.09994598508769592,
-            "scaling_factor": 0.8946651033040472,
-            "latency_sensitivity": 0.8110043244278833
+            "cpu_request": 0.312610180580859,
+            "memory_request": 0.4347964306868194,
+            "priority": 0.1089281214662321,
+            "network_bandwidth": 0.5837365517638191,
+            "scaling_factor": 0.8169137669627256,
+            "latency_sensitivity": 0.06913430652689256
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.913704606766016,
-            "memory_request": 0.3465824033538425,
-            "priority": 0.7796569838112561,
-            "network_bandwidth": 0.13071786847500144,
-            "scaling_factor": 0.34319788869738277,
-            "latency_sensitivity": 0.7410380601017926
+            "cpu_request": 0.9040371046110339,
+            "memory_request": 0.5325527880451841,
+            "priority": 0.258875124481457,
+            "network_bandwidth": 0.8278961823565624,
+            "scaling_factor": 0.7244758587865276,
+            "latency_sensitivity": 0.7199739673426034
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.022025972514980063,
-            "memory_request": 0.7667413421222016,
-            "priority": 0.02261422405429614,
-            "network_bandwidth": 0.8378297973618217,
-            "scaling_factor": 0.30868568466629487,
-            "latency_sensitivity": 0.8156612034470873
+            "cpu_request": 0.7084996035757155,
+            "memory_request": 0.5413446571104256,
+            "priority": 0.7216807580525739,
+            "network_bandwidth": 0.0963278055492729,
+            "scaling_factor": 0.0775196415178695,
+            "latency_sensitivity": 0.6062655106110227
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08498528441047448,
-            "memory_request": 0.23715260346623868,
-            "priority": 0.33233206571409124,
-            "network_bandwidth": 0.09323302246920606,
-            "scaling_factor": 0.7629570147761295,
-            "latency_sensitivity": 0.34976523264676185
+            "cpu_request": 0.41574648283197246,
+            "memory_request": 0.3064294900857595,
+            "priority": 0.5136659345939867,
+            "network_bandwidth": 0.5498610199032904,
+            "scaling_factor": 0.21734899361327453,
+            "latency_sensitivity": 0.5835679602564575
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08998875920431482,
-            "memory_request": 0.6501647618647558,
-            "priority": 0.07243092899218051,
-            "network_bandwidth": 0.24945534074017428,
-            "scaling_factor": 0.4738047840588674,
-            "latency_sensitivity": 0.9877709973795324
+            "cpu_request": 0.7628602641685651,
+            "memory_request": 0.3654634825448181,
+            "priority": 0.6487281062367354,
+            "network_bandwidth": 0.10094610181339192,
+            "scaling_factor": 0.135145145310146,
+            "latency_sensitivity": 0.47594118327118284
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.17186373769348273,
-            "memory_request": 0.9862780331160448,
-            "priority": 0.48107418273455005,
-            "network_bandwidth": 0.15272002840909338,
-            "scaling_factor": 0.41747965559370337,
-            "latency_sensitivity": 0.18143801417011485
+            "cpu_request": 0.848922094925717,
+            "memory_request": 0.9882217616951292,
+            "priority": 0.019716151915527114,
+            "network_bandwidth": 0.6685178357727213,
+            "scaling_factor": 1.5791554062394297e-05,
+            "latency_sensitivity": 0.3485185980253228
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6947753984559808,
-            "memory_request": 0.26103566855746474,
-            "priority": 0.4256263954620002,
-            "network_bandwidth": 0.7552973600906838,
-            "scaling_factor": 0.9603617305218813,
-            "latency_sensitivity": 0.8192212486829387
+            "cpu_request": 0.7553496236772586,
+            "memory_request": 0.7591128911525664,
+            "priority": 0.650755054635287,
+            "network_bandwidth": 0.2851787825320231,
+            "scaling_factor": 0.4485949573230158,
+            "latency_sensitivity": 0.926800326356752
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7181211463865551,
-            "memory_request": 0.1926674416736618,
-            "priority": 0.3709168593836465,
-            "network_bandwidth": 0.13775402168011897,
-            "scaling_factor": 0.6763889329149868,
-            "latency_sensitivity": 0.1614374140199053
+            "cpu_request": 0.13141845756698545,
+            "memory_request": 0.28677163844277276,
+            "priority": 0.6006179761269673,
+            "network_bandwidth": 0.9034963166643231,
+            "scaling_factor": 0.5910763584470309,
+            "latency_sensitivity": 0.5137019435406286
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7508329177537751,
-            "memory_request": 0.6927261927217835,
-            "priority": 0.6855912169387169,
-            "network_bandwidth": 0.030682403678538805,
-            "scaling_factor": 0.8596253023266573,
-            "latency_sensitivity": 0.2365652150664037
+            "cpu_request": 0.11387330886168812,
+            "memory_request": 0.06488663525934757,
+            "priority": 0.18651442602876434,
+            "network_bandwidth": 0.3854728663040976,
+            "scaling_factor": 0.20226156369140047,
+            "latency_sensitivity": 0.7902512460923579
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7520737874417013,
-            "memory_request": 0.38962214390618044,
-            "priority": 0.43147918094772697,
-            "network_bandwidth": 0.2323527114110714,
-            "scaling_factor": 0.11531651282309541,
-            "latency_sensitivity": 0.6006068782156528
+            "cpu_request": 0.5347001305663079,
+            "memory_request": 0.21438547484710457,
+            "priority": 0.945094145247243,
+            "network_bandwidth": 0.9019669961062169,
+            "scaling_factor": 0.9177444641618311,
+            "latency_sensitivity": 0.140427517705648
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9039932352371507,
-            "memory_request": 0.7130466000987499,
-            "priority": 0.5494645576266668,
-            "network_bandwidth": 0.8764883549692815,
-            "scaling_factor": 0.5699613057537457,
-            "latency_sensitivity": 0.09388453926082696
+            "cpu_request": 0.2194467943348597,
+            "memory_request": 0.9251296301470925,
+            "priority": 0.4826973013423409,
+            "network_bandwidth": 0.5668170407330527,
+            "scaling_factor": 0.11716692246904259,
+            "latency_sensitivity": 0.15272460013636824
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7199023822028877,
-            "memory_request": 0.6689205375997173,
-            "priority": 0.9636004242159089,
-            "network_bandwidth": 0.24265348179417012,
-            "scaling_factor": 0.8173654467968314,
-            "latency_sensitivity": 0.40431462253256245
+            "cpu_request": 0.7877745101915502,
+            "memory_request": 0.8129758155703942,
+            "priority": 0.1928566849756047,
+            "network_bandwidth": 0.3170832057647466,
+            "scaling_factor": 0.299418226468969,
+            "latency_sensitivity": 0.5890098080181283
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.980755048543909,
-            "memory_request": 0.0890299282800997,
-            "priority": 0.6501220584623632,
-            "network_bandwidth": 0.06682684760708879,
-            "scaling_factor": 0.9257337446873042,
-            "latency_sensitivity": 0.03319942703176104
+            "cpu_request": 0.04545621161152924,
+            "memory_request": 0.45746058461903005,
+            "priority": 0.5644494727319548,
+            "network_bandwidth": 0.033468407412219126,
+            "scaling_factor": 0.5117194960349086,
+            "latency_sensitivity": 0.31704888353696103
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7999905508843007,
-            "memory_request": 0.20467193791837268,
-            "priority": 0.6507912356952164,
-            "network_bandwidth": 0.9071494883936787,
-            "scaling_factor": 0.6481198572464966,
-            "latency_sensitivity": 0.2907610270262584
+            "cpu_request": 0.8108673615853881,
+            "memory_request": 0.3594883646606901,
+            "priority": 0.04469454979732501,
+            "network_bandwidth": 0.09590852796473481,
+            "scaling_factor": 0.7230025697608315,
+            "latency_sensitivity": 0.6294625061427825
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9849887193157822,
-            "memory_request": 0.12194973597148628,
-            "priority": 0.6638360261328137,
-            "network_bandwidth": 0.6875375011111077,
-            "scaling_factor": 0.45273095240974137,
-            "latency_sensitivity": 0.686789533467223
+            "cpu_request": 0.3035842906274656,
+            "memory_request": 0.7677593905469287,
+            "priority": 0.054894924910698584,
+            "network_bandwidth": 0.28938917666788255,
+            "scaling_factor": 0.2947427100408502,
+            "latency_sensitivity": 0.037274971106997956
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6945954779439432,
-            "memory_request": 0.9792612343120589,
-            "priority": 0.7461900677978089,
-            "network_bandwidth": 0.1174213237340691,
-            "scaling_factor": 0.08732524881945847,
-            "latency_sensitivity": 0.04019552785930103
+            "cpu_request": 0.5372537457461646,
+            "memory_request": 0.32192279111242994,
+            "priority": 0.24698567011854566,
+            "network_bandwidth": 0.3448864953049984,
+            "scaling_factor": 0.7023788858682949,
+            "latency_sensitivity": 0.26390606537185257
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.12591274314920842,
-            "memory_request": 0.5002314528088038,
-            "priority": 0.23690963929198128,
-            "network_bandwidth": 0.05081660965890966,
-            "scaling_factor": 0.0750784567119257,
-            "latency_sensitivity": 0.021877891249427517
+            "cpu_request": 0.2313503775825989,
+            "memory_request": 0.6214916137117081,
+            "priority": 0.4370929684990308,
+            "network_bandwidth": 0.932163281550603,
+            "scaling_factor": 0.8631118885016323,
+            "latency_sensitivity": 0.6102636481426919
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.36725053821182474,
-            "memory_request": 0.4251226705539787,
-            "priority": 0.9346102505915099,
-            "network_bandwidth": 0.9929621671681389,
-            "scaling_factor": 0.0908053506914076,
-            "latency_sensitivity": 0.9170018847378248
+            "cpu_request": 0.28369703576641236,
+            "memory_request": 0.9696462444274314,
+            "priority": 0.246131341466022,
+            "network_bandwidth": 0.04058932359209044,
+            "scaling_factor": 0.5149030502733367,
+            "latency_sensitivity": 0.7090075468553952
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22353133659469626,
-            "memory_request": 0.45693712109746987,
-            "priority": 0.9684715328868583,
-            "network_bandwidth": 0.8865612892577948,
-            "scaling_factor": 0.9389584425024025,
-            "latency_sensitivity": 0.8496562689812045
+            "cpu_request": 0.02047740452317548,
+            "memory_request": 0.08338529637558467,
+            "priority": 0.7914485627660238,
+            "network_bandwidth": 0.6988767675692746,
+            "scaling_factor": 0.8202452852320384,
+            "latency_sensitivity": 0.4539619823962501
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8339778336392918,
-            "memory_request": 0.6670031151500545,
-            "priority": 0.8668156358242254,
-            "network_bandwidth": 0.022618158687218726,
-            "scaling_factor": 0.8008994350565743,
-            "latency_sensitivity": 0.18765940708791928
+            "cpu_request": 0.7167609862240716,
+            "memory_request": 0.2350784114572092,
+            "priority": 0.9089773560951819,
+            "network_bandwidth": 0.4278073191315772,
+            "scaling_factor": 0.036415366962843754,
+            "latency_sensitivity": 0.8595283420013966
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9386167382131935,
-            "memory_request": 0.9475032925328565,
-            "priority": 0.6693747495271275,
-            "network_bandwidth": 0.14681398998780337,
-            "scaling_factor": 0.2799647580635899,
-            "latency_sensitivity": 0.9669344754549656
+            "cpu_request": 0.3705275151260774,
+            "memory_request": 0.8888920030951636,
+            "priority": 0.09848131232500412,
+            "network_bandwidth": 0.5666093880165903,
+            "scaling_factor": 0.4262425650218912,
+            "latency_sensitivity": 0.12811527535122547
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.15995866021055893,
-            "memory_request": 0.24090058547271298,
-            "priority": 0.4305066816351365,
-            "network_bandwidth": 0.27622185480853734,
-            "scaling_factor": 0.3753393646574247,
-            "latency_sensitivity": 0.7424186692648927
+            "cpu_request": 0.6481992796864373,
+            "memory_request": 0.42054540072751034,
+            "priority": 0.04181956846772206,
+            "network_bandwidth": 0.7784050001559709,
+            "scaling_factor": 0.3330357321159454,
+            "latency_sensitivity": 0.5884665633211185
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8902824364682378,
-            "memory_request": 0.3155494936687848,
-            "priority": 0.023245783497296335,
-            "network_bandwidth": 0.5439894396449122,
-            "scaling_factor": 0.7331094297986774,
-            "latency_sensitivity": 0.5333690483804212
+            "cpu_request": 0.8488404970371843,
+            "memory_request": 0.9231686805897223,
+            "priority": 0.42392708783607713,
+            "network_bandwidth": 0.9490842881222656,
+            "scaling_factor": 0.9775173645933781,
+            "latency_sensitivity": 0.647627550852565
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3273168316071131,
-            "memory_request": 0.16952630002472335,
-            "priority": 0.635874887483612,
-            "network_bandwidth": 0.6283332630088129,
-            "scaling_factor": 0.7387667121855772,
-            "latency_sensitivity": 0.0605786304980368
+            "cpu_request": 0.4451969058217029,
+            "memory_request": 0.5329639734300445,
+            "priority": 0.3631958841505938,
+            "network_bandwidth": 0.8767130208493122,
+            "scaling_factor": 0.007219603027149635,
+            "latency_sensitivity": 0.9321917228883871
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5844932748085357,
-            "memory_request": 0.6030396017052769,
-            "priority": 0.6489589843426032,
-            "network_bandwidth": 0.688901156529603,
-            "scaling_factor": 0.9026303352669053,
-            "latency_sensitivity": 0.5278561885143209
+            "cpu_request": 0.4779130931620834,
+            "memory_request": 0.5734460219824873,
+            "priority": 0.22412851215393848,
+            "network_bandwidth": 0.6756572156681945,
+            "scaling_factor": 0.7914648355604339,
+            "latency_sensitivity": 0.40593905223766424
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9063098757327231,
-            "memory_request": 0.7718499756461197,
-            "priority": 0.5004070355733901,
-            "network_bandwidth": 0.5621308579098707,
-            "scaling_factor": 0.21333548309484307,
-            "latency_sensitivity": 0.1853971423213434
+            "cpu_request": 0.0630368551426218,
+            "memory_request": 0.8164572159807993,
+            "priority": 0.10874297710441594,
+            "network_bandwidth": 0.17512429075705827,
+            "scaling_factor": 0.9451847606233238,
+            "latency_sensitivity": 0.6237244854368702
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.14116043918747245,
-            "memory_request": 0.5731692971843664,
-            "priority": 0.48024867194940224,
-            "network_bandwidth": 0.20074670488739188,
-            "scaling_factor": 0.8858425229466955,
-            "latency_sensitivity": 0.6572813509543411
+            "cpu_request": 0.012221141384542222,
+            "memory_request": 0.5924120043462515,
+            "priority": 0.576254615842385,
+            "network_bandwidth": 0.1276556575865323,
+            "scaling_factor": 0.26502877415188697,
+            "latency_sensitivity": 0.1161079575869981
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22892355695703426,
-            "memory_request": 0.10478039876640777,
-            "priority": 0.23354700075466206,
-            "network_bandwidth": 0.5563639395879812,
-            "scaling_factor": 0.9396586905220231,
-            "latency_sensitivity": 0.3134785354801768
+            "cpu_request": 0.820310974526491,
+            "memory_request": 0.8077208266221219,
+            "priority": 0.25030300371223824,
+            "network_bandwidth": 0.5639291995216156,
+            "scaling_factor": 0.5090645619795516,
+            "latency_sensitivity": 0.836399782627376
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.14469467273171177,
-            "memory_request": 0.07268365356661988,
-            "priority": 0.33941059841566945,
-            "network_bandwidth": 0.3633241521967767,
-            "scaling_factor": 0.931057685107144,
-            "latency_sensitivity": 0.6143624357862797
+            "cpu_request": 0.23715358849563795,
+            "memory_request": 0.7493665145209973,
+            "priority": 0.422031315488956,
+            "network_bandwidth": 0.5607440915498728,
+            "scaling_factor": 0.2461685771287807,
+            "latency_sensitivity": 0.9832196807198867
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9434387515167387,
-            "memory_request": 0.7562684123463195,
-            "priority": 0.49883096389185333,
-            "network_bandwidth": 0.8350238813274459,
-            "scaling_factor": 0.020681661293861175,
-            "latency_sensitivity": 0.6032913282225415
+            "cpu_request": 0.7254190226834982,
+            "memory_request": 0.8176818597600387,
+            "priority": 0.11446080423210625,
+            "network_bandwidth": 0.10512079786525008,
+            "scaling_factor": 0.49350381357463446,
+            "latency_sensitivity": 0.523400060201385
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.06649648022473764,
-            "memory_request": 0.774926439381236,
-            "priority": 0.7518312010364986,
-            "network_bandwidth": 0.7534991845316539,
-            "scaling_factor": 0.5530884227042111,
-            "latency_sensitivity": 0.23726873710654028
+            "cpu_request": 0.4268291472161758,
+            "memory_request": 0.15856927460620462,
+            "priority": 0.6288846174488189,
+            "network_bandwidth": 0.041411963552989706,
+            "scaling_factor": 0.1719382162335391,
+            "latency_sensitivity": 0.15985411656570125
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22564032268256307,
-            "memory_request": 0.5647320469094422,
-            "priority": 0.590040025379792,
-            "network_bandwidth": 0.46797379143310514,
-            "scaling_factor": 0.09825359310648873,
-            "latency_sensitivity": 0.5073227433775717
+            "cpu_request": 0.6724060450766618,
+            "memory_request": 0.9541069563005149,
+            "priority": 0.4771318964029124,
+            "network_bandwidth": 0.2709261444802308,
+            "scaling_factor": 0.08991230286427221,
+            "latency_sensitivity": 0.632067049795865
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6162937584430577,
-            "memory_request": 0.9732457246307668,
-            "priority": 0.8249105633473122,
-            "network_bandwidth": 0.8540916125657001,
-            "scaling_factor": 0.6921896547671907,
-            "latency_sensitivity": 0.27027870835612744
+            "cpu_request": 0.33989549981104283,
+            "memory_request": 0.10562530039768658,
+            "priority": 0.31742476763140304,
+            "network_bandwidth": 0.7895797339899753,
+            "scaling_factor": 0.5259769140923011,
+            "latency_sensitivity": 0.8877623009649129
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.44769305400221204,
-            "memory_request": 0.894033676249961,
-            "priority": 0.09802872849378008,
-            "network_bandwidth": 0.09773725232646768,
-            "scaling_factor": 0.2369134315697664,
-            "latency_sensitivity": 0.12973283861665474
+            "cpu_request": 0.46781753935612147,
+            "memory_request": 0.5282824601522116,
+            "priority": 0.7912512924626431,
+            "network_bandwidth": 0.3784047230222358,
+            "scaling_factor": 0.020574622819337196,
+            "latency_sensitivity": 0.09031477915028596
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5359446208084082,
-            "memory_request": 0.46816288680951657,
-            "priority": 0.1358642905837627,
-            "network_bandwidth": 0.2111318653639176,
-            "scaling_factor": 0.7220445310182488,
-            "latency_sensitivity": 0.6424403875358287
+            "cpu_request": 0.2604067788435137,
+            "memory_request": 0.16684382184157664,
+            "priority": 0.3965800690717708,
+            "network_bandwidth": 0.5206517632630436,
+            "scaling_factor": 0.6766298270490109,
+            "latency_sensitivity": 0.04891288768378799
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5084847620994454,
-            "memory_request": 0.07192401746382093,
-            "priority": 0.5531248717854538,
-            "network_bandwidth": 0.8656335588811754,
-            "scaling_factor": 0.26662802020093246,
-            "latency_sensitivity": 0.18082057694399734
+            "cpu_request": 0.17742362202021522,
+            "memory_request": 0.15619401222392715,
+            "priority": 0.8884840453315098,
+            "network_bandwidth": 0.477617467817385,
+            "scaling_factor": 0.5958625128481428,
+            "latency_sensitivity": 0.6699706458057182
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.03908300246623231,
-            "memory_request": 0.2521854340775104,
-            "priority": 0.45348795064833913,
-            "network_bandwidth": 0.4282219216112235,
-            "scaling_factor": 0.09075045127688453,
-            "latency_sensitivity": 0.11154035247990557
+            "cpu_request": 0.4911244802727206,
+            "memory_request": 0.802832940155445,
+            "priority": 0.6782218859434804,
+            "network_bandwidth": 0.23406947152086488,
+            "scaling_factor": 0.8879731349581086,
+            "latency_sensitivity": 0.06146282289218474
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.879171543760669,
-            "memory_request": 0.5329795059420168,
-            "priority": 0.13530119260707774,
-            "network_bandwidth": 0.002709595145687138,
-            "scaling_factor": 0.4358676847863733,
-            "latency_sensitivity": 0.8179531110229002
+            "cpu_request": 0.7194761064595051,
+            "memory_request": 0.5565848139147695,
+            "priority": 0.9064689155328309,
+            "network_bandwidth": 0.34567534458655647,
+            "scaling_factor": 0.07189495112836675,
+            "latency_sensitivity": 0.1565423954771311
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.41540391018806744,
-            "memory_request": 0.5314776251281853,
-            "priority": 0.7479866970527185,
-            "network_bandwidth": 0.16524886712828168,
-            "scaling_factor": 0.6295513576245539,
-            "latency_sensitivity": 0.8173062338799618
+            "cpu_request": 0.2176192789763154,
+            "memory_request": 0.11486729452297029,
+            "priority": 0.3202189933253855,
+            "network_bandwidth": 0.45627771294630215,
+            "scaling_factor": 0.6649259816817208,
+            "latency_sensitivity": 0.45058595623695463
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9712499283359224,
-            "memory_request": 0.23726411502405276,
-            "priority": 0.1711814207127733,
-            "network_bandwidth": 0.8916467594131953,
-            "scaling_factor": 0.9868197018162901,
-            "latency_sensitivity": 0.7799755207980755
+            "cpu_request": 0.8040101669560719,
+            "memory_request": 0.9813780682177586,
+            "priority": 0.43888175936069873,
+            "network_bandwidth": 0.845812426686814,
+            "scaling_factor": 0.9466956066401842,
+            "latency_sensitivity": 0.7497823004968358
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2764634443041776,
-            "memory_request": 0.3523304210051851,
-            "priority": 0.8505177321900601,
-            "network_bandwidth": 0.7675501866438615,
-            "scaling_factor": 0.7222946133466109,
-            "latency_sensitivity": 0.22042507306735726
+            "cpu_request": 0.7948231804111251,
+            "memory_request": 0.06517064945465723,
+            "priority": 0.8800799111482605,
+            "network_bandwidth": 0.23484035246731594,
+            "scaling_factor": 0.546832271837959,
+            "latency_sensitivity": 0.8839848670430464
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.11354188295102063,
-            "memory_request": 0.5687240630704811,
-            "priority": 0.8528980040251367,
-            "network_bandwidth": 0.01848250081166458,
-            "scaling_factor": 0.6084166040788924,
-            "latency_sensitivity": 0.22266049399148224
+            "cpu_request": 0.12296728554860448,
+            "memory_request": 0.5772897865043406,
+            "priority": 0.21612568072236016,
+            "network_bandwidth": 0.5441944124164854,
+            "scaling_factor": 0.8714734979142211,
+            "latency_sensitivity": 0.16515364483436967
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.15781983589612336,
-            "memory_request": 0.5488513206729557,
-            "priority": 0.381937451415041,
-            "network_bandwidth": 0.9763300054698273,
-            "scaling_factor": 0.02431594144103455,
-            "latency_sensitivity": 0.23782425659160245
+            "cpu_request": 0.7061396352485875,
+            "memory_request": 0.08983856182328698,
+            "priority": 0.2629838437286326,
+            "network_bandwidth": 0.8129142387586821,
+            "scaling_factor": 0.3993581220712611,
+            "latency_sensitivity": 0.17966728711325275
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.02986556911267768,
-            "memory_request": 0.24040401465393124,
-            "priority": 0.13477562300554746,
-            "network_bandwidth": 0.754229407851024,
-            "scaling_factor": 0.09324455843956969,
-            "latency_sensitivity": 0.1299578349093815
+            "cpu_request": 0.5335120555040629,
+            "memory_request": 0.14902977001246465,
+            "priority": 0.05610988960178076,
+            "network_bandwidth": 0.2289738491039902,
+            "scaling_factor": 0.6559716737834974,
+            "latency_sensitivity": 0.9577628938593985
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.49999187068388795,
-            "memory_request": 0.3198088762583311,
-            "priority": 0.2901725552387334,
-            "network_bandwidth": 0.9577817329552786,
-            "scaling_factor": 0.1251302579972482,
-            "latency_sensitivity": 0.5385131818558129
+            "cpu_request": 0.4423369730344273,
+            "memory_request": 0.1436981834221266,
+            "priority": 0.8142397664043203,
+            "network_bandwidth": 0.6261911426202632,
+            "scaling_factor": 0.04630470840256373,
+            "latency_sensitivity": 0.3942938548802467
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.201534120788326,
-            "memory_request": 0.5639890341605206,
-            "priority": 0.4727781754157133,
-            "network_bandwidth": 0.015743898710245507,
-            "scaling_factor": 0.11848933692472563,
-            "latency_sensitivity": 0.30933154091679316
+            "cpu_request": 0.918360419415776,
+            "memory_request": 0.851995668634092,
+            "priority": 0.7831794488139777,
+            "network_bandwidth": 0.4646292152213026,
+            "scaling_factor": 0.15195559326969732,
+            "latency_sensitivity": 0.18756685436576048
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8346271047545282,
-            "memory_request": 0.047059483385237355,
-            "priority": 0.8658046830967017,
-            "network_bandwidth": 0.06082842007786027,
-            "scaling_factor": 0.49987809752111434,
-            "latency_sensitivity": 0.4869796009509584
+            "cpu_request": 0.48216310617266034,
+            "memory_request": 0.24858377760545425,
+            "priority": 0.3051867762975211,
+            "network_bandwidth": 0.16313887693348028,
+            "scaling_factor": 0.701281428015929,
+            "latency_sensitivity": 0.9849624028989081
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.41388624565614873,
-            "memory_request": 0.1532089576268716,
-            "priority": 0.4565292980211435,
-            "network_bandwidth": 0.2038414206293222,
-            "scaling_factor": 0.9891362307999483,
-            "latency_sensitivity": 0.5161375368543086
+            "cpu_request": 0.04484678598449199,
+            "memory_request": 0.29735454104142933,
+            "priority": 0.30821454604136755,
+            "network_bandwidth": 0.3561760780815981,
+            "scaling_factor": 0.46260272241752376,
+            "latency_sensitivity": 0.3583118598584213
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.32657477934262336,
-            "memory_request": 0.14727370771850978,
-            "priority": 0.17892265381824368,
-            "network_bandwidth": 0.501330484439091,
-            "scaling_factor": 0.14198159215089845,
-            "latency_sensitivity": 0.7477228469748785
+            "cpu_request": 0.4426805413464524,
+            "memory_request": 0.9140040030886996,
+            "priority": 0.7172257259226806,
+            "network_bandwidth": 0.4633053867398077,
+            "scaling_factor": 0.38390326245518747,
+            "latency_sensitivity": 0.3098132254885042
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6513753357371762,
-            "memory_request": 0.8852361905851692,
-            "priority": 0.3210283743403104,
-            "network_bandwidth": 0.4374635724780318,
-            "scaling_factor": 0.04166378900740464,
-            "latency_sensitivity": 0.685683473497668
+            "cpu_request": 0.5836494588982212,
+            "memory_request": 0.09308114953359181,
+            "priority": 0.5273109999907586,
+            "network_bandwidth": 0.8688523538780978,
+            "scaling_factor": 0.8853262695625489,
+            "latency_sensitivity": 0.3696216065058736
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9164787927305174,
-            "memory_request": 0.6764359168259407,
-            "priority": 0.12605110878105652,
-            "network_bandwidth": 0.6755362426868647,
-            "scaling_factor": 0.16364975634424395,
-            "latency_sensitivity": 0.9871458269232892
+            "cpu_request": 0.5766129350754453,
+            "memory_request": 0.561477839244182,
+            "priority": 0.26544604802977023,
+            "network_bandwidth": 0.05859473960754702,
+            "scaling_factor": 0.7815878517062208,
+            "latency_sensitivity": 0.22127189368518463
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.028383152581762827,
-            "memory_request": 0.1606307541696218,
-            "priority": 0.035733713727194694,
-            "network_bandwidth": 0.9687140616252543,
-            "scaling_factor": 0.7943893144858738,
-            "latency_sensitivity": 0.34946419745022894
+            "cpu_request": 0.5196745558710455,
+            "memory_request": 0.5202165608078013,
+            "priority": 0.331664514184686,
+            "network_bandwidth": 0.5950298328204356,
+            "scaling_factor": 0.2688085985466109,
+            "latency_sensitivity": 0.70452262445821
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8032442074055223,
-            "memory_request": 0.9734480950605677,
-            "priority": 0.42283382416111936,
-            "network_bandwidth": 0.41197735027195304,
-            "scaling_factor": 0.061866795603988334,
-            "latency_sensitivity": 0.8256639883292742
+            "cpu_request": 0.3951359186155311,
+            "memory_request": 0.2561672155876491,
+            "priority": 0.15690104814874473,
+            "network_bandwidth": 0.14290296912554534,
+            "scaling_factor": 0.8226859260360079,
+            "latency_sensitivity": 0.05344918716460656
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4308408806863523,
-            "memory_request": 0.04670860265386734,
-            "priority": 0.3104243406175282,
-            "network_bandwidth": 0.43776776678693097,
-            "scaling_factor": 0.4068856063133415,
-            "latency_sensitivity": 0.41841944498356476
+            "cpu_request": 0.5614775079400727,
+            "memory_request": 0.4123629801719184,
+            "priority": 0.7619889952560972,
+            "network_bandwidth": 0.04821837948023511,
+            "scaling_factor": 0.41313475823138945,
+            "latency_sensitivity": 0.11246149296253083
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.022593780210266368,
-            "memory_request": 0.9977628832815191,
-            "priority": 0.8604519977704045,
-            "network_bandwidth": 0.684379068579371,
-            "scaling_factor": 0.10795887421817973,
-            "latency_sensitivity": 0.7212072291745202
+            "cpu_request": 0.4384585768045165,
+            "memory_request": 0.5886516970415204,
+            "priority": 0.7013400058240644,
+            "network_bandwidth": 0.57305155740845,
+            "scaling_factor": 0.6983911574634151,
+            "latency_sensitivity": 0.33392577845419946
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6477910872523898,
-            "memory_request": 0.642378491133126,
-            "priority": 0.08958652332508132,
-            "network_bandwidth": 0.25328859186325137,
-            "scaling_factor": 0.16559856811069862,
-            "latency_sensitivity": 0.15833796222273067
+            "cpu_request": 0.7718583889285026,
+            "memory_request": 0.46949714867989956,
+            "priority": 0.99677847002576,
+            "network_bandwidth": 0.5384117109765405,
+            "scaling_factor": 0.17125512881721106,
+            "latency_sensitivity": 0.1565628263805705
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7513670592889434,
-            "memory_request": 0.45588124937637775,
-            "priority": 0.10574066919694514,
-            "network_bandwidth": 0.12369875051456747,
-            "scaling_factor": 0.36213801041537996,
-            "latency_sensitivity": 0.5505446660046053
+            "cpu_request": 0.4670979955221646,
+            "memory_request": 0.006534340268907202,
+            "priority": 0.5382762431569311,
+            "network_bandwidth": 0.2834222398220675,
+            "scaling_factor": 0.9839941735982224,
+            "latency_sensitivity": 0.38184868932810734
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.090307788579992,
-            "memory_request": 0.9881519878817494,
-            "priority": 0.799549515807287,
-            "network_bandwidth": 0.7534895797821745,
-            "scaling_factor": 0.7536250832985142,
-            "latency_sensitivity": 0.8458406032807843
+            "cpu_request": 0.4514451445323866,
+            "memory_request": 0.9909206257337119,
+            "priority": 0.43359596713044635,
+            "network_bandwidth": 0.14938737976014815,
+            "scaling_factor": 0.878237214441853,
+            "latency_sensitivity": 0.932494741047405
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3357110235043953,
-            "memory_request": 0.8058876226186323,
-            "priority": 0.9252319617449392,
-            "network_bandwidth": 0.2738841893986207,
-            "scaling_factor": 0.6675767603831013,
-            "latency_sensitivity": 0.677050449893944
+            "cpu_request": 0.20840789743236343,
+            "memory_request": 0.9552765246295134,
+            "priority": 0.7615173509704736,
+            "network_bandwidth": 0.0932293886162312,
+            "scaling_factor": 0.9321081880036897,
+            "latency_sensitivity": 0.48580724825915855
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.17623318557111423,
-            "memory_request": 0.6418667061499373,
-            "priority": 0.6724007366783713,
-            "network_bandwidth": 0.2428603285541664,
-            "scaling_factor": 0.8889137961665207,
-            "latency_sensitivity": 0.5903845171676031
+            "cpu_request": 0.17436992335608947,
+            "memory_request": 0.9407984673238885,
+            "priority": 0.43473869350451577,
+            "network_bandwidth": 0.8565916532675679,
+            "scaling_factor": 0.16041805701458534,
+            "latency_sensitivity": 0.44818621906763567
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3664940966541872,
-            "memory_request": 0.9976888290751993,
-            "priority": 0.1636193685711641,
-            "network_bandwidth": 0.5449418774170512,
-            "scaling_factor": 0.5959885774941867,
-            "latency_sensitivity": 0.6736818575521
+            "cpu_request": 0.8856541170245174,
+            "memory_request": 0.15340968511249087,
+            "priority": 0.9911875795248574,
+            "network_bandwidth": 0.28618780589681014,
+            "scaling_factor": 0.4069697567483538,
+            "latency_sensitivity": 0.31998288890724724
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.28768550473880516,
-            "memory_request": 0.48594399933382615,
-            "priority": 0.818727757981744,
-            "network_bandwidth": 0.9245017841499884,
-            "scaling_factor": 0.29770967810529947,
-            "latency_sensitivity": 0.5688265817892023
+            "cpu_request": 0.6331516250749457,
+            "memory_request": 0.4040363184944973,
+            "priority": 0.523503562218782,
+            "network_bandwidth": 0.5378451638718648,
+            "scaling_factor": 0.6867652586037294,
+            "latency_sensitivity": 0.34281078851656055
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.41013857937779574,
-            "memory_request": 0.10876022865280277,
-            "priority": 0.733217383700562,
-            "network_bandwidth": 0.5405820117796132,
-            "scaling_factor": 0.6473828695222948,
-            "latency_sensitivity": 0.9697543682152543
+            "cpu_request": 0.7941471576612845,
+            "memory_request": 0.6521314434668376,
+            "priority": 0.42761799626427854,
+            "network_bandwidth": 0.04156542012819553,
+            "scaling_factor": 0.5060896255542567,
+            "latency_sensitivity": 0.5389351345238033
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.1328888683397218,
-            "memory_request": 0.43411350085906486,
-            "priority": 0.524064169289235,
-            "network_bandwidth": 0.9147151613018515,
-            "scaling_factor": 0.5173358790218213,
-            "latency_sensitivity": 0.8855144687208122
+            "cpu_request": 0.5156472218656024,
+            "memory_request": 0.5892046627067667,
+            "priority": 0.7614089847226645,
+            "network_bandwidth": 0.924087845034993,
+            "scaling_factor": 0.4341763186255946,
+            "latency_sensitivity": 0.07711908293446645
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.42405078202880486,
-            "memory_request": 0.5692995963697037,
-            "priority": 0.1627004876330862,
-            "network_bandwidth": 0.25436292349271394,
-            "scaling_factor": 0.5301247832189703,
-            "latency_sensitivity": 0.9674722473802954
+            "cpu_request": 0.019426376718962746,
+            "memory_request": 0.16989577675194656,
+            "priority": 0.21492652985063532,
+            "network_bandwidth": 0.970278271596803,
+            "scaling_factor": 0.9678230218611263,
+            "latency_sensitivity": 0.35133067672413587
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08077113770248079,
-            "memory_request": 0.5551576203663076,
-            "priority": 0.23852795315918662,
-            "network_bandwidth": 0.8815289161282056,
-            "scaling_factor": 0.4010211889781333,
-            "latency_sensitivity": 0.9240832971854632
+            "cpu_request": 0.6380869497598382,
+            "memory_request": 0.44649200121613997,
+            "priority": 0.9049821791951417,
+            "network_bandwidth": 0.10545216746567643,
+            "scaling_factor": 0.2856472188713505,
+            "latency_sensitivity": 0.4447276765071364
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4212050696035715,
-            "memory_request": 0.6502879091202136,
-            "priority": 0.5852298000141598,
-            "network_bandwidth": 0.263275983906725,
-            "scaling_factor": 0.6888572656377655,
-            "latency_sensitivity": 0.23840600944665225
+            "cpu_request": 0.5114654823822392,
+            "memory_request": 0.8252708072168043,
+            "priority": 0.7116619395140967,
+            "network_bandwidth": 0.6507304389085844,
+            "scaling_factor": 0.7158346230957887,
+            "latency_sensitivity": 0.5855979130949694
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.31239668797794373,
-            "memory_request": 0.7650643748309958,
-            "priority": 0.33841988672134204,
-            "network_bandwidth": 0.8051595518808391,
-            "scaling_factor": 0.36339670279671765,
-            "latency_sensitivity": 0.5494558944544744
+            "cpu_request": 0.37874830536155035,
+            "memory_request": 0.6298955905742587,
+            "priority": 0.20769917632919788,
+            "network_bandwidth": 0.3281396351761938,
+            "scaling_factor": 0.7703220788514716,
+            "latency_sensitivity": 0.7099096297524138
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7457846047343509,
-            "memory_request": 0.36530057955672524,
-            "priority": 0.4604938238961108,
-            "network_bandwidth": 0.48841907570047227,
-            "scaling_factor": 0.021802053472044336,
-            "latency_sensitivity": 0.7893894198372857
+            "cpu_request": 0.13033708213881123,
+            "memory_request": 0.9211726666396015,
+            "priority": 0.47583180984493323,
+            "network_bandwidth": 0.3381313625022282,
+            "scaling_factor": 0.47356796942340906,
+            "latency_sensitivity": 0.3540062799298771
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5642210944018776,
-            "memory_request": 0.9703969541061291,
-            "priority": 0.1268980175252642,
-            "network_bandwidth": 0.4669200963241853,
-            "scaling_factor": 0.5160591386584076,
-            "latency_sensitivity": 0.6893032393614702
+            "cpu_request": 0.625604692759724,
+            "memory_request": 0.7761924838407871,
+            "priority": 0.1412112524113065,
+            "network_bandwidth": 0.6664258630136186,
+            "scaling_factor": 0.6389130178345308,
+            "latency_sensitivity": 0.8903289592260821
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9959297714874119,
-            "memory_request": 0.7683244590740979,
-            "priority": 0.1420340032805767,
-            "network_bandwidth": 0.2812688013283241,
-            "scaling_factor": 0.8401832276466389,
-            "latency_sensitivity": 0.034616359600600055
+            "cpu_request": 0.15820879408150545,
+            "memory_request": 0.004196782859762882,
+            "priority": 0.9370818137157095,
+            "network_bandwidth": 0.5754126269838983,
+            "scaling_factor": 0.7301168573101625,
+            "latency_sensitivity": 0.5775384357752237
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.27206387180457225,
-            "memory_request": 0.5207159716732024,
-            "priority": 0.2036525119079241,
-            "network_bandwidth": 0.2887056553676245,
-            "scaling_factor": 0.7189729130795154,
-            "latency_sensitivity": 0.31148707143683185
+            "cpu_request": 0.04698452300509759,
+            "memory_request": 0.8670848752547679,
+            "priority": 0.9789963128884211,
+            "network_bandwidth": 0.15805475219531717,
+            "scaling_factor": 0.5777587731742659,
+            "latency_sensitivity": 0.8419447515515346
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2666569689286683,
-            "memory_request": 0.4574895944706584,
-            "priority": 0.35765813449529393,
-            "network_bandwidth": 0.01574765881134077,
-            "scaling_factor": 0.3814092404949584,
-            "latency_sensitivity": 0.9064317710220626
+            "cpu_request": 0.7942775539604353,
+            "memory_request": 0.9555903544250569,
+            "priority": 0.40611830216387146,
+            "network_bandwidth": 0.5404577930422858,
+            "scaling_factor": 0.3003923567549819,
+            "latency_sensitivity": 0.0006606159910215181
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.0074273337334432865,
-            "memory_request": 0.1975198883510907,
-            "priority": 0.9048667209401213,
-            "network_bandwidth": 0.9897617337354186,
-            "scaling_factor": 0.17197143204590215,
-            "latency_sensitivity": 0.26712634616256326
+            "cpu_request": 0.7390250025848424,
+            "memory_request": 0.6673790247128728,
+            "priority": 0.8202609721691079,
+            "network_bandwidth": 0.5642014668204169,
+            "scaling_factor": 0.7558846621937716,
+            "latency_sensitivity": 0.3159568202634898
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08559558140049739,
-            "memory_request": 0.13988218473611402,
-            "priority": 0.9020910052114642,
-            "network_bandwidth": 0.9949705430218098,
-            "scaling_factor": 0.3622208087035731,
-            "latency_sensitivity": 0.2730320374791577
+            "cpu_request": 0.4460766681072367,
+            "memory_request": 0.8999005406426122,
+            "priority": 0.6927773595172068,
+            "network_bandwidth": 0.37798475889401184,
+            "scaling_factor": 0.4825692923584729,
+            "latency_sensitivity": 0.6621788564598826
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8419538922070284,
-            "memory_request": 0.3262217530923003,
-            "priority": 0.6235869874289295,
-            "network_bandwidth": 0.8778551881695483,
-            "scaling_factor": 0.5670076502195566,
-            "latency_sensitivity": 0.7857495055694813
+            "cpu_request": 0.5824338273217332,
+            "memory_request": 0.8360155165448012,
+            "priority": 0.7191494202570744,
+            "network_bandwidth": 0.32940353966099034,
+            "scaling_factor": 0.8975744073715172,
+            "latency_sensitivity": 0.5634214724326281
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4363480164392318,
-            "memory_request": 0.7538533152497326,
-            "priority": 0.588933844958082,
-            "network_bandwidth": 0.4602031657334017,
-            "scaling_factor": 0.2662624809843329,
-            "latency_sensitivity": 0.02340106371900741
+            "cpu_request": 0.6395071347463932,
+            "memory_request": 0.38317186022277305,
+            "priority": 0.994831759304989,
+            "network_bandwidth": 0.9346810293282373,
+            "scaling_factor": 0.7063178649866801,
+            "latency_sensitivity": 0.3116988509267802
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9140796953971918,
-            "memory_request": 0.2722393010642876,
-            "priority": 0.9803412469875817,
-            "network_bandwidth": 0.38876370410755456,
-            "scaling_factor": 0.9550835628165241,
-            "latency_sensitivity": 0.23650986535698715
+            "cpu_request": 0.21443646826299445,
+            "memory_request": 0.12176792910777845,
+            "priority": 0.8784300224808779,
+            "network_bandwidth": 0.6889878238910405,
+            "scaling_factor": 0.7403360245638729,
+            "latency_sensitivity": 0.021614027918637202
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.573694369602844,
-            "memory_request": 0.6213465901089466,
-            "priority": 0.33753520989025987,
-            "network_bandwidth": 0.9258441418473807,
-            "scaling_factor": 0.96284752704899,
-            "latency_sensitivity": 0.5791924548957971
+            "cpu_request": 0.5279496712461674,
+            "memory_request": 0.5204603983996265,
+            "priority": 0.916962319263384,
+            "network_bandwidth": 0.3601991812834636,
+            "scaling_factor": 0.6097561899218032,
+            "latency_sensitivity": 0.1909551064273869
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2053857037827337,
-            "memory_request": 0.3311835267119063,
-            "priority": 0.5114172079205814,
-            "network_bandwidth": 0.3481120081978504,
-            "scaling_factor": 0.8525873796184891,
-            "latency_sensitivity": 0.356809476412164
+            "cpu_request": 0.43317348778760656,
+            "memory_request": 0.10746980826500585,
+            "priority": 0.025737380119065012,
+            "network_bandwidth": 0.6531351442942173,
+            "scaling_factor": 0.3865512596059647,
+            "latency_sensitivity": 0.32860598915890116
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8474485545846184,
-            "memory_request": 0.9922848902733252,
-            "priority": 0.2374634461418379,
-            "network_bandwidth": 0.19149963361113687,
-            "scaling_factor": 0.2625627858160303,
-            "latency_sensitivity": 0.05043510653366967
+            "cpu_request": 0.8786391263640904,
+            "memory_request": 0.01403486756818495,
+            "priority": 0.8405210894725548,
+            "network_bandwidth": 0.43358420389341745,
+            "scaling_factor": 0.2923255969740547,
+            "latency_sensitivity": 0.32467869199037747
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7419295051985418,
-            "memory_request": 0.01086949747482624,
-            "priority": 0.16051876100018014,
-            "network_bandwidth": 0.058861057716617204,
-            "scaling_factor": 0.11982856172535905,
-            "latency_sensitivity": 0.5350945258253121
+            "cpu_request": 0.7806528248619766,
+            "memory_request": 0.1048080194789367,
+            "priority": 0.7349898705621796,
+            "network_bandwidth": 0.6439696342528868,
+            "scaling_factor": 0.7132846880793186,
+            "latency_sensitivity": 0.1899682592040326
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7888677878084697,
-            "memory_request": 0.5867049596578499,
-            "priority": 0.51937950822233,
-            "network_bandwidth": 0.47931187724558233,
-            "scaling_factor": 0.7411335468566116,
-            "latency_sensitivity": 0.5552887161700846
+            "cpu_request": 0.7454417868729153,
+            "memory_request": 0.95657642873251,
+            "priority": 0.06504666218294108,
+            "network_bandwidth": 0.21761109845348792,
+            "scaling_factor": 0.6777054907727575,
+            "latency_sensitivity": 0.06681757600321248
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4160396434610809,
-            "memory_request": 0.43908745523509607,
-            "priority": 0.3752543567922454,
-            "network_bandwidth": 0.2366177790041334,
-            "scaling_factor": 0.020461582568592762,
-            "latency_sensitivity": 0.6852880044887243
+            "cpu_request": 0.23378459581975997,
+            "memory_request": 0.28701586581417826,
+            "priority": 0.20956761719162353,
+            "network_bandwidth": 0.34863776454365125,
+            "scaling_factor": 0.11529367227515064,
+            "latency_sensitivity": 0.9845217398742048
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.19906395262253374,
-            "memory_request": 0.8634889571799547,
-            "priority": 0.9310583550083728,
-            "network_bandwidth": 0.992589171894164,
-            "scaling_factor": 0.053136918327542526,
-            "latency_sensitivity": 0.6333150278342629
+            "cpu_request": 0.4889846016871625,
+            "memory_request": 0.7584187845500032,
+            "priority": 0.05296235299665397,
+            "network_bandwidth": 0.15592419435672256,
+            "scaling_factor": 0.9856407875232502,
+            "latency_sensitivity": 0.3303906734931771
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.15840096741256937,
-            "memory_request": 0.13409811751249334,
-            "priority": 0.7301998682899602,
-            "network_bandwidth": 0.8089239400414999,
-            "scaling_factor": 0.8976426359941495,
-            "latency_sensitivity": 0.43888511764723404
+            "cpu_request": 0.8091954347092507,
+            "memory_request": 0.048196139460206844,
+            "priority": 0.5951182968954648,
+            "network_bandwidth": 0.2057477604917377,
+            "scaling_factor": 0.6663159939928696,
+            "latency_sensitivity": 0.9689676019817951
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9260494100624873,
-            "memory_request": 0.18757146734507157,
-            "priority": 0.8525150434062216,
-            "network_bandwidth": 0.40157890597116874,
-            "scaling_factor": 0.011242308514085364,
-            "latency_sensitivity": 0.9389505314293676
+            "cpu_request": 0.25360679185882795,
+            "memory_request": 0.20529320593426637,
+            "priority": 0.9133508663646432,
+            "network_bandwidth": 0.7900412498182349,
+            "scaling_factor": 0.7762971806379328,
+            "latency_sensitivity": 0.24147125936114955
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.13885034832077936,
-            "memory_request": 0.46767299602675727,
-            "priority": 0.14531593860353764,
-            "network_bandwidth": 0.46191031954358586,
-            "scaling_factor": 0.0923548104445131,
-            "latency_sensitivity": 0.4754150763948274
+            "cpu_request": 0.07662437437037661,
+            "memory_request": 0.32538746916713246,
+            "priority": 0.36852258468696586,
+            "network_bandwidth": 0.6321464675402052,
+            "scaling_factor": 0.3319226024207932,
+            "latency_sensitivity": 0.5571089345315131
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7032198385696518,
-            "memory_request": 0.3484358506404327,
-            "priority": 0.016263937403787287,
-            "network_bandwidth": 0.40402119839744344,
-            "scaling_factor": 0.8106146144118247,
-            "latency_sensitivity": 0.8241677362260573
+            "cpu_request": 0.13303428654167293,
+            "memory_request": 0.973140490481866,
+            "priority": 0.8367928613054288,
+            "network_bandwidth": 0.299218078915784,
+            "scaling_factor": 0.5716475228062528,
+            "latency_sensitivity": 0.6104681306728126
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.21646414900526234,
-            "memory_request": 0.2183514867914942,
-            "priority": 0.08809246384672886,
-            "network_bandwidth": 0.8588457580167399,
-            "scaling_factor": 0.149531611689673,
-            "latency_sensitivity": 0.4862360707636134
+            "cpu_request": 0.759265704521588,
+            "memory_request": 0.6767741359317676,
+            "priority": 0.37402700557465374,
+            "network_bandwidth": 0.1485695175363596,
+            "scaling_factor": 0.5877238586391818,
+            "latency_sensitivity": 0.2634517867990078
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.1983117446227335,
-            "memory_request": 0.19199368360317337,
-            "priority": 0.078587644310672,
-            "network_bandwidth": 0.8474575496469728,
-            "scaling_factor": 0.25715115023290425,
-            "latency_sensitivity": 0.7936958401219077
+            "cpu_request": 0.797202483966584,
+            "memory_request": 0.3204137908641086,
+            "priority": 0.9735828364655642,
+            "network_bandwidth": 0.43934180210025686,
+            "scaling_factor": 0.8504823306316394,
+            "latency_sensitivity": 0.09515107513510013
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.18310073416083994,
-            "memory_request": 0.8075964241464059,
-            "priority": 0.2664080552373149,
-            "network_bandwidth": 0.8407293497039996,
-            "scaling_factor": 0.1874003662116137,
-            "latency_sensitivity": 0.5133203469692249
+            "cpu_request": 0.9610963233151474,
+            "memory_request": 0.09840450294474445,
+            "priority": 0.8433020905620799,
+            "network_bandwidth": 0.684281921825695,
+            "scaling_factor": 0.5442855039196257,
+            "latency_sensitivity": 0.33311927991026224
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.10103338458681643,
-            "memory_request": 0.6082399543076666,
-            "priority": 0.8229287343524615,
-            "network_bandwidth": 0.34569604631126816,
-            "scaling_factor": 0.5719195977335567,
-            "latency_sensitivity": 0.46646407355061736
+            "cpu_request": 0.14899334037998102,
+            "memory_request": 0.2026520553367842,
+            "priority": 0.37606172930728166,
+            "network_bandwidth": 0.42835411002482526,
+            "scaling_factor": 0.6718396348897241,
+            "latency_sensitivity": 0.6531522018841646
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9510660710722841,
-            "memory_request": 0.9772562774850614,
-            "priority": 0.7258543143927222,
-            "network_bandwidth": 0.2355707474056411,
-            "scaling_factor": 0.2578120447913188,
-            "latency_sensitivity": 0.9109542081075267
+            "cpu_request": 0.2043112491471487,
+            "memory_request": 0.2468987953350329,
+            "priority": 0.9080551699812491,
+            "network_bandwidth": 0.9463545559509777,
+            "scaling_factor": 0.8249248337275853,
+            "latency_sensitivity": 0.9638819707789008
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.12556624515633474,
-            "memory_request": 0.8958067940662432,
-            "priority": 0.8430868447165801,
-            "network_bandwidth": 0.20449386246294998,
-            "scaling_factor": 0.8027085308682738,
-            "latency_sensitivity": 0.3998245364149522
+            "cpu_request": 0.1721854363666323,
+            "memory_request": 0.10607357940958839,
+            "priority": 0.5602252257664063,
+            "network_bandwidth": 0.32283192233406943,
+            "scaling_factor": 0.3936129422392798,
+            "latency_sensitivity": 0.6766229031492726
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.07504720267611242,
-            "memory_request": 0.07685528003613906,
-            "priority": 0.2658069902678126,
-            "network_bandwidth": 0.9978704173924188,
-            "scaling_factor": 0.8381588104477017,
-            "latency_sensitivity": 0.3433545722555883
+            "cpu_request": 0.9569477253225716,
+            "memory_request": 0.05619328356590547,
+            "priority": 0.4676798053643356,
+            "network_bandwidth": 0.16545571270996395,
+            "scaling_factor": 0.7665894242481771,
+            "latency_sensitivity": 0.13447748869304577
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8267815298096499,
-            "memory_request": 0.07766546761414705,
-            "priority": 0.38231773928675494,
-            "network_bandwidth": 0.83577811373565,
-            "scaling_factor": 0.7959891114728971,
-            "latency_sensitivity": 0.9577897920122336
+            "cpu_request": 0.759307332688824,
+            "memory_request": 0.9026535517998698,
+            "priority": 0.9367385617952853,
+            "network_bandwidth": 0.4549284075756145,
+            "scaling_factor": 0.5594615713390257,
+            "latency_sensitivity": 0.3981756367037528
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8933967125258435,
-            "memory_request": 0.6571197877853805,
-            "priority": 0.05768265007774198,
-            "network_bandwidth": 0.18003716827521887,
-            "scaling_factor": 0.457804991833507,
-            "latency_sensitivity": 0.052093035754956385
+            "cpu_request": 0.07196188713765606,
+            "memory_request": 0.20607860883035278,
+            "priority": 0.3293870554110021,
+            "network_bandwidth": 0.6494707439651943,
+            "scaling_factor": 0.46940623957254524,
+            "latency_sensitivity": 0.8817986979488409
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2995568469925166,
-            "memory_request": 0.8159404838480852,
-            "priority": 0.403594094962728,
-            "network_bandwidth": 0.319724866456755,
-            "scaling_factor": 0.7922655935569289,
-            "latency_sensitivity": 0.2741552307924632
+            "cpu_request": 0.4837012403540403,
+            "memory_request": 0.3218512577755851,
+            "priority": 0.15585063366089047,
+            "network_bandwidth": 0.18876294686105144,
+            "scaling_factor": 0.735700657517352,
+            "latency_sensitivity": 0.009689406830602487
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.18570278481409974,
-            "memory_request": 0.20419103376805592,
-            "priority": 0.7393439069227626,
-            "network_bandwidth": 0.9606166622086003,
-            "scaling_factor": 0.7977783268057459,
-            "latency_sensitivity": 0.4149209867168012
+            "cpu_request": 0.9754801798297152,
+            "memory_request": 0.7167620278014977,
+            "priority": 0.15551157980104346,
+            "network_bandwidth": 0.845609729161719,
+            "scaling_factor": 0.032310237409269416,
+            "latency_sensitivity": 0.3146921155165816
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5415509933620785,
-            "memory_request": 0.8375593658217447,
-            "priority": 0.7656569529370154,
-            "network_bandwidth": 0.7794858821978855,
-            "scaling_factor": 0.4467107984080856,
-            "latency_sensitivity": 0.158475081236914
+            "cpu_request": 0.6082823658464973,
+            "memory_request": 0.49246231609615454,
+            "priority": 0.4884930697538651,
+            "network_bandwidth": 0.5918145374654246,
+            "scaling_factor": 0.24087392947934583,
+            "latency_sensitivity": 0.8189308337063426
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3753541779544888,
-            "memory_request": 0.09564734183895118,
-            "priority": 0.446156570920322,
-            "network_bandwidth": 0.015876719503098213,
-            "scaling_factor": 0.05609687208320524,
-            "latency_sensitivity": 0.9432456175438104
+            "cpu_request": 0.6552876311770053,
+            "memory_request": 0.3272456470915256,
+            "priority": 0.9536001496468186,
+            "network_bandwidth": 0.6946301928889407,
+            "scaling_factor": 0.01601605304311038,
+            "latency_sensitivity": 0.6713835635218044
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.54981431584994,
-            "memory_request": 0.7668403194512426,
-            "priority": 0.47784884006559203,
-            "network_bandwidth": 0.5564677006537773,
-            "scaling_factor": 0.2479435549359279,
-            "latency_sensitivity": 0.6216308282382046
+            "cpu_request": 0.6675534871216068,
+            "memory_request": 0.17342255428416053,
+            "priority": 0.6826710194728848,
+            "network_bandwidth": 0.16817441418324208,
+            "scaling_factor": 0.04490178256267019,
+            "latency_sensitivity": 0.16991750551673934
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.23008867240094832,
-            "memory_request": 0.6591519059120636,
-            "priority": 0.9257846787272991,
-            "network_bandwidth": 0.6745575440468674,
-            "scaling_factor": 0.25084608054862056,
-            "latency_sensitivity": 0.8324281631275134
+            "cpu_request": 0.9901653719057307,
+            "memory_request": 0.9164043026780995,
+            "priority": 0.6720397998848991,
+            "network_bandwidth": 0.1217573163566712,
+            "scaling_factor": 0.3309840258744856,
+            "latency_sensitivity": 0.49589605224674393
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6865534141775688,
-            "memory_request": 0.5123197253230414,
-            "priority": 0.6334909288646129,
-            "network_bandwidth": 0.5827577422636597,
-            "scaling_factor": 0.2636046201562162,
-            "latency_sensitivity": 0.02041658699671023
+            "cpu_request": 0.3167097290326365,
+            "memory_request": 0.13336942984619682,
+            "priority": 0.6665289445407506,
+            "network_bandwidth": 0.4163131804466679,
+            "scaling_factor": 0.5098659886664679,
+            "latency_sensitivity": 0.10922036154638459
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.33389001315846645,
-            "memory_request": 0.14815666571200314,
-            "priority": 0.0002923929315810092,
-            "network_bandwidth": 0.3087829570400501,
-            "scaling_factor": 0.9065837286206414,
-            "latency_sensitivity": 0.6278750056441489
+            "cpu_request": 0.9902272405317596,
+            "memory_request": 0.5890892973395808,
+            "priority": 0.774624148402578,
+            "network_bandwidth": 0.9870774149348299,
+            "scaling_factor": 0.8882545117989695,
+            "latency_sensitivity": 0.22253846718841863
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7533215385985567,
-            "memory_request": 0.8567630140223532,
-            "priority": 0.5577197718671928,
-            "network_bandwidth": 0.6701377527233,
-            "scaling_factor": 0.38787094128610755,
-            "latency_sensitivity": 0.7853962312620147
+            "cpu_request": 0.11611398071284595,
+            "memory_request": 0.17676655794024354,
+            "priority": 0.9391834627364058,
+            "network_bandwidth": 0.5530379581485171,
+            "scaling_factor": 0.36670951586743017,
+            "latency_sensitivity": 0.4616930577252092
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.04670757996222241,
-            "memory_request": 0.24523298868393073,
-            "priority": 0.38970612555403183,
-            "network_bandwidth": 0.8822155591412756,
-            "scaling_factor": 0.5212731112584439,
-            "latency_sensitivity": 0.6411724899576619
+            "cpu_request": 0.6429455557992849,
+            "memory_request": 0.8394490347889545,
+            "priority": 0.9822673162859001,
+            "network_bandwidth": 0.8225861610347668,
+            "scaling_factor": 0.42276452688962496,
+            "latency_sensitivity": 0.11621423773566464
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6789966494919798,
-            "memory_request": 0.8662127859235815,
-            "priority": 0.5215277917587474,
-            "network_bandwidth": 0.5855733018532658,
-            "scaling_factor": 0.7792675885353209,
-            "latency_sensitivity": 0.82518769647633
+            "cpu_request": 0.3067301337955789,
+            "memory_request": 0.8553980975583451,
+            "priority": 0.8434993674239271,
+            "network_bandwidth": 0.8040429945490057,
+            "scaling_factor": 0.4290610198448448,
+            "latency_sensitivity": 0.05870550025195165
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4063032299587088,
-            "memory_request": 0.4848781669918997,
-            "priority": 0.9745611472242457,
-            "network_bandwidth": 0.3543713624519983,
-            "scaling_factor": 0.5568008608037301,
-            "latency_sensitivity": 0.5615721698306144
+            "cpu_request": 0.45682501960776234,
+            "memory_request": 0.1895405341209182,
+            "priority": 0.2457074674828158,
+            "network_bandwidth": 0.13205369492409047,
+            "scaling_factor": 0.5810705981262096,
+            "latency_sensitivity": 0.8882590321005441
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.058594061771657935,
-            "memory_request": 0.015148557871160762,
-            "priority": 0.5876376542233761,
-            "network_bandwidth": 0.550410770434514,
-            "scaling_factor": 0.5322946414510762,
-            "latency_sensitivity": 0.014509356681626229
+            "cpu_request": 0.6650332055154659,
+            "memory_request": 0.9355087954333645,
+            "priority": 0.47541933592311303,
+            "network_bandwidth": 0.7775494438763402,
+            "scaling_factor": 0.4028010306662526,
+            "latency_sensitivity": 0.9456563430773441
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.18194255323859787,
-            "memory_request": 0.6566711551055338,
-            "priority": 0.6591718758502408,
-            "network_bandwidth": 0.0714757220954989,
-            "scaling_factor": 0.06617490020015437,
-            "latency_sensitivity": 0.3370964604724582
+            "cpu_request": 0.4852450267743075,
+            "memory_request": 0.29847147413061015,
+            "priority": 0.8561464576734127,
+            "network_bandwidth": 0.12709031022645745,
+            "scaling_factor": 0.9695715772405226,
+            "latency_sensitivity": 0.12671188904568975
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6542715447990802,
-            "memory_request": 0.031806763372816516,
-            "priority": 0.8465654796974081,
-            "network_bandwidth": 0.5535679446720864,
-            "scaling_factor": 0.11037576657077752,
-            "latency_sensitivity": 0.48470317084653813
+            "cpu_request": 0.999056575690946,
+            "memory_request": 0.22410937524455565,
+            "priority": 0.8599623042578569,
+            "network_bandwidth": 0.6058360254995011,
+            "scaling_factor": 0.19609867856317575,
+            "latency_sensitivity": 0.7163069795518638
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2629982729945375,
-            "memory_request": 0.5940692498512075,
-            "priority": 0.16501084973631464,
-            "network_bandwidth": 0.5534892812551014,
-            "scaling_factor": 0.36530393640400605,
-            "latency_sensitivity": 0.9927280333456135
+            "cpu_request": 0.26592741690483823,
+            "memory_request": 0.028677220219296196,
+            "priority": 0.2376184377110443,
+            "network_bandwidth": 0.2762802738558471,
+            "scaling_factor": 0.11605972899522887,
+            "latency_sensitivity": 0.5142718409540749
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4644656472362688,
-            "memory_request": 0.6132222726129326,
-            "priority": 0.45546584252051137,
-            "network_bandwidth": 0.30546034148986345,
-            "scaling_factor": 0.4860607103498724,
-            "latency_sensitivity": 0.5177507440768047
+            "cpu_request": 0.06895836407667955,
+            "memory_request": 0.21584318376734069,
+            "priority": 0.9767299143199287,
+            "network_bandwidth": 0.5070892747714372,
+            "scaling_factor": 0.20900513509408147,
+            "latency_sensitivity": 0.06245651780227768
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5029297255167753,
-            "memory_request": 0.1444422297221566,
-            "priority": 0.9835319654975505,
-            "network_bandwidth": 0.48319393734904525,
-            "scaling_factor": 0.5680517970455016,
-            "latency_sensitivity": 0.1369120219643295
+            "cpu_request": 0.6222283932639183,
+            "memory_request": 0.8471952086438813,
+            "priority": 0.5699158478204788,
+            "network_bandwidth": 0.8781817857135491,
+            "scaling_factor": 0.9089676254067991,
+            "latency_sensitivity": 0.06256552033049201
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7076453106527771,
-            "memory_request": 0.5407683307706078,
-            "priority": 0.2557490697383371,
-            "network_bandwidth": 0.621362281329391,
-            "scaling_factor": 0.30884769595305506,
-            "latency_sensitivity": 0.4550696398544083
+            "cpu_request": 0.8766845559676291,
+            "memory_request": 0.38934126901705324,
+            "priority": 0.5030510745247831,
+            "network_bandwidth": 0.1376958447099621,
+            "scaling_factor": 0.1142347331432203,
+            "latency_sensitivity": 0.13030232906861305
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8338172386684279,
-            "memory_request": 0.943163156407476,
-            "priority": 0.5111931460096604,
-            "network_bandwidth": 0.46642303821673703,
-            "scaling_factor": 0.24603666146896053,
-            "latency_sensitivity": 0.8742086580567522
+            "cpu_request": 0.8762643753958188,
+            "memory_request": 0.5248645811343039,
+            "priority": 0.9548697257446426,
+            "network_bandwidth": 0.7657589855330892,
+            "scaling_factor": 0.8828990038069937,
+            "latency_sensitivity": 0.3089743259634201
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9467185944502144,
-            "memory_request": 0.19830995522099337,
-            "priority": 0.9519146185184338,
-            "network_bandwidth": 0.8845127911532886,
-            "scaling_factor": 0.14329664195855152,
-            "latency_sensitivity": 0.7070857666874371
+            "cpu_request": 0.5893418404079931,
+            "memory_request": 0.9047946547334852,
+            "priority": 0.747336805065146,
+            "network_bandwidth": 0.6279584325149825,
+            "scaling_factor": 0.03916999477815253,
+            "latency_sensitivity": 0.7921236198575694
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6360019570101678,
-            "memory_request": 0.3439875179731946,
-            "priority": 0.24018906010817065,
-            "network_bandwidth": 0.19514056225637466,
-            "scaling_factor": 0.37893346919782256,
-            "latency_sensitivity": 0.9761478580112446
+            "cpu_request": 0.12763679309290032,
+            "memory_request": 0.19163033101609972,
+            "priority": 0.4190218314420753,
+            "network_bandwidth": 0.579591502084014,
+            "scaling_factor": 0.9105093797631011,
+            "latency_sensitivity": 0.14252260752588175
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7256362634154755,
-            "memory_request": 0.08415813071561218,
-            "priority": 0.0979877888770887,
-            "network_bandwidth": 0.7221288274094051,
-            "scaling_factor": 0.5997858454356617,
-            "latency_sensitivity": 0.48799515940588734
+            "cpu_request": 0.1372774793794198,
+            "memory_request": 0.23215848370164394,
+            "priority": 0.8420403070386869,
+            "network_bandwidth": 0.08844117186281997,
+            "scaling_factor": 0.30829865787560706,
+            "latency_sensitivity": 0.6523927535385755
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.39041018167690444,
-            "memory_request": 0.49395409626562226,
-            "priority": 0.005208245610745177,
-            "network_bandwidth": 0.7853473217768531,
-            "scaling_factor": 0.8878770211890364,
-            "latency_sensitivity": 0.47554085510682664
+            "cpu_request": 0.9790766270677221,
+            "memory_request": 0.08536863671549,
+            "priority": 0.15413372268457692,
+            "network_bandwidth": 0.13318329545460705,
+            "scaling_factor": 0.45131831660847455,
+            "latency_sensitivity": 0.283786802687352
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8267811735361783,
-            "memory_request": 0.22124168299283298,
-            "priority": 0.24380563817928713,
-            "network_bandwidth": 0.4917948115776978,
-            "scaling_factor": 0.2987497783493145,
-            "latency_sensitivity": 0.8398129048863114
+            "cpu_request": 0.7629103666408907,
+            "memory_request": 0.41559969052074053,
+            "priority": 0.19167729352988871,
+            "network_bandwidth": 0.6106845836872249,
+            "scaling_factor": 0.30592096090783216,
+            "latency_sensitivity": 0.25886503540841377
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.10136720135755872,
-            "memory_request": 0.01793581716056325,
-            "priority": 0.6451871659942903,
-            "network_bandwidth": 0.020551943539945605,
-            "scaling_factor": 0.8640657264513487,
-            "latency_sensitivity": 0.6454752551668678
+            "cpu_request": 0.7222625693273483,
+            "memory_request": 0.042213206320369845,
+            "priority": 0.030759422708051654,
+            "network_bandwidth": 0.5477111217338583,
+            "scaling_factor": 0.30042209228423766,
+            "latency_sensitivity": 0.1037785426336224
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9196151143349413,
-            "memory_request": 0.10170783339343448,
-            "priority": 0.7777004330110605,
-            "network_bandwidth": 0.8529414146043429,
-            "scaling_factor": 0.7175066616151549,
-            "latency_sensitivity": 0.8952683716239959
+            "cpu_request": 0.5003604942978007,
+            "memory_request": 0.7973491977784217,
+            "priority": 0.31346961444785815,
+            "network_bandwidth": 0.8219475308405757,
+            "scaling_factor": 0.9142936281982337,
+            "latency_sensitivity": 0.37091363455822024
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.15059438633692845,
-            "memory_request": 0.5375695707232926,
-            "priority": 0.44414920970281446,
-            "network_bandwidth": 0.18122250593040246,
-            "scaling_factor": 0.557699804694502,
-            "latency_sensitivity": 0.6193278397364367
+            "cpu_request": 0.5786107061085131,
+            "memory_request": 0.19192511957583858,
+            "priority": 0.09882894978268353,
+            "network_bandwidth": 0.07740479856446347,
+            "scaling_factor": 0.9989859627033314,
+            "latency_sensitivity": 0.6595740327054622
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.631042657593675,
-            "memory_request": 0.5496779376401948,
-            "priority": 0.5626025352118873,
-            "network_bandwidth": 0.5383978774451893,
-            "scaling_factor": 0.20062838463499322,
-            "latency_sensitivity": 0.5984583863674944
+            "cpu_request": 0.9096835676309483,
+            "memory_request": 0.660046331953872,
+            "priority": 0.7258095334515989,
+            "network_bandwidth": 0.5549703457800174,
+            "scaling_factor": 0.6505443601142857,
+            "latency_sensitivity": 0.4678690135139687
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5780144789335386,
-            "memory_request": 0.24867758288891562,
-            "priority": 0.8712928283197663,
-            "network_bandwidth": 0.6100069794198534,
-            "scaling_factor": 0.2695684783861183,
-            "latency_sensitivity": 0.9198379183478234
+            "cpu_request": 0.5091177201007158,
+            "memory_request": 0.37787606615576397,
+            "priority": 0.7020269636426839,
+            "network_bandwidth": 0.2576702704488272,
+            "scaling_factor": 0.9070649154499265,
+            "latency_sensitivity": 0.8101696080084824
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.10638946647120773,
-            "memory_request": 0.45855047760831125,
-            "priority": 0.15644772321183809,
-            "network_bandwidth": 0.03592016007822074,
-            "scaling_factor": 0.9126823330724978,
-            "latency_sensitivity": 0.7842048024172571
+            "cpu_request": 0.3771704190005589,
+            "memory_request": 0.8948163797630183,
+            "priority": 0.9207569839560444,
+            "network_bandwidth": 0.11359105947341996,
+            "scaling_factor": 0.2532257860400554,
+            "latency_sensitivity": 0.11843120757933678
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9149864176613703,
-            "memory_request": 0.7331093924641917,
-            "priority": 0.8015088397290513,
-            "network_bandwidth": 0.6144565182580272,
-            "scaling_factor": 0.7582850438209531,
-            "latency_sensitivity": 0.30577922846394456
+            "cpu_request": 0.7220175207247869,
+            "memory_request": 0.5366135891288824,
+            "priority": 0.5207120668192196,
+            "network_bandwidth": 0.5547597035970699,
+            "scaling_factor": 0.6199564252555627,
+            "latency_sensitivity": 0.5923724264725672
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.08225594586052931,
-            "memory_request": 0.1626533360128941,
-            "priority": 0.013652992347590653,
-            "network_bandwidth": 0.5232493760147217,
-            "scaling_factor": 0.29064600269856455,
-            "latency_sensitivity": 0.7062666295959003
+            "cpu_request": 0.8534225455993535,
+            "memory_request": 0.23565774464721356,
+            "priority": 0.029034363108616068,
+            "network_bandwidth": 0.6698434422244819,
+            "scaling_factor": 0.3836709757251524,
+            "latency_sensitivity": 0.045223573799284655
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9166418893117488,
-            "memory_request": 0.16275135619227155,
-            "priority": 0.48538186003353956,
-            "network_bandwidth": 0.4808642502083674,
-            "scaling_factor": 0.14517475464584173,
-            "latency_sensitivity": 0.041586806857286884
+            "cpu_request": 0.57923974010868,
+            "memory_request": 0.5747358543620864,
+            "priority": 0.6711717060424219,
+            "network_bandwidth": 0.30939863991890193,
+            "scaling_factor": 0.5162106067538426,
+            "latency_sensitivity": 0.5313943958586607
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9331283960452561,
-            "memory_request": 0.9986325105611777,
-            "priority": 0.38062449507168705,
-            "network_bandwidth": 0.5893393092562601,
-            "scaling_factor": 0.9736403446505987,
-            "latency_sensitivity": 0.27941304323580785
+            "cpu_request": 0.18535815028275826,
+            "memory_request": 0.5752021986655028,
+            "priority": 0.7439500375124924,
+            "network_bandwidth": 0.1789386506476719,
+            "scaling_factor": 0.9796861813198803,
+            "latency_sensitivity": 0.814184135606743
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.283031115035253,
-            "memory_request": 0.7639864905902644,
-            "priority": 0.973051362774885,
-            "network_bandwidth": 0.47630574033235407,
-            "scaling_factor": 0.9940718985413312,
-            "latency_sensitivity": 0.14409474604235828
+            "cpu_request": 0.4367191480651892,
+            "memory_request": 0.6851877691637797,
+            "priority": 0.6157215167799235,
+            "network_bandwidth": 0.28804541890835034,
+            "scaling_factor": 0.22828907027394274,
+            "latency_sensitivity": 0.48887519734703067
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3475692664695489,
-            "memory_request": 0.3720827864583882,
-            "priority": 0.9214524383471955,
-            "network_bandwidth": 0.0779471731125786,
-            "scaling_factor": 0.26771078686026895,
-            "latency_sensitivity": 0.6106157734211379
+            "cpu_request": 0.9900090431651726,
+            "memory_request": 0.7248632887253924,
+            "priority": 0.677435056087498,
+            "network_bandwidth": 0.2615954700409272,
+            "scaling_factor": 0.8492910029045839,
+            "latency_sensitivity": 0.4258217584729166
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9048467073454827,
-            "memory_request": 0.29121780331060154,
-            "priority": 0.26111962239646436,
-            "network_bandwidth": 0.43724026486252154,
-            "scaling_factor": 0.28207867855468993,
-            "latency_sensitivity": 0.5061596482597867
+            "cpu_request": 0.9337875159598905,
+            "memory_request": 0.2062103628521994,
+            "priority": 0.5521261068257096,
+            "network_bandwidth": 0.7663714232739727,
+            "scaling_factor": 0.8587240368525813,
+            "latency_sensitivity": 0.41299906002035036
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.633607518609711,
-            "memory_request": 0.03539268914445248,
-            "priority": 0.2689907884025384,
-            "network_bandwidth": 0.1822510138023713,
-            "scaling_factor": 0.8174147145854195,
-            "latency_sensitivity": 0.513787153291892
+            "cpu_request": 0.7192065303233897,
+            "memory_request": 0.96392912677826,
+            "priority": 0.38953389945804784,
+            "network_bandwidth": 0.20670761316053288,
+            "scaling_factor": 0.8859205046022753,
+            "latency_sensitivity": 0.4137774056520085
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.01062041398292446,
-            "memory_request": 0.42927615238504546,
-            "priority": 0.7520208379871267,
-            "network_bandwidth": 0.6453391031731832,
-            "scaling_factor": 0.48779432119976374,
-            "latency_sensitivity": 0.3039064599949213
+            "cpu_request": 0.45351732175789794,
+            "memory_request": 0.6848204220394348,
+            "priority": 0.13996617241634168,
+            "network_bandwidth": 0.5238466106100834,
+            "scaling_factor": 0.8222678449862556,
+            "latency_sensitivity": 0.8965747041559597
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3741647942199817,
-            "memory_request": 0.1807925742181843,
-            "priority": 0.8308810462203723,
-            "network_bandwidth": 0.02362577164166635,
-            "scaling_factor": 0.24902935966210782,
-            "latency_sensitivity": 0.6483435075518004
+            "cpu_request": 0.031166907321570902,
+            "memory_request": 0.8292811585141974,
+            "priority": 0.7328593145172208,
+            "network_bandwidth": 0.0274012127379879,
+            "scaling_factor": 0.7784551767919057,
+            "latency_sensitivity": 0.4795517619728412
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.1038691370634649,
-            "memory_request": 0.03471314084771315,
-            "priority": 0.98119086762873,
-            "network_bandwidth": 0.29393997988407283,
-            "scaling_factor": 0.8404285587319414,
-            "latency_sensitivity": 0.8672504650584342
+            "cpu_request": 0.5464964595145853,
+            "memory_request": 0.1638317473209877,
+            "priority": 0.3916609661210607,
+            "network_bandwidth": 0.9225022564565815,
+            "scaling_factor": 0.012057498357196494,
+            "latency_sensitivity": 0.9059344018763419
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.4590164056514794,
-            "memory_request": 0.29104962947969826,
-            "priority": 0.522794636537493,
-            "network_bandwidth": 0.01271780660309374,
-            "scaling_factor": 0.6303370458776528,
-            "latency_sensitivity": 0.45236241387762943
+            "cpu_request": 0.13419697531894914,
+            "memory_request": 0.8646655520058147,
+            "priority": 0.0009812428452243838,
+            "network_bandwidth": 0.10750185385283118,
+            "scaling_factor": 0.16251190024487872,
+            "latency_sensitivity": 0.8462230931525734
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.39751828700627545,
-            "memory_request": 0.7845258378465315,
-            "priority": 0.12365140116187912,
-            "network_bandwidth": 0.6875731053620128,
-            "scaling_factor": 0.07706372844608167,
-            "latency_sensitivity": 0.07575970807778887
+            "cpu_request": 0.38391911268772494,
+            "memory_request": 0.7662851790801208,
+            "priority": 0.518445639628353,
+            "network_bandwidth": 0.5415583165847685,
+            "scaling_factor": 0.7049048010313086,
+            "latency_sensitivity": 0.126977057274974
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6003737002242984,
-            "memory_request": 0.1408734684980426,
-            "priority": 0.4612362373821224,
-            "network_bandwidth": 0.6462245146897253,
-            "scaling_factor": 0.9127236154024448,
-            "latency_sensitivity": 0.1638980806141388
+            "cpu_request": 0.9059867834375445,
+            "memory_request": 0.5047153812781741,
+            "priority": 0.537628923357999,
+            "network_bandwidth": 0.8688231712536277,
+            "scaling_factor": 0.8042035333074855,
+            "latency_sensitivity": 0.5840756125700427
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7365637908070664,
-            "memory_request": 0.5589369179755166,
-            "priority": 0.4984438047353782,
-            "network_bandwidth": 0.010036305327328576,
-            "scaling_factor": 0.39445611428585925,
-            "latency_sensitivity": 0.012539183859770486
+            "cpu_request": 0.454582750738713,
+            "memory_request": 0.10361876688181115,
+            "priority": 0.7240654938210279,
+            "network_bandwidth": 0.7315116685592322,
+            "scaling_factor": 0.13600795256277154,
+            "latency_sensitivity": 0.5279064772693214
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.39161886249571487,
-            "memory_request": 0.9713800308197725,
-            "priority": 0.05574223369241771,
-            "network_bandwidth": 0.5982230103905753,
-            "scaling_factor": 0.06500914937296254,
-            "latency_sensitivity": 0.05164844344067554
+            "cpu_request": 0.22572076482108994,
+            "memory_request": 0.9878981924889786,
+            "priority": 0.7486912187568383,
+            "network_bandwidth": 0.13907065942333696,
+            "scaling_factor": 0.582611628603614,
+            "latency_sensitivity": 0.9087366857075067
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2776364964573098,
-            "memory_request": 0.6554185247775074,
-            "priority": 0.06295021141651913,
-            "network_bandwidth": 0.24773870296003664,
-            "scaling_factor": 0.14091154216610513,
-            "latency_sensitivity": 0.41429379761127205
+            "cpu_request": 0.0748645370592762,
+            "memory_request": 0.9189887006669734,
+            "priority": 0.7203342407653572,
+            "network_bandwidth": 0.12246600308978894,
+            "scaling_factor": 0.9028460923992372,
+            "latency_sensitivity": 0.3094316782018114
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9968207442491541,
-            "memory_request": 0.8522290450749512,
-            "priority": 0.9544160461608203,
-            "network_bandwidth": 0.7930205429782067,
-            "scaling_factor": 0.7607541174408502,
-            "latency_sensitivity": 0.06298739070326376
+            "cpu_request": 0.6044337401375406,
+            "memory_request": 0.22061281849718328,
+            "priority": 0.725579631383068,
+            "network_bandwidth": 0.020305153525846276,
+            "scaling_factor": 0.3229668467275497,
+            "latency_sensitivity": 0.17826787967260227
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9285519776625148,
-            "memory_request": 0.8576655433173628,
-            "priority": 0.18771088111000012,
-            "network_bandwidth": 0.4761140451349323,
-            "scaling_factor": 0.6977861919273606,
-            "latency_sensitivity": 0.3340473100235596
+            "cpu_request": 0.4888591454888036,
+            "memory_request": 0.962822646760571,
+            "priority": 0.6626852721626489,
+            "network_bandwidth": 0.6792449582140592,
+            "scaling_factor": 0.19808526007508154,
+            "latency_sensitivity": 0.7832549369315371
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5645577243951773,
-            "memory_request": 0.0718677655937554,
-            "priority": 0.701380923265079,
-            "network_bandwidth": 0.10740119167843432,
-            "scaling_factor": 0.6757952691077663,
-            "latency_sensitivity": 0.35944180041413076
+            "cpu_request": 0.9965875546707157,
+            "memory_request": 0.24065806003245427,
+            "priority": 0.39977829130555664,
+            "network_bandwidth": 0.24138285991080732,
+            "scaling_factor": 0.043352209971014966,
+            "latency_sensitivity": 0.5366572518879448
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2973297082285319,
-            "memory_request": 0.879201458749741,
-            "priority": 0.8544293477796591,
-            "network_bandwidth": 0.31390101043616947,
-            "scaling_factor": 0.14620875328179395,
-            "latency_sensitivity": 0.40611215323405214
+            "cpu_request": 0.35693731700563414,
+            "memory_request": 0.43992032800083136,
+            "priority": 0.5081780979374733,
+            "network_bandwidth": 0.03015542120798742,
+            "scaling_factor": 0.8356521364447308,
+            "latency_sensitivity": 0.8434477787781323
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.07942494714152115,
-            "memory_request": 0.8130318238246363,
-            "priority": 0.34839356548500755,
-            "network_bandwidth": 0.9468367281659981,
-            "scaling_factor": 0.5653575707803975,
-            "latency_sensitivity": 0.20658555620953734
+            "cpu_request": 0.48832637873537466,
+            "memory_request": 0.6545568310280134,
+            "priority": 0.5931031110088462,
+            "network_bandwidth": 0.11846254323136574,
+            "scaling_factor": 0.8145326086968592,
+            "latency_sensitivity": 0.47727291545364403
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.49084414812880994,
-            "memory_request": 0.06058856254673517,
-            "priority": 0.6011277184885931,
-            "network_bandwidth": 0.3118024940660864,
-            "scaling_factor": 0.33767184560554786,
-            "latency_sensitivity": 0.37010168342778527
+            "cpu_request": 0.17637828035192504,
+            "memory_request": 0.18849265815693572,
+            "priority": 0.9296947299102907,
+            "network_bandwidth": 0.8043512680481786,
+            "scaling_factor": 0.7675838356504087,
+            "latency_sensitivity": 0.5961925128288109
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.7083636198026494,
-            "memory_request": 0.5244477021347329,
-            "priority": 0.34960016912679137,
-            "network_bandwidth": 0.5964381973897092,
-            "scaling_factor": 0.4656151611756424,
-            "latency_sensitivity": 0.6833141956194783
+            "cpu_request": 0.7487082913936529,
+            "memory_request": 0.30564635355620107,
+            "priority": 0.147093344793626,
+            "network_bandwidth": 0.6870946114861407,
+            "scaling_factor": 0.4241028809101296,
+            "latency_sensitivity": 0.40830985024001454
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8723171496501593,
-            "memory_request": 0.17491322786682972,
-            "priority": 0.12258876069842328,
-            "network_bandwidth": 0.18493122145746954,
-            "scaling_factor": 0.04687593432296078,
-            "latency_sensitivity": 0.2743962045225692
+            "cpu_request": 0.5348282804242744,
+            "memory_request": 0.4305511528761822,
+            "priority": 0.6042034103140468,
+            "network_bandwidth": 0.3623747664579847,
+            "scaling_factor": 0.4979930499006199,
+            "latency_sensitivity": 0.9226799422817414
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.18482762454926216,
-            "memory_request": 0.490214400454981,
-            "priority": 0.015027985667524946,
-            "network_bandwidth": 0.5287854996309229,
-            "scaling_factor": 0.4566384040309299,
-            "latency_sensitivity": 0.5008851091748677
+            "cpu_request": 0.23724064968901015,
+            "memory_request": 0.8946561117550157,
+            "priority": 0.9159762386486479,
+            "network_bandwidth": 0.08799679026562701,
+            "scaling_factor": 1.826640479296593e-05,
+            "latency_sensitivity": 0.4200970090719167
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.05884627340797621,
-            "memory_request": 0.7049631991023566,
-            "priority": 0.21140258358763186,
-            "network_bandwidth": 0.4925232589137406,
-            "scaling_factor": 0.8487423131167157,
-            "latency_sensitivity": 0.3644692435238327
+            "cpu_request": 0.9825846039694301,
+            "memory_request": 0.9665829868080952,
+            "priority": 0.01473672313204133,
+            "network_bandwidth": 0.29277006120723326,
+            "scaling_factor": 0.07074161866762041,
+            "latency_sensitivity": 0.4744912535405724
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9064138200816931,
-            "memory_request": 0.8355803662486023,
-            "priority": 0.7315508641462127,
-            "network_bandwidth": 0.8488817783920263,
-            "scaling_factor": 0.3833506409389208,
-            "latency_sensitivity": 0.4329796543668436
+            "cpu_request": 0.5729180982909639,
+            "memory_request": 0.663240172815308,
+            "priority": 0.6743926283673883,
+            "network_bandwidth": 0.3551695889815355,
+            "scaling_factor": 0.7074540258401371,
+            "latency_sensitivity": 0.17615478308198462
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.2161614227160047,
-            "memory_request": 0.19593310304507883,
-            "priority": 0.7509949451980729,
-            "network_bandwidth": 0.5750543181622078,
-            "scaling_factor": 0.7109897059813113,
-            "latency_sensitivity": 0.3230871255457084
+            "cpu_request": 0.8753987492727877,
+            "memory_request": 0.27905494386104157,
+            "priority": 0.1610974692300794,
+            "network_bandwidth": 0.894006917089322,
+            "scaling_factor": 0.40172234636118764,
+            "latency_sensitivity": 0.5780271984138907
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.04648117190826706,
-            "memory_request": 0.6630430390448264,
-            "priority": 0.3491897584659892,
-            "network_bandwidth": 0.45151514729249165,
-            "scaling_factor": 0.7154370412888379,
-            "latency_sensitivity": 0.6529001324240772
+            "cpu_request": 0.9277989802312753,
+            "memory_request": 0.17101670366611188,
+            "priority": 0.8519417419835166,
+            "network_bandwidth": 0.42320716740173336,
+            "scaling_factor": 0.3764806191656108,
+            "latency_sensitivity": 0.43723069825615213
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.9569481673170765,
-            "memory_request": 0.6085044506339055,
-            "priority": 0.6096073455044202,
-            "network_bandwidth": 0.1842612729035128,
-            "scaling_factor": 0.03467460344664264,
-            "latency_sensitivity": 0.03562413449477231
+            "cpu_request": 0.5875619532009357,
+            "memory_request": 0.946038654375153,
+            "priority": 0.7398168865188636,
+            "network_bandwidth": 0.4379857065497096,
+            "scaling_factor": 0.5467837009445108,
+            "latency_sensitivity": 0.8870190861606156
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.6584711070818984,
-            "memory_request": 0.9045759840375462,
-            "priority": 0.20630186249924953,
-            "network_bandwidth": 0.6289862413200412,
-            "scaling_factor": 0.6720846841845821,
-            "latency_sensitivity": 0.5481415211161093
+            "cpu_request": 0.6203507698024843,
+            "memory_request": 0.13805821862832135,
+            "priority": 0.3587748785589804,
+            "network_bandwidth": 0.30100780575330544,
+            "scaling_factor": 0.06777640117426398,
+            "latency_sensitivity": 0.09809743392031167
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5826742431997021,
-            "memory_request": 0.002567576817900319,
-            "priority": 0.44888826646534064,
-            "network_bandwidth": 0.7135551173677945,
-            "scaling_factor": 0.08284619856014153,
-            "latency_sensitivity": 0.7093772042189157
+            "cpu_request": 0.6910992294389192,
+            "memory_request": 0.18969118730623458,
+            "priority": 0.5053644007737436,
+            "network_bandwidth": 0.8791401675525213,
+            "scaling_factor": 0.0247582572926468,
+            "latency_sensitivity": 0.34105691085083745
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8933238127649653,
-            "memory_request": 0.3261723982125916,
-            "priority": 0.7080736944857271,
-            "network_bandwidth": 0.4321935390275723,
-            "scaling_factor": 0.7986200390692302,
-            "latency_sensitivity": 0.7063415712534533
+            "cpu_request": 0.9865423577344646,
+            "memory_request": 0.9511280054714599,
+            "priority": 0.7803968495366358,
+            "network_bandwidth": 0.05499603554817889,
+            "scaling_factor": 0.12034705422452197,
+            "latency_sensitivity": 0.8413734096582323
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.5214571461154975,
-            "memory_request": 0.31645271990858514,
-            "priority": 0.8505778802945675,
-            "network_bandwidth": 0.5727737710788913,
-            "scaling_factor": 0.05678884198475309,
-            "latency_sensitivity": 0.23335348048077242
+            "cpu_request": 0.9036393470056561,
+            "memory_request": 0.8760636607937552,
+            "priority": 0.6201411159347836,
+            "network_bandwidth": 0.41316902974281844,
+            "scaling_factor": 0.9796276021287645,
+            "latency_sensitivity": 0.7062496801470846
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.22854912583553733,
-            "memory_request": 0.6350752259835718,
-            "priority": 0.9168730865481959,
-            "network_bandwidth": 0.7763044135874391,
-            "scaling_factor": 0.6995409264673069,
-            "latency_sensitivity": 0.9031737286195831
+            "cpu_request": 0.5629875359213473,
+            "memory_request": 0.24255765647737793,
+            "priority": 0.948276100552518,
+            "network_bandwidth": 0.22915208278637067,
+            "scaling_factor": 0.7574828916520446,
+            "latency_sensitivity": 0.741149924503687
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.3489478769042915,
-            "memory_request": 0.15229647107065347,
-            "priority": 0.7199885336547377,
-            "network_bandwidth": 0.8267624201599395,
-            "scaling_factor": 0.592434073946717,
-            "latency_sensitivity": 0.8215721729559765
+            "cpu_request": 0.29381217953295446,
+            "memory_request": 0.06441415348742152,
+            "priority": 0.16511385719552407,
+            "network_bandwidth": 0.7791613631470924,
+            "scaling_factor": 0.7127456771026915,
+            "latency_sensitivity": 0.8219959287286993
         }
     },
     {
         "attributes": {
-            "cpu_request": 0.8030215944309702,
-            "memory_request": 0.8471157519306796,
-            "priority": 0.4168152390473725,
-            "network_bandwidth": 0.7992092738190792,
-            "scaling_factor": 0.48522795117934947,
-            "latency_sensitivity": 0.23158837190883352
+            "cpu_request": 0.06939000024740771,
+            "memory_request": 0.880175100736427,
+            "priority": 0.5280022934136391,
+            "network_bandwidth": 0.3632992662439124,
+            "scaling_factor": 0.09759070816043536,
+            "latency_sensitivity": 0.7483274416656525
         }
     }
 ]
