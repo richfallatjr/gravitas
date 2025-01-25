@@ -1,78 +1,78 @@
 [
     {
-        "id": "Validator_1",
+        "id": "Node_1",
         "threads": 8,
         "preferences": {
-            "transaction_load": 0.9,
-            "node_reliability": 0.8,
-            "latency": 0.2,
-            "hash_power": 0.7,
-            "network_contribution": 0.5,
-            "propagation_efficiency": 0.6
+            "cpu_request": 1.0,
+            "memory_request": 0.0,
+            "priority": 0.0,
+            "network_bandwidth": 0.0,
+            "scaling_factor": 0.0,
+            "latency_sensitivity": 0.0
         },
         "position": [
-            300,
-            150
+            200,
+            200
         ]
     },
     {
-        "id": "Validator_2",
-        "threads": 8,
+        "id": "Node_2",
+        "threads": 6,
         "preferences": {
-            "transaction_load": 0.7,
-            "node_reliability": 1.0,
-            "latency": 0.4,
-            "hash_power": 0.5,
-            "network_contribution": 0.3,
-            "propagation_efficiency": 0.8
+            "cpu_request": 0.0,
+            "memory_request": 1.0,
+            "priority": 0.0,
+            "network_bandwidth": 0.0,
+            "scaling_factor": 0.0,
+            "latency_sensitivity": 0.0
         },
         "position": [
-            500,
-            150
+            600,
+            200
         ]
     },
     {
-        "id": "Validator_3",
-        "threads": 8,
+        "id": "Node_3",
+        "threads": 5,
         "preferences": {
-            "transaction_load": 0.5,
-            "node_reliability": 0.6,
-            "latency": 0.8,
-            "hash_power": 1.0,
-            "network_contribution": 0.4,
-            "propagation_efficiency": 0.3
+            "cpu_request": 0.0,
+            "memory_request": 0.0,
+            "priority": 1.0,
+            "network_bandwidth": 0.0,
+            "scaling_factor": 0.0,
+            "latency_sensitivity": 0.0
         },
         "position": [
-            300,
-            400
+            200,
+            500
         ]
     },
     {
-        "id": "Validator_4",
-        "threads": 8,
+        "id": "Node_4",
+        "threads": 4,
         "preferences": {
-            "transaction_load": 0.6,
-            "node_reliability": 0.7,
-            "latency": 0.9,
-            "hash_power": 0.4,
-            "network_contribution": 1.0,
-            "propagation_efficiency": 0.5
+            "cpu_request": 0.0,
+            "memory_request": 0.0,
+            "priority": 0.0,
+            "network_bandwidth": 1.0,
+            "scaling_factor": 0.0,
+            "latency_sensitivity": 0.0
         },
         "position": [
-            500,
-            400
+            600,
+            500
         ]
     },
     {
-        "id": "Validator_5",
-        "threads": 8,
+        "id": "Node_5",
+        "threads": 5,
         "preferences": {
-            "transaction_load": 0.3,
-            "node_reliability": 0.4,
-            "latency": 0.7,
-            "hash_power": 0.6,
-            "network_contribution": 0.8,
-            "propagation_efficiency": 1.0
+            "cpu_request": 0.0,
+            "memory_request": 0.0,
+            "priority": 0.0,
+            "network_bandwidth": 0.0,
+            "scaling_factor": 1.0,
+            "latency_sensitivity": 0.0
         },
         "position": [
             400,
@@ -80,19 +80,19 @@
         ]
     },
     {
-        "id": "Validator_6",
+        "id": "Node_6",
         "threads": 8,
         "preferences": {
-            "transaction_load": 0.4,
-            "node_reliability": 0.5,
-            "latency": 0.6,
-            "hash_power": 0.3,
-            "network_contribution": 0.7,
-            "propagation_efficiency": 0.9
+            "cpu_request": 0.0,
+            "memory_request": 0.0,
+            "priority": 0.0,
+            "network_bandwidth": 0.0,
+            "scaling_factor": 0.0,
+            "latency_sensitivity": 1.0
         },
         "position": [
             400,
-            450
+            400
         ]
     }
 ]
