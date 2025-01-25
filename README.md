@@ -91,7 +91,7 @@ Gravitas represents a shift from static recommendation paradigms to dynamic, ada
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/gravitas.git
+   git clone https://github.com/richfallatjr/gravitas.git
    cd gravitas
    ```
 
