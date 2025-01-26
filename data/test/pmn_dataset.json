@@ -1,0 +1,77 @@
+[
+    {
+        "id": "Node_1",
+        "threads": 7,
+        "preferences": {
+            "price": 1.0,
+            "rating": 0.0,
+            "popularity": 0.0,
+            "release_date": 0.0,
+            "has_reviews": 0.0
+        },
+        "position": [
+            200,
+            200
+        ]
+    },
+    {
+        "id": "Node_2",
+        "threads": 5,
+        "preferences": {
+            "price": 0.0,
+            "rating": 1.0,
+            "popularity": 0.0,
+            "release_date": 0.0,
+            "has_reviews": 0.0
+        },
+        "position": [
+            600,
+            200
+        ]
+    },
+    {
+        "id": "Node_3",
+        "threads": 6,
+        "preferences": {
+            "price": 0.0,
+            "rating": 0.0,
+            "popularity": 1.0,
+            "release_date": 0.0,
+            "has_reviews": 0.0
+        },
+        "position": [
+            200,
+            500
+        ]
+    },
+    {
+        "id": "Node_4",
+        "threads": 6,
+        "preferences": {
+            "price": 0.0,
+            "rating": 0.0,
+            "popularity": 0.0,
+            "release_date": 1.0,
+            "has_reviews": 0.0
+        },
+        "position": [
+            600,
+            500
+        ]
+    },
+    {
+        "id": "Node_5",
+        "threads": 6,
+        "preferences": {
+            "price": 0.0,
+            "rating": 0.0,
+            "popularity": 0.0,
+            "release_date": 0.0,
+            "has_reviews": 1.0
+        },
+        "position": [
+            400,
+            350
+        ]
+    }
+]

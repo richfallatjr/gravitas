@@ -1,14 +1,13 @@
 [
     {
-        "id": "Node_1",
-        "threads": 4,
+        "id": "Men",
+        "threads": 8,
         "preferences": {
-            "cpu_request": 1.0,
-            "memory_request": 0.0,
-            "priority": 0.0,
-            "network_bandwidth": 0.0,
-            "scaling_factor": 0.0,
-            "latency_sensitivity": 0.0
+            "price": 0.7,
+            "rating": 0.8,
+            "availability": 0.6,
+            "size": 0.4,
+            "color": 0.5
         },
         "position": [
             200,
@@ -16,15 +15,14 @@
         ]
     },
     {
-        "id": "Node_2",
-        "threads": 5,
+        "id": "Women",
+        "threads": 8,
         "preferences": {
-            "cpu_request": 0.0,
-            "memory_request": 1.0,
-            "priority": 0.0,
-            "network_bandwidth": 0.0,
-            "scaling_factor": 0.0,
-            "latency_sensitivity": 0.0
+            "price": 0.8,
+            "rating": 0.9,
+            "availability": 0.7,
+            "size": 0.5,
+            "color": 0.6
         },
         "position": [
             600,
@@ -32,63 +30,14 @@
         ]
     },
     {
-        "id": "Node_3",
+        "id": "Home",
         "threads": 8,
         "preferences": {
-            "cpu_request": 0.0,
-            "memory_request": 0.0,
-            "priority": 1.0,
-            "network_bandwidth": 0.0,
-            "scaling_factor": 0.0,
-            "latency_sensitivity": 0.0
-        },
-        "position": [
-            200,
-            500
-        ]
-    },
-    {
-        "id": "Node_4",
-        "threads": 8,
-        "preferences": {
-            "cpu_request": 0.0,
-            "memory_request": 0.0,
-            "priority": 0.0,
-            "network_bandwidth": 1.0,
-            "scaling_factor": 0.0,
-            "latency_sensitivity": 0.0
-        },
-        "position": [
-            600,
-            500
-        ]
-    },
-    {
-        "id": "Node_5",
-        "threads": 4,
-        "preferences": {
-            "cpu_request": 0.0,
-            "memory_request": 0.0,
-            "priority": 0.0,
-            "network_bandwidth": 0.0,
-            "scaling_factor": 1.0,
-            "latency_sensitivity": 0.0
-        },
-        "position": [
-            400,
-            100
-        ]
-    },
-    {
-        "id": "Node_6",
-        "threads": 7,
-        "preferences": {
-            "cpu_request": 0.0,
-            "memory_request": 0.0,
-            "priority": 0.0,
-            "network_bandwidth": 0.0,
-            "scaling_factor": 0.0,
-            "latency_sensitivity": 1.0
+            "price": 0.6,
+            "rating": 0.7,
+            "availability": 0.8,
+            "size": 0.9,
+            "color": 0.7
         },
         "position": [
             400,
